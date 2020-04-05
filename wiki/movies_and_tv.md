@@ -10,6 +10,8 @@
 
 *Make sure your adblocker is on*. uBlock Origin is recommended - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
+***[For hard-to-find content, you might want to give these torrent search engines a shot. They will list all DHT-tracked torrents. Read the warning.](https://www.reddit.com/r/Piracy/wiki/general_sites_and_search_engines)***
+
 ### ► **Torrents**
 
  * [RARBG.to](https://rarbg.to/) - One of the most organized public trackers, gets new content very quickly. Can search by IMDB tags (eg. `tt0258038`, appearing in IDMB URLs)
@@ -22,9 +24,10 @@
  * **[Movies]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
  * [psarips.com](http://psarips.com/) - Small-sized x265 (re-)encodes
 
- ***[For hard-to-find content, you might want to give these torrent search engines a shot. They will list all DHT-tracked torrents.](https://www.reddit.com/r/Piracy/wiki/general_sites_and_search_engines)***
-
 &nbsp;
+
+
+
 
 ### ► **Streaming**
 
@@ -49,6 +52,10 @@
  * *iOS apps:*
   * [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming app
 
+&nbsp;
+
+
+
 
 ### ► DDL:
 
@@ -65,8 +72,12 @@
  * [rmz.cr](http://rmz.cr/)
  * [**Movies**] [moviefiles.org](https://moviefiles.org/) - Latest movies hosted on google drive
  * [**Movies**] [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
- * [**Premium hosts**] [hdencode.com](https://hdencode.com/) - Content downloadable only through premium links/hosts. See how to deal with premium links at the [bottom of this page.](https://www.reddit.com/r/Piracy/wiki/megathread##wiki_.25BA_premium_links_from_file_hosts)
+ * [**Premium hosts**] [hdencode.com](https://hdencode.com/) - Content downloadable only through premium links/hosts. See how to deal with premium links at the [bottom of the megathread.](https://www.reddit.com/r/Piracy/wiki/megathread)
  * [**Premium hosts**] [scene-rls.net](http://scene-rls.net/)
+
+&nbsp;
+
+
 
 
 ### ► **Anime (Streaming)**
@@ -95,6 +106,9 @@
 
  * [**/r/AnimePiracy's exhaustive wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/B100)
 
+&nbsp;
+
+
 
 ### ► **Private torrent trackers**
 
@@ -110,7 +124,8 @@
 
 &nbsp;
 
----
+
+
 
 ### ► SPORTS
 
@@ -119,4 +134,6 @@
  * [nflbite.com](https://home.nflbite.com/) - Football
  * [sportsurge.net](https://sportsurge.net/) - Live streams. MMA, boxing, basketball, football
  * /r/rugbystreams - Links posted within the hour before the match
- * [bilasport.net](http://bilasport.net/index.html) - Live streams. Basketball, hockey, football, baseball, soccer, MMA.
+ * [bilasport.net](http://bilasport.net/index.html) - Live streams. Basketball, hockey, football, baseball, soccer, MMA.
+
+&nbsp;
