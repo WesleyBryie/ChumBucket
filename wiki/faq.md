@@ -17,7 +17,7 @@
  > I want to disable updates just in case, how do I do this? **Don't do this. You need security updates.**
 
 * I have Win 10 Home. How do I upgrade to the Pro version?
- > Simply use [hwidgen](/r/piracy/wiki/tools)'s `license switch` function: https://i.imgur.com/lmjLOtq.jpg
+ > Simply use [hwidgen](https://reddit.com/r/piracy/wiki/tools)'s `license switch` function: https://i.imgur.com/lmjLOtq.jpg
 
 * [What is a private tracker and how do I get started? Benefits of private trackers, etc.](https://www.reddit.com/r/Piracy/wiki/private_trackers)
 
@@ -75,7 +75,7 @@
  > You may also try out Video Download Helper extensions for your browser.
 
 * How do I download from spotify?
- > You can't. There aren't any tools that can download the unencrypted spotify streams. The best method is to convert your Spotify playlist to a Deezer playlist, then download that via [Deezloader](/r/DeezloadersIsBack). More sites/tools for music available in the [megathread](/r/Piracy/wiki/megathread).
+ > You can't. There aren't any tools that can download the unencrypted spotify streams. The best method is to convert your Spotify playlist to a Deezer playlist, then download that via [Deezloader](/r/DeezloadersIsBack). More sites/tools for music available in the [megathread](https://reddit.com/r/Piracy/wiki/megathread).
 
 * How the heck do I use or install Youtube-DL?
  > [Guide](https://jcutrer.com/howto/how-to-install-youtube-dl-the-easy-way) on how to install it.
