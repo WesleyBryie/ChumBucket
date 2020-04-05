@@ -43,6 +43,20 @@ As a precursor, read our entry regarding copyright infringement complaints: ["Wi
 
 &nbsp;
 
+
+
+### ► **Security**
+
+Windows defender should be more than enough for virus protection, combined with [malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. 
+
+ * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
+ * [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
+
+&nbsp;
+
+
+
+
 ### ► **Adblockers & useful extensions**
 
 * [uBlock origin](https://github.com/gorhill/uBlock##installation) - for blocking most ads and pop-ups.

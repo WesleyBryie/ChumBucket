@@ -15,13 +15,14 @@
  * [RARBG.to](https://rarbg.to/) - One of the most organized public trackers, gets new content very quickly. Can search by IMDB tags (eg. `tt0258038`, appearing in IDMB URLs)
  * [TorrentGalaxy.to](https://torrentgalaxy.to/) - Another highly recommended site for movies & TV.
  * [ettv.to](https://www.ettv.to/home/)
+ * **[TV]** [eztv.io](https://eztv.io/)
  * [Zooqle.com](https://zooqle.com/) - Easy to use torrent site
  * [1337x.to](https://1337x.to/) - Useful for older movies/shows that may not be available in the previous 2 sites. Cams are typically uploaded here as well.
  * [rutracker.org](https://rutracker.org/) [.org, .net, .nl] - The best general tracker from Russia and arguably the best one overall. It's great for niche movies, especially from Russia and other east European countries.
- * [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
+ * **[Movies]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
  * [psarips.com](http://psarips.com/) - Small-sized x265 (re-)encodes
 
- ***[For hard-to-find content, you might want to give these torrent search engines a shot. They will list all DHT-tracked torrents.](https://www.reddit.com/r/Piracy/wiki/megathread##wiki_.25BA_dht_crawlers)***
+ ***[For hard-to-find content, you might want to give these torrent search engines a shot. They will list all DHT-tracked torrents.](https://www.reddit.com/r/Piracy/wiki/general_sites_and_search_engines)***
 
 &nbsp;
 
