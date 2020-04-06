@@ -7,9 +7,12 @@
 
 # PORN
 
-### ► **Public trackers**:
+### ► **Public sites**:
 
- * [rarbg.to](https://rarbg.to/) - Arguably the best public tracker for porn, mainly scene releases. A lot of single seeder torrents with low speeds but you'll be able to download eventually. 
+ * /r/JavDownloadCenter - Mega links
+ * [Reddit thread](https://www.reddit.com/r/Piracy/comments/fc126u/new_porn_streaming_websites/)
+ * **[DDL]** [0xxx.ws](https://0xxx.ws/)
+ * **[Torrents]** [rarbg.to](https://rarbg.to/) - Arguably the best public tracker for porn, mainly scene releases. A lot of single seeder torrents with low speeds but you'll be able to download eventually. 
 
 ### ► **Private trackers**:
 

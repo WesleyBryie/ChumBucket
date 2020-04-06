@@ -27,10 +27,6 @@ For PC games piracy news (crack releases, DRM news etc), visit /r/crackwatch
  * [gamestorrents.io](https://www.gamestorrents.io/)
  * [rutor.info](http://rutor.info/games) - Game repack site
  * [rarbg.to](http://rarbg.to/) - Yes, they offer game torrents too.
- 
-### ►  **Private trackers**
-
- * [Gazellegames.net (GGn)](https://gazellegames.net) - Best source for games of basically any console. Can be joined through RED
 
 ### ►  **ROMs**
  * /r/Roms - Roms
@@ -41,5 +37,21 @@ For PC games piracy news (crack releases, DRM news etc), visit /r/crackwatch
  * [Vimm's Lair](https://vimm.net/?p=vault) large collection of ROMs
  * [DarkUmbra](https://darkumbra.net)
  * [CDRomance](https://cdromance.com) - formally NicoBlog
+
+&nbsp;
+
+
+
+
+### ►  **Private trackers**
+
+[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers)
+
+ * [Gazellegames.net (GGn)](https://gazellegames.net) - Best source for games for enthusiasts. Carries games from basically any console. Can be joined through RED
+ * [PixelCode](https://www.pixelcove.me/) - Another pretty great source of games for the enthusiast crowd.
+ * [TorrentLeech](https://www.torrentleech.org/) - One of the largest general private trackers
+ * [alpharatio.cc](https://alpharatio.cc/) (Private tracker) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
+ * [Filelist](https://filelist.ro/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
+ * [IPTorrents](http://iptorrents.com/) - The largest general private tracker
 
 &nbsp;

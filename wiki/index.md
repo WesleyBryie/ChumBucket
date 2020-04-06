@@ -58,13 +58,18 @@ Subreddits that may be better suited than /r/Piracy:
 
 * /r/Addons4Kodi 
 
+* /r/DataHoarder 
+
+* /r/opendirectories 
+
 * /r/FREEMEDIAHECKYEAH 
 
 * /r/ApksApps
 
 * /r/animepiracy 
 
-* /r/DataHoarder 
+* [/u/nbatman's multi-directory of streaming subreddits](https://www.reddit.com/user/nbatman/m/streaming/)
+
 
 ---
 

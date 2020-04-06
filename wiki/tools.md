@@ -46,17 +46,33 @@ Bitlord torrent client is malware.
 
 
 
-##► Download Tools & Helpers
+
+
+##► Media Managers / Clients
+
+* [Stremio](https://www.stremio.com/) - Multi video library manager. Plugins available to stream from various media sources, including torrents. Also check out /r/StremioAddons. Watch-together [guide](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/).
+* [Plex Media Server](https://www.plex.tv/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like client.
+* [Jellyfin Media Server](https://jellyfin.org/) - **Open-source** self-hosted netflix. Provide your own content and serve them in a netflix-like client.
+* [Emby Media Server](https://emby.media/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like client.
+* [Kodi](https://kodi.tv/) - Home theater media center. Host your own content or add content sources (/r/Addons4Kodi)
+
+&nbsp;
+
+
+
+
+##► Download Managers & helpers
 
 * [**Sonarr**](https://sonarr.tv/) - Sonarr is an automatic TV show downloading tool where you can add new shows to monitor, and it will automatically download any new episodes as soon as they are available to download on torrent sites.
 * [**Radarr**](https://radarr.video/) - Radarr is an automatic movie downloading tool where you can add movies to monitor, and it will automatically download them as soon as they are available to download on torrent sites.
 * [**Medusa**](https://pymedusa.com/) - Very good alternative to Sonarr. An automatic TV show download tool.
+* [**SickChill**](https://sickchill.github.io/) - Very good alternative to Sonarr. An automatic TV show download tool.
 * [**Jackett**](https://github.com/Jackett/Jackett) - Jackett is an all-in-one indexer. It allows you to add many different torrent trackers onto their app, in which you can do all your searching. In conjunction with sonarr/radarr, you can add jackett as an indexer to the aforementioned applications, so they will search on any or every single torrent tracker that you have added to jackett.
 * [**Youtube-dl**](https://ytdl-org.github.io/youtube-dl/index.html) - Open-source commandline tool to download video/audio from a large variety of websites. See the [FAQ](https://reddit.com/r/piracy/wiki/faq) for how to install and use properly.
  * [**Youtube-dl gui**](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, if you're not comfortable with the command line.
 * [**JDownloader2**](http://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
 * [**Internet Download Manager \(IDM\)**](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this.](https://github.com/J2TEAM/idm-trial-reset)
-* [**O2016RTool**](https://drive.google.com/file/d/1sHh3KSxRmcAi2LUMSUr0P-RVULi2P-Jh/view) - small script that permits you to download, install, convert and KMS-activate Office while leaving your Windows activation untouched. 
+* [**pyLoad**](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
 
 &nbsp;
 
@@ -64,11 +80,70 @@ Bitlord torrent client is malware.
 
 ##► Single-purpose download tools
 
-* [**Python script to bypass the download limit of google drive files**](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/)
 * [**bandcamp-dl**](https://github.com/iheanyi/bandcamp-dl) - Download music from Bandcamp
 * [**Megabasterd**](https://github.com/tonikelope/megabasterd) - Bypass Mega's 5 GiB per 6 hours download limit.
 * [**Skillshare-dl**](https://github.com/mrwnwttk/skillshare-dl) - Download from skillshare. [Original thread.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
 * [**Soundcloud downloader**](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Firefox extension. Original thread [here](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). By /u/ImTwain.
+* [**get_iplayer**](https://github.com/get-iplayer/get_iplayer) - To download video from BBC's iPlayer
+* [**Batch download script for Google Drive**](https://github.com/shkcodes/google-drive-downloader) - Original [reddit thread](https://www.reddit.com/r/Piracy/comments/fpe6ji/batch_download_script_for_google_drive/)
+* [**Python script to bypass the download limit of google drive files**](https://github.com/jonathanTIE/googledrive-copy-downloader) - Original [reddit thread](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/)
+
+&nbsp;
+
+
+
+
+
+##► Android Apps
+
+* [**Newpipe**](https://newpipe.schabi.org/) - Watch and download youtube videos. Also offers ability to download from soundcloud.
+* [**YMusic**](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - Youtube Music player and downloader
+* [**Tachiyomi**](https://github.com/inorichi/tachiyomi) - Manga reader
+* [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
+* [**Fildo**](https://fildo.net/android/en/#) - Music streaming app and downloader
+* Streaming apps for Movies & TV listed under the [Movies & TV](https://www.reddit.com/r/Piracy/wiki/movies_and_tv) section of the megathread
+
+&nbsp;
+
+
+
+
+##► File sharing
+
+* [SyncThing](https://syncthing.net/) - Share files/folders between computers. Set up shared folders which will be automatically synced between devices. 
+* [file.pizza](https://file.pizza/) - Secure peer-to-peer file transfers. Useful for quick one-off file transfers. [Github page.](https://github.com/kern/filepizza)
+* [xkcd949.com](http://xkcd949.com/) - Same concept as file.pizza
+* [ShareDrop](https://www.sharedrop.io/) - Same concept as file.pizza, but for sharing between computers on the same internal network.
+ * [send.firefox.com](https://send.firefox.com/) - Send files (up to 1 GiB) via self-destructing links. You can choose the parameters for when the link expires.
+
+&nbsp;
+
+
+
+
+##► Other tools
+
+* [**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
+* [**EZBlocker**](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - lightweight executable that blocks and mutes Spotify ads on Windows.
+* [**Bypass-Paywalls-Chrome**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Chrome extension to block paywalls
+* [**Bypass paywalls - Method 2**](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Change user agent to Google Bot.
+* [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Bypass newspaper site paywalls. Requires tampermoney/greasemonkey to install.
+* [**Universal-Bypass**](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
+* **[Paid]** [**Filebot**](https://www.filebot.net/) - Media renaming program (license runs at $6/year). Renames to a proper user-set naming scheme from typical naming conventions found on torrents (ie. Movie.Name.2005.1080p.BluRay.DD5.x264). [Sea-faring version.](https://github.com/barry-allen07/FB-Mod/releases)
+* [**AdvancedRenamer**](https://www.advancedrenamer.com/) - Same aspect as filebot, but free.
+
+&nbsp;
+
+
+
+##► Download Services
+
+* [**seedr.cc**](https://www.seedr.cc/) - Free seedbox that allows you to download torrents up to 2 GiB in size.
+* **[Paid]** [**real-debrid.com**](https://real-debrid.com/) - Online leeching service that will download from torrents and premium hosts, such as rapidgator, uploaded, etc. for you to later download directly from their servers. In regards to torrenting, it's a good way to prevent your IP from ever hitting the torrent's swarm, which is the main cause of receiving copyright infringement letters.
+* **[Paid]** [alldebrid.com](https://alldebrid.com/) - Same concept as real-debrid
+* **[Paid]** [premiumize.me](https://www.premiumize.me/) - Same concept as real-debrid + downloads from usenet as well
+* **[Paid / free trial]** [offcloud.com](https://offcloud.com/) - Same concept as real-debrid + downloads from usenet as well
+* [Free Premium Leechers List](https://filehostlist.miraheze.org) - Free link generators for premium file hosts. Maintained by u/H1dd3nM1nd
 
 &nbsp;
 
@@ -86,21 +161,5 @@ Bitlord torrent client is malware.
 
 * [**Direct download**] [Adobe.com CC applications](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html) - requires Adobe login.
 * [**Direct download**] [Adobe CC 2018 multilanguage installers](http://prodesigntools.com/adobe-cc-2018-direct-download-links.html)
-
-&nbsp;
-
-
-
-##► Other tools
-
-* [**BlockTheSpot**](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
-* [**EZBlocker**](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - lightweight executable that blocks and mutes Spotify ads on Windows.
-* [**Bypass-Paywalls-Chrome**](https://github.com/iamadamdev/bypass-paywalls-chrome) - Chrome extension to block paywalls
-* [**Bypass paywalls - Method 2**](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Change user agent to Google Bot.
-* [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Bypass newspaper site paywalls. Requires tampermoney/greasemonkey to install.
-* [**Universal-Bypass**](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
-* **[Paid]** [**Filebot**](https://www.filebot.net/) - Media renaming program (license runs at $6/year). Renames to a proper user-set naming scheme from typical naming conventions found on torrents (ie. Movie.Name.2005.1080p.BluRay.DD5.x264). [Sea-faring version.](https://github.com/barry-allen07/FB-Mod/releases)
-* [**AdvancedRenamer**](https://www.advancedrenamer.com/) - Same aspect as filebot, but free.
-
 
 &nbsp;

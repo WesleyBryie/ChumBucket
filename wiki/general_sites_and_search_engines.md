@@ -12,7 +12,7 @@ General-purpose indexers to search for any type of content.
 
 ### ► **General indexers**
 
- * [1337x.to](https://1337x.to/) - General purpose indexer. Good for cams.
+ * [1337x.to](https://1337x.to/) - General purpose indexer.
  * [limetorrents.cc](https://www.limetorrents.cc/)
  * [nnm-club.me](https://nnm-club.me/) - Russian tracker and forum.
  * [RARBG.to](https://rarbg.to/torrents.php) - Popular movies & TV tracker, though it offers other categories too. One of the most organized public tracker. Can search by IMDB tags (eg. tt0258038, appearing in IDMB URLs)
@@ -20,7 +20,10 @@ General-purpose indexers to search for any type of content.
  * [rutracker.org](https://rutracker.org/forum/index.php) [.org, .net, .nl] - Russian tracker. Especially great for software and music. Well-seeded.
  * [toorgle.net](http://www.toorgle.com/)
  * [zooqle.com](https://zooqle.com/) - Easy to use movie & TV indexer
- * [alpharatio.cc](https://alpharatio.cc/) (Private tracker) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
+ * **[DDL]** [the-eye.eu](https://the-eye.eu/) - Large collection of content
+ * **[DDL]** /r/opendirectories - Subreddit for sharing open directories
+ * [/r/opendirectories's Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) - Reddit thread
+
 
 &nbsp;
 
@@ -40,5 +43,18 @@ DHT torrent search engine. Great for searching for all publicly available torren
  * [snowfl.com](https://snowfl.com/) - Not a DHT crawler so it won't be as thorough, but it indexes many public trackers.
 
 For a more extensive list, see [this post](https://www.reddit.com/r/torrents/comments/5ok0yd/torrent_sites/) over at /r/torrents
+
+&nbsp;
+
+
+
+### ► **General Private Trackers**
+
+[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers)
+
+ * [TorrentLeech](https://www.torrentleech.org/) - One of the largest general private trackers
+ * [alpharatio.cc](https://alpharatio.cc/) (Private tracker) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
+ * [Filelist](https://filelist.ro/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
+ * [IPTorrents](http://iptorrents.com/) - The largest general private tracker
 
 &nbsp;

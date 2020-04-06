@@ -9,7 +9,7 @@
 
 The old, full-view version of the megathread has moved to [this page](https://www.reddit.com/r/Piracy/wiki/full_view_megathread) for those who are more comfortable with it, but is now deprecated. Only this page will receive updates.
 
-Alternative megathread here: https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md
+Alternative megathread here: https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md. Reddit thread of original [announcement](https://old.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/).
 
 &nbsp;
 
@@ -51,7 +51,7 @@ If you have any critique or suggestions you would like to see added to the Megat
 ### [► Software Downloads](https://reddit.com/r/Piracy/wiki/software_downloads)
  > Sites for obtaining popular software
 
-### [► Books / e-learning / Other Reading Material](https://reddit.com/r/Piracy/wiki/reading_material_and_elearning)
+### [► Books / Comics / e-learning / Other Reading Material](https://reddit.com/r/Piracy/wiki/reading_material_and_elearning)
  > Books, comics, manga, magazines, courses & tutorials
 
 ### [► Games](https://reddit.com/r/Piracy/wiki/games)

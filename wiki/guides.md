@@ -1,6 +1,6 @@
 ---
 ---
-[<- Back to Wiki Index](https://www.reddit.com/r/Piracy/wiki/index)
+[◄◄ Back to Wiki Index](https://www.reddit.com/r/Piracy/wiki/index)
 
 ---
 ---

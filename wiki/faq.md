@@ -1,6 +1,6 @@
 ---
 ---
-[<- Back to Wiki Index](https://www.reddit.com/r/Piracy/wiki/index)
+[◄◄ Back to Wiki Index](https://www.reddit.com/r/Piracy/wiki/index)
 
 ---
 ---
@@ -68,9 +68,9 @@
 * How do I download audio/video from streaming websites like youtube? (Does not work with Premium Youtube Videos, as these are protected by Widevine DRM. No public tools available to decrypt the streams.)
  > With [Youtube-DL](https://ytdl-org.github.io/youtube-dl/index.html) (open-source command-line tool). Alternatively, you can use [Youtube-DLG.](https://mrs0m30n3.github.io/youtube-dl-gui/), which is a GUI for Youtube-DL
  >
- > [JDownloader2](http://jdownloader.org/jdownloader2) also works well.
+ > [JDownloader2](http://jdownloader.org/jdownloader2) also works well. Also allows you to add your login credentials in order to access premium-only content that your account has access to.
  >
- > [Internet Download Manager](https://www.internetdownloadmanager.com/download.html) will do the job as well, though it is a premium application. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this.](https://github.com/J2TEAM/idm-trial-reset)
+ > [Internet Download Manager](https://www.internetdownloadmanager.com/download.html) will do the job as well, though it is a premium application. Also allows you to add your login credentials in order to access premium-only content that your account has access to. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this.](https://github.com/J2TEAM/idm-trial-reset)
  >
  > You may also try out Video Download Helper extensions for your browser.
 
@@ -83,7 +83,9 @@
  > [List of commands](https://www.ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/) available with Youtube-DL.
  >
  > [Example of use](https://streamable.com/p6152): type `cmd` into the navigation bar of windows explorer to open a terminal.
- > If you have a video that needs a login to access, youtube-dl supports adding your credentials and uses your login to grab the video stream. Example usage: `youtube-dl -u username -p password "video_url"`
+ > If you have a video that needs a login to access, youtube-dl supports adding your credentials and uses your login to grab the video stream. Example usage: `youtube-dl -u "myusername" -p "mypassword" "myvideoURL"`
+ >
+ > If using the `-u` and `-p` flags won't work for you, you can always input your cookies, which will contain your login session, for youtube-dl to use to download the content. Download the browser extension "cookies.txt", which will download your cookies (firefox link [here](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/), chrome link [here](https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg)). Then use the `--cookies` flag to pass in the downloaded cookies file to youtube-dl. Usage: `youtube-dl --cookies "/path/to/cookies" "myvideoURL"`
 
 * How Do I download from streaming sites such as Netflix, Hulu, Disney+, etc?
 
