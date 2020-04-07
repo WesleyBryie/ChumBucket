@@ -8,7 +8,7 @@
 # MOVIES AND TV
 
 
-*Make sure your adblocker is on*. uBlock Origin is recommended - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+*Make sure your adblocker is on*. uBlock Origin is recommended. See the wiki page: [Privacy and Security](https://www.reddit.com/r/Piracy/wiki/privacy_and_security)
 
 ***[For hard-to-find content, you might want to give these torrent search engines a shot. They will list all DHT-tracked torrents. Read the warning.](https://www.reddit.com/r/Piracy/wiki/general_sites_and_search_engines)***
 
@@ -142,9 +142,9 @@
 
 ### ► **Private torrent trackers**
 
-  [Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers)
+[Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers)
 
-* **[Movies]** [PassThePopcorn (PTP)](https://passthepopcorn.me/) - A private tracker; best source for movies, period. Can be joined by becoming Elite on RED. Though this requires a fair amount of patience as the age of account on RED needs to be at least 1 year. Refer to [the FAQ](https://www.reddit.com/r/piracy/wiki/faq) for more info.
+* **[Movies]** [PassThePopcorn (PTP)](https://passthepopcorn.me/) - A private tracker; best source for movies, period. Can be joined by becoming Elite on RED. Though this requires a fair amount of patience as the age of account on RED needs to be at least 1 year.
 * **[Movies/TV]** [HD-Torrents (HDT)](https://hdts.ru/) - This private tracker is great for HD movies though not as good as PTP. Specialty lies in allowing of multiple untouched material of the same movie, which helps in getting those foreign languages, different audio/video quality, or even different content in audio/videos. Slightly superior to PTP in this regard. Can be joined through RED or you can just pay for an account through their website. (Note - Only buy the account from their own website, not a 3rd party)
 * **[TV]** [TV Chaos UK](https://tvchaosuk.com) - Great site for UK TV content. Best joined through requesting on /r/invites (proof of ratio from other sites required). Quality lacks a bit so use it with a TV tracker like BTN to get the most of UK content
 * **[TV]** [Broadcast the Net (BTN)](http://broadcasthe.net/) - A private tracker; best source for TV related content, period. Currently this tracker is not recruiting anywhere but it is recommended to join PTP where BTN will recruit again in the future  

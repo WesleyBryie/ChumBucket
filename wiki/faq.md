@@ -11,6 +11,9 @@
 
 * [Will I get in trouble for downloading `x` or browsing a pirate site? How to avoid getting in trouble -- All about copyright infringement complaints and what to do if you've received one.](https://www.reddit.com/r/Piracy/wiki/isp_complaints)
 
+* Preliminary measures to take to avoid running malware-infected files (in regards to non-software)
+ > [Browsing and downloading guide](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)
+
 * [How do I download and activate windows 10 (including LTSC/LTSB)? How do I upgrade to windows 10 from a prior pirated windows version?](https://www.reddit.com/r/Piracy/wiki/win10upgrade_activation)
  > Can I receive updates on my now-activated windows 10 PC as normal? **Yes**. Will it break the activation? **No**.
  >

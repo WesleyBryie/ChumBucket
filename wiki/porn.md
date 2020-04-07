@@ -16,6 +16,8 @@
 
 ### ► **Private trackers**:
 
+[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers)
+
  * **[Semi-Private]** [pornolab.net (PL)](https://pornolab.net/) - An always open private tracker and the best out there if going by the sheer amount of porn available here, from studio professional to amateur stuff. 
 
  * [empornium.me (EMP)](https://empornium.me/) - Has much lower content overall compoared to PL but the biggest strengths are the request section and the amount of amateur content - both better than PL. Also has other pornographic content like magazines, games, books, comics etc. Can be joined by becoming power user on RED.

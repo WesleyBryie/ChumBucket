@@ -22,7 +22,7 @@ If the ebook you are searching is available for kindle, you may also [*borrow*](
 * [booksc.org](https://booksc.org) - contains scientific articles.
 * [freebookspot.es](http://www.freebookspot.es/)
 * [ebookee.org](https://ebookee.org/)
-* **[Audiobooks]** [audiobookbay.nl](http://audiobookbay.nl/) - #1 public tracker for audiobooks. Shares a lot of content with MAM. When viewing the page for a particular audiobook, copy the torrent info hash to paste into your torrent client: magnet:?xt=urn:btih:`infohash`
+* **[Audiobooks]** [audiobookbay.nl](http://audiobookbay.nl/) - #1 public tracker for audiobooks. Shares a lot of content with MAM. When viewing the page for a particular audiobook, copy the torrent info hash to paste into your torrent client using the following format: magnet:?xt=urn:btih:`infohash`
 * **[Audiobooks]** [audiobooks.cloud](https://audiobooks.cloud/) - DDL audiobook site
 * [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - several links to free eBook resources.
 * [Avaxhome](https://avxhm.se/) - E-learning material. Pair together [with this](https://www.reddit.com/r/Piracy/comments/d0rfpe/download_ebooks_on_avaxhome_for_free/) to download.

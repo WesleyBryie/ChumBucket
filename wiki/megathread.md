@@ -42,8 +42,8 @@ If you have any critique or suggestions you would like to see added to the Megat
 ### [► Privacy and Security](https://reddit.com/r/Piracy/wiki/privacy_and_security)
  > VPNs, adblockers, and useful browser extensions
 
-### [► Tools](https://reddit.com/r/Piracy/wiki/tools)
- > Activation tools, torrent clients, download helpers/tools and other miscellaneous
+### [► Apps / Tools](https://reddit.com/r/Piracy/wiki/tools)
+ > Activation tools, mobile apps, torrent clients, download helpers/tools and other miscellaneous
 
 ### [► Movies & TV](https://reddit.com/r/Piracy/wiki/movies_and_tv)
  > Sites for streaming and downloading/torrenting Movies & TV and Sports
@@ -59,9 +59,6 @@ If you have any critique or suggestions you would like to see added to the Megat
 
 ### [► Music](https://reddit.com/r/Piracy/wiki/music)
  > Sites & apps for downloading music, video game soundtracks/scores
-
-### [► Mobile Apps](https://reddit.com/r/Piracy/wiki/mobile_apps)
- > Cracked app markets, piracy apps for streaming Movies & TV, music
 
 ### [► Porn](https://reddit.com/r/Piracy/wiki/porn)
  > Pirate porn sites
@@ -94,7 +91,7 @@ These are sites that track Scene releases. They serve strictly as notice boards 
  * [predb.me](https://predb.me/) - Tracer for **Scene** releases
  * [predb.ovh](https://predb.ovh/) - Tracer for **Scene** releases. Very useful search operators to filter results. Release group: `@team group_name` to find out if a certain group is Scene or not; category: `@cat games`, `@cat tv`, `@cat tv-HD`, `@cat tv-HD-x264`
  * [pre.c-burns.co.uk/pre.php](http://pre.c-burns.co.uk/pre.php) - Tracer for **Scene** releases
- * **[P2P]** [pre.c-burns.co.uk/pre.php](http://pre.c-burns.co.uk/pre.php) - Tracer for **P2P** releases
+ * **[P2P]** [pre.c-burns.co.uk/p2ptrace.php](http://pre.c-burns.co.uk/p2ptrace.php) - Tracer for **P2P** releases
 
 #### **Microsoft stuff**:
 
