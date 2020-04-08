@@ -7,20 +7,19 @@ import time
 from fuzzywuzzy import fuzz
 
 JSON_LOG_PATH = './log.json'
-LOG_LIST = []
 
-CREDENTIALS_PATH = './PiracyBot_AccountCredentials.json'
+CREDENTIALS_PATH = './AccountCredentials.json'
 USERS_JSON_PATH = 'Users.json'
 SUBREDDIT_NAME = 'Piracy'
 BOT_USERNAME = 'PiracyBot'
 
 POSSIBLE_RULE3_RE = [r'trying to \w+ a ((tv )?show|movie|series)', r'can \w+ help me (find|torrent|stream)', r'looking for a ((tv )?show|movie|series)', r'where (i can|can i|to) (download|get|stream|watch|torrent|find)', r'anyone know (of )?a \w* ?(to )?(place|link|torrent)', r'best \w+ to (download|get|stream|watch|torrent)', r'free ([^\.,?!\n]+ ){1, 6} site', r'any good (link|place|\w*site)', r'\b(download|get|stream|watch|torrent|find)\b[^\.,?!\n]+(show|movie|series)[^\.,?!]+\?\n', r'free download(?! manager)', r'safe link', r'looking for [^\.,?!\n]+(book|movie|show|link|site|place|download|free)', r'(any|where|site|link)[\w ]+book[\w ]+free\?', r'\bwhere (do|can)[^\.,?!\n]{2,15}(get[^\n\.,?!]+\?|find)', r'where (can i|do i|to) [^\.,?!\n]+free', r'^looking for', r'\ba [pd]m\br']
-HOURS_DATETIME_RE = r'(\d+)(:.+)\.'
 
 # Post will not be approved by bot if OP does not answer within 12 hours.
 MAX_TIME_ALLOWANCE = 3600 * 10
 # how frequent to save to Users.json
 SAVE_FREQUENCY = 60 * 5
+SPAM_FILTER_CHECK_FREQUENCY = 60 * 10
 
 RULES_URL = 'https://www.reddit.com/r/Piracy/wiki/piracy_rules'
 WELCOME_MESSAGE_SUBJECT_TITLE = 'Message from /r/Piracy'
@@ -45,11 +44,11 @@ REMOVAL_MESSAGE_SECOND_HALF = f''') I am a bot. Since you are new to the subredd
 
 ---
 
-**Please read** [**the rules.**](https://www.reddit.com/r/Piracy/wiki/piracy_rules)
+**Please read [the rules](https://www.reddit.com/r/Piracy/wiki/piracy_rules), especially rule 3: Do not request for or link to specific pirated titles (ie. specific movie, book, etc). We're not your personal search party.**
 
-**(Also see our Wiki)[/r/Piracy/wiki/index]**, which contains a list of sites, tools, FAQ, and other useful resources.
+[Also see our Wiki](/r/Piracy/wiki/index), which contains a Megathread with a list of sites, tools, FAQ, and other useful resources.
 
-Your question also may have been asked previously - you can search the subreddit via google - example: https://i.imgur.com/1jA767u.jpg
+**Your question also may have been asked previously - you can search the subreddit via google - example: https://i.imgur.com/1jA767u.jpg**
 
 ---
 
@@ -81,31 +80,36 @@ def main():
     reddit = praw.Reddit(client_id=CLIENT_ID, client_secret=CLIENT_SECRET, username=USERNAME, password=PASSWORD, user_agent=USER_AGENT)
 
     Users = getUsers()
+
     startTime = time.time()
     timeLastSavedUsers = startTime
-    print(f'Started at {getProperDatetime(datetime.datetime.now().time())}')
+    now = datetime.datetime.now().strftime('%Y-%m-%d at %H:%M:%S')
+    print(f'Started at {now}')
 
-    monitorStream(startTime, timeLastSavedUsers, Users, reddit)
+    monitorStream(timeLastSavedUsers, Users, startTime, reddit)
     
 
-def monitorStream(startTime, timeLastSavedUsers, Users, reddit):
+def monitorStream(timeLastSavedUsers, Users, startTime, reddit):
     subreddit = reddit.subreddit(SUBREDDIT_NAME)
-    submission_stream = subreddit.stream.submissions(pause_after=-1)
-    comment_stream = subreddit.stream.comments(pause_after=-1)
+    submission_stream = subreddit.stream.submissions(pause_after=-1, skip_existing=True)
+    comment_stream = subreddit.stream.comments(pause_after=-1, skip_existing=True)
     inbox_stream = reddit.inbox.stream(pause_after=-1)
+
+    timeLastCheckedSpamQueue = time.time()
 
     try:
         while True:
             for submission in submission_stream:
                 if submission is None or submission.author is None:
                     break
-                if isUserNew(submission.author.name, Users):
-                    processSubmission(startTime, reddit, submission)
+                # if submission is not removed by any mods or submission is removed by reddit filters (banned_by == True) and submission is not already approved
+                if not submission.author.name in Users and submission.banned_by is None and not submission.approved:
+                    processSubmission(reddit, submission)
             for comment in comment_stream:
                 if comment is None or comment.author is None:
                     break
-                if isUserNew(comment.author.name, Users) and not REQUIRED_REPLY.lower() in comment.body.lower():
-                    processComment(startTime, Users, reddit, comment)
+                if not comment.author.name in Users and not REQUIRED_REPLY.lower() in comment.body.lower():
+                    processComment(Users, reddit, comment)
             for message in inbox_stream:
                 # log_json('Checking messages', datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
                 if message is None or message.author is None:
@@ -120,13 +124,28 @@ def monitorStream(startTime, timeLastSavedUsers, Users, reddit):
             currTime = time.time()
             if currTime - timeLastSavedUsers > SAVE_FREQUENCY:
                 timeLastSavedUsers = currTime
-                with open(USERS_JSON_PATH, 'w', encoding='utf8') as f:
-                    json.dump(Users, f, indent=4)
-                print(f'Saved at {getProperDatetime(datetime.datetime.now().time())}')
+                saveUsers(Users)
+
+            if currTime - timeLastCheckedSpamQueue > SPAM_FILTER_CHECK_FREQUENCY:
+                for spamSubmission in subreddit.mod.spam(only="submissions"):
+                    if spamSubmission is None or spamSubmission.author is None:
+                        continue
+                    if spamSubmission.banned_by == True and spamSubmission.created_utc > startTime:
+                        processSubmission(reddit, spamSubmission)
+                timeLastCheckedSpamQueue = currTime
+
     except Exception as e:
         print(f' >>>>> There was an error: {str(e)}')
         time.sleep(60)  # wait for 60 seconds before restarting
-        monitorStream(startTime, timeLastSavedUsers, Users, reddit)
+        monitorStream(timeLastSavedUsers, Users, startTime, reddit)
+
+
+def saveUsers(Users):
+    with open(USERS_JSON_PATH, 'w', encoding='utf8') as f:
+        json.dump(Users, f, indent=4)
+    now = datetime.datetime.now().strftime('%Y-%m-%d at %H:%M:%S')
+    print(f'Saved at {now}')
+
 
 def log_json(logStr, now):
     if int(time.time()) % 120 > 10:
@@ -141,34 +160,31 @@ def log_json(logStr, now):
         json.dump(logList, f, indent=4)
 
 
-def processSubmission(startTime, reddit, submission_temp):
+def processSubmission(reddit, submission_temp):
     subID = submission_temp.id
     time.sleep(2)
     # reload submission to get fresh data
     submission = reddit.submission(id=subID)
 
-    if submission.banned_by is None and not submission.approved and submission.created_utc > startTime:
-        permalink = submission.permalink
-        submissionID = submission.id
-        authorName = submission.author.name
-        submissionTitle = submission.title
+    permalink = submission.permalink
+    submissionID = submission.id
+    authorName = submission.author.name
+    submissionTitle = submission.title
 
-        submission.mod.remove()
-        print(f' > Removed submission by {authorName} : {submissionID} : {submissionTitle}')
-        recipient = reddit.redditor(authorName)
-        recipient.message(subject=REMOVAL_MESSAGE_SUBJECT_TITLE, message=f'{REMOVAL_MESSAGE_FIRST_HALF}https://reddit.com{permalink}{REMOVAL_MESSAGE_SECOND_HALF}')
+    submission.mod.remove()
+    print(f' > Removed submission by {authorName} : {submissionID} : {submissionTitle}')
+    recipient = reddit.redditor(authorName)
+    recipient.message(subject=REMOVAL_MESSAGE_SUBJECT_TITLE, message=f'{REMOVAL_MESSAGE_FIRST_HALF}https://reddit.com{permalink}{REMOVAL_MESSAGE_SECOND_HALF}')
 
 
-def processComment(startTime, Users, reddit, comment):
-    if comment.created_utc > startTime:
-        authorName = comment.author.name
+def processComment(Users, reddit, comment):
+    authorName = comment.author.name
+    print(f' > Welcoming {authorName}')
 
-        print(f' > Welcoming {authorName}')
-        # comment.mod.remove()
-        recipient = reddit.redditor(authorName)
-        recipient.message(subject=WELCOME_MESSAGE_SUBJECT_TITLE, message=f'{WELCOME_MESSAGE}')
-        if not authorName in Users:
-            Users[authorName] = 'Comment: ' + datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    recipient = reddit.redditor(authorName)
+    recipient.message(subject=WELCOME_MESSAGE_SUBJECT_TITLE, message=f'{WELCOME_MESSAGE}')
+
+    Users[authorName] = 'Comment: ' + datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 
 def processMessage(Users, reddit, message):
@@ -310,18 +326,6 @@ def getUsers():
         with open(USERS_JSON_PATH, 'w', encoding='utf8') as f:
             json.dump({}, f, indent=4)
         return {}
-
-
-def getProperDatetime(date_time):
-    str_date_time = str(date_time)
-    str_hours = re.search(HOURS_DATETIME_RE, str_date_time).groups()[0]
-    str_min_sec = re.search(HOURS_DATETIME_RE, str_date_time).groups()[1]
-
-    int_hours = int(str_hours)
-    if int_hours > 12:
-        int_hours -= 12
-
-    return f'{int_hours}{str_min_sec}'
 
 
 if __name__ == '__main__':
