@@ -31,9 +31,11 @@
 
 ### Private Torrent Trackers
 
+[Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers)
+
 * **[Semi-Private]** [en.metal-tracker.com](https://en.metal-tracker.com/) - A very nice tracker for metal music.
 
-* [Redacted.ch (RED)](https://redacted.ch/) [FLAC /mp3] - Best music private tracker. [Read this](https://www.reddit.com/r/Piracy/wiki/private_trackers) to join. One of the harder trackers to maintain ratio on. 
+* [Redacted.ch (RED)](https://redacted.ch/) [FLAC /mp3] - Best music private tracker. One of the harder trackers to maintain ratio on. 
 
 * [Orpheus.network](https://orpheus.network/) [FLAC/mp3] - 2nd best music private tracker, after RED. Much easier ratio economy compared to RED. In addition, there is a thread where you can request any torrent available on RED, without putting a request. This provides full access to RED without the hard economy. It is highly beneficial to have accounts on both trackers.
 

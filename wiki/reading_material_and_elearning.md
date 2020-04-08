@@ -16,6 +16,7 @@ If the ebook you are searching is available for kindle, you may also [*borrow*](
 ### ► **eBooks**
 
 * [gen.lib.rus.ec](http://gen.lib.rus.ec/) - most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums.
+* [the-eye.eu/public/Books](https://the-eye.eu/public/Books/) - The Eye's extensive eBooks archive
 * [b-ok.org](https://b-ok.org/) - formerly known as Bookzz.
 * [mobilism.org](https://forum.mobilism.org/viewforum.php?f=106) - large ebook forum that contains a request subforum
 * [sci-hub.tw](https://sci-hub.tw/) - largest collection of research papers.
@@ -28,19 +29,17 @@ If the ebook you are searching is available for kindle, you may also [*borrow*](
 * [Avaxhome](https://avxhm.se/) - E-learning material. Pair together [with this](https://www.reddit.com/r/Piracy/comments/d0rfpe/download_ebooks_on_avaxhome_for_free/) to download.
 * [s2.bitdownload.ir](http://s2.bitdownload.ir/) - Open directory of Ebooks
 * [s3.bitdownload.ir](http://s3.bitdownload.ir/) - Open directory of Ebooks
-* **[GUIDE]** [Download ebooks from IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Reddit thread
 * **[GUIDE]** [Idiot-proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Reddit thread
 
 
 ### ► **Custom Search Engines (CSE) for eBooks**
 
-* [**u/Amosqu's CSE**](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers) - Scours in many sites listed above(https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/).
-* **[GUIDE]** [Guide to accompany the above custom search engine](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) - Reddit thread
-* [**r/Piracy updated ebooks CSE**](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - Removed all dead links and added new websites. See here for the contents of the sites it scrapes: https://pastebin.com/aapQMv7t
+* [**u/Amosqu's CSE**](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers) - Scours in many sites listed above. [**Guide**](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) to accompany this CSE.
+* [**r/Piracy's updated ebooks CSE**](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - Removed all dead links and added new websites. See here for the contents of the sites it scrapes: https://pastebin.com/aapQMv7t
 
 ### ► **Courses/Tutorials**
 
-* See [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/general_sites_and_search_engines). Many popular torrent indexers have courses, such as Rutracker and 1337x.to
+See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
 
 * [freetutorialsus.com](https://freetutorialsus.com/) - Udemy, Lynda, Pluralsight courses available via  torrents.
 * [gfxdomain.net](http://forum.gfxdomain.net/forums/others-tutorials.42/) - computer graphics design tutorials/courses via fileshosters (some through torrents).
