@@ -38,6 +38,8 @@ If you have any critique or suggestions you would like to see added to the Megat
 ---
 &nbsp;
 
+*Make sure your adblocker is on before visiting any of the linked websites*. uBlock Origin is recommended. See the wiki page: [Privacy and Security](https://www.reddit.com/r/Piracy/wiki/privacy_and_security)
+
 
 ### [► Privacy and Security](https://reddit.com/r/Piracy/wiki/privacy_and_security)
  > VPNs, adblockers, and useful browser extensions

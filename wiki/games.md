@@ -9,7 +9,19 @@
 
 Scene groups (such as CODEX, CPY, SKIDROW, etc) do not have official websites. If you find a site using the name of a scene group, they are impersonating them. Beware of these sites as they tend to package their releases with malware.
 
-For PC games piracy news (crack releases, DRM news etc), visit /r/crackwatch
+For PC games piracy news (crack releases, DRM news etc), visit /r/CrackWatch 
+
+### ►  **Torrent sites**
+
+ * [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.
+ * [gamestorrents.io](https://www.gamestorrents.io/)
+ * [rutor.info](http://rutor.info/games) - Game repack site
+ * [rarbg.to](http://rarbg.to/) - Yes, they offer game torrents too.
+
+&nbsp;
+
+
+
 
 ### ►  **DDL sites (direct download)**
 
@@ -18,12 +30,10 @@ For PC games piracy news (crack releases, DRM news etc), visit /r/crackwatch
  * [Steam Underground - cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=10) - Dedicated game piracy forum. Best parts are the discussion and the different types of tools especially the multiplayer ones. Game links aren't always provided (especially for scene releases; they recommend some external sites in their FAQ) but when they are, they are on free file hosting services like zippyshare so that's another plus. Also includes early access games.
  * **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free hosters
 
-### ►  **Torrent sites**
+&nbsp;
 
- * [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.
- * [gamestorrents.io](https://www.gamestorrents.io/)
- * [rutor.info](http://rutor.info/games) - Game repack site
- * [rarbg.to](http://rarbg.to/) - Yes, they offer game torrents too.
+
+
 
 ### ►  **ROMs**
  * /r/Roms - Roms
