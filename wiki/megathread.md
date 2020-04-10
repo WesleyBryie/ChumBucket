@@ -38,34 +38,34 @@ If you have any critique or suggestions you would like to see added to the Megat
 ---
 &nbsp;
 
-*Make sure your adblocker is on before visiting any of the linked websites*. uBlock Origin is recommended. See the wiki page: [Privacy and Security](https://www.reddit.com/r/Piracy/wiki/privacy_and_security)
+*Make sure your adblocker is on before visiting any of the linked websites*. uBlock Origin is recommended. See the wiki page: [Privacy and Security](https://www.reddit.com/r/Piracy/wiki/megathread/privacy_and_security)
 
 
-### [► Privacy and Security](https://reddit.com/r/Piracy/wiki/privacy_and_security)
+### [► Privacy and Security](https://www.reddit.com/r/Piracy/wiki/megathread/privacy_and_security)
  > VPNs, adblockers, and useful browser extensions
 
-### [► Apps / Tools](https://reddit.com/r/Piracy/wiki/tools)
+### [► Apps / Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
  > Activation tools, torrent clients, mobile apps, download managers and helpers/tools and other miscellaneous
 
-### [► Movies & TV](https://reddit.com/r/Piracy/wiki/movies_and_tv)
+### [► Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
  > Sites for streaming and downloading/torrenting Movies & TV and Sports
 
-### [► Software Downloads](https://reddit.com/r/Piracy/wiki/software_downloads)
+### [► Software Downloads](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads)
  > Sites for obtaining popular software
 
-### [► Books / Comics / e-learning / Other Reading Material](https://reddit.com/r/Piracy/wiki/reading_material_and_elearning)
+### [► Books / Comics / e-learning / Other Reading Material](https://reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning)
  > Books, comics, manga, magazines, courses & tutorials
 
-### [► Games](https://reddit.com/r/Piracy/wiki/games)
+### [► Games](https://reddit.com/r/Piracy/wiki/megathread/games)
  > Sites for downloading games and ROMs
 
-### [► Music](https://reddit.com/r/Piracy/wiki/music)
+### [► Music](https://reddit.com/r/Piracy/wiki/megathread/music)
  > Sites & apps for downloading music, video game soundtracks/scores
 
-### [► Porn](https://reddit.com/r/Piracy/wiki/porn)
+### [► Porn](https://reddit.com/r/Piracy/wiki/megathread/porn)
  > Pirate porn sites
 
-### [► General-Purpose Sites / Torrent Search Engines](https://reddit.com/r/Piracy/wiki/general_sites_and_search_engines)
+### [► General-Purpose Sites / Torrent Search Engines](https://reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines)
  > General-purpose torrent sites. Torrent search engines/DHT crawlers are listed to search within as many publicly listed torrents as possible to find rare content that cannot be found in any of the trackers listed in the above categories.
  >
  > When using torrent search engines/DHT crawlers, they will list as many publicly available torrents as possible, unfiltered and unfettered in regards to viruses. Never use thse to search for software, but when searching for other media types, take some [**preliminary measures**](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to avoid running malware.

@@ -31,7 +31,7 @@
 
 ### Private Torrent Trackers
 
-[Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers)
+[Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
 * **[Semi-Private]** [en.metal-tracker.com](https://en.metal-tracker.com/) - A very nice tracker for metal music.
 

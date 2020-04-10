@@ -61,7 +61,7 @@ For PC games piracy news (crack releases, DRM news etc), visit /r/CrackWatch
 
 ### ►  **Private trackers**
 
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers)
+[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
 * [Gazellegames.net (GGn)](https://gazellegames.net) - Best source for games for enthusiasts. Carries games from basically any console. Can be joined through RED
 * [PixelCode](https://www.pixelcove.me/) - Another pretty great source of games for the enthusiast crowd.

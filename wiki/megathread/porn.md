@@ -16,7 +16,7 @@
 
 ### ► **Private trackers**:
 
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers)
+[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
  * **[Semi-Private]** [pornolab.net (PL)](https://pornolab.net/) - An always open private tracker and the best out there if going by the sheer amount of porn available here, from studio professional to amateur stuff. 
 

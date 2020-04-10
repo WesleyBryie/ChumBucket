@@ -39,7 +39,7 @@ If the ebook you are searching is available for kindle, you may also [*borrow*](
 
 ### ► **Courses/Tutorials**
 
-See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
+See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
 
 * [freetutorialsus.com](https://freetutorialsus.com/) - Udemy, Lynda, Pluralsight courses available via  torrents.
 * [gfxdomain.net](http://forum.gfxdomain.net/forums/others-tutorials.42/) - computer graphics design tutorials/courses via fileshosters (some through torrents).
@@ -73,7 +73,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 ### ► **Private torrent trackers**
 
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers)
+[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
 * [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - One of the 2 biggest private tracker for ebooks/audiobooks. The focus is on the fictional ebooks side unlike libgen though making requests can do the job. Also the best place for audiobooks in numbers though overall quality lacks a little. Similar to libgen, it's also a great place to contribute
 * [bibliotik](https://bibliotik.me/) - private tracker for ebooks/audiobooks

@@ -109,7 +109,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [**apkmirror.com**](https://www.apkmirror.com/) - Contains untouched and signed release apks. Useful if searching for a prior version of an application.
 * [**apkpure.com**](https://apkpure.com/) - Similar to apkmirror.com
 * [**ACMarket**](https://acmarket.net/) - "cracked play store." (apps/games)
-* Streaming apps for Movies & TV listed under the [Movies & TV](https://www.reddit.com/r/Piracy/wiki/movies_and_tv) section of the megathread
+* Streaming apps for Movies & TV listed under the [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv) section of the megathread
 * See /r/sideloaded for iOS
 * See /r/ApksApps for more android apps
 

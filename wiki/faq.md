@@ -57,10 +57,11 @@
  > If you changing your DNS service provider did not work, then you may use a VPN. [ProtonVPN](https://protonvpn.com/free-vpn) is a good, free, and privacy-oriented VPN service provider that you can use to access blocked sites.
 
 * My torrent download speeds are hecking slow even though the torrent site is reporting a ton of seeders for that torrent. What do?
- > As a preliminary measure, check to see how many peers are in the swarm. If there is an equal amount of peers, or greater amount of peers, than seeders, it's only natural that your download speeds will be slow. You'll have to wait it out.
- > Make sure you are connectable. In your torrent client's settings, find the setting listing the port that it uses for "incoming connections". Change the port number to one in [the range of 49152 - 65535](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Dynamic,_private_or_ephemeral_ports). Visit this [site](https://www.canyouseeme.org/) and enter the port number you changed it to and it'll tell you if you are reachable or not. If it shows you are not reachable, you'll need to whitelist the port number in your [windows firewall settings](https://www.tomshardware.com/news/how-to-open-firewall-ports-in-windows-10,36451.html) and in your router settings (google this one, as it will depend on your router's model/brand.
+ > As a preliminary measure, check the website you got the torrent file from to see how many peers are in the swarm. If there is an equal amount of peers, or greater amount of peers, than seeders, it's only natural that your download speeds will be slow. You'll have to wait it out.
  >
- > If you are using a VPN, make sure you are using a VPN service that allows port forwarding. If they allow port forwarding, they will give you access to enable port forwarding in your provider's control panel, either in their website or directly through their app. Choose to open a port from there, and then change your torrent client's port for incoming connections to the port that you enabled VPN provider's control panel. You won't need to mess with your firewall or router settings in this case.
+ > Make sure you are connectable. In your torrent client's settings, find the setting listing the port that it uses for "incoming connections". Change the port number to one in [the range of 49152 - 65535](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Dynamic,_private_or_ephemeral_ports). Visit this [site](https://www.canyouseeme.org/) and enter the port number you changed it to and it'll tell you if you are reachable or not. If it shows you are not reachable, you'll need to whitelist the port number in your [windows firewall settings](https://www.tomshardware.com/news/how-to-open-firewall-ports-in-windows-10,36451.html) and in your router settings. You'll need to google how to accomplish this, as it will depend on your router's model/brand.
+ >
+ > If you are using a VPN, make sure you are using a VPN service that allows port forwarding. If they allow port forwarding, they will allow you to enable port forwarding via their control panel, either on their website or directly through their app. Choose to open a port from their control panel, and then change your torrent client's port for incoming connections to match that same port number. That should be it - You won't need to mess with your firewall or router settings afterwards.
 
 &nbsp;
 
@@ -77,9 +78,6 @@
  >
  > You may also try out Video Download Helper extensions for your browser.
 
-* How do I download from spotify?
- > You can't. There aren't any tools that can download the unencrypted spotify streams. The best method is to convert your Spotify playlist to a Deezer playlist, then download that via [Deezloader](/r/DeezloadersIsBack). More sites/tools for music available in the [megathread](https://reddit.com/r/Piracy/wiki/megathread).
-
 * How the heck do I use or install Youtube-DL?
  > [Guide](https://jcutrer.com/howto/how-to-install-youtube-dl-the-easy-way) on how to install it.
  >
@@ -89,6 +87,9 @@
  > If you have a video that needs a login to access, youtube-dl supports adding your credentials and uses your login to grab the video stream. Example usage: `youtube-dl -u "myusername" -p "mypassword" "myvideoURL"`
  >
  > If using the `-u` and `-p` flags won't work for you, you can always input your cookies, which will contain your login session, for youtube-dl to use to download the content. Download the browser extension "cookies.txt", which will download your cookies (firefox link [here](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/), chrome link [here](https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg)). Then use the `--cookies` flag to pass in the downloaded cookies file to youtube-dl. Usage: `youtube-dl --cookies "/path/to/cookies" "myvideoURL"`
+
+* How do I download from spotify?
+ > You can't. There aren't any tools that can download the unencrypted spotify streams. The best method is to convert your Spotify playlist to a Deezer playlist, then download that via [Deezloader](/r/DeezloadersIsBack). More sites/tools for music available in the [megathread](https://reddit.com/r/Piracy/wiki/megathread).
 
 * How Do I download from streaming sites such as Netflix, Hulu, Disney+, etc?
 
@@ -138,7 +139,7 @@
  > Related: Will I get banned from steam if I use the "Add a non-steam game to my library" function to add a pirated game? **No**.
 
 * Are the game sites linked in the [megathread](https://www.reddit.com/r/Piracy/wiki/megathread) safe?
- > If you use general trackers that allow user uploading, you'll have to be careful, especially more so if you use a torrent search engine which will list every single publicly distributed torrent. Otherwise, if you use the dedicated game websites listed under `Games`, then yes, they're safe. ^^^^But ^^^^that's ^^^^exactly ^^^^what ^^^^a ^^^^malware ^^^^distributor ^^^^would ^^^^say...
+ > If you use general trackers that allow user uploading, you'll have to be careful, especially more so if you use a torrent search engine which will list as many publicly distributed torrent as possible. Otherwise, if you use the dedicated game websites listed under `Games`, then yes, they're safe. ^^^^But ^^^^that's ^^^^exactly ^^^^what ^^^^a ^^^^malware ^^^^distributor ^^^^would ^^^^say...
 
 * My game downloads are being flagged as malware/trojans by my antivirus.
  > That is the nature of cracked files. Not to say that you should trust every loon in a youtube video that says "it's a false positive, go ahead and install", but the sites listed in the [megathread](https://www.reddit.com/r/Piracy/wiki/megathread) listed under the `Games` section are safe to use. If you have an adblocker and used the proper download link, you should be good to go. Browsing pirate sites without an adblocker will just yield adverts posing as download buttons, which will yield virus-infected downloads, so make sure you're not just clicking on the most vibrant-looking link.
@@ -157,7 +158,7 @@
  >
  > After setting Windows Explorer as the default program for `.iso` files, simply double click on the `.iso` file to mount it. It will take you to the folder structure contained inside the `.iso` file, then just run the setup `.exe` file to install the game.
  >
- > Default installations are usually for the base game without a crack, so you'll need to take steps to patch the game files with the crack files. Read below.
+ > Default installations are usually for the base game without a crack, so you'll need to take steps to patch the game files with the crack files post-installation. Read below.
  >
  > Codex installers will tend to be one-click installs and will have a checkbox that says `move patch files to installation directory`, so make sure that box is checked - that's all there is to it, the game will be cracked once the installation finishes (if you checked the aforementioned checkbox). Otherwise, read the `readme` file included in your download. It's usually an `.nfo` file, but they are just text files, just right click on it and choose edit to open it.
  >

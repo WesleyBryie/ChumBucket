@@ -50,7 +50,7 @@ Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled u
 
 ### ► **Private Trackers**
 
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers)
+[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
 * [TorrentLeech](https://www.torrentleech.org/) - One of the largest general private trackers
 * [alpharatio.cc](https://alpharatio.cc/) (Private tracker) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out

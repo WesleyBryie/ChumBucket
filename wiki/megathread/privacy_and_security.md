@@ -8,7 +8,7 @@
 
 # PRIVACY AND SECURITY
 
-As a precursor, read our entry regarding copyright infringement notices: ["Will I get in trouble for downloading this? How does my ISP know what I download? -- All about copyright infringement complaints and what to do if you've received one and preventing further notices."](https://www.reddit.com/r/Piracy/wiki/isp_complaints)
+As a precursor, read our entry regarding copyright infringement notices: ["Will I get in trouble for downloading this? How does my ISP know what I download? -- All about copyright infringement complaints and what to do if you've received one and preventing further notices."](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
 
 ### ► **VPNs** 
 
