@@ -45,7 +45,7 @@ If you have any critique or suggestions you would like to see added to the Megat
  > VPNs, adblockers, and useful browser extensions
 
 ### [► Apps / Tools](https://reddit.com/r/Piracy/wiki/tools)
- > Activation tools, mobile apps, torrent clients, download helpers/tools and other miscellaneous
+ > Activation tools, torrent clients, mobile apps, download managers and helpers/tools and other miscellaneous
 
 ### [► Movies & TV](https://reddit.com/r/Piracy/wiki/movies_and_tv)
  > Sites for streaming and downloading/torrenting Movies & TV and Sports

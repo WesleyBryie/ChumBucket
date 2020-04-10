@@ -18,7 +18,7 @@
 
 Activator name | Version # | Cached link | Windows 7 | Windows 8.1 | Win 10/LTSB/LTSC | Office | Notes
 :---------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--:|
-[Office C2R](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) | 6.8.0| **[CACHED LINK](https://drive.google.com/file/d/1rA6gbNbSANH8QcHpsGTzaGs7vtT8Bkgv/)**| x| x| x| ✓|
+[Office C2R](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) | 6.8.0| **[CACHED LINK](https://drive.google.com/open?id=1h2qQ75BT7OHmMq4N702e1lxR8SnIu8Ci)**| x| x| x| ✓|
 [KMS_VL_ALL](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/#post-838808)| 34.7| [**CACHED LINK**](https://drive.google.com/open?id=1Sj8pS7xWDTiOhEnLhuAHNu_UqM3gUuip)| ✓| ✓| ✓| ✓|
 [KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1)| 1.5.3 | [**CACHED LINK**](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view) | ✓| ✓| ✓| ✓|
 [Windows loader](https://forums.mydigitallife.info/threads/58464-Windows-Loader-Download) | 2.2.2 | [**CACHED LINK**](https://drive.google.com/file/d/1qcLeyshfBWgd8Y4M8t9Xkjtrs7pzgWti/view) | **best**| x| x| x|
@@ -34,6 +34,7 @@ Notes: uTorrent [has bundled malware \(a bitcoin miner\) into the software in th
 
 Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 
+* [**Webtorrent**](https://webtorrent.io/desktop/) - Torrent-streaming client
 * [**Transmission**](https://transmissionbt.com/about/) - Simple and lightweight open-source torrent client.
 * [**qBittorrent**](https://www.qbittorrent.org/download.php) - Open-source torrent client. Has a built-in search feature that searches popular public trackers. Consistently updated.
 * [**Deluge**](https://dev.deluge-torrent.org/wiki/Download) - Open-source torrent client.
@@ -72,6 +73,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
  * [**Youtube-dl gui**](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, if you're not comfortable with the command line.
 * [**JDownloader2**](http://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
 * [**Internet Download Manager \(IDM\)**](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this.](https://github.com/J2TEAM/idm-trial-reset)
+* [XTREME download manager](https://subhra74.github.io/xdm/) - Another very nice download manager
 * [**pyLoad**](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
 * [**Anime-Downloader**](https://github.com/Oshan96/Anime-Downloader) - Bulk download anime episodes for various websites, in various resolutions, with or without filler episodes
 
@@ -85,6 +87,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [**Megabasterd**](https://github.com/tonikelope/megabasterd) - Bypass Mega's 5 GiB per 6 hours download limit.
 * [**Skillshare-dl**](https://github.com/mrwnwttk/skillshare-dl) - Download from skillshare. [Original thread.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
 * [**Soundcloud downloader**](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Firefox extension. Original thread [here](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). By /u/ImTwain.
+* [**Omnibus**](https://github.com/fireshaper/Omnibus) - Download from GetComics.info easily
 * [**get_iplayer**](https://github.com/get-iplayer/get_iplayer) - To download video from BBC's iPlayer
 * [**Batch download script for Google Drive**](https://github.com/shkcodes/google-drive-downloader) - Original [reddit thread](https://www.reddit.com/r/Piracy/comments/fpe6ji/batch_download_script_for_google_drive/)
 * [**Python script to bypass the download limit of google drive files**](https://github.com/jonathanTIE/googledrive-copy-downloader) - Original [reddit thread](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/)
