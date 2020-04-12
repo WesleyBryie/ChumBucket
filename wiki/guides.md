@@ -14,8 +14,6 @@ Dates are in the backwards order of month/day/year
 |-------|-------|-------|-------|
 [How to install and activate Windows 10  - Includes LTSB/LTSC](https://www.reddit.com/r/Piracy/wiki/win10upgrade_activation) | - | Nov 20, 2019 | -
 [Guide for Microsoft Windows, Office and Adobe software](https://www.reddit.com/r/Piracy/comments/39qnll/guide_for_microsoft_windows_office_and_adobe/) | u/State_secretary | Jun 13, 2015 | Feb 13, 2018 
-[Windows Guide: Enabling your VPN for a single program...](https://www.reddit.com/r/Piracy/comments/5dbfm3/windows_guide_enabling_your_vpn_for_a_single/)|u/Hundter| Nov 16, 2016|Nov 18, 2016
-[Comprehensive guide to blocking ads on Spotify](https://www.reddit.com/r/Piracy/comments/4kn6rq/comprehensive_guide_to_blocking_ads_on_spotify/)|u/nic2849| May 23, 2016|Nov 13, 2016
 [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)|u/Servalpur|Dec 6, 2014|-
 
 &nbsp;

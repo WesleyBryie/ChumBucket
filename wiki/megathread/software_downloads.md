@@ -38,7 +38,7 @@ Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled u
 * **[Direct download]** [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to create Windows 10 installation media from a USB drive
 * **[Direct download]** [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye - 2.7 TB back up of MSDN dump. Has lots of hard to find ISOs
 
-### Adobe installers
+### Adobe untouched installers
 
 * [**Direct download**] [Adobe.com CC applications](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html) - requires Adobe login.
 * [**Direct download**] [Adobe CC 2018 multilanguage installers](http://prodesigntools.com/adobe-cc-2018-direct-download-links.html)

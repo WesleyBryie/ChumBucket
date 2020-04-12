@@ -59,7 +59,6 @@
 * [www.soap2day.com](https://www.soap2day.com/)
 * [streamlord.com](http://www.streamlord.com/)
 
-
 * ***Android apps:***
   * **[Anime]** [AnimeMolecules](https://animemolecules.com/) - Anime streaming app
   * **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
@@ -82,6 +81,22 @@
  * [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming app
 
 &nbsp;
+
+
+
+
+### ► **Live channel Streaming**
+
+* [pluto.tv](http://pluto.tv/welcome) - Official legal service 
+* [github.com/iptv-org/iptv](https://github.com/iptv-org/iptv) - Mass IPTV aggregation
+* [123tvnow.com](http://123tvnow.com/)
+* [cxtvlive.com](http://www.cxtvlive.com/)
+* [stream2watch.ws](https://www.stream2watch.ws/)
+* [time4tv.stream](https://time4tv.stream/)
+
+&nbsp;
+
+
 
 
 ### ► **Anime (Streaming)**
