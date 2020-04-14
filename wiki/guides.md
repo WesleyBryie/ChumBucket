@@ -12,7 +12,7 @@ Dates are in the backwards order of month/day/year
 #### Windows 
 |Link | User | Date Published | Last Updated
 |-------|-------|-------|-------|
-[How to install and activate Windows 10  - Includes LTSB/LTSC](https://www.reddit.com/r/Piracy/wiki/win10upgrade_activation) | - | Nov 20, 2019 | -
+[How to install and activate Windows 10  - Includes LTSB/LTSC](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation) | - | Nov 20, 2019 | -
 [Guide for Microsoft Windows, Office and Adobe software](https://www.reddit.com/r/Piracy/comments/39qnll/guide_for_microsoft_windows_office_and_adobe/) | u/State_secretary | Jun 13, 2015 | Feb 13, 2018 
 [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)|u/Servalpur|Dec 6, 2014|-
 
@@ -36,10 +36,10 @@ Dates are in the backwards order of month/day/year
 
 |Link | User | Date Published | Last Updated
 |-------|-------|-------|-------|
-[How to get started with private trackers](https://www.reddit.com/r/Piracy/wiki/private_trackers) | - | - | -
+[How to get started with private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers) | - | - | -
 [Getting started with usenet - /r/usenet wiki](https://www.reddit.com/r/usenet/wiki/index) | - | - | -
-[Protecting yourself from being caught pirating - Guide concerning copyright infringement complaints](https://www.reddit.com/r/Piracy/wiki/isp_complaints) | - | - | -
-[Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/video_quality_and_types_of_releases) | - | - | -
+[Protecting yourself from being caught pirating - Guide concerning copyright infringement complaints](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints) | - | - | -
+[Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases) | - | - | -
 [A python script to bypass the download limit of google drive files (w executable&source code)](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/) | /u/jonathanTIE | 01/01/2020 | 01/03/2020
 
 

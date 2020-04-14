@@ -9,7 +9,7 @@
 
 ### ► General questions
 
-* [Will I get in trouble for downloading `x` or browsing a pirate site? How to avoid getting in trouble -- All about copyright infringement complaints and what to do if you've received one.](https://www.reddit.com/r/Piracy/wiki/isp_complaints)
+* [Will I get in trouble for downloading `x` or browsing a pirate site? How to avoid getting in trouble -- All about copyright infringement complaints and what to do if you've received one.](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
 
 * Preliminary measures to take to avoid running malware-infected files (in regards to non-software)
  > [Browsing and downloading guide](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)
@@ -20,9 +20,9 @@
  > I want to disable updates just in case, how do I do this? **Don't do this. You need security updates.**
 
 * I have Win 10 Home. How do I upgrade to the Pro version?
- > Simply use [hwidgen](https://reddit.com/r/piracy/wiki/tools)'s `license switch` function: https://i.imgur.com/lmjLOtq.jpg
+ > Simply use [hwidgen](https://reddit.com/r/piracy/wiki/megathread/tools)'s `license switch` function: https://i.imgur.com/lmjLOtq.jpg
 
-* [What is a private tracker and how do I get started? Benefits of private trackers, etc.](https://www.reddit.com/r/Piracy/wiki/private_trackers)
+* [What is a private tracker and how do I get started? Benefits of private trackers, etc.](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
 * [What is usenet and how do I get started? - /r/usenet wiki](https://www.reddit.com/r/usenet/wiki/index)
 
@@ -89,7 +89,7 @@
  > If using the `-u` and `-p` flags won't work for you, you can always input your cookies, which will contain your login session, for youtube-dl to use to download the content. Download the browser extension "cookies.txt", which will download your cookies (firefox link [here](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/), chrome link [here](https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg)). Then use the `--cookies` flag to pass in the downloaded cookies file to youtube-dl. Usage: `youtube-dl --cookies "/path/to/cookies" "myvideoURL"`
 
 * How do I download from spotify?
- > You can't. There aren't any tools that can download the unencrypted spotify streams. The best method is to convert your Spotify playlist to a Deezer playlist, then download that via [Deezloader](/r/DeezloadersIsBack). More sites/tools for music available in the [megathread](https://reddit.com/r/Piracy/wiki/megathread).
+ > You can't. There aren't any tools that can download the unencrypted spotify streams. The best method is to convert your Spotify playlist to a Deezer playlist, then download that via [Deezloader](/r/DeezloadersIsBack). More sites/tools for music available in the [megathread](https://reddit.com/r/Piracy/wiki/megathread/music).
 
 * How Do I download from streaming sites such as Netflix, Hulu, Disney+, etc?
 
@@ -104,7 +104,7 @@
 
 ### ► Movies & TV
 
-* [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/video_quality_and_types_of_releases)
+* [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)
  > Related questions:
  >
  > Why do file sizes of videos with the same resolution vary so much?

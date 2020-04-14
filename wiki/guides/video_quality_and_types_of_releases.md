@@ -6,13 +6,17 @@
 ---
 ---
 
-## **How do i know which release is the better one?**
+## ► **How do i know which release is the better one?**
 
 It all depends on the bitrate of the video, which is an indication of average amount of data processed per second. For video, it will be indicated by units of Mb/s (Megabits per second). Given 2 videos of equal length, the larger one will obviously have a higher bitrate. Given an x264-encoded video, most people will settle at a bitrate of 4000 Mbps at 720p (Which would give you a 2GiB file a 1-hour movie, or 4GiB for a 2-hour movie). Any less and the video will look [extremely pixelated.](https://i.imgur.com/WVsOaJ0.jpg), especially given that most low-bitrate inclined groups tend churn out re-encodes through automation upon the first releases, which tend to be already-encoded releases, instead of encoding from the remux (See BRRips below). Higher bitrates are preferred by enthusiasts, however, with the highest quality encodes reaching upwards of 10-20 GiB per movie, and Remuxes (unadulterated video straight from the disc), reaching even higher.
 
 &nbsp;
 
-## On Bitrate and Codecs
+
+
+
+
+## ► On Bitrate and Codecs
 
 #### ► **Containers and codecs**
 
@@ -50,6 +54,10 @@ Usually contained in MP4, if not MKV.
 
 &nbsp;
 
+
+
+
+
 #### ► **Resolution**
 
 Resolution refers to the number of pixels in an image or a single frame of a video file. It is usually expressed in the form WxH, where W is the width of the frame and H is the height. Most televisions are ‘Full HD’, which means 1920x1080. ‘UHD’, on the other hand, is twice the width and height to make 3840x2160. Most individuals and companies call this specific resolution ‘4K’.
@@ -60,7 +68,7 @@ Additionally, resolution can be expressed as the height of the image followed by
 
 &nbsp;
 
-## **Why do Movie/TV-Show torrents vary so wildly in file size?**
+## ► **Why do Movie/TV-Show torrents vary so wildly in file size?**
 
 ***A: Different compression settings, resulting in different bitrates.***
 
@@ -90,7 +98,10 @@ You can calculate bitrate by finding the file’s size **in megabits**, and then
 &nbsp;
 
 
-## **Converting from MKV to MP4**
+
+
+
+## ► **Converting from MKV to MP4**
 
 Oftentimes people will ask how to convert an mkv file to mp4 for the purpose of playing it on their TV. Many TVs in fact do not support mkv file formats, which is a newer container than mp4 is. This doesn't mean that the container is the only culprit. Check your TV's manual online and look for a list of supported formats and codecs, because it may be that your TV does support MKV but your specific MKV file contains certain streams encoded in a particular format that is not supported by your TV. You can use mediainfo to check the different tracks inside your video file to check which codec they are encoded as, and compare them to your TV's list of supported specs to see what the culprit is.
 
@@ -108,7 +119,11 @@ If the video track is encoded in a format not supported by your TV, find another
 
 &nbsp;
 
-## **Breakdown of the different parts of a Warez release name (Title.Of.The.Movie.YEAR.Source.Codec-GROUP)**
+
+
+
+
+## ► **Breakdown of the different parts of a Warez release name (Title.Of.The.Movie.YEAR.Source.Codec-GROUP)**
 
 There are many different acronyms that exist in release names, but they all follow a similar format. In the example of a movie, it would be Title.Of.The.Movie.YEAR.Source.Codec-GROUP
 
@@ -120,7 +135,9 @@ There are many different acronyms that exist in release names, but they all foll
 
 There are a few variations of WEB releases, mainly WEB-DL and WEBRip. Scene groups will not specify the type of WEB release their content is and will simply use WEB instead of specifiying WEB-DL or WEBRip. P2P groups will tend to specify between WEB-DL and WEBRip.
 
-* **WEB-DL** -  is a direct download of the video provided by the streaming service. It is unadulterated and simply remuxed (repackaged) into a popular video format (ie. mkv). Paid streaming services such as Netflix utilize [Widevine DRM](https://en.wikipedia.org/wiki/Widevine) to prevent downloading of the video stream. If somehow, you are able to, it will be encrypted. Only a handful of underground groups around the world (namely, The Scene) has access to tools to decrypt Widevine-protected content.
+* **WEB-DL** -  This is a direct download of the video provided by the streaming service. It is unadulterated and simply remuxed (repackaged) into a popular video format (ie. mkv). Paid streaming services such as Netflix utilize [Widevine DRM](https://en.wikipedia.org/wiki/Widevine) to prevent downloading of the video stream. If somehow, you are able to, it will be encrypted. Only a handful of underground groups around the world (namely, The Scene) has access to tools to decrypt Widevine-protected content.
+
+* **WEB** - This is the Scene's tag for WEB-DLs. [Scene rules.](https://scenerules.org/t.html?id=wdx264v1.0-ecb63c67.nfo)
 
 * **WEBRip** -  This can be a vague term, in that it can mean that a web stream was screen captured or that it has been encoded down from a higher resolution WEB-DL (typically a 4k WEB-DL, encoded down to 1080p or 720p), which in many cases results in a higher quality video compared to the actual 720p or 1080p WEB-DL.
 
