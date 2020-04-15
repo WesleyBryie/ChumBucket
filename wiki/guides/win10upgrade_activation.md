@@ -1,10 +1,17 @@
 ---
 ---
 
-[◄◄ Back to FAQ](https://www.reddit.com/r/piracy/wiki/faq)
+[◄◄ Back to Guides](https://www.reddit.com/r/piracy/wiki/guides)
 
 ---
 ---
+
+# WINDOWS 10/LTSB/LTSC INSTALLATION AND ACTIVATION
+
+&nbsp;
+
+
+
 
 **Note:** It is in the nature of hacktools to be picked up as malware by your antivirus. Hwidgen, the tool used to activate Windows 10, is safe. [Some further reading regarding hwidgen](https://www.reddit.com/r/Piracy/comments/d654al/contribution_hwidgen_source_code/). Make sure to either turn off your antivirus or set up a folder which you can add to your antivirus' exclusion list, which you will download hwidgen into.
 
@@ -16,9 +23,13 @@ It's essentially piracy with a middleman.
 
 &nbsp;
 
+
+
+
+
 ---
 
-## Installing a fresh copy of windows 10
+## ► Installing a fresh copy of windows 10
 
 This part is not related to piracy at all, since Microsoft provides a free download of windows 10. As such, you can find guides on how to install windows 10 anywhere on the internet. Example video here: [time stamp 3:15](https://youtu.be/MfwjISmkEJM?t=195).
 
@@ -31,7 +42,11 @@ Download and run the [**media creation tool**](https://www.microsoft.com/en-us/s
 
 &nbsp;
 
-If you're looking to install LTSB/LTSC instead:
+
+
+**Windows LTSB / LTSC**
+
+Note: The eval ISOs of LTSB/LTSC cannot be extended past their typical 3 month expiry window. You need to grab the full ISOs.
 
 > LTSB isos hosted by the-eye: https://the-eye.eu/public/MSDN/Windows%2010/
 
@@ -45,7 +60,11 @@ Note that LTSC will stay frozen on the feature set of Windows 10 build 1809 (unt
 
 &nbsp;
 
-## Activating Windows 10
+
+
+
+
+## ► Activating Windows 10
 
 Just download and run [**hwidgen**](http://www.reddit.com/r/piracy/wiki/tools) to activate. Usage: [KMS38 mode for LTSC, else hwid.](https://i.imgur.com/lmjLOtq.jpg)
 
@@ -54,7 +73,9 @@ It's permanent and will not install a background service, which would be liable 
 &nbsp;
 
 
-## Upgrading to Windows 10 (from a previous version of Windows)
+
+
+## ► Upgrading to Windows 10 (from a previous version of Windows)
 
 Alternatively, if you're currently on a previous version of Windows, you'll be pleased to learn that Microsoft still offers a free upgrade to Windows 10 from a prior Windows version (7 and 8). The upgrade tool is still available through Microsoft's accessibility portal (for people who use assistive technologies) which can be found here:
 

@@ -1,7 +1,7 @@
 ---
 ---
 
-[◄◄ Back to FAQ](https://www.reddit.com/r/piracy/wiki/faq)
+[◄◄ Back to Guides](https://www.reddit.com//r/piracy/wiki/guides)
 
 ---
 ---

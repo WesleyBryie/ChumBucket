@@ -19,7 +19,7 @@
 
 ##[Rules](https://www.reddit.com/r/Piracy/wiki/piracy_rules)
 * 1. Submissions must be related to the discussion of digital piracy.
-* 2. Spam, begging for invites, trading, selling, and blatant self-promotion posts are forbidden.  
+* 2. Spam, begging for invites, trading, selling, requesting accounts/invites, and blatant self-promotion posts are forbidden.  
 * 3. Do not request for specific pirated content or link to it. Do not mention specific media names asking for help in finding them. General queries allowed. [Read expanded rules.](https://www.reddit.com/r/Piracy/wiki/piracy_rules)
 * 4. Redundant questions that have been previously answered will be removed. Search on google: `dl linux iso site:reddit.com/r/piracy`
 * 5. Do not message moderators for help with your issues. Either message the mod team if relevant, or make a post on the sub as normal.
