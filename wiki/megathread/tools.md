@@ -123,7 +123,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [**SyncThing**](https://syncthing.net/) - Share files/folders between computers. Set up shared folders which will be automatically synced between devices. 
 * [**file.pizza**](https://file.pizza/) - Secure peer-to-peer file transfers. Useful for quick one-off file transfers. [Github page.](https://github.com/kern/filepizza)
 * [**xkcd949.com**](http://xkcd949.com/) - Same concept as file.pizza
-* [**ShareDrop.io**](https://www.sharedrop.io/) - Same concept as file.pizza, but for sharing between computers on the same internal network.
+* [**ShareDrop.io**](https://www.sharedrop.io/) - Same concept as file.pizza
 * [**send.firefox.com**](https://send.firefox.com/) - Send files (up to 1 GiB) via self-destructing links. You can choose the parameters for when the link expires.
 
 &nbsp;
