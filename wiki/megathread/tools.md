@@ -55,7 +55,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [**Plex Media Server**](https://www.plex.tv/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
 * [**Jellyfin Media Server**](https://jellyfin.org/) - **Open-source** self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
 * [**Emby Media Server**](https://emby.media/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
-* [**Kodi**](https://kodi.tv/) - Home theater media center. Host your own content or add content sources (/r/Addons4Kodi)
+* [**Kodi**](https://kodi.tv/) - Home theater media center. Host your own content or add online content sources (/r/Addons4Kodi)
 
 &nbsp;
 
@@ -89,8 +89,8 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [**Soundcloud downloader**](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Firefox extension. Original thread [here](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). By /u/ImTwain.
 * [**Omnibus**](https://github.com/fireshaper/Omnibus) - Download from GetComics.info easily
 * [**get_iplayer**](https://github.com/get-iplayer/get_iplayer) - To download video from BBC's iPlayer
-* [**Batch download script for Google Drive**](https://github.com/shkcodes/google-drive-downloader) - Original [reddit thread](https://www.reddit.com/r/Piracy/comments/fpe6ji/batch_download_script_for_google_drive/)
-* [**Python script to bypass the download limit of google drive files**](https://github.com/jonathanTIE/googledrive-copy-downloader) - Original [reddit thread](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/)
+* [**Batch download script for Google Drive**](https://github.com/shkcodes/google-drive-downloader) - Bypasses download limit. Original [reddit thread](https://www.reddit.com/r/Piracy/comments/fpe6ji/batch_download_script_for_google_drive/), by /u/cfcfrank1
+* [**Batch download script for Google Drive**](https://github.com/jonathanTIE/googledrive-copy-downloader) - Bypasses download limit. Original [reddit thread](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/), by /u/jonathanTIE
 
 &nbsp;
 

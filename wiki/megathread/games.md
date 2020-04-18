@@ -7,7 +7,7 @@
 
 # GAMES
 
-Scene groups (such as CODEX, CPY, SKIDROW, etc) do not have official websites. If you find a site using the name of a scene group, they are impersonating them. Beware of these sites as they tend to package their releases with malware.
+Scene groups (such as CODEX, CPY, SKIDROW, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware.
 
 For PC games piracy news (crack releases, DRM news etc), visit /r/CrackWatch 
 
@@ -36,6 +36,7 @@ For PC games piracy news (crack releases, DRM news etc), visit /r/CrackWatch
 * **[Mobile]** [forum.mobilism.org](https://forum.mobilism.org/index.php) - Mobile cracked games
 * **[iOS]** [iphonecake.com](https://www.iphonecake.com/) - iOS cracked games (and apps)
 * **[Mac]** [nxmac.com](https://nxmac.com/) - Mac games
+* **[Mac]** [web.archive.org/.../macgames-download.com](https://web.archive.org/web/20181113021918/http://macgames-download.com/) - Web archive of the now-defunct macgames-download
 * **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free hosters
 
 &nbsp;
@@ -50,9 +51,11 @@ For PC games piracy news (crack releases, DRM news etc), visit /r/CrackWatch
 * [emuparadise.me](https://www.emuparadise.me) - Incredibly large ROM library. Use [this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) to reinstate the download links.
 * [emulation.gametechwiki.com](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - large wiki with several links to ROM/ISO dumps.
 * [Vimm's Lair](https://vimm.net/?p=vault) large collection of ROMs
+* [pleasuredome.org.uk](http://www.pleasuredome.org.uk/)
 * [DarkUmbra](https://darkumbra.net)
 * [ziperto.com](https://www.ziperto.com/)
 * [CDRomance](https://cdromance.com) - formally NicoBlog
+* [romstorage.com](https://www.romstorage.com/)
 
 &nbsp;
 
