@@ -68,8 +68,9 @@ Windows defender should be more than enough for virus protection, combined with 
 ### ► **Useful userscripts**
 
 
-* [AdsBypasser](https://adsbypasser.github.io/) to skip countdown ads or continue pages and prevent ad pop-up windows.
-* [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) to avoid installing unwanted applications downloading with legitimate software (e.g. McAfee with Adobe Flash)
-* [Get DLC Info From SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) automatically creates a DLC list for tools such as CreamAPI, GreenLuma and SmartSteamEmu.
+* [AdsBypasser](https://adsbypasser.github.io/) - Skip countdown ads or continue pages and prevent ad pop-up windows.
+* [Universal Bypass](https://universal-bypass.org/) - Skip countdown ads
+* [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Avoid installing unwanted applications downloading with legitimate software (e.g. McAfee with Adobe Flash)
+* [Get DLC Info From SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Automatically creates a DLC list for tools such as CreamAPI, GreenLuma and SmartSteamEmu.
 
 &nbsp;

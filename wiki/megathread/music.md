@@ -9,7 +9,9 @@
 
 ### Public
 
-* **[DDL/App]** [Deezloader](/r/deezloadersisback) [**app** - FLAC/mp3] -  [\[DISCONTINUED. DISCUSSION THREAD\]](https://www.reddit.com/r/Piracy/comments/fweoa7/deezloader_will_soon_not_be_able_to_download/) Download songs from Deezer in 320kbps quality. You can convert your Spotify playlist to a Deezer playlist and download it via Deezloader as well.
+* **[DDL]** /r/MusicalBootlegs
+
+* **[DDL/App]** [Deezloader](/r/deezloadersisback) [FLAC/mp3] -  [\[DISCONTINUED. DISCUSSION THREAD\]](https://www.reddit.com/r/Piracy/comments/fweoa7/deezloader_will_soon_not_be_able_to_download/) Download songs from Deezer in 320kbps quality. You can convert your Spotify playlist to a Deezer playlist and download it via Deezloader as well.
 
 * **[P2P/App]** [Soulseek](http://www.slsknet.org/news/node/1) [FLAC/ALAC/mp3/m4a] - P2P network used for music. Unlike bittorrent, the protocol used here is direct P2P i.e. downloading and uploading is not done with multiple users simultaneously but with a single user (like downloading a file from a website). This provides more security than public trackers as there is no swarm for copyright trolls to stay in and monitor. Unlike other sources (except youtube), there is no quality control though the chances of encountering low quality files is still quite low. For people wanting to share their libraries, soulseek is the easiest and fastest way.
 
