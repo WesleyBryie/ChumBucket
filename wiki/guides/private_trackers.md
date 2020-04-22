@@ -8,7 +8,7 @@
 
 &nbsp;
 
-For open signups to get your feet wet, see /r/opensignups.
+For open signups, see /r/opensignups.
 
 For invites to trackers that allow invites to be given through unofficial means, see /r/invites. Ratio proofs from other trackers will typically be required, you need to prove you are a good user. Please be aware that though these are unofficial invites and technically allowed by some of the trackers appearing on the subreddit, it does not extend to buying/selling of invites (buying/selling is never allowed). You will also not find invites to elite trackers there.
 

@@ -13,16 +13,25 @@ General-purpose indexers to search for any type of content.
 ### ► **General indexers**
 
 * [rutracker.org](https://rutracker.org/forum/index.php) [.org, .net, .nl] - Russian tracker. Has an immense catalogue for many different categories. Considered to be the most complete public tracker and is well-seeded.
+
 * [1337x.to](https://1337x.to/) - General purpose indexer. [Alternate domains.](https://i.imgur.com/oCC9Y2H.jpg)
+
 * [limetorrents.cc](https://www.limetorrents.cc/)
+
 * [nnm-club.me](https://nnm-club.me/) - Russian tracker and forum.
+
 * [RARBG.to](https://rarbg.to/torrents.php) - Popular movies & TV tracker, though it offers other categories too. One of the most organized public tracker. Can search by IMDB tags (eg. tt0258038, appearing in IDMB URLs)
+
 * [rutor.info](http://rutor.info/)
 
 * [toorgle.net](http://www.toorgle.com/)
+
 * [zooqle.com](https://zooqle.com/) - Easy to use movie & TV indexer
+
 * **[DDL]** [the-eye.eu](https://the-eye.eu/) - Large collection of content
+
 * **[DDL]** /r/opendirectories - Subreddit for sharing open directories
+
 * [/r/opendirectories's Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) - Reddit thread
 
 
