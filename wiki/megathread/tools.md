@@ -73,7 +73,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
  * [**Youtube-dl gui**](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, if you're not comfortable with the command line.
 * [**JDownloader2**](http://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
 * [**Internet Download Manager \(IDM\)**](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this.](https://github.com/J2TEAM/idm-trial-reset)
-* [XTREME download manager](https://subhra74.github.io/xdm/) - Another very nice download manager
+* [**XTREME download manager**](https://subhra74.github.io/xdm/) - Another very nice download manager
 * [**pyLoad**](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
 * [**Anime-Downloader**](https://github.com/Oshan96/Anime-Downloader) - Bulk download anime episodes for various websites, in various resolutions, with or without filler episodes
 

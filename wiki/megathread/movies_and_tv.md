@@ -23,11 +23,11 @@
 * [rutracker.org](https://rutracker.org/) [.org, .net, .nl] - The best general tracker from Russia and arguably the best one overall. It's great for niche movies, especially from Russia and other east European countries.
 * [TorrentGalaxy.to](https://torrentgalaxy.to/) - Another highly recommended site for movies & TV.
 * [ettv.to](https://www.ettv.to/home/)
-* **[TV]** [eztv.io](https://eztv.io/)
 * [Zooqle.com](https://zooqle.com/) - Easy to use torrent site
 * [1337x.to](https://1337x.to/) - Many public p2p releases/encodes are released here, including Tigole/UTR/YIFY. Cams are typically uploaded here as well.
-* **[Movies]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
 * [psarips.com](http://psarips.com/) - Small-sized x265 (re-)encodes
+* **[TV]** [eztv.io](https://eztv.io/)
+* **[Movies]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
 * **[Documentaries]** [forums.mvgroup.org](https://forums.mvgroup.org/index.php) - Very good documentaries indexer. Registration required.
 * **[Anime]** [Nyaa.si](https://nyaa.si/)
 * **[Anime]** [nyaa.pantsu.cat](https://nyaa.pantsu.cat/)

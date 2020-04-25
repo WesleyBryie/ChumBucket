@@ -114,7 +114,7 @@
  > Which release do I get? Which is better?
 
 * Why do some of my downloads have dull/darkened/washed out colors?
- > You downloaded a video with HDR metadata. You need an HDR-capable display to play it back properly, else you'll have to use a tone-mapping software such as madVR with a video player such as [MPC](https://github.com/clsid2/mpc-hc). [MPV](https://mpv.io/) and PotPlayer include tone-mapping by default.
+ > You downloaded a video with HDR metadata. You need an HDR-capable display to play it back properly, else you'll have to use a tone-mapping software such as madVR with a video player such as [MPC](https://github.com/clsid2/mpc-hc). [MPV](https://mpv.io/) includes tone-mapping by default.
 
 * How long does it take for new movies to release on torrent sites in HD?
  > About 3 months following the theater date. Check https://www.dvdsreleasedates.com/ for the digital release. The blu-ray/DVD follows 2 weeks later, but is usually leaked up to 2 weeks early from somewhere in the production chain, coinciding with the digital release. It is extremely rare for the digital to get leaked, so for all intents and purposes, the official digital release date ***is*** the pirate release date.
