@@ -11,7 +11,7 @@ Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled u
 
 * **[torrents]** [rutracker.org](http://rutracker.org/) [.org, .net, .nl] - Amazing tracker for software of any kind (ie. your favorite graphics/music/video software, including plugins for them, etc.). Torrents will be checked by staff for integrity and will show [a checkmark](https://i.imgur.com/GpZIvRq.jpg) on the torrent page.
 
-* **[torrents]** [monkrus.ws](http://w13.monkrus.ws/) - Your favorite cracker for your favorite software.
+* **[torrents]** [monkrus.ws](http://w13.monkrus.ws/) - Trusted cracker for popular software.
 
 * **[DDL]** [forum.ru-board.com > Underground](http://forum.ru-board.com/board.cgi?catplace=6) - "Underground" forums at ru-board
 
@@ -35,9 +35,13 @@ Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled u
 &nbsp;
 
 * **[torrents]** [cgpeers.com](https://www.cgpeers.com) - Graphics-related downloads and discussion - 3D/Visual Effects/Computer Graphics/Design/Computer Assisted Art. ~~Registration opens on the 1st and 15th of every month.~~. User cap reached, now invite-only.
+
 * **[DDL]** [cgpersia.com](https://forum.cgpersia.com/) (semi-private) - Semi-private DDL site. Source for video-software plugins.
+
 * **[DDL]** [audioz.download](https://audioz.download/) - Source for audio software and plugins.
+
 * **[DDL]** [gfx-hub.net](https://gfx-hub.net/) - Source for graphics software and plugins.
+
 * **[torrents]** [audionews.org](https://audionews.org/) (semi-private) - Source for audio software and plugins. Open registration every 2nd of the month.
 
 &nbsp;
@@ -50,14 +54,15 @@ Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled u
 
 ### Windows/Office untouched ISOs
 
-* **[Direct download]** [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
-* **[Direct download]** [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to create Windows 10 installation media from a USB drive
-* **[Direct download]** [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye - 2.7 TB back up of MSDN dump. Has lots of hard to find ISOs
+* **[DDL]** [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
+* **[DDL]** [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump (latest releases) 
+* **[DDL]** [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to create Windows 10 installation media from a USB drive
+* **[DDL]** [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye - 2.7 TB back up of MSDN dump. Has lots of hard to find ISOs
 
 ### Adobe untouched installers
 
-* [**Direct download**] [Adobe.com CC applications](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html) - requires Adobe login.
-* [**Direct download**] [Adobe CC 2018 multilanguage installers](http://prodesigntools.com/adobe-cc-2018-direct-download-links.html)
+* [**DDL**] [Adobe.com CC applications](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html) - requires Adobe login.
+* [**DDL**] [Adobe CC 2018 multilanguage installers](http://prodesigntools.com/adobe-cc-2018-direct-download-links.html)
 
 &nbsp;
 

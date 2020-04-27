@@ -58,7 +58,7 @@ Sites labeled repacks are for releases that have been repacked from the original
 * [romulation.net](https://www.romulation.net/)
 * [emuparadise.me](https://www.emuparadise.me) - Incredibly large ROM library. Use [this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) to reinstate the download links.
 * [emulation.gametechwiki.com](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - large wiki with several links to ROM/ISO dumps.
-* [Vimm's Lair](https://vimm.net/?p=vault) large collection of ROMs
+* [Vimm's Lair](https://vimm.net/?p=vault) - large collection of ROMs
 * [pleasuredome.org.uk](http://www.pleasuredome.org.uk/)
 * [DarkUmbra](https://darkumbra.net)
 * [ziperto.com](https://www.ziperto.com/)

@@ -80,26 +80,21 @@ If you have any critique or suggestions you would like to see added to the Megat
 
 #### **Misc. websites**:
 
- * [VirusTotal.com](https://www.virustotal.com/) - Scans files and URLs with various anti-virus engines
- * [Squawkr.io](https://www.squawkr.io/) - Get notified when a movie releases. You can also set parameters such as resolution
- * [subscene.com](https://subscene.com/) - multinlingual subtitles for movies/series
- * [addic7ed.com](http://www.addic7ed.com/) - multinlingual subtitles for movies/series
- * [Free Premium Leechers List](https://filehostlist.miraheze.org) - maintained by u/H1dd3nM1nd
+* [VirusTotal.com](https://www.virustotal.com/) - Scans files and URLs with various anti-virus engines
+* [Squawkr.io](https://www.squawkr.io/) - Get notified when a movie releases. You can also set parameters such as resolution
+* [subscene.com](https://subscene.com/) - multinlingual subtitles for movies/series
+* [addic7ed.com](http://www.addic7ed.com/) - multinlingual subtitles for movies/series
+* [Free Premium Leechers List](https://filehostlist.miraheze.org) - maintained by u/H1dd3nM1nd
 
 #### **Scene / p2p tracer websites**:
 
 These are sites that track Scene releases. They serve strictly as notice boards and do not offer downloads to any of the content posted.
 
- * [predb.me](https://predb.me/) - Tracer for **Scene** releases
- * [predb.ovh](https://predb.ovh/) - Tracer for **Scene** releases. Very useful search operators to filter results. Release group: `@team group_name` to find out if a certain group is Scene or not; category: `@cat games`, `@cat tv`, `@cat tv-HD`, `@cat tv-HD-x264`
- * [pre.c-burns.co.uk/pre.php](http://pre.c-burns.co.uk/pre.php) - Tracer for **Scene** releases
- * **[P2P]** [pre.c-burns.co.uk/p2ptrace.php](http://pre.c-burns.co.uk/p2ptrace.php) - Tracer for **P2P** releases
-
-#### **Microsoft stuff**:
-
- * **[Microsoft .iso DDLs]** - [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+. 
- * **[Microsoft .iso DDLs]** - [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump (latest releases) 
- * **[Microsoft .iso DDLs]** - [Theeye - 2.7 TB back up of MSDN dump](https://the-eye.eu/public/MSDN/). Has lots of hard to find .isos.
+* [predb.org](http://predb.org/) - **Scene** tracer
+* [predb.me](https://predb.me/) - **Scene** tracer
+* [predb.ovh](https://predb.ovh/) - **Scene** tracer. Very useful search operators to filter results. Release group: `@team group_name` to find out if a certain group is Scene or not; category: `@cat games`, `@cat tv`, `@cat tv-HD`, `@cat tv-HD-x264`
+* [pre.c-burns.co.uk/pre.php](http://pre.c-burns.co.uk/pre.php) - **Scene** tracer
+* **[P2P]** [pre.c-burns.co.uk/p2ptrace.php](http://pre.c-burns.co.uk/p2ptrace.php) - Tracer for **P2P** releases
 
 
 #### **Premium Links from file hosts**
