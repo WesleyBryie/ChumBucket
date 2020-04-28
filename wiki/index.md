@@ -85,6 +85,8 @@ Subreddits that may be better suited than /r/Piracy:
 
 * /r/SwitchPirates
 
+* /r/SwitchNSPs
+
 * /r/SwitchHaxing
 
 * /r/CemuPiracy - Cemu is a WiiU emulator for the PC. This sub is for discussion on WiiU piracy with a focus on emulation.

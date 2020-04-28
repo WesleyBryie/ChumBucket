@@ -61,13 +61,13 @@ Windows defender should be more than enough for virus protection, combined with 
 
 * [uBlock origin](https://github.com/gorhill/uBlock##installation) - for blocking most ads and pop-ups.
 * [uBlock-safari](https://github.com/el1t/uBlock-Safari) - uBlock port for Safari or MacOS users.
-* [Nano Defender](https://jspenguin2017.github.io/uBlockProtector) - Some websites will block your access if you have an adblocker running. This browser extension is your anti-anti-adblocker. It blocks the blocking of adblocks.
+* [Nano Defender](https://jspenguin2017.github.io/uBlockProtector) - [Read this](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin) for uBlock Origin integration. Some websites will block your access if you have an adblocker running. This browser extension is your anti-anti-adblocker. It blocks the blocking of adblockers.
 * [Tampermonkey](https://tampermonkey.net) - for installing userscripts.
 
 
 ### ► **Useful userscripts**
 
-
+* [Anti-adblock killer](https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek) - Tampermonkey/Greasemonkey userscript
 * [AdsBypasser](https://adsbypasser.github.io/) - Skip countdown ads or continue pages and prevent ad pop-up windows.
 * [Universal Bypass](https://universal-bypass.org/) - Skip countdown ads
 * [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Avoid installing unwanted applications downloading with legitimate software (e.g. McAfee with Adobe Flash)

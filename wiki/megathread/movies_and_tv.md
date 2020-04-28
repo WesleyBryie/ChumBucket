@@ -42,6 +42,7 @@
 
 *For streaming with Kodi, visit r/Addons4Kodi*
 
+* **[torrent-based]** [magnetoo.io](https://www.magnetoo.io/) - Movies
 * [www.rulu.co](https://www.rulu.co/) - Youtube RED series
 * [vidcloud9.com](https://vidcloud9.com/)
 * [ffilms.club](https://ffilms.club/)
@@ -63,7 +64,6 @@
   * **[Anime]** [AnimeMolecules](https://animemolecules.com/) - Anime streaming app
   * **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
   * **[Anime]** [Anyme](https://github.com/zunjae/anYme) - Anime streaming
-  * [ApolloTV](https://apollotv.xyz/) - Movie/TV streaming
   * [TVZion](https://zionapp.live/) - Movies/TV streaming
   * [cinemaapk.com](https://cinemaapk.com/) - Movies/TV streaming
   * [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
