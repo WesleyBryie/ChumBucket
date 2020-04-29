@@ -141,6 +141,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [**Newspaper-Paywall-Bypasser**](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Bypass newspaper site paywalls. Requires tampermoney/greasemonkey to install.
 * **[Paid]** [**Filebot**](https://www.filebot.net/) - Media renaming program (license runs at $6/year). Renames to a proper user-set naming scheme from typical naming conventions found on torrents (ie. Movie.Name.2005.1080p.BluRay.DD5.x264). [Sea-faring version.](https://github.com/barry-allen07/FB-Mod/releases)
 * [**AdvancedRenamer**](https://www.advancedrenamer.com/) - Same aspect as filebot, but free.
+* [**TheRenamer**](http://therenamer.com/) - Same aspect as filebot, but free.
 
 &nbsp;
 
