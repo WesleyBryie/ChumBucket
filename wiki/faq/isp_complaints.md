@@ -108,8 +108,6 @@ No, you don't need to. Your ISP cannot tell what's on your hard drive or not. As
 
 A paid VPN is recommended, as there are no good free ones that allow torrent traffic, not to mention that most will mine data from you for marketing purposes. You should seek a VPN that does not store connection and usage logs. Within this subreddit and Reddit as a whole, you will find aggressive VPN marketing tactics by nearly all top popular VPN services. Do your own research. You will often encounter the suggestion to visit [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/). Do not rely blindly on the chart and look up each individual VPN’s ToS. Many VPNs offer trials and refunds, use these to your benefit when determining which VPN best suits your needs. Below are some good research material to start with:
 
- * https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/
-
  * https://torrentfreak.com/vpn-anonymous-review-160220/
 
  * https://www.reddit.com/r/VPN/wiki/index
