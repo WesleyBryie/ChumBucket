@@ -83,6 +83,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 ##► Single-purpose download tools
 
+* [**y2mate**](https://www.y2mate.com/) - Download youtube video/audio.
 * [**bandcamp-dl**](https://github.com/iheanyi/bandcamp-dl) - Download music from Bandcamp
 * [**Megabasterd**](https://github.com/tonikelope/megabasterd) - Bypass Mega's 5 GiB per 6 hours download limit.
 * [**Skillshare-dl**](https://github.com/mrwnwttk/skillshare-dl) - Download from skillshare. [Original thread.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
