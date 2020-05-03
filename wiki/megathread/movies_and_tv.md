@@ -14,7 +14,7 @@
 
 *Make sure your adblocker is on*. uBlock Origin is recommended. See the wiki page: [Privacy and Security](https://www.reddit.com/r/Piracy/wiki/megathread/privacy_and_security)
 
-***[For hard-to-find content, you might want to give these torrent search engines a shot. They will list all DHT-tracked torrents. Read the warning.](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines)***
+❗ ***For hard-to-find content, you can use these [general trackers and/or search for open directories](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). The search engines in particular listen in on the DHT network and will list as many torrents as possible. Read the warning.***
 
 ### ► **Torrents**
 
@@ -25,6 +25,7 @@
 * [ettv.to](https://www.ettv.to/home/)
 * [Zooqle.com](https://zooqle.com/) - Easy to use torrent site
 * [1337x.to](https://1337x.to/) - Many public p2p releases/encodes are released here, including Tigole/UTR/YIFY. Cams are typically uploaded here as well.
+* [uniteam.co / UTR](https://uniteam.co/) - Decent-sized x265 encodes, with movie extras included.
 * [psarips.com](http://psarips.com/) - Small-sized x265 (re-)encodes
 * **[TV]** [eztv.io](https://eztv.io/)
 * **[Movies]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes

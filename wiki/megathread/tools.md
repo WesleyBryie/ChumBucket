@@ -48,7 +48,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-##► Media Managers / Clients
+##► Media Centers / Clients
 
 * [**Stremio**](https://www.stremio.com/) - Multi video library manager. Plugins available to stream from various media sources, including torrents. Also check out /r/StremioAddons. Watch-together [guide](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/).
 * [**Plex Media Server**](https://www.plex.tv/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
@@ -61,6 +61,8 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
+
+
 ##► Download Managers & helpers
 
 * [**Sonarr**](https://sonarr.tv/) - Sonarr is an automatic TV show downloading tool where you can add new shows to monitor, and it will automatically download any new episodes as soon as they are available on torrent sites.
@@ -68,10 +70,12 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [**Medusa**](https://pymedusa.com/) - Very good alternative to Sonarr. An automatic TV show download tool.
 * [**SickChill**](https://sickchill.github.io/) - Very good alternative to Sonarr. An automatic TV show download tool.
 * [**Jackett**](https://github.com/Jackett/Jackett) - Jackett is an all-in-one indexer. It allows you to add many different torrent trackers onto their app, in which you can do all your searching. In conjunction with sonarr/radarr, you can add jackett as an indexer to the aforementioned applications, so they will search on any or every single torrent tracker that you have added to jackett.
+
+---
 * [**Youtube-dl**](https://ytdl-org.github.io/youtube-dl/index.html) - Open-source commandline tool to download video/audio from a large variety of websites. See the [FAQ](https://reddit.com/r/piracy/wiki/faq) for how to install and use properly.
  * [**Youtube-dl gui**](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, if you're not comfortable with the command line.
 * [**JDownloader2**](http://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
-* [**Internet Download Manager \(IDM\)**](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this.](https://github.com/J2TEAM/idm-trial-reset)
+* [**Internet Download Manager \(IDM\)**](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this.](https://github.com/J2TEAM/idm-trial-reset). Alternative [method](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
 * [**XTREME download manager**](https://subhra74.github.io/xdm/) - Another very nice download manager
 * [**pyLoad**](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
 * [**Anime-Downloader**](https://github.com/Oshan96/Anime-Downloader) - Bulk download anime episodes for various websites, in various resolutions, with or without filler episodes
@@ -98,20 +102,39 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-##► Mobile
+##► Mobile Apps
 
+* [**Lucky Patcher**](https://www.luckypatchers.com/) - Unlock in-app purchases on android
 * [**Newpipe**](https://newpipe.schabi.org/) - Watch and download youtube videos. Also offers ability to download from soundcloud.
 * [**YMusic**](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - Youtube Music player and downloader
 * [**Tachiyomi**](https://github.com/inorichi/tachiyomi) - Manga reader
-* [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
 * **[Android/iOS]** [**forum.mobilism.org**](https://forum.mobilism.org/index.php) - Forums with large catalogue of cracked apps and eBooks
 * [**Fildo**](https://fildo.net/android/en/#) - Music streaming app and downloader
 * [**apkmirror.com**](https://www.apkmirror.com/) - Contains untouched and signed release apks. Useful if searching for a prior version of an application.
-* [**apkpure.com**](https://apkpure.com/) - Similar to apkmirror.com
-* [**ACMarket**](https://acmarket.net/) - "cracked play store." (apps/games)
 * Streaming apps for Movies & TV listed under the [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv) section of the megathread
 * See /r/sideloaded for iOS
 * See /r/ApksApps for more android apps
+
+&nbsp;
+
+
+
+
+##► Mobile Cracked App Markets/Repos
+
+#### Android:
+ * [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
+ * [**apkpure.com**](https://apkpure.com/) - Similar to apkmirror.com
+ * [**ACMarket**](https://acmarket.net/) - "cracked play store." (apps/games)
+
+#### iOS:
+
+ * [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
+ * [cydia.kiiimo.org](https://cydia.kiiimo.org)
+ * [cydia.iphonecake.com](https://cydia.kiiimo.org)
+ * [repo.hackyouriphone.org](https://cydia.kiiimo.org)
+ * [julio.hackyouriphone.org](https://cydia.kiiimo.org)
+ * [julioverne.github.io](https://cydia.kiiimo.org)
 
 &nbsp;
 
