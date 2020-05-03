@@ -42,7 +42,7 @@ Sites labeled repacks are for releases that have been repacked from the original
 * **[iOS]** [iphonecake.com](https://www.iphonecake.com/) - iOS cracked games (and apps)
 * **[Mac]** [nxmac.com](https://nxmac.com/) - Mac games
 * **[Mac]** [web.archive.org/.../macgames-download.com](https://web.archive.org/web/20181113021918/http://macgames-download.com/) - Web archive of the now-defunct macgames-download
-* **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free hosters
+* **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free file hosts
 * **[Repacks]** [kaoskrew.org](https://kaoskrew.org/)
 * **[Repacks]** [kapitalsin.com](http://www.kapitalsin.com/forum/index.php?board=4.0)
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they get die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.

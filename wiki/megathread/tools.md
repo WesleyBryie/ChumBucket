@@ -104,7 +104,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 ##► Mobile Apps
 
-* [**Lucky Patcher**](https://www.luckypatchers.com/) - Unlock in-app purchases on android
+* [**Lucky Patcher**](https://www.luckypatchers.com/) - Unlocks in-app purchases on Android apps and removes ads.
 * [**Newpipe**](https://newpipe.schabi.org/) - Watch and download youtube videos. Also offers ability to download from soundcloud.
 * [**YMusic**](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - Youtube Music player and downloader
 * [**Tachiyomi**](https://github.com/inorichi/tachiyomi) - Manga reader
@@ -123,18 +123,22 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 ##► Mobile Cracked App Markets/Repos
 
 #### Android:
- * [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
- * [**apkpure.com**](https://apkpure.com/) - Similar to apkmirror.com
- * [**ACMarket**](https://acmarket.net/) - "cracked play store." (apps/games)
+* [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
+* [apkpure.com](https://apkpure.com/) - Similar to apkmirror.com
+* [ACMarket](https://acmarket.net/) - Apps and games
+* [APKmos](https://apkmos.com/) - Apps and games
+* [4PDA](https://4pda.ru/forum/) - Apps and games
+
+
 
 #### iOS:
 
- * [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
- * [cydia.kiiimo.org](https://cydia.kiiimo.org)
- * [cydia.iphonecake.com](https://cydia.kiiimo.org)
- * [repo.hackyouriphone.org](https://cydia.kiiimo.org)
- * [julio.hackyouriphone.org](https://cydia.kiiimo.org)
- * [julioverne.github.io](https://cydia.kiiimo.org)
+* [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
+* [cydia.kiiimo.org](https://cydia.kiiimo.org)
+* [cydia.iphonecake.com](https://cydia.kiiimo.org)
+* [repo.hackyouriphone.org](https://cydia.kiiimo.org)
+* [julio.hackyouriphone.org](https://cydia.kiiimo.org)
+* [julioverne.github.io](https://cydia.kiiimo.org)
 
 &nbsp;
 
@@ -187,9 +191,9 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 ### Windows/Office untouched ISOs
 
-* **[Direct download]** - [https://tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+. 
+* **[Direct download]** [https://tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+. 
 * **[Direct download]** [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to create Windows 10 installation media from a USB drive.
-* **[Direct download]** - [Theeye - 2.7 TB back up of MSDN dump](https://the-eye.eu/public/MSDN/). Has lots of hard to find ISOs.
+* **[Direct download]** [Theeye - 2.7 TB back up of MSDN dump](https://the-eye.eu/public/MSDN/). Has lots of hard to find ISOs.
 
 ### Adobe installers
 
