@@ -41,11 +41,13 @@ General-purpose indexers to search for any type of content.
 
 These torrent search engines/DHT crawlers can be used to search within as many publicly listed torrents as possible to find rare content that may not be available in the above trackers/indexers.
 
-❗ **[Warning]** DHT crawlers listen in on the DHT network to index torrent files. They will list as many publicly available torrents as possible, unfiltered and unfettered. This means that torrents that download malware are likely to appear in the search results. Never use these to search for software, but when searching for other media types, take some [**preliminary measures**](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to avoid running malware.
+❗ **[Warning]** These search engines will list as many publicly available torrents as possible, unfiltered and unfettered. This means that torrents that download malware are likely to appear in the search results. Never use these to search for software, but when searching for other media types, take some [**preliminary measures**](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to avoid running malware.
 
 ### ► **Search Engines / DHT crawlers**
 
 DHT torrent search engine. Great for searching for all publicly available torrents - beats searching all your usual sites for that one elusive torrent. Lists all DHT-tracked torrents:
+
+* [torrentz2.eu](https://torrentz2.eu/) - Multi-site search engine
 
 * [btdig.com](https://btdig.com/) - DHT torrent search engine.
 

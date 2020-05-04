@@ -15,7 +15,7 @@ Alternative megathread here: https://github.com/Igglybuff/awesome-piracy/blob/ma
 
 **Notes on software and sites to avoid:**
 
-* Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
+* Try to avoid the pirate bay if you can (for software/games), it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
   * If you are going to use the pirate bay, never use it for software, but otherwise you'll want to take preliminary steps to avoid malware when browsing for other types of media (video, audio, etc.). [Guide.](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)
 
@@ -94,7 +94,9 @@ These are sites that track Scene releases. They serve strictly as notice boards 
 * [predb.me](https://predb.me/) - **Scene** tracer
 * [predb.ovh](https://predb.ovh/) - **Scene** tracer. Very useful search operators to filter results. Release group: `@team group_name` to find out if a certain group is Scene or not; category: `@cat games`, `@cat tv`, `@cat tv-HD`, `@cat tv-HD-x264`
 * [pre.c-burns.co.uk/pre.php](http://pre.c-burns.co.uk/pre.php) - **Scene** tracer
+* [xrel.to/releases.html](https://www.xrel.to/releases.html) - **Scene** tracer
 * **[P2P]** [pre.c-burns.co.uk/p2ptrace.php](http://pre.c-burns.co.uk/p2ptrace.php) - Tracer for **P2P** releases
+* **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Tracer for **P2P** releases
 
 
 #### **Premium Links from file hosts**

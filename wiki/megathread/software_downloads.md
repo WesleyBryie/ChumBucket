@@ -42,13 +42,13 @@ Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled u
 
 * [torrents] [monkrus.ws](http://w13.monkrus.ws/) - Trusted cracker for popular graphics/video software.
 
-* [torrents/private] [audionews.org](https://audionews.org/) - Audio software and plugins, as well as tutorials. ***Opens up on the 2nd of every month (Midnight / Moscow time).***
+* [torrents/private] [audionews.org](https://audionews.org/) - Audio software and plugins, as well as tutorials. ***Registration opens on the 2nd of every month (Midnight / Moscow time).***
 
 * [torrents/private] [theaudioscene.net](https://theaudioscene.net/) - Audio software and plugins. Registration is available in exchange for a small donation.
 
 * [torrents/private] [cgpeers.com](https://www.cgpeers.com) - Graphics software/plugins downloads and discussion - 3D/Visual Effects/Computer Graphics/Design/Computer Assisted Art. ~~Registration opens on the 1st and 15th of every month.~~. ***User cap reached, now invite-only.***
 
-* [DDL] [flsaudio.com](flsaudio.com) - Video software and plugins.
+* [DDL] [flsaudio.com](https://flsaudio.com) - Video software and plugins.
 
 * [DDL/private] [cgpersia.com](https://forum.cgpersia.com/) - Video software and plugins.
 
