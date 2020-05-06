@@ -7,7 +7,7 @@
 
 # GAMES
 
-Scene groups (such as CODEX, CPY, SKIDROW, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware.
+Scene groups (such as CODEX, CPY, SKIDROW, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (One notable exception is https://www.skidrowreloaded.com, which is fine to use).
 
 For PC games piracy news (crack releases, DRM news etc), visit /r/CrackWatch 
 
@@ -31,11 +31,12 @@ Sites labeled repacks are for releases that have been repacked from the original
 
 ### ►  **DDL sites (direct download)**
 
+* [Steam Underground - cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=10) - Dedicated game piracy forum. Check [their FAQ](https://cs.rin.ru/forum/viewtopic.php?f=10&t=98158) to get the best usage out of the site. Best parts are the discussion and the different types of tools especially the multiplayer ones. Game links aren't always provided (especially for scene releases; they recommend some external sites in their FAQ) but when they are, they are on free file hosting services like zippyshare so that's another plus. Also includes early access games.
 * [ovagames.com](http://www.ovagames.com/) - Offers Scene game downloads
 * [scnlog.me](https://scnlog.me/) - Scene game releases
 * [forum.torrminatorr.com](https://forum.torrminatorr.com/) - Scene and p2p game releases
 * [gog-games.com](https://gog-games.com/) - Untouched GOG games. No cracks needed.
-* [Steam Underground - cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=10) - Dedicated game piracy forum. Best parts are the discussion and the different types of tools especially the multiplayer ones. Game links aren't always provided (especially for scene releases; they recommend some external sites in their FAQ) but when they are, they are on free file hosting services like zippyshare so that's another plus. Also includes early access games.
+* [steamunlocked.net](https://steamunlocked.net/)
 * [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - Game trainers, cheats, and standalone cracks for games
 * [myabandonware.com](https://www.myabandonware.com/) - Old/retro/"abandoned" games
 * **[Mobile]** [forum.mobilism.org](https://forum.mobilism.org/index.php) - Mobile cracked games
@@ -45,7 +46,8 @@ Sites labeled repacks are for releases that have been repacked from the original
 * **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free file hosts
 * **[Repacks]** [kaoskrew.org](https://kaoskrew.org/)
 * **[Repacks]** [kapitalsin.com](http://www.kapitalsin.com/forum/index.php?board=4.0)
-* **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they get die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.
+* **[Repacks]** [gamesfull.org](https://www.gamesfull.org/)
+* **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.
 
 &nbsp;
 
