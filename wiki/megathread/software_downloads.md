@@ -83,7 +83,7 @@ Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled u
 * [DDL] [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
 * [DDL] [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump (latest releases) 
 * [DDL] [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to create Windows 10 installation media from a USB drive
-* [DDL] [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye - 2.7 TB back up of MSDN dump. Has lots of hard to find ISOs
+* [DDL] [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye - 2.7 TB back up of MSDN dump. Has a lot of hard to find ISOs, Windows 7, etc.
 
 ### Adobe untouched installers
 

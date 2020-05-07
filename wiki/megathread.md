@@ -44,8 +44,11 @@ If you have any critique or suggestions you would like to see added to the Megat
 ### [► Privacy and Security](https://www.reddit.com/r/Piracy/wiki/megathread/privacy_and_security)
  > VPNs, adblockers, and useful browser extensions
 
-### [► Apps / Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
+### [► Useful Programs / Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
  > Activation tools, torrent clients, mobile apps, download managers and helpers/tools and other miscellaneous
+
+### [► Mobile Apps & Cracked App Markets/Repos](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos)
+ > Apps and resources for Android and iOS
 
 ### [► Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
  > Sites for streaming and downloading/torrenting Movies & TV and Sports

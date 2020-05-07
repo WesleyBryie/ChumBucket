@@ -65,11 +65,11 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 ### ► **Manga**
 
-* [MangaPlus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) [Official free alternative] - Provides initial chapters of popular manga titles for free.
+* [MangaPlus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) [Official legal site] - Provides initial chapters of popular manga titles for free.
 * [MangaDex.org](https://mangadex.org/)
 * [KissManga.com](http://kissmanga.com/)
 * [comix-load.in](https://comix-load.in/)
-* [/r/AnimePiracy's wiki extensive list of sites and apps]([**/r/animepiracy's exhaustive wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/B100))
+* [**/r/animepiracy's exhaustive wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/B100)
 
 ### ► **Private torrent trackers**
 

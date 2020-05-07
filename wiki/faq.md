@@ -143,8 +143,8 @@
 * Are the game sites linked in the [megathread](https://www.reddit.com/r/Piracy/wiki/megathread) safe?
  > If you use general trackers that allow user uploading, you'll have to be careful, especially more so if you use a torrent search engine which will list as many publicly distributed torrent as possible. Otherwise, if you use the dedicated game websites listed under `Games`, then yes, they're safe. ^^^^But ^^^^that's ^^^^exactly ^^^^what ^^^^a ^^^^malware ^^^^distributor ^^^^would ^^^^say...
 
-* My game downloads are being flagged as malware/trojans by my antivirus.
- > That is the nature of cracked files. Not to say that you should trust every loon in a youtube video that says "it's a false positive, go ahead and install", but the sites listed in the [megathread](https://www.reddit.com/r/Piracy/wiki/megathread) listed under the `Games` section are safe to use. If you have an adblocker and used the proper download link, you should be good to go. Browsing pirate sites without an adblocker will just yield adverts posing as download buttons, which will yield virus-infected downloads, so make sure you're not just clicking on the most vibrant-looking link.
+* My game downloads are being flagged as malware by my antivirus.
+ > That is the nature of cracked files. Not to say that you should trust every loon in a youtube video that says "it's a false positive, go ahead and install", but the sites listed in the [megathread](https://www.reddit.com/r/Piracy/wiki/megathread) listed under the `Games` section are safe to use as proper game cracks will yield few generic detections. If you have an adblocker and used the proper download link, you should be good to go. Browsing pirate sites without an adblocker will just yield adverts posing as download buttons, which will yield virus-infected downloads, so make sure you're not just clicking on the most vibrant-looking link.
 
 * Fitgirl is packed with ViRuSes!?
  > Read above, [fitgirl's site](http://fitgirl-repacks.site/) is safe to use.

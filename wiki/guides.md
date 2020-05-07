@@ -16,6 +16,7 @@
 [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases) | - | - | -
 [A python script to bypass the download limit of google drive files (w executable&source code)](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/) | u/jonathanTIE | 01/01/2020 | 01/03/2020
 [Kodi 18.6 + IAGL + RetroArch = Emulation Heaven](https://www.reddit.com/r/Piracy/comments/g4gb8t/kodi_186_iagl_retroarch_emulation_heaven/) | u/TechDoctorUK | Apr 19, 2020 | -
+[Guide on searching for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - from /r/opendirectories  | u/ElectroXexual | Jul 30, 2018 | -
 
 &nbsp;
 

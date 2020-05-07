@@ -32,7 +32,9 @@ General-purpose indexers to search for any type of content.
 
 * **[DDL]** /r/opendirectories - Subreddit for sharing open directories
 
-* [/r/opendirectories's Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) - Reddit thread
+* [/r/opendirectories's Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/)
+
+* ⭐ [Guide on searching for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - Guide that can be very useful in finding rare content
 
 &nbsp;
 

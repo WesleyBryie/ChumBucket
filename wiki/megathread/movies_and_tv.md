@@ -22,7 +22,7 @@
 * [RARBG.to](https://rarbg.to/) - One of the most organized public trackers, gets new content very quickly. Can search by IMDB tags (eg. `tt0258038`, appearing in IDMB URLs)
 * [rutracker.org](https://rutracker.org/) [.org, .net, .nl] - The best general tracker from Russia and arguably the best one overall. It's great for niche movies, especially from Russia and other east European countries.
 * [TorrentGalaxy.to](https://torrentgalaxy.to/) - Another highly recommended site for movies & TV.
-* [ettv.to](https://www.ettv.to/home/)
+* [ettvdl.com](https://www.ettvdl.com/home/)
 * [Zooqle.com](https://zooqle.com/) - Easy to use torrent site
 * [1337x.to](https://1337x.to/) - Many public p2p releases/encodes are released here, including Tigole/UTR/YIFY. Cams are typically uploaded here as well.
 * [uniteam.co / UTR](https://uniteam.co/) - Decent-sized x265 encodes, with movie extras included.
