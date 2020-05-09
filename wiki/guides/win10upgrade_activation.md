@@ -52,7 +52,7 @@ Note: The eval ISOs of LTSB/LTSC cannot be extended past their typical 3 month e
 
 > LTSC x86_64 (64-bit) iso: http://cdn.digiboy.ir/?b=dlir-s3&f=SW_DVD5_WIN_ENT_LTSC_2019_64-bit_English_MLF_X21-96425.ISO (original thread [here](https://www.reddit.com/r/Piracy/comments/9wzu0f/ltsc_2019_rereleased_iso_x32x64_en/)).
 
-To create a bootable USB drive from the downloaded `.iso` file, you'll need [**Rufus**](https://rufus.ie/), since the Microsoft's creation tool does not support LTSB/LTSC.
+To create a bootable USB drive from the downloaded `.iso` file, you'll need [**Rufus**](https://rufus.ie/), since the Microsoft's creation tool does not support LTSB/LTSC. Alternatively, you may use [WoeUSB](https://github.com/slacka/WoeUSB) if you're on Linux.
 
 Further reading: [What is Windows LTSC?](https://old.reddit.com/r/Windows10LTSC/wiki/index)
 
