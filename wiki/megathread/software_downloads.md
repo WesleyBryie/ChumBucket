@@ -40,7 +40,7 @@ Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled u
 
 ### Sites focused on graphics/audio/video software
 
-* [torrents] [monkrus.ws](http://w13.monkrus.ws/) - Trusted cracker for popular graphics/video software.
+* [torrents] [monkrus.ws](http://w13.monkrus.ws/) - Trusted site for popular graphics/video software.
 
 * [torrents/private] [audionews.org](https://audionews.org/) - Audio software and plugins, as well as tutorials. ***Registration opens on the 2nd of every month (Midnight / Moscow time).***
 
