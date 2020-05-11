@@ -7,17 +7,18 @@
 
 ## ► SOFTWARE
 
-### Multi-purpose sites
+&nbsp;
 
-Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
+Try to avoid the pirate bay for software, it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
 * [torrents]  [rutracker.org](http://rutracker.org/) [.org, .net, .nl] - Amazing tracker for software of all types (ie. your favorite graphics/music/video software, including plugins for them, etc.). Torrents will be checked by staff for integrity and will show [a checkmark](https://i.imgur.com/GpZIvRq.jpg) on the torrent page.
 
-* [torrents] [theaudioscene.net](https://theaudioscene.net/) - Private tracker
+* [torrents] [rarbg.to](https://rarbg.to/) - Allows no user uploads. Everything is automated to auto post scene releases, either through a combination of close ties to The Scene or simply re-uploads content from general/0-day private trackers, who themselves have close ties to The Scene. In either situation, it's one of the safest public trackers for software and games.
+
+* [DDL] [diakov.net](https://diakov.net/) - Repacks/Pre-cracked software downloads. Hosted on premium hosts.
 
 * [DDL] [forum.ru-board.com > Underground](http://forum.ru-board.com/board.cgi?catplace=6) - "Underground" subforum at ru-board
 
-* [torrents] [rarbg.to](https://rarbg.to/) - Allows no user uploads. Everything is automated to auto post scene releases, either through a combination of close ties to The Scene or simply re-uploads content from general/0-day private trackers, who themselves have close ties to The Scene. In either situation, it's one of the safest public trackers for software and games.
 
 * [DDL] [warez-bb.org](http://warez-bb.org/) - This one is especially good for PC software. The site is down most of the time though, sadly. Has the highest number of cracked software than any other resource. For larger torrents though, it is recommended to use MOCH (multi one-click hosters) like real-debrid, or you can try the torrents first while keeping the DDL alternatives as a last resort.
 
@@ -40,7 +41,9 @@ Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled u
 
 ### Sites focused on graphics/audio/video software
 
-* [torrents] [monkrus.ws](http://w13.monkrus.ws/) - Trusted site for popular graphics/video software.
+* [torrents] [monkrus.ws](http://w13.monkrus.ws/) - Repacks/Pre-cracked. Site for popular graphics/video software.
+
+* [torrents] [vstorrent.org](https://vstorrent.org/) - Video software and plugins.
 
 * [torrents/private] [audionews.org](https://audionews.org/) - Audio software and plugins, as well as tutorials. ***Registration opens on the 2nd of every month (Midnight / Moscow time).***
 
@@ -51,8 +54,6 @@ Avoid the pirate bay, it is filled to the brim with malware torrents. [Skulled u
 * [DDL] [flsaudio.com](https://flsaudio.com) - Video software and plugins.
 
 * [DDL/private] [cgpersia.com](https://forum.cgpersia.com/) - Video software and plugins.
-
-* [DDL] [audioz.download](https://audioz.download/) - Audio software and plugins.
 
 * [DDL] [audioz.download](https://audioz.download/) - Audio software and plugins.
 

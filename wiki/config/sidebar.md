@@ -1,19 +1,19 @@
 ---
 ---
 
-[**WIKI INDEX**](https://www.reddit.com/r/Piracy/wiki/index)
+**[WIKI INDEX](https://www.reddit.com/r/Piracy/wiki/index)**
 
 ---
 ---
 
-* [**PIRACY MEGATHREAD**](https://www.reddit.com/r/Piracy/wiki/megathread)
+* **[PIRACY MEGATHREAD](https://www.reddit.com/r/Piracy/wiki/megathread)**
 
-* [**FAQ**](https://www.reddit.com/r/piracy/wiki/faq)
+* **[FAQ](https://www.reddit.com/r/piracy/wiki/faq)**
 
-* [**Guides**](https://www.reddit.com/r/piracy/wiki/guides)
+* **[Guides](https://www.reddit.com/r/piracy/wiki/guides)**
 
-* [Dark mode](https://nm.reddit.com/r/piracy#icon-night) [Light Mode](https://www.reddit.com/r/piracy#icon-day)
-* [Fallback forum](https://raddle.me/f/Piracy) - [Discussion thread](https://www.reddit.com/r/Piracy/comments/b2fte3/the_fallback/) (In case of subreddit takedown. )
+* [Dark mode](https://nm.reddit.com/r/piracy#icon-night) - [Light Mode](https://www.reddit.com/r/piracy#icon-day)
+* [Fallback forum](https://raddle.me/f/Piracy) - [Discussion thread](https://www.reddit.com/r/Piracy/comments/b2fte3/the_fallback/) (In case of subreddit takedown)
 
 ---
 
@@ -37,11 +37,6 @@
 
 ### Related Subreddits
 
-* r/cracksupport
-* r/seedboxes
-* r/torrents
-* r/trackers
-* r/usenet
-* /r/VPN 
+* See [this page](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits) for a full list
 
 &nbsp;

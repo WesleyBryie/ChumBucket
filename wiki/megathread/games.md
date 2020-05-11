@@ -56,15 +56,16 @@ Sites labeled repacks are for releases that have been repacked from the original
 
 ### ►  **ROMs**
 * /r/Roms - Roms
-* [the-eye.eu](http://the-eye.eu/public/rom/) - large collection of multi-platform console roms
+* [the-eye.eu](http://the-eye.eu/public/rom/) - Large collection of multi-platform console roms
 * [romulation.net](https://www.romulation.net/)
 * [emuparadise.me](https://www.emuparadise.me) - Incredibly large ROM library. Use [this script](https://www.reddit.com/r/Piracy/comments/968sm6/a_script_for_easy_downloading_of_emuparadise_roms/) to reinstate the download links.
+* [emulator.games](https://emulator.games/) - Large collection of ROMs
 * [emulation.gametechwiki.com](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - large wiki with several links to ROM/ISO dumps.
-* [Vimm's Lair](https://vimm.net/?p=vault) - large collection of ROMs
+* [Vimm's Lair](https://vimm.net/?p=vault) - Large collection of ROMs
 * [pleasuredome.org.uk](http://www.pleasuredome.org.uk/)
 * [DarkUmbra](https://darkumbra.net)
 * [ziperto.com](https://www.ziperto.com/)
-* [CDRomance](https://cdromance.com) - formally NicoBlog
+* [CDRomance](https://cdromance.com) - Formally NicoBlog
 * [romstorage.com](https://www.romstorage.com/)
 
 &nbsp;

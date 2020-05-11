@@ -9,10 +9,14 @@
 
 [/r/FREEMEDIAHECKYEAH's comprehensive list of various streaming sources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/a2csq0/how_to_stream_movies_tv_anime_sports_online/)
 
+Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) (in regards to non-software) to avoid accidentally running malware.
+
 &nbsp;
 
 
 *Make sure your adblocker is on*. uBlock Origin is recommended. See the wiki page: [Privacy and Security](https://www.reddit.com/r/Piracy/wiki/megathread/privacy_and_security)
+
+&nbsp;
 
 ❗ ***For hard-to-find content, you can use these [general trackers and/or search for open directories](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). The search engines in particular listen in on the DHT network and will list as many torrents as possible. Read the warning.***
 
