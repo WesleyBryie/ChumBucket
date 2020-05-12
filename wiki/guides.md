@@ -18,7 +18,7 @@
 [Kodi 18.6 + IAGL + RetroArch = Emulation Heaven](https://www.reddit.com/r/Piracy/comments/g4gb8t/kodi_186_iagl_retroarch_emulation_heaven/) | u/TechDoctorUK | Apr 19, 2020 | -
 [Guide on searching for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - from /r/opendirectories  | u/ElectroXexual | Jul 30, 2018 | -
 [AIO Search Guide](https://www.reddit.com/r/Piracy/comments/fa81st/aio_search_guide/) | u/nbatman | Feb 27, 2020 | Constantly
-
+[How to get paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) | u/Bebhio | Jun 25, 2018 | Jun 28, 2018
 
 &nbsp;
 

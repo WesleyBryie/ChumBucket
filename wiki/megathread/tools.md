@@ -20,7 +20,7 @@ Activator name | Version # | Cached link | Windows 7 | Windows 8.1 | Win 10/LTSB
 :---------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--:|
 [Office C2R](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) | 6.8.0| **[CACHED LINK](https://drive.google.com/open?id=1h2qQ75BT7OHmMq4N702e1lxR8SnIu8Ci)**| x| x| x| ✓|
 [KMS_VL_ALL](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/#post-838808)| 34.7| [**CACHED LINK**](https://drive.google.com/open?id=17u8O23O4H8tSRhYx0hDUaRSfkW1_olLU)| ✓| ✓| ✓| ✓|
-[KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1)| 1.5.3 | [**CACHED LINK**](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view) | ✓| ✓| ✓| ✓|
+[KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) + KMS cleaner and more| 1.5.3 | [**CACHED LINK**](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view) | ✓| ✓| ✓| ✓|
 [Windows loader](https://forums.mydigitallife.info/threads/58464-Windows-Loader-Download) | 2.2.2 | [**CACHED LINK**](https://drive.google.com/file/d/1qcLeyshfBWgd8Y4M8t9Xkjtrs7pzgWti/view) | **best**| x| x| x|
 [HWIDGEN](https://www.aiowares.com/showthread.php?tid=246) | v62.01 | [**CACHED LINK**](https://drive.google.com/file/d/14lND8FJDi93O0o-TJSZ7DZtgiuDQbSKw/view) | x| x| **best**| x| [Use KMS38 mode for LTSC, else HWID](https://i.imgur.com/lmjLOtq.jpg)
 

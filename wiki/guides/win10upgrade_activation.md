@@ -29,22 +29,14 @@ It's essentially piracy with a middleman.
 
 ---
 
-## ► Installing a fresh copy of windows 10
 
-This part is not related to piracy at all, since Microsoft provides a free download of windows 10. As such, you can find guides on how to install windows 10 anywhere on the internet. Example video here: [time stamp 3:15](https://youtu.be/MfwjISmkEJM?t=195).
+## ► Downloading Windows 10
 
-Requirements:
+If you're on Windows, download and run the [**media creation tool**](https://www.microsoft.com/en-us/software-download/windows10) from microsoft. It will download Windows 10 and automatically create a bootable installation media for it on your USB drive.
 
-* A USB drive of at least 4GiB. The Windows 10 ISO installation media is approximately 3.5 GiB in size.
-* Another working PC (If you are building a new PC).
-
-Download and run the [**media creation tool**](https://www.microsoft.com/en-us/software-download/windows10) from microsoft. It will create a bootable installation media for windows 10 on your USB drive. Then just boot into the USB drive in order to fresh install Windows 10.
-
-If you're on linux, you can use [tb.rg-adguard.net](https://tb.rg-adguard.net/public.php), which is just a web interface for MSFT's techbench site - any downloads will be done through MSFT's CDN. You can then use [**WoeUSB**](https://github.com/slacka/WoeUSB) to create a bootable USB drive
+If you're on a different platform, you can use [**tb.rg-adguard.net**](https://tb.rg-adguard.net/public.php), which is just a web interface for MSFT's techbench site - any downloads will be done through MSFT's CDN.
 
 &nbsp;
-
-
 
 **Windows LTSB / LTSC**
 
@@ -54,11 +46,28 @@ Note: The eval ISOs of LTSB/LTSC cannot be extended past their typical 3 month e
 
 > LTSC x86_64 (64-bit) iso: http://cdn.digiboy.ir/?b=dlir-s3&f=SW_DVD5_WIN_ENT_LTSC_2019_64-bit_English_MLF_X21-96425.ISO (original thread [here](https://www.reddit.com/r/Piracy/comments/9wzu0f/ltsc_2019_rereleased_iso_x32x64_en/)).
 
-To create a bootable USB drive from the downloaded `.iso` file, you'll need [**Rufus**](https://rufus.ie/), since the Microsoft's creation tool does not support LTSB/LTSC. Alternatively, you may use [**WoeUSB**](https://github.com/slacka/WoeUSB) if you're on Linux, or [**UNetbootin**](http://unetbootin.github.io/) for a multi-platform solution.
-
 Further reading: [**What is Windows LTSC?**](https://old.reddit.com/r/Windows10LTSC/wiki/index)
 
 Note that LTSC will stay frozen on the feature set of Windows 10 build 1809 (until the next long term channel, to be released in 2021), if you have an Xbox Game Pass, you'll need build 1903, which is only attainable with the consumer edition of Windows 10. Be careful if you have newer hardware (2019 or later), research to see if your hardware will perform optimally on LTSC.
+
+&nbsp;
+
+
+
+
+
+## ► Creating a bootable USB drive and Installing Windows
+
+This part is not strictly related to Piracy - you can find guides on how to install Windows anywhere on the internet. Example video here: [time stamp 3:15](https://youtu.be/MfwjISmkEJM?t=195).
+
+Requirements:
+
+* A USB drive of at least 4GiB. The Windows 10 ISO installation media is approximately 3.5 GiB in size.
+* Another working PC (If you are building a new PC).
+
+If you're on Windows, run the [**media creation tool**](https://www.microsoft.com/en-us/software-download/windows10) from microsoft. It will create a bootable installation media for windows 10 on your USB drive.
+
+If you're on a different platform or want to create a bootable USB drive from Windows LTSC/LTSC, to create a bootable USB drive from the downloaded `.iso` file you'll need [**Rufus**](https://rufus.ie/), since the Microsoft's creation tool does not support LTSB/LTSC. Alternatively, you may use [**WoeUSB**](https://github.com/slacka/WoeUSB) if you're on Linux, or [**UNetbootin**](http://unetbootin.github.io/) for a multi-platform solution.
 
 &nbsp;
 
