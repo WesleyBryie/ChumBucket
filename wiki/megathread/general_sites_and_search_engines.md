@@ -8,7 +8,7 @@
 
 # GENERAL PURPOSE SITES AND SEARCH ENGINES
 
-General-purpose indexers to search for any type of content.
+General-purpose indexers to search for any type of content. If you're looking for software, it's recommended to read the [**Software Downloads**](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads) section of the wiki.
 
 ### ► **General indexers**
 
@@ -49,11 +49,11 @@ These torrent search engines/DHT crawlers can be used to search within as many p
 
 DHT torrent search engine. Great for searching for all publicly available torrents - beats searching all your usual sites for that one elusive torrent. Lists all DHT-tracked torrents:
 
-* [torrentz2.eu](https://torrentz2.eu/) - Multi-site search engine
+* [SolidTorrents.net](https://solidtorrents.net) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/Piracy/comments/bjxlpe/massive_project_update_for_solidtorrents_fake/)
 
 * [btdig.com](https://btdig.com/) - DHT torrent search engine.
 
-* [SolidTorrents.net](https://solidtorrents.net) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/Piracy/comments/bjxlpe/massive_project_update_for_solidtorrents_fake/)
+* [torrentz2.eu](https://torrentz2.eu/) - Multi-site search engine
 
 * [btdb.io](https://btdb.io/) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/trackers/comments/eaqnr5/btdb_bittorrent_database_looking_for_feedback/)
 

@@ -8,14 +8,17 @@
 
 &nbsp;
 
-For open signups, see /r/opensignups or https://opentrackers.org/
+**Some extra resources:**
 
-For invites to trackers that allow invites to be given through unofficial means, see /r/invites. Ratio proofs from other trackers will typically be required, you need to prove you are a good user. Please be aware that though these are unofficial invites and technically allowed by some of the trackers appearing on the subreddit, it does not extend to buying/selling of invites (buying/selling is never allowed). You will also not find invites to elite trackers there.
+Listings for signups/applications: https://opentrackers.org/ or /r/OpenSignups 
 
-For a more complete list of trackers, see this [tracker tracker](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) (Courtesy of /u/-HDVinnie-, original [submission](https://www.reddit.com/r/trackers/comments/ehd7oy/new_private_trackers_spreadsheet/)).
+List of trackers: [tracker list](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) by /u/-HDVinnie-, original [submission](https://www.reddit.com/r/trackers/comments/ehd7oy/new_private_trackers_spreadsheet/).
 
-For more in-depth discussion of private trackers, including news, visit /r/trackers. Be sure to follow their [rules](https://www.reddit.com/r/trackers/about/rules/). Make sure to read their sidebar for more details on the many different aspects to private trackers.
+For more in-depth discussion of private trackers: /r/trackers 
 
+/r/Tracker's wiki: /r/trackers/wiki/reading
+
+Invite giveaways and requests: /r/invites 
 
 &nbsp;
 

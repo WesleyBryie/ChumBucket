@@ -15,6 +15,8 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [torrents] [rarbg.to](https://rarbg.to/) - Allows no user uploads. Everything is automated to auto post scene releases, either through a combination of close ties to The Scene or simply re-uploads content from general/0-day private trackers, who themselves have close ties to The Scene. In either situation, it's one of the safest public trackers for software and games.
 
+* [DDL] [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion. Their [wiki](https://saidit.net/s/sjain_guides/wiki/index) contains an expanded list of resources.
+
 * [DDL] [diakov.net](https://diakov.net/) - Repacks/Pre-cracked software downloads. Hosted on premium hosts.
 
 * [DDL] [forum.ru-board.com > Underground](http://forum.ru-board.com/board.cgi?catplace=6) - "Underground" subforum at ru-board
