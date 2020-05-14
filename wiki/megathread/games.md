@@ -16,8 +16,8 @@ Sites labeled repacks are for releases that have been repacked from the original
 ### ►  **Torrent sites**
 
 * [gamestorrents.io](https://www.gamestorrents.io/)
-* [rutor.info](http://rutor.info/games) - Game repack site
-* [rarbg.to](http://rarbg.to/) - Yes, they offer game torrents too.
+* [rutor.info](http://rutor.info/games) - Game repacks site
+* [rarbg.to](http://rarbg.to/) - Original Scene releases
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.
 * **[Repacks]** [repack.info](https://repack.info/)
 * **[Repacks]** [otxataba.net / aka Xatab](https://otxataba.net/)
@@ -39,10 +39,6 @@ Sites labeled repacks are for releases that have been repacked from the original
 * [steamunlocked.net](https://steamunlocked.net/)
 * [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - Game trainers, cheats, and standalone cracks for games
 * [myabandonware.com](https://www.myabandonware.com/) - Old/retro/"abandoned" games
-* **[Mobile]** [forum.mobilism.org](https://forum.mobilism.org/index.php) - Mobile cracked games
-* **[iOS]** [iphonecake.com](https://www.iphonecake.com/) - iOS cracked games (and apps)
-* **[Mac]** [nxmac.com](https://nxmac.com/) - Mac games
-* **[Mac]** [web.archive.org/.../macgames-download.com](https://web.archive.org/web/20181113021918/http://macgames-download.com/) - Web archive of the now-defunct macgames-download
 * **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free file hosts
 * **[Repacks]** [kaoskrew.org](https://kaoskrew.org/)
 * **[Repacks]** [kapitalsin.com](http://www.kapitalsin.com/forum/index.php?board=4.0)
@@ -51,17 +47,28 @@ Sites labeled repacks are for releases that have been repacked from the original
 
 &nbsp;
 
+* **[Mobile]** [forum.mobilism.org](https://forum.mobilism.org/index.php) - Mobile cracked games
+* **[iOS]** [iphonecake.com](https://www.iphonecake.com/) - iOS cracked games (and apps)
+* **[Mac]** [nxmac.com](https://nxmac.com/) - Mac games
+* **[Mac]** [web.archive.org/.../macgames-download.com](https://web.archive.org/web/20181113021918/http://macgames-download.com/) - Web archive of the now-defunct macgames-download
+
+&nbsp;
+
 
 
 
 ### ►  **ROMs**
-* /r/Roms - Roms
+Visit [emulation.gametechwiki.com](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) for extra resources for ROMs
+
+Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits) to view Console oriented subs
+
+* /r/Roms 
 * [the-eye.eu](http://the-eye.eu/public/rom/) - Large collection of multi-platform console roms
-* [romulation.net](https://www.romulation.net/)
-* [emuparadise.me](https://www.emuparadise.me) - Incredibly large ROM library. Use [this script](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) to reinstate the download links.
 * [emulator.games](https://emulator.games/) - Large collection of ROMs
-* [emulation.gametechwiki.com](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - large wiki with several links to ROM/ISO dumps.
-* [Vimm's Lair](https://vimm.net/?p=vault) - Large collection of ROMs
+* [emuparadise.me](https://www.emuparadise.me) - Incredibly large ROM library. Use [this script](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) to reinstate the download links.
+* [romulation.net](https://www.romulation.net/)
+* [romnation.net](https://www.romnation.net/)
+* [Vimm's Lair](https://vimm.net/?p=vault)
 * [pleasuredome.org.uk](http://www.pleasuredome.org.uk/)
 * [DarkUmbra](https://darkumbra.net)
 * [ziperto.com](https://www.ziperto.com/)
