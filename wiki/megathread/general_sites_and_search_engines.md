@@ -10,11 +10,15 @@
 
 General-purpose indexers to search for any type of content. If you're looking for software, it's recommended to read the [**Software Downloads**](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads) section of the wiki.
 
-### ► **General indexers**
+### ► **General Indexers**
 
 * [rutracker.org](https://rutracker.org/forum/index.php) [.org, .net, .nl] - Russian tracker. Has an immense catalogue for many different categories. Considered to be the most complete public tracker and is well-seeded.
 
 * [1337x.to](https://1337x.to/) - General purpose indexer. [Alternate domains.](https://i.imgur.com/oCC9Y2H.jpg)
+
+* [torrentfunk.com](https://www.torrentfunk.com/) - Provides a checkmark system like rutracker to indicate staff-validated torrents.
+
+* [katcr.co](https://katcr.co/)
 
 * [limetorrents.cc](https://www.limetorrents.cc/)
 
@@ -58,6 +62,8 @@ DHT torrent search engine. Great for searching for all publicly available torren
 * [btdb.io](https://btdb.io/) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/trackers/comments/eaqnr5/btdb_bittorrent_database_looking_for_feedback/)
 
 * [snowfl.com](https://snowfl.com/) - Not a DHT crawler so it won't be as thorough, but it indexes many public trackers.
+
+* [toorgle.com](https://www.toorgle.com/) - Multi-site search engine. Searches 450 sites.
 
 For a more extensive list, see [this post](https://www.reddit.com/r/torrents/comments/5ok0yd/torrent_sites/) over at /r/torrents
 

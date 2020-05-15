@@ -11,9 +11,6 @@
 
 Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) (in regards to non-software) to avoid accidentally running malware.
 
-&nbsp;
-
-
 *Make sure your adblocker is on*. uBlock Origin is recommended. See the wiki page: [Privacy and Security](https://www.reddit.com/r/Piracy/wiki/megathread/privacy_and_security)
 
 &nbsp;
@@ -25,7 +22,7 @@ Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_a
 * **[Application]** [stremio.com](https://www.stremio.com/) - Torrent streaming. You can install plugins for various content sources, including torrents.
 * [RARBG.to](https://rarbg.to/) - One of the most organized public trackers, gets new content very quickly. Can search by IMDB tags (eg. `tt0258038`, appearing in IDMB URLs)
 * [rutracker.org](https://rutracker.org/) [.org, .net, .nl] - The best general tracker from Russia and arguably the best one overall. It's great for niche movies, especially from Russia and other east European countries.
-* [TorrentGalaxy.to](https://torrentgalaxy.to/) - Another highly recommended site for movies & TV.
+* [TorrentGalaxy.to](https://torrentgalaxy.to/) - Another highly recommended site for movies & TV. [Proxy list.](https://proxygalaxy.pw/)
 * [ettvdl.com](https://www.ettvdl.com/home/)
 * [Zooqle.com](https://zooqle.com/) - Easy to use torrent site
 * [1337x.to](https://1337x.to/) - Many public p2p releases/encodes are released here, including Tigole/UTR/YIFY. Cams are typically uploaded here as well.
@@ -128,6 +125,7 @@ Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_a
 
 ### ► DDL:
 
+* [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Popular DDL forum. Has a request section.
 * [gdrivedl.xyz](https://gdrivedl.xyz/)
 * [megaddl.co](https://megaddl.co/movies)
 * [rmz.cr](http://rmz.cr/)
