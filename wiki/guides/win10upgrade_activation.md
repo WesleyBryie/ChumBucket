@@ -65,9 +65,11 @@ Requirements:
 * A USB drive of at least 4GiB. The Windows 10 ISO installation media is approximately 3.5 GiB in size.
 * Another working PC (If you are building a new PC).
 
-If you're on Windows, run the [**media creation tool**](https://www.microsoft.com/en-us/software-download/windows10) from microsoft. It will create a bootable installation media for windows 10 on your USB drive.
+If you're on Windows, run the [**media creation tool**](https://www.microsoft.com/en-us/software-download/windows10) from microsoft. It will create a bootable installation media for windows 10 on your USB drive. Alternatively if you want to create a bootable USB drive from the LTSB/LTSC ISOs, you'll need [**Rufus**](https://rufus.ie/), since the Microsoft's creation tool does not support LTSB/LTSC.
 
-If you're on a different platform or want to create a bootable USB drive from Windows LTSC/LTSC, to create a bootable USB drive from the downloaded `.iso` file you'll need [**Rufus**](https://rufus.ie/), since the Microsoft's creation tool does not support LTSB/LTSC. Alternatively, you may use [**WoeUSB**](https://github.com/slacka/WoeUSB) if you're on Linux, or [**UNetbootin**](http://unetbootin.github.io/) for a multi-platform solution.
+If you're on Linux, you'll need [**WoeUSB**](https://github.com/slacka/WoeUSB) or [**UNetbootin**](http://unetbootin.github.io/).
+
+If you're on Mac, you'll need [**UNetbootin**](http://unetbootin.github.io/).
 
 &nbsp;
 

@@ -16,13 +16,16 @@
 
 * Many of these tools will trigger your browser, Windows Defender, and personal antivirus. These are false positives.
 
-Activator name | Version # | Cached link | Windows 7 | Windows 8.1 | Win 10/LTSB/LTSC | Office | Notes
-:---------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--:|
-[Office C2R](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/) | 6.8.0| **[CACHED LINK](https://drive.google.com/open?id=1h2qQ75BT7OHmMq4N702e1lxR8SnIu8Ci)**| x| x| x| ✓|
-[KMS_VL_ALL](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/#post-838808)| 34.7| [**CACHED LINK**](https://drive.google.com/open?id=17u8O23O4H8tSRhYx0hDUaRSfkW1_olLU)| ✓| ✓| ✓| ✓|
-[KMSAuto Net](http://forum.ru-board.com/topic.cgi?forum=2&topic=5559#1) + KMS cleaner and more| 1.5.3 | [**CACHED LINK**](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view) | ✓| ✓| ✓| ✓|
-[Windows loader](https://forums.mydigitallife.info/threads/58464-Windows-Loader-Download) | 2.2.2 | [**CACHED LINK**](https://drive.google.com/file/d/1qcLeyshfBWgd8Y4M8t9Xkjtrs7pzgWti/view) | **best**| x| x| x|
-[HWIDGEN](https://www.aiowares.com/showthread.php?tid=246) | v62.01 | [**CACHED LINK**](https://drive.google.com/file/d/14lND8FJDi93O0o-TJSZ7DZtgiuDQbSKw/view) | x| x| **best**| x| [Use KMS38 mode for LTSC, else HWID](https://i.imgur.com/lmjLOtq.jpg)
+|Activator Name|Version #|URL|Cached Link|Windows 7|Windows 8 / 8.1|Win 10/LTSB/LTSC|Office|NOTES|
+:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|Office C2R|6.8.0|[Github page](https://github.com/kkkgo/office-C2R-to-VOL). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/)|[CACHED LINK](https://drive.google.com/open?id=1h2qQ75BT7OHmMq4N702e1lxR8SnIu8Ci)|x|x|x|✓|Download retail office ISOs with [this tool](https://tb.rg-adguard.net/public.php). Use Office C2R to convert to Volume. Then simply activate with KMS_VL_ALL - Read the instructions on the github page|
+|KMS_VL_ALL|34.7|[Github page](https://github.com/kkkgo/KMS_VL_ALL). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/#post-838808)|[CACHED LINK](https://drive.google.com/open?id=17u8O23O4H8tSRhYx0hDUaRSfkW1_olLU)|✓|✓|✓|✓||
+|KMSAuto Net|1.5.3|[ru-board forum page](http://forum.ru-board.com/topic.cgi?forum=2&amp;topic=5559#1)|[CACHED LINK](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view)|✓|✓|✓|✓||
+|Daz's Windows Loader|2.2.2|[MyDigitalLife forum page](https://forums.mydigitallife.info/threads/58464-Windows-Loader-Download)|[CACHED LINK](https://drive.google.com/file/d/1qcLeyshfBWgd8Y4M8t9Xkjtrs7pzgWti/view)|✓|x|x|x||
+|HWIDGEN|62.01|[Aiowares forum page](https://www.aiowares.com/showthread.php?tid=246)|[CACHED LINK](https://drive.google.com/file/d/14lND8FJDi93O0o-TJSZ7DZtgiuDQbSKw/view)|x|x|**best**|x|[Use KMS38 mode for LTSC, else HWID](https://i.imgur.com/lmjLOtq.jpg)|
+
+
+
 
 &nbsp;
 
