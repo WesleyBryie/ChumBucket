@@ -137,6 +137,8 @@
 
 ### ► Games
 
+Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.php?f=10&t=98158)
+
 * Will I get banned from steam/origin/uplay/epic if i play a pirated game? **No.**
  > Related: Will I get banned from steam if I use the "Add a non-steam game to my library" function to add a pirated game? **No**.
 
