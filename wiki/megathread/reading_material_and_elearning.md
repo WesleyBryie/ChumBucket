@@ -17,7 +17,7 @@ If the ebook you are searching is available for kindle, you may also [*borrow*](
 
 * [archive.org/details/texts](https://archive.org/details/texts) - The Internet Archive's immense archive of ebooks.
 
-* [gen.lib.rus.ec](http://gen.lib.rus.ec/) -- (https://libgen.pw/) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums.
+* [gen.lib.rus.ec](http://gen.lib.rus.ec/) -- ([libgen.pw](https://libgen.pw/)) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums.
 
  * [libgen.pw](https://libgen.pw/) - Libgen mirror
 
@@ -123,6 +123,8 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 ### ► **Magazines**
 
+* [gen.lib.rus.ec](http://gen.lib.rus.ec/) - Mirror ([libgen.pw](https://libgen.pw/))
+
 * [pdf-giant.com](http://pdf-giant.com/)
 
 * [magazinelib.com](https://magazinelib.com/)
@@ -138,6 +140,8 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 ### ► **Comics**
+
+* [gen.lib.rus.ec](http://gen.lib.rus.ec/) - Mirror ([libgen.pw](https://libgen.pw/))
 
 * [getcomics.info](http://getcomics.info/)
 
