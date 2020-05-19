@@ -30,6 +30,9 @@ If you have any critique or suggestions you would like to see added to the Megat
 ## [► Mobile Apps & Cracked App Markets/Repos](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos)
  > Apps and resources for Android and iOS
 
+## [► Games](https://reddit.com/r/Piracy/wiki/megathread/games)
+ > Sites for downloading games and ROMs
+
 ## [► Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
  > Sites for streaming and downloading/torrenting Movies & TV and Sports
 
@@ -38,9 +41,6 @@ If you have any critique or suggestions you would like to see added to the Megat
 
 ## [► Books / Comics / e-learning / Other Reading Material](https://reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning)
  > Books, comics, manga, magazines, courses & tutorials
-
-## [► Games](https://reddit.com/r/Piracy/wiki/megathread/games)
- > Sites for downloading games and ROMs
 
 ## [► Music](https://reddit.com/r/Piracy/wiki/megathread/music)
  > Sites & apps for downloading music, video game soundtracks/scores
