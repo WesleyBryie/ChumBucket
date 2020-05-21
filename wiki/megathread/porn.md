@@ -29,7 +29,17 @@
 
 * **[DDL]** /r/JavDownloadCenter - Mega links. Has been made private as of 2020-4-27
 
+* **[DDL]** [hidefporn.ws](https://hidefporn.ws/)
+
 * **[DDL]** [0xxx.ws](https://0xxx.ws/)
+
+* **[DDL]** [planetsuzy.org](http://www.planetsuzy.org/)
+
+* **[DDL]** [seaporn.org](https://www.seaporn.org/)
+
+* **[DDL]** [s3exy.com](http://www.s3exy.com/)
+
+* **[Torrents]** [myporn.club](https://myporn.club/)
 
 * **[Torrents]** [rarbg.to](https://rarbg.to/) - Arguably the best public tracker for porn, mainly scene releases. A lot of single seeder torrents with low speeds but you'll be able to download eventually. 
 

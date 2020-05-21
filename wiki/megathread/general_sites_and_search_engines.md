@@ -8,9 +8,9 @@
 
 # GENERAL PURPOSE SITES AND SEARCH ENGINES
 
-General-purpose indexers to search for any type of content. If you're looking for software, it's recommended to read the [**Software Downloads**](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads) section of the wiki.
+General-purpose indexers to search for any type of content. If you're looking for software, it's recommended to use the [**Software Downloads**](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads) section of the wiki instead. In regards to non-software, sites like thepiratebay/limetorrents can also have fake torrents - follow these [**preliminary measures**](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to avoid accidentally running malware.
 
-### ► **General Indexers**
+## ► **General Indexers**
 
 * [rutracker.org](https://rutracker.org/forum/index.php) [.org, .net, .nl] - Russian tracker. Has an immense catalogue for many different categories. Considered to be the most complete public tracker and is well-seeded.
 
@@ -21,6 +21,8 @@ General-purpose indexers to search for any type of content. If you're looking fo
 * [katcr.co](https://katcr.co/)
 
 * [limetorrents.cc](https://www.limetorrents.cc/)
+
+* [thepiratebay.org](https://thepiratebay.org/)
 
 * [nnm-club.me](https://nnm-club.me/) - Russian tracker and forum.
 
@@ -45,13 +47,12 @@ General-purpose indexers to search for any type of content. If you're looking fo
 
 
 
+
+## ► **Search Engines / DHT crawlers**
+
 These torrent search engines/DHT crawlers can be used to search within as many publicly listed torrents as possible to find rare content that may not be available in the above trackers/indexers.
 
 ❗ **[Warning]** These search engines will list as many publicly available torrents as possible, unfiltered and unfettered. This means that torrents that download malware are likely to appear in the search results. Never use these to search for software, but when searching for other media types, take some [**preliminary measures**](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to avoid running malware.
-
-### ► **Search Engines / DHT crawlers**
-
-DHT torrent search engine. Great for searching for all publicly available torrents - beats searching all your usual sites for that one elusive torrent. Lists all DHT-tracked torrents:
 
 * [SolidTorrents.net](https://solidtorrents.net) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/Piracy/comments/bjxlpe/massive_project_update_for_solidtorrents_fake/)
 
