@@ -1,6 +1,6 @@
 ---
 ---
-[◄◄ Back to Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)
+[**◄◄ Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
 
 ---
 ---
@@ -13,7 +13,7 @@ For PC games piracy news (crack releases, DRM news etc), visit /r/CrackWatch
 
 Sites labeled repacks are for releases that have been repacked from the original scene release. Their intent is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation.
 
-### ►  **Torrent sites**
+## ►  **Torrent sites**
 
 * [gamestorrents.io](https://www.gamestorrents.io/)
 
@@ -38,7 +38,7 @@ Sites labeled repacks are for releases that have been repacked from the original
 
 
 
-### ►  **DDL sites (direct download)**
+## ►  **DDL sites (direct download)**
 
 * [Steam Underground - cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=10) - Dedicated game piracy forum. Check [their FAQ](https://cs.rin.ru/forum/viewtopic.php?f=10&t=98158) to get the best usage out of the site. Best parts are the discussion and the different types of tools especially the multiplayer ones. Game links aren't always provided (especially for scene releases; they recommend some external sites in their FAQ) but when they are, they are on free file hosting services like zippyshare so that's another plus. Also includes early access games.
 
@@ -81,7 +81,7 @@ Sites labeled repacks are for releases that have been repacked from the original
 
 
 
-### ►  **ROMs**
+## ►  **ROMs**
 Visit [emulation.gametechwiki.com](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) for extra resources for ROMs
 
 Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits) to view Console oriented subs
@@ -115,7 +115,13 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 
 
-### ►  **Private trackers**
+## ► **Misc**
+
+* [thetrove.net](https://thetrove.net/) - Archival resource for tabletop gaming / RPGs
+
+
+
+## ►  **Private trackers**
 
 [Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 

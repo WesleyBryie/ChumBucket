@@ -1,6 +1,6 @@
 ---
 ---
-[◄◄ Back to Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)
+[**◄◄ Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
 
 ---
 ---
@@ -122,6 +122,8 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 ### ► **Magazines**
+
+* [thetrove.net](https://thetrove.net/) - Wide variety of magazines, including tabletop gaming PDFs
 
 * [gen.lib.rus.ec](http://gen.lib.rus.ec/) - Mirror ([libgen.pw](https://libgen.pw/))
 

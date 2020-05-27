@@ -48,11 +48,17 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 * [apkpure.com](https://apkpure.com/) - Similar to apkmirror.com
 
-* [ACMarket](https://acmarket.net/) - Apps and games
+* [apkmb.com](https://apkmb.com/)
 
-* [APKmos](https://apkmos.com/) - Apps and games
+* [apkhouse.com](https://apkhouse.com/)
 
-* [4PDA](https://4pda.ru/forum/) - Apps and games
+* [ACMarket](https://acmarket.net/)
+
+* [APKmos](https://apkmos.com/)
+
+* [4PDA](https://4pda.ru/forum/)
+
+* [forum.sbenny.com](https://forum.sbenny.com/)
 
 
 
@@ -60,13 +66,13 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 * [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
 
-* [cydia.kiiimo.org](https://cydia.kiiimo.org)
+* [mainrepo.org](https://mainrepo.org/)
+
+* [rejail.ru](https://rejail.ru/)
+
+* [cydiageek.yourepo.com](https://cydiageek.yourepo.com/)
 
 * [cydia.iphonecake.com](https://cydia.kiiimo.org)
-
-* [repo.hackyouriphone.org](https://cydia.kiiimo.org)
-
-* [julio.hackyouriphone.org](https://cydia.kiiimo.org)
 
 * [julioverne.github.io](https://cydia.kiiimo.org)
 
