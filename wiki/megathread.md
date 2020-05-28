@@ -24,7 +24,7 @@ If you have any critique or suggestions you would like to see added to the Megat
 ## [► Privacy and Security](https://www.reddit.com/r/Piracy/wiki/megathread/privacy_and_security)
  > VPNs, adblockers, and useful browser extensions
 
-## [► Useful Programs / Tools / Services](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
+## [► Useful Programs / Tools / Web Services](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
  > Activation tools, torrent clients, mobile apps, download managers and helpers/tools and other miscellaneous
 
 ## [► Mobile Apps & Cracked App Markets/Repos](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos)

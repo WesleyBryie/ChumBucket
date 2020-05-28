@@ -11,9 +11,16 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 
 
-## MOBILE
+# MOBILE
+
+&nbsp;
+
+
+
 
 ##► Mobile Apps
+
+* [**Movie Updates**](https://play.google.com/?id=com.tashila.movieupdates) -  Checks if the movies on your watchlist are uploaded online and sends you a notification as soon as they're available.
 
 * [**Lucky Patcher**](https://www.luckypatchers.com/) - Unlocks in-app purchases on Android apps and removes ads.
 
@@ -23,18 +30,20 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 * [**Tachiyomi**](https://github.com/inorichi/tachiyomi) - Manga reader
 
-* **[Android/iOS]** [**forum.mobilism.org**](https://forum.mobilism.org/index.php) - Forums with large catalogue of cracked apps and eBooks
+* [**forum.mobilism.org**](https://forum.mobilism.org/index.php) - Forums with large catalogue of cracked apps and eBooks
 
 * [**Fildo**](https://fildo.net/android/en/#) - Music streaming app and downloader
 
 * [**apkmirror.com**](https://www.apkmirror.com/) - Contains untouched and signed release apks. Useful if searching for a prior version of an application.
 
-* Streaming apps for Movies & TV listed under the [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv) section of the megathread
-
 &nbsp;
 
-* See /r/sideloaded for iOS
+* Streaming apps for Movies & TV listed under the [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv) section of the megathread
+
 * See /r/ApksApps for more android apps
+
+* See /r/sideloaded for iOS
+
 
 &nbsp;
 
@@ -44,6 +53,7 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 ##► Mobile Cracked App Markets/Repos
 
 #### Android:
+
 * [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
 
 * [apkpure.com](https://apkpure.com/) - Similar to apkmirror.com

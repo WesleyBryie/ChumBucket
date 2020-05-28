@@ -44,6 +44,8 @@ Sites labeled repacks are for releases that have been repacked from the original
 
 * [ovagames.com](http://www.ovagames.com/) - Offers Scene game downloads
 
+* [rlsbb.ru > PC Games](https://rlsbb.ru/category/games/pc/) - Scene game releases
+
 * [scnlog.me](https://scnlog.me/) - Scene game releases
 
 * [forum.torrminatorr.com](https://forum.torrminatorr.com/) - Scene and p2p game releases
@@ -70,7 +72,7 @@ Sites labeled repacks are for releases that have been repacked from the original
 
 * **[Mobile]** [forum.mobilism.org](https://forum.mobilism.org/index.php) - Mobile cracked games
 
-* **[iOS]** [iphonecake.com](https://www.iphonecake.com/) - iOS cracked games (and apps)
+* **[Mac]** [rlsbb.ru > Mac Games](https://rlsbb.ru/category/games/mac-games/) - Scene game releases
 
 * **[Mac]** [nxmac.com](https://nxmac.com/) - Mac games
 
