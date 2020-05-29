@@ -64,7 +64,7 @@ Sites labeled repacks are for releases that have been repacked from the original
 
 * **[Repacks]** [kapitalsin.com](http://www.kapitalsin.com/forum/index.php?board=4.0)
 
-* **[Repacks]** [gamesfull.org](https://www.gamesfull.org/)
+* **[Repacks]** [darckrepacks.com](https://darckrepacks.com/)
 
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.
 
