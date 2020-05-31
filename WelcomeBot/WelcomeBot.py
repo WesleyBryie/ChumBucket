@@ -103,12 +103,12 @@ def monitorStream(timeLastSavedUsers, Users, startTime, reddit):
                 if submission is None or submission.author is None:
                     break
                 # if submission is not removed by any mods or submission is removed by reddit filters (banned_by == True) and submission is not already approved
-                if not submission.author.name in Users and submission.banned_by is None and not submission.approved:
+                if not submission.author.name in Users:
                     processSubmission(reddit, submission)
             for comment in comment_stream:
                 if comment is None or comment.author is None:
                     break
-                if not comment.author.name in Users and not REQUIRED_REPLY.lower() in comment.body.lower():
+                if not comment.author.name in Users:
                     processComment(Users, reddit, comment)
             for message in inbox_stream:
                 # log_json('Checking messages', datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
@@ -160,11 +160,13 @@ def log_json(logStr, now):
         json.dump(logList, f, indent=4)
 
 
-def processSubmission(reddit, submission_temp):
-    subID = submission_temp.id
-    time.sleep(2)
+def processSubmission(reddit, submission):
+    time.sleep(3)
     # reload submission to get fresh data
-    submission = reddit.submission(id=subID)
+    submission = reddit.submission(id=submission.id)
+
+    if not submission.banned_by is None or submission.approved:
+        return
 
     permalink = submission.permalink
     submissionID = submission.id
@@ -306,16 +308,6 @@ def isUserNew(username, Users):
         return False
     return True
 
-
-# def getUserSet():
-#     try:
-#         with open(USER_SET_PICKLE_PATH, 'rb') as f:
-#             return pickle.load(f)
-#     except:
-#         userSet = set()
-#         with open(USER_SET_PICKLE_PATH, 'wb') as f:
-#             pickle.dump(userSet, f)
-#         return userSet
 
 def getUsers():
     try:
