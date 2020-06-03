@@ -79,6 +79,7 @@ def main():
 
     reddit = praw.Reddit(client_id=CLIENT_ID, client_secret=CLIENT_SECRET, username=USERNAME, password=PASSWORD, user_agent=USER_AGENT)
 
+	# Get list of users that have already been oriented to the subreddit rules
     Users = getUsers()
 
     startTime = time.time()
@@ -100,12 +101,14 @@ def monitorStream(timeLastSavedUsers, Users, startTime, reddit):
     try:
         while True:
             for submission in submission_stream:
+            	# If submission is deleted or the author shows up as [deleted] (deleted their account)
                 if submission is None or submission.author is None:
                     break
                 # if submission is not removed by any mods or submission is removed by reddit filters (banned_by == True) and submission is not already approved
                 if not submission.author.name in Users:
                     processSubmission(reddit, submission)
             for comment in comment_stream:
+            	# If comment is deleted or the author shows up as [deleted] (deleted their account)
                 if comment is None or comment.author is None:
                     break
                 if not comment.author.name in Users:
@@ -120,12 +123,13 @@ def monitorStream(timeLastSavedUsers, Users, startTime, reddit):
                     processMessage(Users, reddit, message)
                 message.mark_read()
 
-            # Save Users to json every 5 minutes
+            # Save Users to json
             currTime = time.time()
             if currTime - timeLastSavedUsers > SAVE_FREQUENCY:
                 timeLastSavedUsers = currTime
                 saveUsers(Users)
 
+			# check spam queue for submissions caught in reddit's filter
             if currTime - timeLastCheckedSpamQueue > SPAM_FILTER_CHECK_FREQUENCY:
                 for spamSubmission in subreddit.mod.spam(only="submissions"):
                     if spamSubmission is None or spamSubmission.author is None:
@@ -147,25 +151,26 @@ def saveUsers(Users):
     print(f'Saved at {now}')
 
 
-def log_json(logStr, now):
-    if int(time.time()) % 120 > 10:
-        return
-    logList = []
-    with open(JSON_LOG_PATH, 'r', encoding='utf8') as f:
-        logList = json.load(f)
+#def log_json(logStr, now):
+#    if int(time.time()) % 120 > 10:
+#        return
+#    logList = []
+#    with open(JSON_LOG_PATH, 'r', encoding='utf8') as f:
+#        logList = json.load(f)
 
-    logList.append(logStr + ' ' + str(now))
+#    logList.append(logStr + ' ' + str(now))
 
-    with open(JSON_LOG_PATH, 'w', encoding='utf8') as f:
-        json.dump(logList, f, indent=4)
+#    with open(JSON_LOG_PATH, 'w', encoding='utf8') as f:
+#        json.dump(logList, f, indent=4)
 
 
 def processSubmission(reddit, submission):
+    # wait X seconds and reload submission to get fresh data to allow the automod to work through its own spam rules
     time.sleep(3)
-    # reload submission to get fresh data
     submission = reddit.submission(id=submission.id)
 
-    if not submission.banned_by is None or submission.approved:
+	# If submission is not removed and is not removed by reddit's spam filter or the submission has already been approved, skip submission
+    if submission.banned_by != None and submission.banned_by != True or submission.approved:
         return
 
     permalink = submission.permalink
@@ -286,6 +291,7 @@ def processMessage(Users, reddit, message):
 #     userSet.add(submitterName)
 
 def processApprovedSubmission(submission):
+    # process the just-bot-approved submission to see if it should report it under possible breaking of rule 3
     maxLength = 65
     title = submission.title
     selftext = submission.selftext
