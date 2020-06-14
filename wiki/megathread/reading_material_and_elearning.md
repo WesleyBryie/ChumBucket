@@ -97,7 +97,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
 
-* [freetutorialsus.com](https://freetutorialsus.com/) - Udemy, Lynda, Pluralsight courses available via  torrents.
+* [freetutorialsus.com](https://freetutorialsus.com/) - Udemy, Lynda, Pluralsight courses available. 
 
 * [gfxdomain.net](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Computer graphics design tutorials/courses via fileshosters (some through torrents).
 
@@ -105,11 +105,13 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [desirecourse.net](https://desirecourse.net/) - Download and request premium courses
 
-* [courseclub.me](https://courseclub.me/)
+* [freecoursesite.us](https://freecoursesite.us/) - Download premium courses
+
+* [courseclub.me](https://courseclub.me/) - Download premium courses
 
 * [forcoder.su](https://forcoder.su/) - Focuses on programming textbooks
 
-* [coursehunter.net](https://coursehunter.net/)
+* [coursehunter.net](https://coursehunter.net/) **(legal site)** - Find free tutorials online
 
 * [Avaxhome](https://avxhm.se/) - E-learning material. Pair together [with this](https://www.reddit.com/r/Piracy/comments/d0rfpe/download_ebooks_on_avaxhome_for_free/) to download.
 

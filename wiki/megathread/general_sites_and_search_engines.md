@@ -38,8 +38,6 @@ General-purpose indexers to search for any type of content. If you're looking fo
 
 * **[DDL]** /r/opendirectories - Subreddit for sharing open directories
 
-* [/r/opendirectories's Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/)
-
 * ⭐ [Guide on searching for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - Guide that can be very useful in finding rare content
 
 &nbsp;
@@ -60,7 +58,7 @@ These torrent search engines/DHT crawlers can be used to search within as many p
 
 * [torrentz2.eu](https://torrentz2.eu/) - Multi-site search engine
 
-* [btdb.io](https://btdb.io/) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/trackers/comments/eaqnr5/btdb_bittorrent_database_looking_for_feedback/)
+* [btdb.eu](https://btdb.eu/) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/trackers/comments/eaqnr5/btdb_bittorrent_database_looking_for_feedback/)
 
 * [snowfl.com](https://snowfl.com/) - Not a DHT crawler so it won't be as thorough, but it indexes many public trackers.
 
@@ -80,7 +78,7 @@ For a more extensive list, see [this post](https://www.reddit.com/r/torrents/com
 
 * [alpharatio.cc](https://alpharatio.cc/) (Private tracker) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
 
-* [Filelist](https://filelist.ro/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
+* [Filelist](https://filelist.io/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
 
 * [IPTorrents](http://iptorrents.com/) - The largest general private tracker
 

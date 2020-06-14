@@ -9,9 +9,9 @@
 
 Scene groups (such as CODEX, CPY, SKIDROW, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are https://www.skidrowreloaded.com and https://skidrowrepacks.com/, which are fine to use).
 
-For PC games piracy news (crack releases, DRM news etc), visit /r/CrackWatch 
+For PC games piracy news (new cracked games releases, DRM news etc), visit /r/CrackWatch 
 
-Sites labeled repacks are for releases that have been repacked from the original scene release. Their intent is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation.
+❗ Sites labeled **repacks** are for releases that have been repacked from the original scene release. Their intent is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation.
 
 ## ►  **Torrent sites**
 
@@ -23,15 +23,17 @@ Sites labeled repacks are for releases that have been repacked from the original
 
 * [rarbg.to](http://rarbg.to/) - Original Scene releases
 
+* **[Repacks]** [otxataba.net / aka Xatab](https://otxataba.net/) - Pre-cracked games
+
+* **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
+
+* **[Repacks]** [kaoskrew.org](https://kaoskrew.org/) - Pre-cracked games
+
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.
 
-* **[Repacks]** [repack.info](https://repack.info/)
-
-* **[Repacks]** [otxataba.net / aka Xatab](https://otxataba.net/)
-
-* **[Repacks]** [kaoskrew.org](https://kaoskrew.org/)
-
 * **[Repacks]** [rg-mechanics.org](https://rg-mechanics.org/) - Mirrors RG Mechanics' repacks. Their home location is the tapochek.net forums
+
+* **[Repacks]** [repack.info](https://repack.info/) - Pre-cracked games
 
 &nbsp;
 
@@ -52,7 +54,7 @@ Sites labeled repacks are for releases that have been repacked from the original
 
 * [gog-games.com](https://gog-games.com/) - Untouched GOG games. No cracks needed.
 
-* [steamunlocked.net](https://steamunlocked.net/)
+* [steamunlocked.net](https://steamunlocked.net/) - Pre-installed games (not repacks).
 
 * [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - Game trainers, cheats, and standalone cracks for games
 
@@ -60,11 +62,13 @@ Sites labeled repacks are for releases that have been repacked from the original
 
 * **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free file hosts
 
-* **[Repacks]** [kaoskrew.org](https://kaoskrew.org/)
+* **[Repacks]** [kaoskrew.org](https://kaoskrew.org/) - Pre-cracked games
 
-* **[Repacks]** [kapitalsin.com](http://www.kapitalsin.com/forum/index.php?board=4.0)
+* **[Repacks]** [kapitalsin.com](http://www.kapitalsin.com/forum/index.php?board=4.0) - Pre-cracked games
 
-* **[Repacks]** [darckrepacks.com](https://darckrepacks.com/)
+* **[Repacks]** [darckrepacks.com](https://darckrepacks.com/) - Pre-cracked games.
+
+* **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
 
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.
 
@@ -90,6 +94,8 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * /r/Roms 
 
+* [ByAlvro's ROM collection](https://old.reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/)
+
 * [the-eye.eu](http://the-eye.eu/public/rom/) - Large collection of multi-platform console roms
 
 * [emulator.games](https://emulator.games/) - Large collection of ROMs
@@ -112,6 +118,10 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * [romstorage.com](https://www.romstorage.com/)
 
+* [digiex.net/forums](https://digiex.net/forums/) - Discussion forum. Has a ROMs subsection
+
+* [squid-board.ru](https://www.squid-board.ru/) - Discussion forum. Has a ROMs subsection
+
 &nbsp;
 
 
@@ -119,7 +129,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 ## ► **Misc**
 
-* [thetrove.net](https://thetrove.net/) - Archival resource for tabletop gaming / RPGs
+* [thetrove.net](https://thetrove.net/) - Archival resource containing tabletop gaming / RPGs
 
 
 
@@ -135,7 +145,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * [alpharatio.cc](https://alpharatio.cc/) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
 
-* [Filelist](https://filelist.ro/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
+* [Filelist](https://filelist.io/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
 
 * [IPTorrents](http://iptorrents.com/) - The largest general private tracker
 

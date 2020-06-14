@@ -79,7 +79,7 @@ If you're on Mac, you'll need [**UNetbootin**](http://unetbootin.github.io/).
 
 ## ► Activating Windows 10
 
-Just download and run [**hwidgen**](http://www.reddit.com/r/piracy/wiki/tools) to activate. Usage: [KMS38 mode for LTSC, else hwid mode.](https://i.imgur.com/lmjLOtq.jpg)
+Just download and run [**hwidgen**](http://www.reddit.com/r/piracy/wiki/megathread/tools) to activate. Usage: [KMS38 mode for LTSC, else hwid mode.](https://i.imgur.com/lmjLOtq.jpg)
 
 It's permanent and will not install a background service, which would be liable to be removed by an antivirus, causing your windows to become de-activated, which was historically the case with previous KMS activation tools. It grants, by all intents and purposes, a genuine licenese, because it takes advantage of the fact that Microsoft still offers a free win7/8 -> win10 upgrade, spoofs that upgrade ticket, thus granting you a digital license to Windows 10.
 

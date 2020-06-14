@@ -8,7 +8,7 @@
 
 * **[PIRACY MEGATHREAD](https://www.reddit.com/r/Piracy/wiki/megathread)**
 
-* **[Tools](https://www.reddit.com//r/piracy/wiki/megathread/tools)**
+* **[Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)**
 
 * **[FAQ](https://www.reddit.com/r/piracy/wiki/faq)**
 

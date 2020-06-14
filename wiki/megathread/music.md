@@ -20,20 +20,24 @@
 
 * [leakedalbums.org](https://leakedalbums.org/) - New music albums
 
-* [pluspremieres.nl](https://www.pluspremieres.nl/)
+* [pluspremieres.nl](https://www.pluspremieres.nl/) (m4a) - iTunes releases
 
-* [free-mp3-download.net](https://free-mp3-download.net/) [FLAC/mp3] - High quality music downloads. Uses only unintrusive banner ads.
+* [free-mp3-download.net](https://free-mp3-download.net/) (FLAC/mp3) - High quality music downloads. Uses only unintrusive banner ads.
 
-* **[App]** [Deezloader](/r/deezloadersisback) [FLAC/mp3] -  [\[DISCONTINUED. DISCUSSION THREAD\]](https://www.reddit.com/r/Piracy/comments/fweoa7/deezloader_will_soon_not_be_able_to_download/) Download songs from Deezer in 320kbps quality. You can convert your Spotify playlist to a Deezer playlist and download it via Deezloader as well.
+* **[App]** [Deezloader](/r/deezloadersisback) (FLAC/mp3) -  [\[DISCONTINUED. DISCUSSION THREAD\]](https://www.reddit.com/r/Piracy/comments/fweoa7/deezloader_will_soon_not_be_able_to_download/) Download songs from Deezer in 320kbps quality. You can convert your Spotify playlist to a Deezer playlist and download it via Deezloader as well.
 
-* **[App]** [Deemix](/r/deemix) [FLAC/mp3] -  Replacement for deezloader
+* **[App]** [Deemix](/r/deemix) (FLAC/mp3) -  Desktop replacement for deezloader
+
+* **[App]** [AIDS](/r/deemix) (FLAC/mp3) -  Android replacement for deezloader
 
 * **[App]** [Chimera](https://notabug.org/Aesir/chimera) - Supports downloading from multiple platforms.
 
 * **[App]** [Youtube-dl](https://github.com/rg3/youtube-dl) - command-line program to download video/audio from Youtube videos and other sites. 
  * **[App]** [Youtube-dl-GUI](https://github.com/MrS0m30n3/youtube-dl-gui) - GUI for youtube-dl for those not proficient in using the command line.
 
-* [Khinsider](https://downloads.khinsider.com/) (mp3) - Original game soundtracks/scores.
+* [Khinsider](https://downloads.khinsider.com/) (mp3) - Video game scores/soundtracks.
+
+* [squid-board.ru](https://www.squid-board.ru/) - Video game, anime, and TV & Cinema scores/soundtracks.
 
 * **[Streaming/Android]** [Fildo](https://fildo.net/android/en/) [mp3] - Music streaming and download app for Android
 
