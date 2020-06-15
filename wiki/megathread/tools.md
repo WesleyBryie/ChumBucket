@@ -24,10 +24,10 @@ KMSAuto Net|1.5.3|[ru-board forum page](http://forum.ru-board.com/topic.cgi?foru
 Daz's Windows Loader|2.2.2|[MyDigitalLife forum page](https://forums.mydigitallife.info/threads/58464-Windows-Loader-Download)|[GDrive](https://drive.google.com/file/d/1qcLeyshfBWgd8Y4M8t9Xkjtrs7pzgWti/view) -- [Dropbox](https://www.dropbox.com/s/fvdwpdo8hr9xixo/windows%20loader.pdf?dl=0)|✓| | | | Activates all Windows 7 if disk is MBR-partitioned. MyDigitalLife [thread 1](https://forums.mydigitallife.net/threads/window-7-64-daz-loader-uefi-motherboard-disabling-uefi-will-work.34528/). [Thread 2](https://forums.mydigitallife.net/threads/you-can-activate-win7-on-a-gpt-partition-with-daz-loader-without-converting-gpt-mbr.76768/)
 HWIDGEN|62.01|[Aiowares forum page](https://www.aiowares.com/showthread.php?tid=246)|[GDrive](https://drive.google.com/file/d/14lND8FJDi93O0o-TJSZ7DZtgiuDQbSKw/view) -- [Dropbox](https://www.dropbox.com/s/0q9npc9ywix04lg/HWIDGEN.KMS38.pdf?dl=0)| | |**best**| |Activates Win10. Run once and delete. HWID mode is permanent but will not activate LTSC. If on LTSC, use KMS38 mode to activate until 2038. [Image.](https://i.imgur.com/lmjLOtq.jpg)
 
-
-
-
 &nbsp;
+
+
+
 
 
 
@@ -67,29 +67,42 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-##► Download Managers & helpers
+##► Media Managers
 
 * [Sonarr](https://sonarr.tv/) - Sonarr is an automatic TV show downloading tool where you can add new shows to monitor, and it will automatically download any new episodes as soon as they are available on torrent sites.
 * [Radarr](https://radarr.video/) - Radarr is an automatic movie downloading tool where you can add movies to monitor, and it will automatically download them as soon as they are available on torrent sites.
 * [Medusa](https://pymedusa.com/) - Very good alternative to Sonarr. An automatic TV show download tool.
 * [SickChill](https://sickchill.github.io/) - Very good alternative to Sonarr. An automatic TV show download tool.
-* [Jackett](https://github.com/Jackett/Jackett) - Jackett is an all-in-one indexer. It allows you to add many different torrent trackers onto their app, in which you can do all your searching. In conjunction with sonarr/radarr, you can add jackett as an indexer to the aforementioned applications, so they will search on any or every single torrent tracker that you have added to jackett.
-
----
-* [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - Open-source commandline tool to download video/audio from a large variety of websites. See the [FAQ](https://reddit.com/r/piracy/wiki/faq) for how to install and use properly.
- * [Youtube-dl gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, if you're not comfortable with the command line.
-* [JDownloader2](http://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
-* [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this](https://github.com/J2TEAM/idm-trial-reset). Alternative [method here](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
-* [XTREME download manager](https://subhra74.github.io/xdm/) - Another very nice download manager
-* [pyLoad](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
-* [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Bulk download anime episodes for various websites, in various resolutions, with or without filler episodes
+* [Jackett](https://github.com/Jackett/Jackett) - Jackett is an all-in-one indexer. It allows you to add many different torrent trackers onto the app, in which you can do all your searching. In conjunction with sonarr/radarr, you can add jackett as an indexer to them, allowing them to search on any or every single torrent tracker that you have added to jackett.
 
 &nbsp;
 
 
 
-##► Single-purpose download tools
 
+
+
+##► Download Managers
+
+> Download managers such as these are meant to help to speed up downloads, typically by increasing the number of connections to the server or attempting to split the download into chunks. They are also especially handy when grabbing multiple links at once, which is typical with DDL sites, where they'll split up large downloads into multiple small `.rar` parts, as well as bypassing captchas and eliminating the risks of clicking on the wrong download button on various file hosts. They also help with resuming paused or timed out downloads which your browser may not be able to do in some cases.
+
+* [JDownloader2](http://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
+* [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this](https://github.com/J2TEAM/idm-trial-reset). Alternative [method here](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
+* [XTREME download manager](https://subhra74.github.io/xdm/) - Another very nice download manager
+* [pyLoad](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
+
+&nbsp;
+
+
+
+
+
+
+##► Miscellaneous Download Tools
+
+* [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - Open-source commandline tool to download video/audio from a large variety of websites. See the [FAQ](https://reddit.com/r/piracy/wiki/faq) for how to install and use properly.
+ * [Youtube-dl gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, if you're not comfortable with the command line.
+* [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Bulk download anime episodes for various websites, in various resolutions, with or without filler episodes
 * [y2mate](https://www.y2mate.com/) - Download youtube video/audio.
 * [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Download music from Bandcamp
 * [Megabasterd](https://github.com/tonikelope/megabasterd) - Bypass Mega's 5 GiB per 6 hours download limit.
@@ -105,6 +118,8 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
+
+
 ##► File sharing
 
 * [SyncThing](https://syncthing.net/) - Share files/folders between computers. Set up shared folders which will be automatically synced between devices. 
@@ -114,6 +129,8 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [send.firefox.com](https://send.firefox.com/) - Send files (up to 1 GiB) via self-destructing links. You can choose the parameters for when the link expires.
 
 &nbsp;
+
+
 
 
 
@@ -132,6 +149,8 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [TheRenamer](http://therenamer.com/) - Same aspect as filebot, but free.
 
 &nbsp;
+
+
 
 
 
@@ -155,6 +174,8 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
+
+
 ## ► Miscellaneous
 
 * [Squawkr.io](https://www.squawkr.io/) - Get notified when a movie releases. You can also set parameters such as resolution
@@ -162,6 +183,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [addic7ed.com](http://www.addic7ed.com/) - multinlingual subtitles for movies/series
 
 &nbsp;
+
 
 
 
@@ -180,6 +202,7 @@ These are sites that track Scene releases. They serve strictly as notice boards 
 * **[P2P]** [xrel.to/p2p/releases.html](https://www.xrel.to/p2p/releases.html) - Tracer for P2P releases
 
 &nbsp;
+
 
 
 
