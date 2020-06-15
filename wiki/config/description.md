@@ -1,1 +1,0 @@
-A community dedicated to the discussion of digital piracy.
