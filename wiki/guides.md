@@ -44,7 +44,7 @@
 
 ---
 
-##► All guides
+## ► All guides
 
 * https://www.reddit.com/r/Piracy/search?q=flair:%22guide%22&restrict_sr=on&sort=new&t=all
 

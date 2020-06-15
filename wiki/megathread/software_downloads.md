@@ -5,7 +5,7 @@
 ---
 ---
 
-## SOFTWARE
+# SOFTWARE
 
 &nbsp;
 
@@ -42,7 +42,7 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 &nbsp;
 
 
-### ► Sites focused on graphics/audio/video software
+## ► Sites focused on graphics/audio/video software
 
 * [DDL] [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion. Their [wiki](https://saidit.net/s/sjain_guides/wiki/index) contains an expanded list of resources.
 
@@ -72,7 +72,7 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 
 
-### ► Miscellaneous
+## ► Miscellaneous
 
 * [How to get fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/)
 
@@ -82,7 +82,7 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 
 
-###► Images/installers
+## ► Images/installers
 
 #### Windows/Office untouched ISOs
 
@@ -97,7 +97,7 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 
 
-### ► Private Trackers
+## ► Private Trackers
 
 [Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 

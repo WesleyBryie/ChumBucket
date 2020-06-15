@@ -8,7 +8,7 @@
 # APPS / TOOLS
 
 
-##► Windows/Office activation tools
+## ► Windows/Office activation tools
 
 * **READ THE NOTES COLUMN**
 
@@ -31,7 +31,7 @@ HWIDGEN|62.01|[Aiowares forum page](https://www.aiowares.com/showthread.php?tid=
 
 
 
-##► Torrent Clients
+## ► Torrent Clients
 
 Notes: uTorrent [has bundled malware \(a bitcoin miner\) into the software in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). The company developing this software is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
 
@@ -52,7 +52,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-##► Media Centers / Clients
+## ► Media Centers / Clients
 
 * [Stremio](https://www.stremio.com/) - Multi video library manager. Plugins available to stream from various media sources, including torrents. Also check out /r/StremioAddons. Watch-together [guide](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/).
 * [Plex Media Server](https://www.plex.tv/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
@@ -67,7 +67,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-##► Media Managers
+## ► Media Managers
 
 * [Sonarr](https://sonarr.tv/) - Sonarr is an automatic TV show downloading tool where you can add new shows to monitor, and it will automatically download any new episodes as soon as they are available on torrent sites.
 * [Radarr](https://radarr.video/) - Radarr is an automatic movie downloading tool where you can add movies to monitor, and it will automatically download them as soon as they are available on torrent sites.
@@ -82,7 +82,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-##► Download Managers
+## ► Download Managers
 
 > Download managers such as these are meant to help to speed up downloads, typically by increasing the number of connections to the server or attempting to split the download into chunks. They are also especially handy when grabbing multiple links at once, which is typical with DDL sites, where they'll split up large downloads into multiple small `.rar` parts, as well as bypassing captchas and eliminating the risks of clicking on the wrong download button on various file hosts. They also help with resuming paused or timed out downloads which your browser may not be able to do in some cases.
 
@@ -98,7 +98,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-##► Miscellaneous Download Tools
+## ► Miscellaneous Download Tools
 
 * [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - Open-source commandline tool to download video/audio from a large variety of websites. See the [FAQ](https://reddit.com/r/piracy/wiki/faq) for how to install and use properly.
  * [Youtube-dl gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, if you're not comfortable with the command line.
@@ -120,7 +120,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-##► File sharing
+## ► File sharing
 
 * [SyncThing](https://syncthing.net/) - Share files/folders between computers. Set up shared folders which will be automatically synced between devices. 
 * [file.pizza](https://file.pizza/) - Secure peer-to-peer file transfers. Useful for quick one-off file transfers. [Github page.](https://github.com/kern/filepizza)
@@ -135,7 +135,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-##► Other tools
+## ► Other tools
 
 * [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
 * [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
@@ -155,7 +155,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-##► Download Services
+## ► Download Services
 
 > Some DDL sites may only offer downloads through premium links, meaning the download will be available through a file host which would lock the download unless you paid a subscription to said file host. The prices can be a bit extravagant, especially when you consider that many DDL sites may use different file hosts, so it would not be feasible to pay for multiple of these subscriptions.
 
@@ -207,7 +207,7 @@ These are sites that track Scene releases. They serve strictly as notice boards 
 
 
 
-##► Images/installers
+## ► Images/installers
 
 ### Windows/Office untouched ISOs
 

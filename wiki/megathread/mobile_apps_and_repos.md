@@ -18,7 +18,7 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 
 
-##► Mobile Apps
+## ► Mobile Apps
 
 * [**Movie Updates**](https://play.google.com/?id=com.tashila.movieupdates) -  Checks if the movies on your watchlist are uploaded online and sends you a notification as soon as they're available.
 
@@ -50,7 +50,7 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 
 
-##► Mobile Cracked App Markets/Repos
+## ► Mobile Cracked App Markets/Repos
 
 #### Android:
 
