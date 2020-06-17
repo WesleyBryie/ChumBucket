@@ -46,7 +46,7 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [DDL] [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion. Their [wiki](https://saidit.net/s/sjain_guides/wiki/index) contains an expanded list of resources.
 
-* [torrents] [monkrus.ws](http://w13.monkrus.ws/) - Repacks/Pre-cracked. Site for popular graphics/video software.
+* [torrents] [monkrus.ws](http://w14.monkrus.ws/) - Repacks/Pre-cracked. Site for popular graphics/video software.
 
 * [torrents] [vstorrent.org](https://vstorrent.org/) - Video software and plugins.
 

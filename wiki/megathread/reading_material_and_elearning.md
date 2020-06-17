@@ -27,7 +27,7 @@ If the ebook you are searching is available for kindle, you may also [*borrow*](
 
 * [forcoder.su](https://forcoder.su/) - Focuses on programming textbooks
 
-* [mobilism.org](https://forum.mobilism.org/viewforum.php?f=106) - Large ebook forum that contains a request subforum
+* [mobilism.org](https://forum.mobilism.org/viewforum.php?f=106) - Large warez board that contains a request subforum
 
 * [freebookspot.es](http://www.freebookspot.es/)
 
@@ -83,6 +83,10 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 ### ► **Audiobooks**
 
 * [audiobookbay.nl](http://audiobookbay.nl/) - #1 public tracker for audiobooks. Shares a lot of content with MAM. When viewing the page for a particular audiobook, copy the torrent info hash to paste into your torrent client using the following format: magnet:?xt=urn:btih:`infohash`
+
+* [mobilism.org](http://mobilism.org/) - Warez board
+
+* [novanon.net](http://novanon.net/) - Warez board
 
 * [audiobooks.cloud](https://audiobooks.cloud/) - DDL audiobook site
 
@@ -196,6 +200,8 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 * [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - One of the 2 biggest private tracker for ebooks/audiobooks. The focus is on the fictional ebooks side unlike libgen though making requests can do the job. Also the best place for audiobooks in numbers though overall quality lacks a little. Similar to libgen, it's also a great place to contribute
 
 * [bibliotik](https://bibliotik.me/) - private tracker for ebooks/audiobooks
+
+&nbsp;
 
 &nbsp;
 

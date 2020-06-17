@@ -112,6 +112,8 @@ Links and requests
 
 * **u/nbatman's directory of [streaming subreddits](https://www.reddit.com/user/nbatman/m/streaming/)**
 
+* /r/riprequests 
+
 * /r/ZippyShare 
 
 * /r/UKTVLAND 
