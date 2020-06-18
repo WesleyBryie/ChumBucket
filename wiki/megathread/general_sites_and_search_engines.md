@@ -18,6 +18,10 @@ General-purpose indexers to search for any type of content. If you're looking fo
 
 * [torrentfunk.com](https://www.torrentfunk.com/) - Provides a checkmark system like rutracker to indicate staff-validated torrents.
 
+* [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Warez board
+
+* [warez-bb.org](https://warez-bb.org) - Warez board
+
 * [katcr.co](https://katcr.co/)
 
 * [limetorrents.cc](https://www.limetorrents.cc/)
