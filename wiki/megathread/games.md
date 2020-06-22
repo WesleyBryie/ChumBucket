@@ -96,13 +96,13 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * [ByAlvro's ROM collection](https://old.reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/)
 
+* [SquidProxy](https://squid-proxy.xyz/) - Very large collection of ROMs
+
 * [the-eye.eu](http://the-eye.eu/public/rom/) - Large collection of multi-platform console roms
 
 * [emulator.games](https://emulator.games/) - Large collection of ROMs
 
 * [emuparadise.me](https://www.emuparadise.me) - Incredibly large ROM library. Use [this script](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) to reinstate the download links.
-
-* [SquidProxy](https://squid-proxy.xyz/) - Large collection of ROMs
 
 * [romulation.net](https://www.romulation.net/)
 
