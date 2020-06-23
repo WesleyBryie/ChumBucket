@@ -15,7 +15,7 @@
 
 **Note:** It is in the nature of hacktools to be picked up as malware by your antivirus. Hwidgen, the tool used to activate Windows 10, is safe. [Some further reading regarding hwidgen](https://www.reddit.com/r/Piracy/comments/d654al/contribution_hwidgen_source_code/). Make sure to either turn off your antivirus or set up a folder which you can add to your antivirus' exclusion list, which you will download hwidgen into.
 
-**Note 2:** Some people may recommend buying cheap keys elsewhere. This is not recommended, as these are grey-market keys, often volume keys that were purchased by companies or sometimes just OEM keys taken from existing computers (school computers, etc). You're not buying directly from MS so you're not buying a license, you're just buying a key and living on the promise that MS won't discover and deactivate those keys.
+**Note 2:** Some people may recommend buying cheap keys elsewhere. This is not recommended, as these are grey-market keys, gathered from MSDN channels, each key sold multiple times ([extra reading](https://www.reddit.com/r/windows/comments/b7jolc/is_cheap_windows_10_licenses_lifetime_or_one_time/ejshgai/)). You're not buying directly from MS so you're not buying a license, you're just buying a key and living on the promise that MS won't discover and deactivate it.
 
 It's essentially piracy with a middleman.
 
@@ -65,7 +65,9 @@ Requirements:
 * A USB drive of at least 4GiB. The Windows 10 ISO installation media is approximately 3.5 GiB in size.
 * Another working PC (If you are building a new PC).
 
-If you're on Windows, run the [**media creation tool**](https://www.microsoft.com/en-us/software-download/windows10) from microsoft. It will create a bootable installation media for windows 10 on your USB drive. Alternatively if you want to create a bootable USB drive from the LTSB/LTSC ISOs, you'll need [**Rufus**](https://rufus.ie/), since the Microsoft's creation tool does not support LTSB/LTSC.
+If you're on Windows, this part is already covered by the previous step, and was achieved by running MSFT's Media Creation Tool - You may skip to the next step.
+
+Alternatively if you want to create a bootable USB drive from the LTSB/LTSC ISOs, you'll need [**Rufus**](https://rufus.ie/), since the Microsoft's creation tool does not support LTSB/LTSC.
 
 If you're on Linux, you'll need [**WoeUSB**](https://github.com/slacka/WoeUSB) or [**UNetbootin**](http://unetbootin.github.io/).
 
