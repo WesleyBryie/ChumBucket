@@ -17,6 +17,8 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [DDL] [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion. Their [wiki](https://saidit.net/s/sjain_guides/wiki/index) contains an expanded list of resources.
 
+* [sanet.ws](https://sanet.ws) - Windows software cracks
+
 * [DDL] [diakov.net](https://diakov.net/) - Repacks/Pre-cracked software downloads. Hosted on premium hosts.
 
 * [DDL] [forum.ru-board.com > Underground](http://forum.ru-board.com/board.cgi?catplace=6) - "Underground" subforum at ru-board
@@ -34,9 +36,11 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [Mac] [nxmac.com](https://nxmac.com/) - Popular DDL site for mac apps and games
 
-* [DDL] [forums.mydigitallife.net](https://forums.mydigitallife.net/)
+* [DDL] [forums.mydigitallife.net](https://forums.mydigitallife.net/) - Software release board
 
-* [DDL] [aiowares.com](https://www.aiowares.com/)
+* [DDL] [aiowares.com](https://www.aiowares.com/) - Software release board
+
+* [DDL] [nsaneforums.com](https://www.nsaneforums.com/) - Software release board
 
 
 &nbsp;

@@ -58,6 +58,10 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 * [apkpure.com](https://apkpure.com/) - Similar to apkmirror.com
 
+* [androeed.ru](https://www.androeed.ru)
+
+* [revdl.com](https://www.revdl.com/)
+
 * [apkmb.com](https://apkmb.com/)
 
 * [apkhouse.com](https://apkhouse.com/)

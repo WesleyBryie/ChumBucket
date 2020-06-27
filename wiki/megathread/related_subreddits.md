@@ -14,7 +14,7 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/CrackWatch - To keep up to date on crack news of PC game releases. In regards to new popular AAA releases, if there is no news here, then there is no news.
 
-* /r/CrackSupport -  For those who have already downloaded their desired (pirated) software/game, but require technical assistance with it.
+* /r/CrackSupport -  For those who have already downloaded their desired (pirated) game, but require technical assistance with it.
 
 * /r/DataHoarder 
 
