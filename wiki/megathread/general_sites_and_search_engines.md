@@ -60,7 +60,7 @@ These torrent search engines/DHT crawlers can be used to search within as many p
 
 * [btdig.com](https://btdig.com/) - DHT torrent search engine.
 
-* [torrentz2.eu](https://torrentz2.eu/) - Multi-site search engine
+* [torrentz2.is](https://torrentz2.is/) - Multi-site search engine
 
 * [btdb.eu](https://btdb.eu/) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/trackers/comments/eaqnr5/btdb_bittorrent_database_looking_for_feedback/)
 
