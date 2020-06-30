@@ -45,7 +45,6 @@ Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_a
 *For streaming with Kodi, visit r/Addons4Kodi*
 
 * **[torrent-based]** [magnetoo.io](https://www.magnetoo.io/) - Movies
-* [www.rulu.co](https://www.rulu.co/) - Youtube RED series
 * [vidcloud9.com](https://vidcloud9.com/)
 * [ffilms.club](https://ffilms.club/)
 * [5movies.live](https://5movies.live/)
