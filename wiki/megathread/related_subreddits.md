@@ -50,8 +50,6 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/StremioAddons - Unofficial addons for Stremio
 
-* /r/sideloaded - For sideloading unofficial/cracked apps onto your iPhone or iPad
-
 * /r/IPTV 
 
 * /r/KissCartoon - KissCartoon community subreddit
@@ -75,6 +73,8 @@ These subreddits are centered around technologies that have ties with piracy, bu
 * /r/VPNTorrents - Discussion of VPNs for the purpose of torrenting
 
 * /r/NetflixViaVPN 
+
+* /r/sideloaded - For sideloading 3rd party apps onto your iPhone or iPad
 
 * /r/torrents - For dicussion and tech support for torrenting.
 

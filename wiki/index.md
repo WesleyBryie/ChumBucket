@@ -4,7 +4,7 @@
 ---
 ---
 
-### [► Megathread](https://www.reddit.com/r/Piracy/wiki/megathread) - Useful sites, apps/tools, and other resources
+### [► Megathread](https://www.reddit.com/r/Piracy/wiki/megathread) - Websites, apps/tools, and other resources
 
 ### [► FAQ](https://www.reddit.com/r/piracy/wiki/faq) - Frequently asked questions
 
