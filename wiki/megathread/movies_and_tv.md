@@ -29,7 +29,7 @@ Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_a
 * [uniteam.co / UTR](https://uniteam.co/) - Decent-sized x265 encodes, with movie extras included.
 * [psarips.com](http://psarips.com/) - Small-sized x265 (re-)encodes
 * **[TV]** [eztv.io](https://eztv.io/)
-* **[Movies]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
+* **[Movies-only]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
 * **[Documentaries]** [forums.mvgroup.org](https://forums.mvgroup.org/index.php) - Very good documentaries indexer. Registration required.
 * **[Anime]** [Nyaa.si](https://nyaa.si/)
 * **[Anime]** [nyaa.pantsu.cat](https://nyaa.pantsu.cat/)
@@ -45,11 +45,14 @@ Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_a
 *For streaming with Kodi, visit r/Addons4Kodi*
 
 * **[torrent-based]** [magnetoo.io](https://www.magnetoo.io/) - Movies
+* [lookmovie.ag](https://lookmovie.ag/)
 * [vidcloud9.com](https://vidcloud9.com/)
 * [ffilms.club](https://ffilms.club/)
 * [5movies.live](https://5movies.live/)
 * [batflix.org](https://ww2.batflix.org/)
+* [openloadmov.com](https://openloadmov.com/)
 * [moviegaga.to](https://moviegaga.to/)
+* [streamlord.com](http://www.streamlord.com/)
 * [lunchflix.com](https://www.lunchflix.com/)
 * [simplestream.in](https://simplestream.in/)
 * [themoviebay.net](https://vww.themoviebay.net/)
@@ -59,7 +62,9 @@ Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_a
 * [yesmovies.ag](https://yesmovies.ag/)
 * [hydrax.is](https://hydrax.is/)
 * [www.soap2day.com](https://www.soap2day.com/)
-* [streamlord.com](http://www.streamlord.com/)
+* [teatv.xyz](https://teatv.xyz/)
+* [vmovie.biz](https://vmovie.biz/)
+* [bmovies.nl](https://bmovies.nl/)
 
 * ***Android apps:***
   * **[Anime]** [AnimeMolecules](https://animemolecules.com/) - Anime streaming app
@@ -139,9 +144,9 @@ Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_a
 * [psarips.com](https://psarips.com/) - Small-sized x265 (re-)encodes
 * [crazy4tv.com](http://crazy4tv.com/)
 * [rmz.cr](http://rmz.cr/)
-* **[Movies]** [moviefiles.org](https://moviefiles.org/) - Latest movies hosted on google drive
-* **[Movies]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
-* **[Movies]** [x265movies.co](https://x265movies.co/)
+* **[Movies-only]** [moviefiles.org](https://moviefiles.org/) - Latest movies hosted on google drive
+* **[Movies-only]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
+* **[Movies-only]** [x265movies.co](https://x265movies.co/)
 * [**Premium hosts**] [hdencode.com](https://hdencode.com/) - Content downloadable only through premium links/hosts. See how to deal with premium links at the [bottom of the megathread.](https://www.reddit.com/r/Piracy/wiki/megathread)
 * [**Premium hosts**] [scene-rls.net](http://scene-rls.net/)
 
