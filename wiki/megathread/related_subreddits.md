@@ -56,6 +56,12 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/KissCommunitySupport - KissManga + KissAnime support service
 
+* /r/deemix 
+
+* /r/DeezloadersIsBack 
+
+* /r/Soulseek 
+
 
 &nbsp;
 
@@ -65,7 +71,7 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 ### ► Semi-Related
 
-These subreddits are centered around technologies that have ties with piracy, but are not centered around discussing piracy itself or piracy methods. Read their rules for clarification.
+These subreddits are centered around technologies that have ties with piracy, but are **not centered around discussing piracy itself or piracy methods**. Read their rules for clarification.
 
 
 * /r/VPN - Discussion of VPNs
@@ -116,6 +122,8 @@ Links and requests
 
 * /r/ZippyShare 
 
+* /r/Scholar - "This subreddit is for requesting and sharing specific articles available in various databases"
+
 * /r/UKTVLAND 
 
 * /r/panelshows 
@@ -137,7 +145,7 @@ Links and requests
 
 ### ► Console Hacking oriented subreddits
 
-The following subreddits are centered around altering/hacking the respective consoles, and though these methods typically pave the way for piracy to become possible, these subreddits are not centered around the discussion of piracy or piracy methods. Read their rules for clarification.
+The following subreddits are centered around altering/hacking the respective consoles, and though these methods typically pave the way for piracy to become possible, these subreddits are **not centered around the discussion of piracy or piracy methods**. Read their rules for clarification.
 
 * /r/PS3hacks 
 
@@ -165,6 +173,8 @@ The following subreddits are centered around altering/hacking the respective con
 
 * /r/xb1hacks 
 
+* /r/DolphinEmulator - "Dolphin is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii"
+
 &nbsp;
 
 
@@ -178,6 +188,8 @@ The following subreddits are centered around altering/hacking the respective con
 
 * /r/SwitchPirates 
 
+* r/SwitchNSPs - Switch NSPs
+
 * /r/3DSpiracy 
 
 * /r/VitaPiracy 
@@ -187,8 +199,6 @@ The following subreddits are centered around altering/hacking the respective con
 * /r/WiiUPiracy
 
 * /r/CemuPiracy - Cemu is a WiiU emulator for the PC. This sub is for discussion on WiiU piracy with a focus on emulation.
-
-* r/SwitchNSPs - Switch NSPs
 
 * r/PkgLinks - PS4 PKGs
 
