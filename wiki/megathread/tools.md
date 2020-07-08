@@ -216,9 +216,5 @@ These are sites that track Scene releases. They serve strictly as notice boards 
 * **[DDL]** [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to create Windows 10 installation media from a USB drive.
 * **[DDL]** [Theeye - 2.7 TB back up of MSDN dump](https://the-eye.eu/public/MSDN/). Has lots of hard to find ISOs.
 
-### Adobe untouched installers
-
-* **[DDL]** [Adobe.com CC applications](https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html) - requires Adobe login.
-* **[DDL]** [Adobe CC 2018 multilanguage installers](http://prodesigntools.com/adobe-cc-2018-direct-download-links.html)
 
 &nbsp;

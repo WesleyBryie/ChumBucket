@@ -7,6 +7,8 @@
 
 # SOFTWARE
 
+**Use an adblocker like uBlock Origin before visiting any of the linked sites.**
+
 &nbsp;
 
 Try to avoid the pirate bay for software, it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)

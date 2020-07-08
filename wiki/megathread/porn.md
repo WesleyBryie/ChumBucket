@@ -7,6 +7,8 @@
 
 # PORN
 
+**Use an adblocker like uBlock Origin before visiting any of the linked sites.**
+
 ### ► **Public sites**:
 
 * [sxyprn.net](http://sxyprn.net/)

@@ -7,6 +7,8 @@
 
 # MOVIES AND TV
 
+**Use an adblocker like uBlock Origin before visiting any of the linked sites.**
+
 [/r/FREEMEDIAHECKYEAH's comprehensive list of various streaming sources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/a2csq0/how_to_stream_movies_tv_anime_sports_online/)
 
 Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) (in regards to non-software) to avoid accidentally running malware.

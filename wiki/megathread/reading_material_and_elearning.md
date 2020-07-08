@@ -7,6 +7,8 @@
 
 # BOOKS, COMICS, E-LEARNING, AND OTHER READING MATERIAL
 
+**Use an adblocker like uBlock Origin before visiting any of the linked sites.**
+
 If you have purchased the kindle edition of your book and wish to strip its DRM and export it to .pdf, view this [guide](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) on how to deDRM your book. 
 
 If the ebook you are searching is available for kindle, you may also [*borrow*](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) the ebook, use the guide, and then return it for a refund.
