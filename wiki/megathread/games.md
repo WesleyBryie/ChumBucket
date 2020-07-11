@@ -25,7 +25,7 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 * [rarbg.to](http://rarbg.to/) - Original Scene releases
 
-* **[Repacks]** [otxataba.net / aka Xatab](https://otxataba.net/) - Pre-cracked games
+* **[Repacks]** [xatab-repack.com](https://t.xatab-repack.com/) - Pre-cracked games
 
 * **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
 
@@ -76,7 +76,6 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 &nbsp;
 
-* **[Mobile]** [forum.mobilism.org](https://forum.mobilism.org/index.php) - Mobile cracked games
 
 * **[Mac]** [rlsbb.ru > Mac Games](https://rlsbb.ru/category/games/mac-games/) - Scene game releases
 
