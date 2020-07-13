@@ -15,6 +15,31 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 ❗ Sites labeled **repacks** are for releases that have been repacked from the original scene release. Their intent is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation.
 
+&nbsp;
+
+
+
+
+
+
+## ► Relevant Software
+
+**Download Managers**
+
+> These are useful for DDL sites. Download managers such as these are meant to help to speed up downloads, typically by increasing the number of connections to the server or attempting to split the download into chunks. They are also especially handy when grabbing multiple links at once, which is typical with DDL sites, where they'll split up large downloads into multiple small `.rar` parts, as well as bypassing captchas and eliminating the risks of clicking on the wrong download button on various file hosts. They also help with resuming paused or timed out downloads which your browser may not be able to do in some cases.
+
+* [JDownloader2](http://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
+* [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this](https://github.com/J2TEAM/idm-trial-reset). Alternative [method here](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
+* [XTREME download manager](https://subhra74.github.io/xdm/) - Another very nice download manager
+* [pyLoad](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
+
+&nbsp;
+
+
+
+
+
+
 ## ►  **Torrent sites**
 
 * [gamestorrents.io](https://www.gamestorrents.io/)
@@ -38,6 +63,8 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 * **[Repacks]** [repack.info](https://repack.info/) - Pre-cracked games
 
 &nbsp;
+
+
 
 
 
@@ -88,6 +115,9 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 
 
+
+
+
 ## ►  **ROMs**
 Visit [emulation.gametechwiki.com](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) for extra resources for ROMs
 
@@ -124,6 +154,8 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 * [digiex.net/forums](https://digiex.net/forums/) - Discussion forum. Has a ROMs subsection
 
 &nbsp;
+
+
 
 
 

@@ -70,7 +70,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 ## ► Media Managers
 
 * [Sonarr](https://sonarr.tv/) - Sonarr is an automatic TV show downloading tool where you can add new shows to monitor, and it will automatically download any new episodes as soon as they are available on torrent sites.
-* [Radarr](https://radarr.video/) - Radarr is an automatic movie downloading tool where you can add movies to monitor, and it will automatically download them as soon as they are available on torrent sites.
+* [Radarr](https://radarr.video/) - Same as Sonarr, but for movies.
 * [Medusa](https://pymedusa.com/) - Very good alternative to Sonarr. An automatic TV show download tool.
 * [SickChill](https://sickchill.github.io/) - Very good alternative to Sonarr. An automatic TV show download tool.
 * [Jackett](https://github.com/Jackett/Jackett) - Jackett is an all-in-one indexer. It allows you to add many different torrent trackers onto the app, in which you can do all your searching. In conjunction with sonarr/radarr, you can add jackett as an indexer to them, allowing them to search on any or every single torrent tracker that you have added to jackett.
@@ -84,7 +84,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 ## ► Download Managers
 
-> Download managers such as these are meant to help to speed up downloads, typically by increasing the number of connections to the server or attempting to split the download into chunks. They are also especially handy when grabbing multiple links at once, which is typical with DDL sites, where they'll split up large downloads into multiple small `.rar` parts, as well as bypassing captchas and eliminating the risks of clicking on the wrong download button on various file hosts. They also help with resuming paused or timed out downloads which your browser may not be able to do in some cases.
+> These are useful for DDL sites. Download managers such as these are meant to help to speed up downloads, typically by increasing the number of connections to the server or attempting to split the download into chunks. They are also especially handy when grabbing multiple links at once, which is typical with DDL sites, where they'll split up large downloads into multiple small `.rar` parts, as well as bypassing captchas and eliminating the risks of clicking on the wrong download button on various file hosts. They also help with resuming paused or timed out downloads which your browser may not be able to do in some cases.
 
 * [JDownloader2](http://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
 * [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this](https://github.com/J2TEAM/idm-trial-reset). Alternative [method here](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
