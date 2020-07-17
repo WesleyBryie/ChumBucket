@@ -50,7 +50,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 * [**u/Amosqu's CSE**](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers) - Scours in many sites listed above. [**Guide**](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) to accompany this CSE.
 
-* [**r/Piracy's updated ebooks CSE**](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - Removed all dead links and added new websites. See here for the contents of the sites it scrapes: https://pastebin.com/aapQMv7t
+* [**r/Piracy's updated ebooks CSE**](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - Removed all dead links and added new websites. See [**here**](https://web.archive.org/web/20180501165358/https://pastebin.com/aapQMv7t) for the contents of the sites it scrapes.
 
 * **[GUIDE]** [Idiot-proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Guide by u/Servalpur
 
