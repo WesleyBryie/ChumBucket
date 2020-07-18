@@ -9,7 +9,7 @@
 
 **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
-Scene groups (such as CODEX, CPY, SKIDROW, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are https://www.skidrowreloaded.com and https://skidrowrepacks.com/, which are fine to use).
+Scene groups (such as CODEX, CPY, SKIDROW, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use).
 
 For PC games piracy news (new cracked games releases, DRM news etc), visit /r/CrackWatch 
 
@@ -48,7 +48,7 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 * [rutor.info](http://rutor.info/games) - Game repacks site
 
-* [rarbg.to](http://rarbg.to/) - Original Scene releases
+* [rarbg.to](http://rarbg.to/) - Scene releases
 
 * **[Repacks]** [xatab-repack.com](https://t.xatab-repack.com/) - Pre-cracked games
 
@@ -58,7 +58,7 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.
 
-* **[Repacks]** [rg-mechanics.org](https://rg-mechanics.org/) - Mirrors RG Mechanics' repacks. Their home location is the tapochek.net forums
+* **[Repacks]** [rg-mechanics.org](https://rg-mechanics.org/) - Mirrors RG Mechanics' repacks. Their home location is the tapochek.net forums (closed forums). Their repacks are also posted to rutor.
 
 * **[Repacks]** [repack.info](https://repack.info/) - Pre-cracked games
 
@@ -73,7 +73,9 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 * [Steam Underground - cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=10) - Dedicated game piracy forum. Check [their FAQ](https://cs.rin.ru/forum/viewtopic.php?f=10&t=98158) to get the best usage out of the site. Best parts are the discussion and the different types of tools especially the multiplayer ones. Game links aren't always provided (especially for scene releases; they recommend some external sites in their FAQ) but when they are, they are on free file hosting services like zippyshare so that's another plus. Also includes early access games.
 
-* [ovagames.com](http://www.ovagames.com/) - Offers Scene game downloads
+* [scenegames.to](https://scenegames.to/) - Scene game downloads
+
+* [ovagames.com](http://www.ovagames.com/) - Scene game downloads
 
 * [rlsbb.ru > PC Games](https://rlsbb.ru/category/games/pc/) - Scene game releases
 

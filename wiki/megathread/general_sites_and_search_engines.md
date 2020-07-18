@@ -18,7 +18,7 @@ General-purpose indexers to search for any type of content. If you're looking fo
 
 * [1337x.to](https://1337x.to/) - General purpose indexer. [Alternate domains.](https://i.imgur.com/oCC9Y2H.jpg)
 
-* [torrentfunk.com](https://www.torrentfunk.com/) - Provides a checkmark system like rutracker to indicate staff-validated torrents.
+* [torrentfunk.com](https://www.torrentfunk.com/)
 
 * [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Warez board
 
