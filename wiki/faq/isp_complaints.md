@@ -63,7 +63,7 @@ You have several options:
 
  3. **Using a private tracker** in conjunction with either of the above solutions is also advised. Copyright trolls go after low hanging fruit such as public trackers (thepiratebay, extratorrent, rarbg), which have millions of daily users and are therefore the prime target. By using a private tracker you are diminishing the likelihood of receiving an infringement letter, however, it is still not impossible.
 
- 4. **Download using DDL** (direct download) methods. DDL is a blanket term used for any sort of direct connection between you and a single other server. Such transfers could take the form of HTTP, ftp, etc.
+ 4. **Download using DDL** (direct download) methods, such as google drive, mega, zippyshare, etc. DDL is a blanket term used for any sort of direct connection between you and a single other server. Such transfers could take the form of HTTP, ftp, etc.
 
  5. **Download from usenet**. Check the [/r/usenet wiki](/r/usenet/wiki) for more info. Usenet is especially great for Movie and TV content and many usenet providers will provide SSL-encrypted downloads, allowing for greater peace of mind.
 

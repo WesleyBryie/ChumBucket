@@ -56,7 +56,7 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 * **[Repacks]** [kaoskrew.org](https://kaoskrew.org/) - Pre-cracked games
 
-* **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.
+* **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
 
 * **[Repacks]** [rg-mechanics.org](https://rg-mechanics.org/) - Mirrors RG Mechanics' repacks. Their home location is the tapochek.net forums (closed forums). Their repacks are also posted to rutor.
 
@@ -101,7 +101,7 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 * **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
 
-* **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Only recommended if you have very slow or data-capped internet.
+* **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
 
 &nbsp;
 
@@ -110,7 +110,7 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 * **[Mac]** [nxmac.com](https://nxmac.com/) - Mac games
 
-* **[Mac]** [web.archive.org/.../macgames-download.com](https://web.archive.org/web/20181113021918/http://macgames-download.com/) - Web archive of the now-defunct macgames-download
+* **[Mac]** [web.archive.org/-/macgames-download.com](https://web.archive.org/web/20181113021918/http://macgames-download.com/) - Web archive of the now-defunct macgames-download
 
 &nbsp;
 

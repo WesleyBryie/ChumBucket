@@ -84,6 +84,8 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 * /r/torrents - For dicussion and tech support for torrenting.
 
+* /r/youtubedl - Support subreddit for [youtube-dl.](https://ytdl-org.github.io/youtube-dl/index.html)
+
 * /r/jailbreak - Subreddit related to iOS jailbreaking and sideloading of third party apps
 
 * /r/PleX  -  Media server. DIY netflix. Parent site is [plex.tv](https://plex.tv/)
