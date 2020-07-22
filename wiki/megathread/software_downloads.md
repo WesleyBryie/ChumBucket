@@ -19,7 +19,7 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [DDL] [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion. Their [wiki](https://saidit.net/s/sjain_guides/wiki/index) contains an expanded list of resources.
 
-* [sanet.ws](https://sanet.ws) - Windows software cracks
+* [DDL] [sanet.ws](https://sanet.ws) - Windows software cracks. Don't use the usenet button, it's just an ad.
 
 * [DDL] [diakov.net](https://diakov.net/) - Repacks/Pre-cracked software downloads. Hosted on premium hosts.
 

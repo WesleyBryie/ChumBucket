@@ -154,7 +154,10 @@ Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.p
 * Fitgirl's repacks are taking a hecking long time to install. Why?
  > Fitgirl's repacks are extremely compressed, so they'll take a long time to decompress and will take several hours to install, even on a beefy system. They are intended for people with *very* slow or data-capped internet, in order to give them a chance to download a game in a timely manner or without blowing through their data cap. If you have a strong internet connection, you should be opting to download the original scene releases rather than her repacks.
 
-* How do I install a "cracked" game/software? I installed it but when I run it, the store page just pops up.
+* Why does the cracked game I just installed bring up the store page?
+ > Because you didn't apply the crack files, read the section below. If you've applied the patch but you're still being prompted to buy the game, check your antivirus, as it may have quarantined the crack files. Set an exception for the game install directory and the original download directory.
+
+* How do I install a "cracked" game/software?
  > If your download yielded a set of rar files in parts (in a sequence of `.r00`, `.r01`, `.r02`, etc.), then simply find the non-numbered `.rar` file, right click on it, and click extract here. Example image: https://i.imgur.com/WhaFCSu.jpg. 
  > It will automatically extract and combine the data from all the other parts and yield a `.iso` file.
  >
