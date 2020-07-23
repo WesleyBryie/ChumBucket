@@ -22,7 +22,7 @@ Office C2R|6.8.0|[Github page](https://github.com/kkkgo/office-C2R-to-VOL). Foru
 KMS_VL_ALL|34.7|[Releases](https://app.box.com/s/6quxrz2zuj3644ov918ogqkihehpfijj) by abbodi1406. [passwords](https://i.imgur.com/peLYgJX.jpg). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/#post-838808)|[GDrive](https://drive.google.com/open?id=17u8O23O4H8tSRhYx0hDUaRSfkW1_olLU) -- [Dropbox](https://www.dropbox.com/s/xv8fn9akuwnv6h1/KMS_VL_ALL.pdf?dl=0)|✓|✓|✓|✓|  Activates Office Volume License installations and Windows. Instructions by kkkgo [on github](https://github.com/kkkgo/KMS_VL_ALL/blob/master/README.md). **Does not work on Win7 Ultimate.**
 KMSAuto Net|1.5.3|[ru-board forum page](http://forum.ru-board.com/topic.cgi?forum=2&amp;topic=5559#1)|[Gdrive](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view) -- [Dropbox](https://www.dropbox.com/s/yfy61pslmopnz9g/autokms.pdf?dl=0)|✓|✓|✓|✓| Does the same as KMS_VL_ALL. **Does not work on Win7 Ultimate.**
 Daz's Windows Loader|2.2.2|[MyDigitalLife forum page](https://forums.mydigitallife.info/threads/58464-Windows-Loader-Download)|[GDrive](https://drive.google.com/file/d/1qcLeyshfBWgd8Y4M8t9Xkjtrs7pzgWti/view) -- [Dropbox](https://www.dropbox.com/s/fvdwpdo8hr9xixo/windows%20loader.pdf?dl=0)|✓| | | | Activates all Windows 7 if disk is MBR-partitioned. MyDigitalLife [thread 1](https://forums.mydigitallife.net/threads/window-7-64-daz-loader-uefi-motherboard-disabling-uefi-will-work.34528/). [Thread 2](https://forums.mydigitallife.net/threads/you-can-activate-win7-on-a-gpt-partition-with-daz-loader-without-converting-gpt-mbr.76768/)
-HWIDGEN|62.01|[Aiowares forum page](https://www.aiowares.com/showthread.php?tid=246)|[GDrive](https://drive.google.com/file/d/14lND8FJDi93O0o-TJSZ7DZtgiuDQbSKw/view) -- [Dropbox](https://www.dropbox.com/s/0q9npc9ywix04lg/HWIDGEN.KMS38.pdf?dl=0)| | |**best**| |Activates Win10. Run once and delete. HWID mode is permanent but will not activate LTSC. If on LTSC, use KMS38 mode to activate until 2038. [Image.](https://i.imgur.com/lmjLOtq.jpg)
+HWIDGEN|62.01|[Aiowares forum page](https://www.aiowares.com/showthread.php?tid=246)|[GDrive](https://drive.google.com/file/d/14lND8FJDi93O0o-TJSZ7DZtgiuDQbSKw/view) -- [Dropbox](https://www.dropbox.com/s/0q9npc9ywix04lg/HWIDGEN.KMS38.pdf?dl=0)| | |**best**| |Activates Win10. Run once and delete. Use KMS38 mode for LTSC/Enterprise, else HWID. KMS38 mode lasts until 2038, HWID mode is permanent. [Image.](https://i.imgur.com/lmjLOtq.jpg)
 
 &nbsp;
 
@@ -33,7 +33,7 @@ HWIDGEN|62.01|[Aiowares forum page](https://www.aiowares.com/showthread.php?tid=
 
 ## ► Torrent Clients
 
-Notes: uTorrent [has bundled malware \(a bitcoin miner\) into the software in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). The company developing this software is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
+Notes: Bittorrent Inc. has bundled malware (a bitcoin miner) into [uTorrent in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825) - it is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
 
 Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 
