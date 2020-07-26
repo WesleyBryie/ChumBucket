@@ -90,6 +90,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this](https://github.com/J2TEAM/idm-trial-reset). Alternative [method here](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
 * [XTREME download manager](https://subhra74.github.io/xdm/) - Another very nice download manager
 * [pyLoad](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
+* [aria2](https://aria2.github.io/) - Commandline-based download utility.
 
 &nbsp;
 
