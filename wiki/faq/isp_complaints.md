@@ -15,7 +15,7 @@
 
 Browsing a pirate website will not get you in any sort of trouble by your ISP. 
 
-In regards to downloading, it depends on the country in which you live, but this guide is mainly intended for USA/Canada-based users since that is reddit's primary userbase. Countries like Germany will hit you with a sizeable fine if you are caught pirating, so stay away from torrents completely if you live there.
+In regards to downloading, it depends on the country in which you live, but this guide is mainly intended for USA/Canada-based users since that is reddit's primary userbase. In some countries, like Germany, you are likely to be hit with a sizeable fine if you are caught pirating, so stay away from torrents completely if you live there.
 
 If you are downloading via torrents (ie. Torrenting, through the use of a bittorrent client or other torrent-based application like Popcorn Time, or Showbox -- To disable torrent functionality from Showbox, look through its settings), then yes, you will be caught. Being part of a torrent swarm at all means you are at risk of getting a copyright notice.
 
@@ -57,7 +57,7 @@ You have several options:
 
  Note 2: qBitorrent has a setting called anonymous mode. It can cause many connectivity issues, essentially killing your ability to connect to peers: [\[Reddit thread\] qBittorrent has a "Anonymous Mode" ... Is this at a beneficial if I'm already using a VPN?](https://web.archive.org/web/20140128050529/http://www.reddit.com/r/torrents/comments/1vqt9b/qbittorrent_has_a_anonymous_mode_which_as_i)
 
- Note 3: Many torrent clients offer a `force encryption` option. This does not hide your IP from the torrent swarm. It only attempts to mask your torrenting activity from your ISP, such that they do not become aware that you are transferring data through torrents. This setting aims to prevent ISPs from throttling your torrent transfers. Your IP will still be entered into the swarm, and any anti-piracy suit who chooses to enter the swarm can do so easily and log all other IPs present. It is not a substitute for a VPN.
+ Note 3: Many torrent clients offer a `force encryption` option. This does not hide your IP from the torrent swarm. It only attempts to mask your torrenting activity from your ISP, such that they do not become aware that you are transferring data through torrents. This setting aims to prevent ISPs from throttling your torrent transfers. Your IP will still be entered into the swarm, and any anti-piracy suit who chooses to enter the swarm can do so easily and log your IP. It is not a substitute for a VPN.
 
  2. **Rent a seedbox.** A seedbox is a remote server that is set up with torrenting in mind -- the server will handle all torrenting so your own IP will never have a chance of entering any torrent swarm. Once the server completes the torrent, you can download the content to your own computer through FTP or HTTP(S), both different types of direct downloads. It is extremely unlikely for your ISP to monitor your FTP transfers. Regardless, your seedbox provider should offer SSH access (your data transfers will be encrypted) if you are worried about your ISP snooping in on your data transfers.
 
@@ -90,7 +90,7 @@ The repercussions for pirating content vary by country. What may just be a mere 
 Furthermore, you shouldn't worry about being prosecuted for downloading pirated material. When people speak of being prosecuted for distribution of copyrighted content, they refer to the parties that make the pirated material available to begin with, such as streaming/torrent/pirate site operators. There are cases where the average joe can get into legal trouble for distribution, and those are cases that are referred to as example cases. One such case would be streaming pirated material to your fanbase on twitch, where people know your face and likely know your full real name, and copyright holders would want to prosecute these personalities to make an example out of them. Simple, every-day acts of piracy are not prosecuted, as they do not have any worth to the copyright holders, example-wise or monetary-wise (they would lose more money in lawyer fees than they'd get from you in a settlement).
 
 The typical response to a copyright infringement letter is to just ignore it, move on with your day and follow the above advice on preventing further notices. If your internet has been shut down by your ISP, call them and ask what you can do to restore service, but never admit fault.
-**Again, keep in mind that different countries will have different laws regarding what the punishment should be. Certain countries like Germany will hit you with a sizable fine for copyright infringement. [Read this](https://www.reddit.com/r/Piracy/comments/fbf5so/fine_for_downloading_movie/) if you live in Germany and have received a fine.**
+**Again, keep in mind that different countries will have different laws regarding what the punishment should be. In certain countries, like Germany, you are likely to be hit with a sizable fine for copyright infringement. [Read this](https://www.reddit.com/r/Piracy/comments/fbf5so/fine_for_downloading_movie/) if you live in Germany and have received letter indicating that you will be fined.**
 
 &nbsp;
 

@@ -19,7 +19,7 @@ If the ebook you are searching is available for kindle, you may also [*borrow*](
 
 * [archive.org/details/texts](https://archive.org/details/texts) - The Internet Archive's immense archive of ebooks.
 
-* [gen.lib.rus.ec](http://gen.lib.rus.ec/) -- ([libgen.pw](https://libgen.pw/)) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums.
+* [gen.lib.rus.ec](http://gen.lib.rus.ec/) aka libgen - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums.
 
  * [libgen.pw](https://libgen.pw/) - Libgen mirror
 
