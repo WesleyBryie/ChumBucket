@@ -43,13 +43,13 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 ## ►  **Torrent sites**
 
-* [gamestorrents.io](https://www.gamestorrents.io/)
+* [rarbg.to](http://rarbg.to/) - Scene releases
 
 * [freegogpcgames.com](https://freegogpcgames.com/) - Untouched GOG games. No cracks needed
 
 * [rutor.info](http://rutor.info/games) - Game repacks site
 
-* [rarbg.to](http://rarbg.to/) - Scene releases
+* [gamestorrents.io](https://www.gamestorrents.io/)
 
 * **[Repacks]** [xatab-repack.com](https://t.xatab-repack.com/) - Pre-cracked games
 
@@ -100,9 +100,9 @@ For PC games piracy news (new cracked games releases, DRM news etc), visit /r/Cr
 
 * **[Repacks]** [darckrepacks.com](https://darckrepacks.com/) - Pre-cracked games.
 
-* **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
-
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
+
+* **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
 
 &nbsp;
 
