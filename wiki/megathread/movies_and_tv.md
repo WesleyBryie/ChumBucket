@@ -204,6 +204,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * /r/mmafights - MMA live streams. Links posted within the hour before the match
 * /r/rugbystreams - Links posted within the hour before the match
 * /r/MLBStreams - Links posted within the hour before the match
+* [liveonscore.tv](http://liveonscore.tv/) - Live streams. Baseball, basketball, soccer, football, mma, hockey
 * [footybite.com](http://footybite.com/) - Live streams. Soccer
 * [nflbite.com](https://home.nflbite.com/) - Football
 * [sportsurge.net](https://sportsurge.net/) - Live streams. MMA, boxing, basketball, football

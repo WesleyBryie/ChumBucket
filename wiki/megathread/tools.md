@@ -169,6 +169,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [Free Premium Leechers List](https://filehostlist.miraheze.org) - Free link generators for premium file hosts. Maintained by u/H1dd3nM1nd
 * [reevown.com](https://reevown.com/) - This is a "Free download service with which you can perform premium downloads".
 * [uploadedpremiumlink.net](https://www.uploadedpremiumlink.net/) - Link generator for various premium hosts
+* **[Paid]** [linksnappy.com](https://linksnappy.com/) - Content aggregator that "allows you to pull files from multiple cloud storage services"
 
 &nbsp;
 
