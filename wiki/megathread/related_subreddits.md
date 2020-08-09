@@ -126,6 +126,10 @@ Links and requests
 
 * /r/Scholar - "This subreddit is for requesting and sharing specific articles available in various databases"
 
+* /r/textbook_piracy 
+
+* /r/textbookrequest 
+
 * /r/UKTVLAND 
 
 * /r/panelshows 

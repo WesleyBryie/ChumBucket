@@ -16,13 +16,13 @@
 
 * Many of these tools will trigger your browser, Windows Defender, and personal antivirus. These are false positives.
 
-|Tool Name|Version #|URL|Cached Link|Windows 7|Windows 8 / 8.1|Win 10/LTSB/LTSC|Office|NOTES|
-:--|:--|:--|:--|:--|:--|:--|:--|:--|
-Office C2R|6.8.0|[Github page](https://github.com/kkkgo/office-C2R-to-VOL). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/)|[GDrive](https://drive.google.com/open?id=1h2qQ75BT7OHmMq4N702e1lxR8SnIu8Ci) -- [Dropbox](https://www.dropbox.com/s/b8kdzbbat9n78tt/C2R.pdf?dl=0)| | | |✓| Converts Office Retail installations to Volume License. Read the instructions on the github page. Retail ISOs are downloadable through https://tb.rg-adguard.net/public.php
-KMS_VL_ALL|34.7|[Releases](https://app.box.com/s/6quxrz2zuj3644ov918ogqkihehpfijj) by abbodi1406. [passwords](https://i.imgur.com/peLYgJX.jpg). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/#post-838808)|[GDrive](https://drive.google.com/open?id=17u8O23O4H8tSRhYx0hDUaRSfkW1_olLU) -- [Dropbox](https://www.dropbox.com/s/xv8fn9akuwnv6h1/KMS_VL_ALL.pdf?dl=0)|✓|✓|✓|✓|  Activates Office Volume License installations and Windows. Instructions by kkkgo [on github](https://github.com/kkkgo/KMS_VL_ALL/blob/master/README.md). **Does not work on Win7 Ultimate.**
-KMSAuto Net|1.5.3|[ru-board forum page](http://forum.ru-board.com/topic.cgi?forum=2&amp;topic=5559#1)|[Gdrive](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view) -- [Dropbox](https://www.dropbox.com/s/yfy61pslmopnz9g/autokms.pdf?dl=0)|✓|✓|✓|✓| Does the same as KMS_VL_ALL. **Does not work on Win7 Ultimate.**
-Daz's Windows Loader|2.2.2|[MyDigitalLife forum page](https://forums.mydigitallife.info/threads/58464-Windows-Loader-Download)|[GDrive](https://drive.google.com/file/d/1qcLeyshfBWgd8Y4M8t9Xkjtrs7pzgWti/view) -- [Dropbox](https://www.dropbox.com/s/fvdwpdo8hr9xixo/windows%20loader.pdf?dl=0)|✓| | | | Activates all Windows 7 if disk is MBR-partitioned. MyDigitalLife [thread 1](https://forums.mydigitallife.net/threads/window-7-64-daz-loader-uefi-motherboard-disabling-uefi-will-work.34528/). [Thread 2](https://forums.mydigitallife.net/threads/you-can-activate-win7-on-a-gpt-partition-with-daz-loader-without-converting-gpt-mbr.76768/)
-HWIDGEN|62.01|[Aiowares forum page](https://www.aiowares.com/showthread.php?tid=246). Use the download link `MIRROR1`|[GDrive](https://drive.google.com/file/d/14lND8FJDi93O0o-TJSZ7DZtgiuDQbSKw/view) -- [Dropbox](https://www.dropbox.com/s/0q9npc9ywix04lg/HWIDGEN.KMS38.pdf?dl=0)| | |**best**| |Activates Win10. Run once and delete. Use KMS38 mode for LTSC/Enterprise, else HWID. KMS38 mode lasts until 2038, HWID mode is permanent. [Image.](https://i.imgur.com/lmjLOtq.jpg)
+|Tool Name|Version #|URL|Cached Link|Win 7|Win 8/8.1|Win 10/LTSB/LTSC|Office|NOTES|
+|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|Office C2R	|6.8.0	|[Github page](https://github.com/kkkgo/office-C2R-to-VOL). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/)	|[GDrive](https://drive.google.com/open?id=1h2qQ75BT7OHmMq4N702e1lxR8SnIu8Ci) -- [Dropbox](https://www.dropbox.com/s/b8kdzbbat9n78tt/C2R.pdf?dl=0)	| 	| 	| 	|✓	| Converts Office Retail installations to Volume License. Read the instructions on the github page. Retail ISOs are downloadable through https://tb.rg-adguard.net/public.php|
+|KMS_VL_ALL	|34.7	|[Releases](https://app.box.com/s/6quxrz2zuj3644ov918ogqkihehpfijj) by abbodi1406. [passwords](https://i.imgur.com/peLYgJX.jpg). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/#post-838808)	|[GDrive](https://drive.google.com/open?id=17u8O23O4H8tSRhYx0hDUaRSfkW1_olLU) -- [Dropbox](https://www.dropbox.com/s/xv8fn9akuwnv6h1/KMS_VL_ALL.pdf?dl=0)	|✓	|✓	|✓	|✓	|  Activates Office Volume License installations and Windows. Instructions by kkkgo [on github](https://github.com/kkkgo/KMS_VL_ALL/blob/master/README.md). **Does not work on Win7 Ultimate.**|
+|KMSAuto Net	|1.5.3	|[ru-board forum page](http://forum.ru-board.com/topic.cgi?forum=2&amp;topic=5559#1)	|[Gdrive](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view) -- [Dropbox](https://www.dropbox.com/s/yfy61pslmopnz9g/autokms.pdf?dl=0)	|✓	|✓	|✓	|✓	| Does the same as KMS_VL_ALL. **Does not work on Win7 Ultimate.**|
+|Daz's Windows Loader	|2.2.2	|[MyDigitalLife forum page](https://forums.mydigitallife.info/threads/58464-Windows-Loader-Download)	|[GDrive](https://drive.google.com/file/d/1qcLeyshfBWgd8Y4M8t9Xkjtrs7pzgWti/view) -- [Dropbox](https://www.dropbox.com/s/fvdwpdo8hr9xixo/windows%20loader.pdf?dl=0)	|✓	| 	| 	| 	| Activates all Windows 7 if disk is MBR-partitioned. MyDigitalLife [thread 1](https://forums.mydigitallife.net/threads/window-7-64-daz-loader-uefi-motherboard-disabling-uefi-will-work.34528/). [Thread 2](https://forums.mydigitallife.net/threads/you-can-activate-win7-on-a-gpt-partition-with-daz-loader-without-converting-gpt-mbr.76768/)|
+|HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?tid=246). Use the download link `MIRROR1`	|[GDrive](https://drive.google.com/file/d/14lND8FJDi93O0o-TJSZ7DZtgiuDQbSKw/view) -- [Dropbox](https://www.dropbox.com/s/0q9npc9ywix04lg/HWIDGEN.KMS38.pdf?dl=0)	| 	| 	|**best**	| 	|Activates Win10. Run once and delete. Use KMS38 mode for LTSC/Enterprise, else HWID. KMS38 mode lasts until 2038, HWID mode is permanent. [Image.](https://i.imgur.com/lmjLOtq.jpg)|
 
 &nbsp;
 
@@ -59,6 +59,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [Jellyfin Media Server](https://jellyfin.org/) - Open-source self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
 * [Emby Media Server](https://emby.media/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
 * [Kodi](https://kodi.tv/) - Home theater media center. Host your own content or add online content sources (/r/Addons4Kodi)
+* [OSMC](https://osmc.tv/) - Home theater media center. Forked from Kodi, provides a simple UI for the Raspberry Pi and Apple TV
 
 &nbsp;
 
@@ -102,9 +103,11 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 ## ► Miscellaneous Download Tools
 
 * [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - Open-source commandline tool to download video/audio from a large variety of websites. See the [FAQ](https://reddit.com/r/piracy/wiki/faq) for how to install and use properly.
- * [Youtube-dl gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, if you're not comfortable with the command line.
+ * [Youtube-dl gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, in case you're not comfortable with using the command line.
 * [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Bulk download anime episodes for various websites, in various resolutions, with or without filler episodes
-* [y2mate](https://www.y2mate.com/) - Download youtube video/audio.
+* [y2mate.com](https://www.y2mate.com/) - Download youtube video/audio.
+* [ripsave.com](https://ripsave.com/) - Multi-platform video downloader. Youtube, twitch, etc
+* [tomato.to](https://tomato.to/) - Stock photo downloader. Shutterstock, getty, adobestock, etc.
 * [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Download music from Bandcamp
 * [Megabasterd](https://github.com/tonikelope/megabasterd) - Bypass Mega's 5 GiB per 6 hours download limit.
 * [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Download from skillshare. [Original thread.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)

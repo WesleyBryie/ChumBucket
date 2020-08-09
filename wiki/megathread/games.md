@@ -9,11 +9,15 @@
 
 **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
-Scene groups (such as CODEX, CPY, SKIDROW, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use).
+❗ Scene groups (such as CODEX, CPY, SKIDROW, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use).
 
-For PC games piracy news (new cracked games releases, DRM news etc), visit /r/CrackWatch 
+&nbsp;
 
-❗ Sites labeled **repacks** are for releases that have been repacked from the original scene release. Their intent is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation.
+To check if a game has been cracked, jump to the [Scene Tracer section on the Megathread's Tools page](https://www.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_scene_.2F_p2p_tracer_websites.3A). 
+
+For more PC games piracy news (new cracked games releases, DRM news etc), visit /r/CrackWatch. 
+
+Sites labeled **repacks** are for releases that have been repacked from the original scene release. Their intent is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation.
 
 &nbsp;
 

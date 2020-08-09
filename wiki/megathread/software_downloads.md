@@ -82,6 +82,8 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [How to get fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/)
 
+* [freedownloadae.com](https://freedownloadae.com/) - Fonts, graphics, video plugins, sound effects. [Full list.](https://i.imgur.com/kliyxvH.jpeg)
+
 &nbsp;
 
 

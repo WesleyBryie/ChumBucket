@@ -105,11 +105,11 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [freetutorialsus.com](https://freetutorialsus.com/) - Udemy, Lynda, Pluralsight courses available. 
 
+* [desirecourse.net](https://desirecourse.net/) - Download and request premium courses
+
 * [gfxdomain.net](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Computer graphics design tutorials/courses via fileshosters (some through torrents).
 
 * [git.ir](https://git.ir/) - Costs many courses/tutorials from udemy, tutsplus, lynda, etc... Available through direct download links.
-
-* [desirecourse.net](https://desirecourse.net/) - Download and request premium courses
 
 * [freecoursesite.us](https://freecoursesite.us/) - Download premium courses
 

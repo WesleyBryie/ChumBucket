@@ -93,6 +93,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [lookmovie.ag](https://lookmovie.ag/)
 * [vidcloud9.com](https://vidcloud9.com/)
 * [ffilms.club](https://ffilms.club/)
+* [soap2day.com](https://www.soap2day.com/)
 * [5movies.live](https://5movies.live/)
 * [batflix.org](https://ww2.batflix.org/)
 * [openloadmov.com](https://openloadmov.com/)
@@ -106,7 +107,6 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [solarmovie.fm](https://www.solarmovie.fm/)
 * [yesmovies.ag](https://yesmovies.ag/)
 * [hydrax.is](https://hydrax.is/)
-* [www.soap2day.com](https://www.soap2day.com/)
 * [teatv.xyz](https://teatv.xyz/)
 * [vmovie.biz](https://vmovie.biz/)
 * [bmovies.nl](https://bmovies.nl/)
@@ -136,6 +136,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 
 
+
 ### ► **Live channel Streaming**
 
 * [pluto.tv](http://pluto.tv/welcome) - Official legal service 
@@ -146,6 +147,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [time4tv.stream](https://time4tv.stream/)
 
 &nbsp;
+
 
 
 
@@ -169,6 +171,8 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [**/r/AnimePiracy's exhaustive wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/B100)
 
 &nbsp;
+
+
 
 
 
@@ -200,7 +204,9 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 
 
-### ► SPORTS
+
+### ► Sports
+
 * /r/mmafights - MMA live streams. Links posted within the hour before the match
 * /r/rugbystreams - Links posted within the hour before the match
 * /r/MLBStreams - Links posted within the hour before the match
@@ -215,6 +221,22 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [ripple.is](http://ripple.is/) - Live streams for various sports
 
 &nbsp;
+
+
+
+
+
+### ► Subtitle Download Sites
+
+* [opensubtitles.org](https://www.opensubtitles.org/)
+* [subscene.com](https://subscene.com/)
+* [addic7ed.com](https://www.addic7ed.com/)
+* [legendas.tv](http://legendas.tv/)
+* [podnapisi.net](https://www.podnapisi.net/)
+
+&nbsp;
+
+
 
 
 
