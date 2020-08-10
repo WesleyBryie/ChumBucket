@@ -16,14 +16,6 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/CrackSupport -  For those who have already downloaded their desired (pirated) game, but require technical assistance with it.
 
-* /r/DataHoarder 
-
-* /r/DHExchange - Exchange and Sharing sub for /r/DataHoarder
-
-* /r/Archiveteam 
-
-* /r/opendirectories - Unprotected directories of pics, vids, music, software and otherwise interesting files
-
 * [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion
 
 * /r/FREEMEDIAHECKYEAH - Vast Piracy and Free Media resources
@@ -73,6 +65,13 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 These subreddits are centered around technologies that have ties with piracy, but are **not centered around discussing piracy itself or piracy methods**. Read their rules for clarification.
 
+* /r/DataHoarder - Community centered around the archival of the internet, whether it extends to copyrighted content or not!
+
+* /r/DHExchange - Exchange and Sharing sub for /r/DataHoarder
+
+* /r/Archiveteam - Community centered around the archival of the internet, whether it extends to copyrighted content or not!
+
+* /r/opendirectories - Unprotected directories of pics, vids, music, software and otherwise interesting files
 
 * /r/VPN - Discussion of VPNs
 
