@@ -226,6 +226,50 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 
 
+
+### ► French Content Sites
+
+* [yggtorrent.se](https://www.yggtorrent.se/) - Semi-private torrent tracker
+* [oxtorrent.com](https://www.oxtorrent.com/) - Public torrent tracker
+* [torrent9.ac](https://www.torrent9.ac/) - Public torrent tracker
+* [omgtorrent.cz](https://www.omgtorrent.cz/) - Public torrent tracker
+* [cpasbien.tf](https://cpasbien.tf/) - Public torrent tracker
+* [ethor.net](https://ethor.net/) - Private torrent tracker
+* [abnormal.ws](https://abnormal.ws/) - Private torrent tracker
+* [hdf.world](https://hdf.world/) - Private torrent tracker
+* [hdss.to](https://hdss.to/) - Stream Movies & TV
+* [extreme-down.video](https://www.extreme-down.video/) - DDL Movies & TV
+* [wawacity.vip](https://www.wawacity.vip/) - DDL Movies & TV
+
+&nbsp;
+
+
+
+
+
+
+### ► Spanish Content Sites
+
+* [descargas2020.org](https://www.descargas2020.org/) - Public torrent tracker
+* [elitetorrent.se](https://www.elitetorrent.se/) - Public torrent tracker. Castellano & Latino Esp
+* [mejortorrentt.net](http://www.mejortorrentt.net/) - Public torrent tracker
+* [subtorrents.la](https://www.subtorrents.la/) - Public torrent tracker. English language movies with Spanish subtitles
+* [moviesdvdr.co](https://www.moviesdvdr.co/) - Public torrent tracker for Movies
+* [dontorrent.org](https://dontorrent.org/) - Public torrent tracker for Movies & TV
+* [divxtotal.la](https://www.divxtotal.la/) - Public torrent tracker for Movies & TV. Focuses on xvid/DVD encodes
+* [dospelis.online](https://www.dospelis.online/) - Stream Movies & TV
+* [cinecalidad.to](https://www.cinecalidad.to/) - Stream and DDL Movies & TV
+* [danimados.com](https://danimados.com/) - Stream cartoons
+* [serieslan.com](https://serieslan.com/) - Stream cartoons
+* [animeflv.net](https://www.animeflv.net/) - Stream anime
+
+&nbsp;
+
+
+
+
+
+
 ### ► Subtitle Download Sites
 
 * [opensubtitles.org](https://www.opensubtitles.org/)
