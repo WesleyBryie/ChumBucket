@@ -257,8 +257,9 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [moviesdvdr.co](https://www.moviesdvdr.co/) - Public torrent tracker for Movies
 * [dontorrent.org](https://dontorrent.org/) - Public torrent tracker for Movies & TV
 * [divxtotal.la](https://www.divxtotal.la/) - Public torrent tracker for Movies & TV. Focuses on xvid/DVD encodes
-* [dospelis.online](https://www.dospelis.online/) - Stream Movies & TV
 * [cinecalidad.to](https://www.cinecalidad.to/) - Stream and DDL Movies & TV
+* [peliculas-hd.net](https://www.peliculas-hd.net/) - Stream and DDL Movies & TV
+* [dospelis.online](https://www.dospelis.online/) - Stream Movies & TV
 * [danimados.com](https://danimados.com/) - Stream cartoons
 * [serieslan.com](https://serieslan.com/) - Stream cartoons
 * [animeflv.net](https://www.animeflv.net/) - Stream anime

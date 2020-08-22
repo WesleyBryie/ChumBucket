@@ -123,6 +123,10 @@ Links and requests
 
 * /r/ZippyShare 
 
+* /r/TelegramChannels - Download channels in telegram for various types of content
+
+* /r/STLland - Share STL files
+
 * /r/Scholar - "This subreddit is for requesting and sharing specific articles available in various databases"
 
 * /r/textbook_piracy 

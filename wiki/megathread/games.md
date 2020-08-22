@@ -102,7 +102,9 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 
 * **[Repacks]** [kapitalsin.com](http://www.kapitalsin.com/forum/index.php?board=4.0) - Pre-cracked games
 
-* **[Repacks]** [darckrepacks.com](https://darckrepacks.com/) - Pre-cracked games.
+* **[Repacks]** [elamigos-games.com](https://www.elamigos-games.com/) - Pre-cracked games
+
+* **[Repacks]** [darckrepacks.com](https://darckrepacks.com/) - Pre-cracked games
 
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
 
