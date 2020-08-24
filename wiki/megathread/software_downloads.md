@@ -60,11 +60,11 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [torrents/private] [theaudioscene.net](https://theaudioscene.net/) - Audio software and plugins. Registration is available in exchange for a small donation.
 
-* [torrents/private] [cgpeers.com](https://www.cgpeers.com) - Graphics software/plugins downloads and discussion - 3D/Visual Effects/Computer Graphics/Design/Computer Assisted Art. ~~Registration opens on the 1st and 15th of every month.~~. ***User cap reached, now invite-only.***
+* [torrents/private] [cgpeers.com](https://www.cgpeers.com) - Graphics software/plugins downloads and discussion - 3D/Visual Effects/Computer Graphics/Design/Computer Assisted Art. ~~Registration opens on the 1st and 15th of every month.~~. ***User cap reached, tracker is completely closed, invites are disabled.***
 
-* [DDL] [flsaudio.com](https://flsaudio.com) - Video software and plugins.
+* [DDL/private] [cgpersia.com](https://forum.cgpersia.com/) - Graphics software and plugins.
 
-* [DDL/private] [cgpersia.com](https://forum.cgpersia.com/) - Video software and plugins.
+* [DDL] [flsaudio.com](https://flsaudio.com) - Audio software and plugins.
 
 * [DDL] [audioz.download](https://audioz.download/) - Audio software and plugins.
 
