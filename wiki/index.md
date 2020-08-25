@@ -24,6 +24,10 @@
 ---
 ---
 
+&nbsp;
+
+Backup of this wiki: https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki
+
 
 &nbsp;
 
