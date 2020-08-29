@@ -155,9 +155,9 @@ Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.p
  > Fitgirl's repacks are extremely compressed, so they'll take a long time to decompress and will take several hours to install, even on a beefy system. They are intended for people with *very* slow or data-capped internet, in order to give them a chance to download a game in a timely manner or without blowing through their data cap. If you have a strong internet connection, you should be opting to download the original scene releases rather than her repacks.
 
 * Why does the cracked game I just installed bring up the store page?
- > Because you didn't apply the crack files, read the section below. If you've applied the patch but you're still being prompted to buy the game, check your antivirus, as it may have quarantined the crack files. Set an exception for the game install directory and the original download directory.
+ > Either you didn't apply the crack or your antivirus deleted the cracks. If you installed a scene release (CODEX, CPY, SKIDROW, HOODLUM, etc), read the section below for how to apply the crack. If you've applied the patch but you're still being prompted to buy the game, check your antivirus, as it may have quarantined the crack files. Set an exception for the game install directory and the original download directory. If installed a repack, then the crack should have been applied automatically, check your antivirus quarantine/exclusion settings as previously stated.
 
-* How do I install a "cracked" game/software?
+* How do I install a pirated game and apply the crack?
  > If your download yielded a set of rar files in parts (in a sequence of `.r00`, `.r01`, `.r02`, etc.), then simply find the non-numbered `.rar` file, right click on it, and click extract here. Example image: https://i.imgur.com/WhaFCSu.jpg. 
  > It will automatically extract and combine the data from all the other parts and yield a `.iso` file.
  >
@@ -165,7 +165,7 @@ Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.p
  >
  > After setting Windows Explorer as the default program for `.iso` files, simply double click on the `.iso` file to mount it. It will take you to the folder structure contained inside the `.iso` file, then just run the setup `.exe` file to install the game.
  >
- > Default installations are usually for the base game without a crack, so you'll need to take steps to patch the game files with the crack files post-installation. Read below.
+ > Default installations are usually for the base game without a crack, so you'll need to take steps to patch the game files with the crack files post-installation. If you are installing a repack, then the crack files will be applied automatically during installation, no further steps needed. Otherwise, read below.
  >
  > Codex installers will tend to be one-click installs and will have a checkbox that says `move patch files to installation directory`, so make sure that box is checked - that's all there is to it, the game will be cracked once the installation finishes (if you checked the aforementioned checkbox). Otherwise, read the `readme` file included in your download. It's usually an `.nfo` file, but they are just text files, just right click on it and choose edit to open it.
  >
