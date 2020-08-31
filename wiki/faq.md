@@ -9,7 +9,8 @@
 
 ### ► General questions
 
-* [Will I get in trouble for downloading `x` or browsing a pirate site? How to avoid getting in trouble -- All about copyright infringement complaints and what to do if you've received one.](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
+* Will I get in trouble for downloading `x` or browsing a pirate site? How to avoid getting in trouble -- All about copyright infringement complaints and what to do if you've received one.
+ > [Guide on protecting yourself when downloading pirated content](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
 
 * Preliminary measures to take to avoid running malware-infected files (in regards to non-software)
  > [Browsing and downloading guide](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)

@@ -1,7 +1,7 @@
 ---
 ---
 
-[◄◄ Back to FAQ](https://www.reddit.com/r/piracy/wiki/faq)
+[◄◄ **Back to FAQ**](https://www.reddit.com/r/piracy/wiki/faq)
 
 ---
 ---
@@ -120,11 +120,45 @@ A paid VPN is recommended, as there are no good free ones that allow torrent tra
 
  * http://help.bittorrent.com/customer/portal/articles/178790-the-basics-of-bittorrent
 
-### Also check out the community guides posted below  to stay safe/avoid legal troubles while pirating
+&nbsp;
 
 
-|Link | User | Date Published | Last Updated
-|-------|-------|-------|-------|
-[How to stay Anonymous](https://www.removeddit.com/r/torrents/comments/whg1n/how_to_stay_anonymous_a_guide/) | u/darknyan | 07/13/2012|03/26/2014
+
+
+
+### ► Extra information on VPNs
+
+* Popular VPN services aggressively market themselves on Reddit. Do not subscribe to a service just because Reddit deems it popular, cheap, or because it hits the front page. You are entrusting an entity with your personal data; do your own research. Keep in mind that VPN experiences are completely anecdotal. Someone's experience with a particular VPN may vary from location, servers, operating systems, downloads speeds, etc...
+
+* With that said, below are some resources with which you may begin your research. Most if not all popular VPNs offer trials and/or immediate refunds. Use them to your advantage in your quest to find a VPN that works best for you. Don't forget to also read their ToS!
+
+
+
+ * [ThatOnePrivacySite VPN Chart](https://thatoneprivacysite.net/##simple-vpn-comparison/)
+
+ * [Choosing the best VPN for you](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2)
+
+ * [**Which VPN Services Keep You Anonymous in 2019?**](https://torrentfreak.com/which-vpn-services-keep-you-anonymous-in-2019/)
+
+ * [Which VPN Services Keep You Anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/)
+
+ * [TorrentFreak 2016 VPN interview](https://torrentfreak.com/vpn-anonymous-review-160220/)
+
+ * [EEF Overview on what a VPN is and how to choose one](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
+
+ * https://www.reddit.com/r/VPN/wiki/index
+
+ * https://www.reddit.com/r/Privacy/wiki/index
+
+
+* Beware of free VPNs if you plan on using one for online purchases or to log into websites with sensitive data. Many free VPNs are able to provide their free services because they data mine, interpose ads in searches, etc... 
+
+* Beware of pirating VPNs. You wouldn't pirate a condom?
+
+* [An alternative to purchasing your VPN is hosting your own](https://www.reddit.com/r/VPN/search?q=vps&restrict_sr=on). You will have much more flexibility and you can have your VPS hoster outside your country's copyright law jurisdiction.
+
+&nbsp;
+
+
 
 &nbsp;

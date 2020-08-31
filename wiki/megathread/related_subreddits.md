@@ -67,7 +67,7 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 * /r/DataHoarder - Community centered around the archival of the internet, whether it extends to copyrighted content or not!
 
-* /r/DHExchange - Exchange and Sharing sub for /r/DataHoarder
+* /r/DHExchange - File exchange and sharing sub
 
 * /r/Archiveteam - Community centered around the archival of the internet, whether it extends to copyrighted content or not!
 

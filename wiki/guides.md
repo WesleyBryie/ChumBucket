@@ -9,10 +9,10 @@
 
 |Link | User | Date Published | Last Updated
 |-------|-------|-------|-------|
+[Protecting yourself when downloading pirated content - Guide concerning copyright infringement complaints](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints) | - | - | -
 [How to install and activate Windows 10  - Includes LTSB/LTSC](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation) | - | Nov 20, 2019 | -
 [How to get started with private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers) | - | - | -
 [Getting started with usenet - /r/usenet wiki](https://www.reddit.com/r/usenet/wiki/index) | - | - | -
-[Protecting yourself from being caught pirating - Guide concerning copyright infringement complaints](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints) | - | - | -
 [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases) | - | - | -
 [4K HDR Movies: A pirate's Guide](https://www.reddit.com/r/Piracy/comments/hvcozj/4k_hdr_movies_a_pirates_guide/) | u/lasttycoon | Jul 21, 2020 | Jul 21, 2020
 [A python script to bypass the download limit of google drive files (w executable&source code)](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/) | u/jonathanTIE | Jan 1, 2020 | Jan 3, 2020

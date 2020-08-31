@@ -30,6 +30,48 @@
 
 
 
+### ► **Adblockers & useful extensions**
+
+* [uBlock origin](https://github.com/gorhill/uBlock##installation) - for blocking most ads and pop-ups.
+* [uBlock-safari](https://github.com/el1t/uBlock-Safari) - uBlock port for Safari or MacOS users.
+* [Nano Defender](https://jspenguin2017.github.io/uBlockProtector) - [Read this](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin) for uBlock Origin integration. Some websites will block your access if you have an adblocker running. This browser extension is your anti-anti-adblocker. It blocks the blocking of adblockers.
+* [Tampermonkey](https://tampermonkey.net) - for installing userscripts.
+
+&nbsp;
+
+
+
+
+
+
+### ► **Useful userscripts**
+
+* [Anti-adblock killer](https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek) - Tampermonkey/Greasemonkey userscript
+* [AdsBypasser](https://adsbypasser.github.io/) - Skip countdown ads or continue pages and prevent ad pop-up windows.
+* [Universal Bypass](https://universal-bypass.org/) - Skip countdown ads
+* [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Avoid installing unwanted applications downloading with legitimate software (e.g. McAfee with Adobe Flash)
+* [Get DLC Info From SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Automatically creates a DLC list for tools such as CreamAPI, GreenLuma and SmartSteamEmu.
+
+&nbsp;
+
+
+
+
+
+
+### ► **Security**
+
+Windows defender should be more than enough for virus protection, combined with [malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. 
+
+ * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
+ * [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
+
+&nbsp;
+
+
+
+
+
 
 ## ► Torrent Clients
 

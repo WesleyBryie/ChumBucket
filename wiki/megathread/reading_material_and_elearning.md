@@ -72,6 +72,8 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 * [booksc.xyz](https://booksc.xyz/) - b-ok's (Z-Library) repo for articles. 
 
+* [academictorrents.com](https://academictorrents.com/)
+
 * [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - several links to free eBook resources.
 
 

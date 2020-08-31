@@ -92,6 +92,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * **[torrent-based]** [magnetoo.io](https://www.magnetoo.io/) - Movies
 * [lookmovie.ag](https://lookmovie.ag/)
 * [vidcloud9.com](https://vidcloud9.com/)
+* [sockshare.ac](http://sockshare.ac/)
 * [ffilms.club](https://ffilms.club/)
 * [soap2day.com](https://www.soap2day.com/)
 * [5movies.live](https://5movies.live/)
@@ -114,8 +115,10 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * ***Android apps:***
   * **[Anime]** [AnimeMolecules](https://animemolecules.com/) - Anime streaming app
   * **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
+  * **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
   * **[Anime]** [Anyme](https://github.com/zunjae/anYme) - Anime streaming
   * [TVZion](https://zionapp.live/) - Movies/TV streaming
+  * [Cinehub](https://www.cinehub.to/) - Movies/TV streaming
   * [cinemaapk.com](https://cinemaapk.com/) - Movies/TV streaming
   * [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
   * [Nova TV](https://novatv.app/) - Movies/TV streaming
@@ -161,7 +164,6 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [aninow.net](https://aninow.net/)
 * [justdubs.org](http://justdubs.org/)
 * [vidstreaming.io](https://vidstreaming.io/)
-* [kissanime.ru](https://kissanime.ru/)
 * [animeshow.tv](https://www1.animeshow.tv/)
 * [chia-anime.me](http://www.chia-anime.me/)
 * [animerush.tv](https://www.animerush.tv/)
@@ -227,6 +229,21 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 
 
+### ► Subtitle Download Sites
+
+* [opensubtitles.org](https://www.opensubtitles.org/)
+* [subscene.com](https://subscene.com/)
+* [addic7ed.com](https://www.addic7ed.com/)
+* [legendas.tv](http://legendas.tv/)
+* [podnapisi.net](https://www.podnapisi.net/)
+
+&nbsp;
+
+
+
+
+
+
 ### ► French Content Sites
 
 * [yggtorrent.se](https://www.yggtorrent.se/) - Semi-private torrent tracker
@@ -240,6 +257,9 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [hdss.to](https://hdss.to/) - Stream Movies & TV
 * [extreme-down.video](https://www.extreme-down.video/) - DDL Movies & TV
 * [wawacity.vip](https://www.wawacity.vip/) - DDL Movies & TV
+* [vostfrserie.net](https://vostfrserie.net/) - Stream TV shows
+* [libertyvf.co](https://libertyvf.co/) - Stream and DDL Movies & TV
+* [dpstream.info](https://www.dpstream.info/) - Stream Movies & TV
 
 &nbsp;
 
@@ -271,13 +291,17 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 
 
-### ► Subtitle Download Sites
+### Spanish Content Private trackers
 
-* [opensubtitles.org](https://www.opensubtitles.org/)
-* [subscene.com](https://subscene.com/)
-* [addic7ed.com](https://www.addic7ed.com/)
-* [legendas.tv](http://legendas.tv/)
-* [podnapisi.net](https://www.podnapisi.net/)
+* [hdcity.li](https://hdcity.li/) - Castellano Esp
+* [hd-spain.com](https://www.hd-spain.com/) - Castellano Esp
+* [torrentfactory.net](https://torrentfactory.net/)
+* [xbt.puntotorrent.com](https://xbt.puntotorrent.com/)
+* [hdolimpo.co](https://hdolimpo.co/)
+* [zonaq.pw](https://www.zonaq.pw/)
+* [torrentland.li](https://torrentland.li/)
+* [xbytesv2.li](http://xbytesv2.li/)
+* [qqqueros.com](http://qqqueros.com/)
 
 &nbsp;
 
@@ -290,13 +314,40 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 [Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
-* **[Movies]** [PassThePopcorn (PTP)](https://passthepopcorn.me/) - Best source for movies, period. Can be joined by becoming Elite on RED. Though this requires a fair amount of patience as the age of account on RED needs to be at least 1 year.
-* **[Movies/TV]** [HD-Torrents (HDT)](https://hdts.ru/) - This tracker is great for HD movies though not as good as PTP. Specialty lies in allowing of multiple untouched material of the same movie, which helps in getting those foreign languages, different audio/video quality, or even different content in audio/videos. Slightly superior to PTP in this regard. Can be joined through RED or you can just pay for an account through their website. (Note - Only buy the account from their own website, not a 3rd party)
-* **[TV]** [TV Chaos UK](https://tvchaosuk.com) - Great site for UK TV content. Best joined through requesting on /r/invites (proof of ratio from other sites required). Quality lacks a bit so use it with a TV tracker like BTN to get the most of UK content
-* **[TV]** [Broadcast the Net (BTN)](http://broadcasthe.net/) - A private tracker; best source for TV related content, period. Currently this tracker is not recruiting anywhere but it is recommended to join PTP where BTN will recruit again in the future  
-* **[TV]** [TV Vault (TVV)](https://tv-vault.me/) - Best private tracker for old TV shows. Best way to join it is through MAM.  
-* **[Movies/TV]** [More Than TV (MTV)](https://morethan.tv/) - 2nd best private tracker for TV after BTN. Retention is not good but with a strong request section, this is not an issue. Can be joined through RED
-* **[Movies/TV]** [AvistaZ](https://avistaz.to/) - One of the best places for Asian (mainly Japan, South Korea, China etc) movies and TV shows. Best place for Korean dramas. Easiest way to join is through application on their site. Also one of the few top trackers that have open signups from time to time.
-* **[Movies/TV]** [Blutopia](http://blutopia.xyz/) - Very nice tracker for Movies and TV. Like other private trackers, you can make the most of it through the use of its request section.
+* [PassThePopcorn (PTP)](https://passthepopcorn.me/) - Movies tracker. Best source for movies, period. Can be joined by becoming Elite on RED. Though this requires a fair amount of patience as the age of account on RED needs to be at least 1 year.
+
+* [HD-Torrents (HDT)](https://hdts.ru/) - Movies/TV tracker. Focuses on HD content only. This tracker is great for HD movies though not as good as PTP. Specialty lies in allowing of multiple untouched material of the same movie, which helps in getting those foreign languages, different audio/video quality, or even different content in audio/videos. Slightly superior to PTP in this regard. Can be joined through RED or you can just pay for an account through their website. (Note - Only buy the account from their own website, not a 3rd party)
+
+* [awesome-hd.me](https://awesome-hd.me/) - Movies/TV tracker. Focuses on HD content only. Great internal encodes and awesome encoding tutorials.
+
+* [pixelhd.me](https://pixelhd.me/) - Movies tracker. Known for producing small sized encodes. `PxHD Mobies` - 720p/AAC/mp4 at 1.5-2GB (esp. for Mobile Devices); `PxHD/PxEHD` - 1080p/AC3/mp4 at 4GB and 8GB; and `PxHDA` - 1080p/DTS/ at "whatever size is necessary" for high transparency (usually 6-12gb).
+
+* [uhdbits.org](https://uhdbits.org/) - Movies tracker. Produces small-sized "micro-HD" encodes. Gives annoying tests to members to keep accounts.
+
+* [beyond-hd.me](https://beyond-hd.me/) - Movies/TV tracker. Focuses on HD content only. Home of the famous FRaMeSToR remux group.
+
+* [TV Chaos UK](https://tvchaosuk.com) - TV tracker. Great site for UK TV content. Best joined through requesting on /r/invites (proof of ratio from other sites required). Quality lacks a bit so use it with a TV tracker like BTN to get the most of UK content
+
+* [Broadcast the Net (BTN)](http://broadcasthe.net/) - TV tracker. Best source for TV related content, period. Currently this tracker is not recruiting anywhere but it is recommended to join PTP where BTN will recruit again in the future
+
+* [TV Vault (TVV)](https://tv-vault.me/) - TV tracker. Best private tracker for old TV shows. Best way to join it is through MAM.  
+
+* [More Than TV (MTV)](https://morethan.tv/) - Movies/TV tracker. 2nd best private tracker for TV after BTN. Retention is not good but with a strong request section, this is not an issue. Can be joined through RED
+
+* [asiancinema.me](https://asiancinema.me/) - Movies/TV tracker. A neat little tracker for Asian content.
+
+* [AvistaZ](https://avistaz.to/) - Movies/TV tracker. One of the best places for Asian (mainly Japan, South Korea, China etc) movies and TV shows. Best place for Korean dramas. Easiest way to join is through application on their site. Also one of the few top trackers that have open signups from time to time.
+
+* [Blutopia](http://blutopia.xyz/) - Movies/TV tracker. Very nice tracker for Movies and TV. Like other private trackers, you can make the most of it through the use of its request section.
+
+* [animebytes.tv](https://animebytes.tv/) - Anime tracker. The most complete anime tracker.
+
+* [TorrentLeech](https://www.torrentleech.org/) - General scene tracker. One of the largest general private trackers
+
+* [alpharatio.cc](https://alpharatio.cc/) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
+
+* [Filelist](https://filelist.io/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
+
+* [IPTorrents](http://iptorrents.com/) - The largest general private tracker
 
 &nbsp;
