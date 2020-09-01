@@ -13,6 +13,8 @@ If you have purchased the kindle edition of your book and wish to strip its DRM 
 
 If the ebook you are searching is available for kindle, you may also [*borrow*](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) the ebook, use the guide, and then return it for a refund.
 
+Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums/forumdisplay.php?f=166) or /r/calibre
+
 &nbsp;
 
 ### ► **eBooks**
@@ -38,6 +40,8 @@ If the ebook you are searching is available for kindle, you may also [*borrow*](
 * [s2.bitdownload.ir](http://s2.bitdownload.ir/) - Open directory of Ebooks
 
 * [s3.bitdownload.ir](http://s3.bitdownload.ir/) - Open directory of Ebooks
+
+* [Large list of ebook sites \(some defunct\)](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/)
 
 &nbsp;
 
@@ -101,6 +105,8 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 
 
+
+
 ### ► **Courses/Tutorials**
 
 See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
@@ -131,6 +137,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
+
 ### ► **Magazines**
 
 * [thetrove.net](https://thetrove.net/) - Wide variety of magazines, including tabletop gaming PDFs
@@ -153,6 +160,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
+
 ### ► **Comics**
 
 * [gen.lib.rus.ec](http://gen.lib.rus.ec/) - Mirror ([libgen.pw](https://libgen.pw/))
@@ -170,6 +178,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 * [comix-load.in](https://comix-load.in/)
 
 &nbsp;
+
 
 
 
@@ -199,28 +208,20 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
+
 ### ► **Private torrent trackers**
 
 [Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
 * [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - One of the 2 biggest private tracker for ebooks/audiobooks. The focus is on the fictional ebooks side unlike libgen though making requests can do the job. Also the best place for audiobooks in numbers though overall quality lacks a little. Similar to libgen, it's also a great place to contribute
 
+* [bitspyder.net](http://bitspyder.net/) - Tracker that focuses on e-learning content.
+
+* [thegeeks.click/](https://thegeeks.click/) - Large tracker that focuses on e-learning content
+
 * [bibliotik](https://bibliotik.me/) - private tracker for ebooks/audiobooks
 
-&nbsp;
 
-&nbsp;
 
-For a complete listing of popular ebook sites (some defunct), see:
-
-* [https://www.reddit.com/r/trackers/comments/hrgmv/tracker...](https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/)
-
-How to download ebooks off IRC:
-
-* [https://www.reddit.com/r/Piracy/comments/2oftbu/guide..](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
-
-Issues with Calibre? Visit its forum for help/support:
-
-* https://www.mobileread.com/forums/forumdisplay.php?f=166
 
 &nbsp;
