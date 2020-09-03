@@ -13,13 +13,12 @@
 
 
 
-**Note:** It is in the nature of hacktools to be picked up as malware by your antivirus. Hwidgen, the tool used to activate Windows 10, is safe. [Some further reading regarding hwidgen](https://www.reddit.com/r/Piracy/comments/d654al/contribution_hwidgen_source_code/). Make sure to either turn off your antivirus or set up a folder which you can add to your antivirus' exclusion list, which you will download hwidgen into.
 
-**Note 2:** Some people may recommend buying cheap keys elsewhere. This is not recommended, as these are grey-market keys, gathered from MSDN channels, each key sold multiple times ([extra reading](https://www.reddit.com/r/windows/comments/b7jolc/is_cheap_windows_10_licenses_lifetime_or_one_time/ejshgai/)). You're not buying directly from MS so you're not buying a license, you're just buying a key and living on the promise that MS won't discover and deactivate it.
+**Note:** Some people may recommend buying cheap keys elsewhere. This is not recommended, as these are grey-market keys, gathered from MSDN channels, each key sold multiple times ([extra reading](https://www.reddit.com/r/windows/comments/b7jolc/is_cheap_windows_10_licenses_lifetime_or_one_time/ejshgai/)). You're not buying directly from MS so you're not buying a license, you're just buying a key and living on the promise that MS won't discover and deactivate it.
 
 It's essentially piracy with a middleman.
 
-**Note 3**: We only recommend downloading and installing official Windows ISOs. Pre-cracked/altered windows ISOs are not recommended at all.
+**Note 2**: We only recommend downloading and installing official/untouched Windows ISOs. Pre-cracked/altered windows ISOs are not recommended at all.
 
 &nbsp;
 
@@ -81,9 +80,9 @@ If you're on Mac, you'll need [**UNetbootin**](http://unetbootin.github.io/).
 
 ## ► Activating Windows 10
 
-Just download and run [**hwidgen**](http://www.reddit.com/r/piracy/wiki/megathread/tools) to activate. Usage: [KMS38 mode for LTSC, else hwid mode.](https://i.imgur.com/lmjLOtq.jpg)
+Just download and run [MSA (Microsoft-Activation-Tools)](http://www.reddit.com/r/piracy/wiki/megathread/tools) to activate. Download from the Releases page at the github repo. Run the `cmd` file located in the `All-In-One-Version` directory. To activate Win10, run the `HWID` option and you're done. 
 
-It's permanent and will not install a background service, which would be liable to be removed by an antivirus, causing your windows to become de-activated, which was historically the case with previous KMS activation tools. It grants, by all intents and purposes, a genuine licenese, because it takes advantage of the fact that Microsoft still offers a free win7/8 -> win10 upgrade, spoofs that upgrade ticket, thus granting you a digital license to Windows 10.
+This activation mode is permanent and will not install a background service, which would be liable to be removed by an antivirus, causing your windows to become de-activated, which was historically the case with previous KMS activation tools. It grants, by all intents and purposes, a genuine licenese, because it takes advantage of the fact that Microsoft still offers a free win7/8 -> win10 upgrade, spoofs that upgrade ticket, thus granting you a digital license to Windows 10.
 
 &nbsp;
 

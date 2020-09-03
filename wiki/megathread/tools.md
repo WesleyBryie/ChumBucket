@@ -8,7 +8,7 @@
 # APPS / TOOLS
 
 
-## ► Windows/Office activation tools
+## ► Windows/Office tools
 
 * **READ THE NOTES COLUMN**
 
@@ -16,15 +16,32 @@
 
 * Many of these tools will trigger your browser, Windows Defender, and personal antivirus. These are false positives.
 
+
 |Tool Name|Version #|URL|Cached Link|Win 7|Win 8/8.1|Win 10/LTSB/LTSC|Office|NOTES|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|Office C2R	|6.8.0	|[Github page](https://github.com/kkkgo/office-C2R-to-VOL). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/)	|[GDrive](https://drive.google.com/open?id=1h2qQ75BT7OHmMq4N702e1lxR8SnIu8Ci) -- [Dropbox](https://www.dropbox.com/s/b8kdzbbat9n78tt/C2R.pdf?dl=0)	| 	| 	| 	|✓	| Converts Office Retail installations to Volume License. Read the instructions on the github page. Retail ISOs are downloadable through https://tb.rg-adguard.net/public.php|
+|MSA|1.4|[Github page](https://github.com/massgravel/Microsoft-Activation-Scripts) - [Latest releases](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)|[Wayback Machine](https://web.archive.org/web/20200828104337/https://github.com/massgravel/Microsoft-Activation-Scripts)| ✓	| ✓	| **Best**| ✓| Activates all Win10 and Office. Download the release and run the `cmd` file located in the `All-In-One-Version` directory. Use `HWID` mode to activate any Win10 version permanently. To activate office, run the option`Online KMS activation` and choose to activate, then run the option `Renewal and Activation Task`|
+|Office C2R	|6.8.0	|[Github page](https://github.com/kkkgo/office-C2R-to-VOL). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/)	|[GDrive](https://drive.google.com/open?id=1h2qQ75BT7OHmMq4N702e1lxR8SnIu8Ci) -- [Dropbox](https://www.dropbox.com/s/b8kdzbbat9n78tt/C2R.pdf?dl=0)	| 	| 	| 	|✓	| Converts Office Retail installations to Volume License. Read the instructions on the github page.|
 |KMS_VL_ALL	|34.7	|[Releases](https://app.box.com/s/6quxrz2zuj3644ov918ogqkihehpfijj) by abbodi1406. [passwords](https://i.imgur.com/peLYgJX.jpg). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/#post-838808)	|[GDrive](https://drive.google.com/open?id=17u8O23O4H8tSRhYx0hDUaRSfkW1_olLU) -- [Dropbox](https://www.dropbox.com/s/xv8fn9akuwnv6h1/KMS_VL_ALL.pdf?dl=0)	|✓	|✓	|✓	|✓	|  Activates Office Volume License installations and Windows. Instructions by kkkgo [on github](https://github.com/kkkgo/KMS_VL_ALL/blob/master/README.md). **Does not work on Win7 Ultimate.**|
 |KMSAuto Net	|1.5.3	|[ru-board forum page](http://forum.ru-board.com/topic.cgi?forum=2&amp;topic=5559#1)	|[Gdrive](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view) -- [Dropbox](https://www.dropbox.com/s/yfy61pslmopnz9g/autokms.pdf?dl=0)	|✓	|✓	|✓	|✓	| Does the same as KMS_VL_ALL. **Does not work on Win7 Ultimate.**|
 |Daz's Windows Loader	|2.2.2	|[MyDigitalLife forum page](https://forums.mydigitallife.info/threads/58464-Windows-Loader-Download)	|[GDrive](https://drive.google.com/file/d/1qcLeyshfBWgd8Y4M8t9Xkjtrs7pzgWti/view) -- [Dropbox](https://www.dropbox.com/s/fvdwpdo8hr9xixo/windows%20loader.pdf?dl=0)	|✓	| 	| 	| 	| Activates all Windows 7 if disk is MBR-partitioned. MyDigitalLife [thread 1](https://forums.mydigitallife.net/threads/window-7-64-daz-loader-uefi-motherboard-disabling-uefi-will-work.34528/). [Thread 2](https://forums.mydigitallife.net/threads/you-can-activate-win7-on-a-gpt-partition-with-daz-loader-without-converting-gpt-mbr.76768/)|
-|HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?tid=246). Use the download link `MIRROR1`	|[GDrive](https://drive.google.com/file/d/14lND8FJDi93O0o-TJSZ7DZtgiuDQbSKw/view) -- [Dropbox](https://www.dropbox.com/s/0q9npc9ywix04lg/HWIDGEN.KMS38.pdf?dl=0)	| 	| 	|**best**	| 	|Activates Win10. Run once and delete. Use KMS38 mode for LTSC/Enterprise, else HWID. KMS38 mode lasts until 2038, HWID mode is permanent. [Image.](https://i.imgur.com/lmjLOtq.jpg)|
+|HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?tid=246). Use the download link `MIRROR1`	|[GDrive](https://drive.google.com/file/d/14lND8FJDi93O0o-TJSZ7DZtgiuDQbSKw/view) -- [Dropbox](https://www.dropbox.com/s/0q9npc9ywix04lg/HWIDGEN.KMS38.pdf?dl=0)	| 	| 	|✓		| 	|Activates Win10. Run once and delete. Use KMS38 mode for LTSC/Enterprise, else HWID. KMS38 mode lasts until 2038, HWID mode is permanent. [Image.](https://i.imgur.com/lmjLOtq.jpg)|
 
 &nbsp;
+
+
+
+
+
+
+### ► Windows/Office untouched images
+
+* [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
+* [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump
+* [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to create Windows 10 installation media from a USB drive
+* [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye - 2.7 TB back up of MSDN dump. Has a lot of hard to find ISOs, Windows 7, etc.
+
+&nbsp;
+
 
 
 
@@ -256,16 +273,6 @@ These are sites that track Scene releases. They serve strictly as notice boards 
 
 
 
-
-
-## ► Images/installers
-
-### Windows/Office untouched ISOs
-
-* **[DDL]** [https://tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+. 
-* **[DDL]** [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump (latest releases) 
-* **[DDL]** [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to create Windows 10 installation media from a USB drive.
-* **[DDL]** [Theeye - 2.7 TB back up of MSDN dump](https://the-eye.eu/public/MSDN/). Has lots of hard to find ISOs.
 
 
 &nbsp;

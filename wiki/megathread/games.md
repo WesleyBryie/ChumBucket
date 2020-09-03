@@ -63,7 +63,7 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
 
-* **[Repacks]** [rgmechanics-games.com](https://rgmechanics-games.com/) - Mirrors RG Mechanics' repacks. Their home location is the tapochek.net forums (closed forums). Their repacks are also posted to rutor.
+* **[Repacks]** [rg-mechanics.org](https://rg-mechanics.org/) - Mirrors RG Mechanics' repacks. Their home location is the tapochek.net forums (closed forums). Their repacks are also posted to rutor.
 
 * **[Repacks]** [repack.info](https://repack.info/) - Pre-cracked games
 
