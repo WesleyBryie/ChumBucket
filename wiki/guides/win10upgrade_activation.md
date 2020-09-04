@@ -80,7 +80,7 @@ If you're on Mac, you'll need [**UNetbootin**](http://unetbootin.github.io/).
 
 ## ► Activating Windows 10
 
-Just download and run [MSA (Microsoft-Activation-Tools)](http://www.reddit.com/r/piracy/wiki/megathread/tools) to activate. Download from the Releases page at the github repo. Run the `cmd` file located in the `All-In-One-Version` directory. To activate Win10, run the `HWID` option and you're done. 
+Just download and run [MAS (Microsoft-Activation-Tools)](http://www.reddit.com/r/piracy/wiki/megathread/tools) to activate. Download from the Releases page at the github repo. Run the `cmd` file located in the `All-In-One-Version` directory. To activate Win10, run the `HWID` option and you're done. 
 
 This activation mode is permanent and will not install a background service, which would be liable to be removed by an antivirus, causing your windows to become de-activated, which was historically the case with previous KMS activation tools. It grants, by all intents and purposes, a genuine licenese, because it takes advantage of the fact that Microsoft still offers a free win7/8 -> win10 upgrade, spoofs that upgrade ticket, thus granting you a digital license to Windows 10.
 
