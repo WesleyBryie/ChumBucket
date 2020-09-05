@@ -144,6 +144,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 * [pluto.tv](http://pluto.tv/welcome) - Official legal service 
 * [github.com/iptv-org/iptv](https://github.com/iptv-org/iptv) - Mass IPTV aggregation
+* [reboot.tube](https://reboot.tube/) - aka ScrubTV: Pseudo live TV
 * [123tvnow.com](http://123tvnow.com/)
 * [cxtvlive.com](http://www.cxtvlive.com/)
 * [stream2watch.ws](https://www.stream2watch.ws/)
@@ -213,9 +214,10 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * /r/rugbystreams - Links posted within the hour before the match
 * /r/MLBStreams - Links posted within the hour before the match
 * [liveonscore.tv](http://liveonscore.tv/) - Live streams. Baseball, basketball, soccer, football, mma, hockey
+* [sportsurge.net](https://sportsurge.net/) - Live streams. MMA, boxing, basketball, football
+* [worldcupfootball.me](http://www.worldcupfootball.me/)
 * [footybite.com](http://footybite.com/) - Live streams. Soccer
 * [nflbite.com](https://home.nflbite.com/) - Football
-* [sportsurge.net](https://sportsurge.net/) - Live streams. MMA, boxing, basketball, football
 * [6stream.xyz](http://6stream.xyz/) - Live streams for various sports
 * [bilasport.net](http://bilasport.net/index.html) - Live streams. Basketball, hockey, football, baseball, soccer, MMA.
 * [highlightstore.me](https://www.highlightstore.me/) - Replays of past matches for various sports
@@ -246,20 +248,20 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 ### ► French Content Sites
 
+* [hdf.world](https://hdf.world/) - Private torrent tracker
+* [abnormal.ws](https://abnormal.ws/) - Private torrent tracker
+* [ethor.net](https://ethor.net/) - Private torrent tracker
 * [yggtorrent.se](https://www.yggtorrent.se/) - Semi-private torrent tracker
 * [oxtorrent.com](https://www.oxtorrent.com/) - Public torrent tracker
 * [torrent9.ac](https://www.torrent9.ac/) - Public torrent tracker
 * [omgtorrent.cz](https://www.omgtorrent.cz/) - Public torrent tracker
 * [cpasbien.tf](https://cpasbien.tf/) - Public torrent tracker
-* [ethor.net](https://ethor.net/) - Private torrent tracker
-* [abnormal.ws](https://abnormal.ws/) - Private torrent tracker
-* [hdf.world](https://hdf.world/) - Private torrent tracker
-* [hdss.to](https://hdss.to/) - Stream Movies & TV
 * [extreme-down.video](https://www.extreme-down.video/) - DDL Movies & TV
 * [wawacity.vip](https://www.wawacity.vip/) - DDL Movies & TV
-* [vostfrserie.net](https://vostfrserie.net/) - Stream TV shows
 * [libertyvf.co](https://libertyvf.co/) - Stream and DDL Movies & TV
+* [hdss.to](https://hdss.to/) - Stream Movies & TV
 * [dpstream.info](https://www.dpstream.info/) - Stream Movies & TV
+* [vostfrserie.net](https://vostfrserie.net/) - Stream TV shows
 
 &nbsp;
 
@@ -280,6 +282,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [cinecalidad.to](https://www.cinecalidad.to/) - Stream and DDL Movies & TV
 * [peliculas-hd.net](https://www.peliculas-hd.net/) - Stream and DDL Movies & TV
 * [dospelis.online](https://www.dospelis.online/) - Stream Movies & TV
+* [movidy.co](https://movidy.co/) - Stream Movies & TV
 * [danimados.com](https://danimados.com/) - Stream cartoons
 * [serieslan.com](https://serieslan.com/) - Stream cartoons
 * [animeflv.net](https://www.animeflv.net/) - Stream anime
@@ -291,7 +294,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 
 
-### Spanish Content Private trackers
+### ► Spanish Content Private trackers
 
 * [hdcity.li](https://hdcity.li/) - Castellano Esp
 * [hd-spain.com](https://www.hd-spain.com/) - Castellano Esp

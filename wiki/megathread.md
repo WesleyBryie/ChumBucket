@@ -22,7 +22,7 @@ If you have any critique or suggestions you would like to see added to the Megat
  > List of related and alternative subreddits, either centered around piracy or around technologies that tie in with piracy
 
 ## [► Tools / Programs / Web Services](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
- > Activation tools, useful applications, userscripts, mobile apps, download managers and helpers/tools and other miscellaneous
+ > Activation tools, useful applications, userscripts, download managers and helpers/tools and other miscellaneous
 
 ## [► Mobile Apps & Cracked App Markets/Repos](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos)
  > Apps and resources for Android and iOS

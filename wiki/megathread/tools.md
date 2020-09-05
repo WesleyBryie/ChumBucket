@@ -19,7 +19,7 @@
 
 |Tool Name|Version #|URL|Cached Link|Win 7|Win 8/8.1|Win 10/LTSB/LTSC|Office|NOTES|
 |:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|MAS|1.4|[Github page](https://github.com/massgravel/Microsoft-Activation-Scripts) - [Latest releases](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)|[Wayback Machine](https://web.archive.org/web/20200828104337/https://github.com/massgravel/Microsoft-Activation-Scripts)| ✓	| ✓	| **Best**| ✓| Activates all Win10 and Office. Download the release and run the `cmd` file located in the `All-In-One-Version` directory. Use `HWID` mode to activate any Win10 version permanently. To activate office, run the option `Online KMS activation` and choose to activate, then run the option `Renewal and Activation Task`|
+|MAS|1.4|[Github page](https://github.com/massgravel/Microsoft-Activation-Scripts) - [Latest releases](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) (Don't ask for the zip password)|[Wayback Machine](https://web.archive.org/web/20200828104337/https://github.com/massgravel/Microsoft-Activation-Scripts)| ✓	| ✓	| **Best**| ✓| Activates all Win10 and Office. Download the release and run the `cmd` file located in the `All-In-One-Version` directory. Use `HWID` mode to activate any Win10 version permanently. To activate office, run the option `Online KMS activation` and choose to activate, then run the option `Renewal and Activation Task`|
 |Office C2R	|6.8.0	|[Github page](https://github.com/kkkgo/office-C2R-to-VOL). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/)	|[GDrive](https://drive.google.com/open?id=1h2qQ75BT7OHmMq4N702e1lxR8SnIu8Ci) -- [Dropbox](https://www.dropbox.com/s/b8kdzbbat9n78tt/C2R.pdf?dl=0)	| 	| 	| 	|✓	| Converts Office Retail installations to Volume License. Read the instructions on the github page.|
 |KMS_VL_ALL	|34.7	|[Releases](https://app.box.com/s/6quxrz2zuj3644ov918ogqkihehpfijj) by abbodi1406. [passwords](https://i.imgur.com/peLYgJX.jpg). Forum discussion [page at MyDigitalLife](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/#post-838808)	|[GDrive](https://drive.google.com/open?id=17u8O23O4H8tSRhYx0hDUaRSfkW1_olLU) -- [Dropbox](https://www.dropbox.com/s/xv8fn9akuwnv6h1/KMS_VL_ALL.pdf?dl=0)	|✓	|✓	|✓	|✓	|  Activates Office Volume License installations and Windows. Instructions by kkkgo [on github](https://github.com/kkkgo/KMS_VL_ALL/blob/master/README.md). **Does not work on Win7 Ultimate.**|
 |KMSAuto Net	|1.5.3	|[ru-board forum page](http://forum.ru-board.com/topic.cgi?forum=2&amp;topic=5559#1)	|[Gdrive](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view) -- [Dropbox](https://www.dropbox.com/s/yfy61pslmopnz9g/autokms.pdf?dl=0)	|✓	|✓	|✓	|✓	| Does the same as KMS_VL_ALL. **Does not work on Win7 Ultimate.**|
@@ -33,11 +33,11 @@
 
 
 
-### ► Windows/Office untouched images
+## ► Windows/Office untouched images
 
 * [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
 * [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump
-* [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to create Windows 10 installation media from a USB drive
+* [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to create Windows 10 installation media on a USB drive
 * [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye - 2.7 TB back up of MSDN dump. Has a lot of hard to find ISOs, Windows 7, etc.
 
 &nbsp;
@@ -47,12 +47,12 @@
 
 
 
-### ► **Adblockers & useful extensions**
+## ► **Adblockers & useful extensions**
 
 * [uBlock origin](https://github.com/gorhill/uBlock##installation) - for blocking most ads and pop-ups.
 * [uBlock-safari](https://github.com/el1t/uBlock-Safari) - uBlock port for Safari or MacOS users.
 * [Nano Defender](https://jspenguin2017.github.io/uBlockProtector) - [Read this](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin) for uBlock Origin integration. Some websites will block your access if you have an adblocker running. This browser extension is your anti-anti-adblocker. It blocks the blocking of adblockers.
-* [Tampermonkey](https://tampermonkey.net) - for installing userscripts.
+* [Violentmonkey](https://violentmonkey.github.io/) - Open source userscript manager
 
 &nbsp;
 
@@ -61,13 +61,19 @@
 
 
 
-### ► **Useful userscripts**
+## ► **Useful userscripts**
 
-* [Anti-adblock killer](https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek) - Tampermonkey/Greasemonkey userscript
+* [greasyfork.org](https://greasyfork.org/) - Repo for countless useful userscripts
+* [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adds a sci-hub button to countless academic/scholarly article websites to unlock the article being viewed.
+* [Anti-adblock killer](https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek) - Prevents websites from blocking your adblocker
 * [AdsBypasser](https://adsbypasser.github.io/) - Skip countdown ads or continue pages and prevent ad pop-up windows.
 * [Universal Bypass](https://universal-bypass.org/) - Skip countdown ads
 * [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Avoid installing unwanted applications downloading with legitimate software (e.g. McAfee with Adobe Flash)
 * [Get DLC Info From SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Automatically creates a DLC list for tools such as CreamAPI, GreenLuma and SmartSteamEmu.
+* [Unlock Symbolabs steps & verify solutions](https://pastebin.com/wA3QQkCj) - Userscript [\(archived\)](https://web.archive.org/web/20200818154537/https://pastebin.com/wA3QQkCj)
+* [RARBG advanced filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Adds additional quality of life filters to RARBG search
+* [RARBG torrent and magnet links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) - Adds a column with torrent and magnet links in RARBG lists
+* [IMDB to RARBG Torrent Search](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - Adds a `RARBG` button to IMDB page listings to find the movie/show on RARBG
 
 &nbsp;
 
@@ -76,7 +82,21 @@
 
 
 
-### ► **Security**
+
+## ► Pirate Site Proxies / Unblockers
+
+* [root.yt](https://root.yt/)
+* [unblocked-pw.github.io](https://unblocked-pw.github.io/)
+
+&nbsp;
+
+
+
+
+
+
+
+## ► **Security**
 
 Windows defender should be more than enough for virus protection, combined with [malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. 
 
