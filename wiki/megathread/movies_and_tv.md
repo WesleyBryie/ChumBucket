@@ -182,6 +182,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 ### ► DDL (Direct Download)
 
 * [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Popular DDL forum. Has a request section.
+* [scnlog.me](https://scnlog.me/) - Pure scene releases
 * [gdrivedl.xyz](https://gdrivedl.xyz/)
 * [megaddl.co](https://megaddl.co/movies)
 * [rmz.cr](http://rmz.cr/)
@@ -275,10 +276,11 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [descargas2020.org](https://www.descargas2020.org/) - Public torrent tracker
 * [elitetorrent.se](https://www.elitetorrent.se/) - Public torrent tracker. Castellano & Latino Esp
 * [mejortorrentt.net](http://www.mejortorrentt.net/) - Public torrent tracker
-* [subtorrents.la](https://www.subtorrents.la/) - Public torrent tracker. English language movies with Spanish subtitles
+* [subtorrents.la](https://www.subtorrents.la/) - Public torrent tracker. English audio movies with Spanish subtitles
 * [moviesdvdr.co](https://www.moviesdvdr.co/) - Public torrent tracker for Movies
 * [dontorrent.org](https://dontorrent.org/) - Public torrent tracker for Movies & TV
 * [divxtotal.la](https://www.divxtotal.la/) - Public torrent tracker for Movies & TV. Focuses on xvid/DVD encodes
+* [cuevana2.io](https://cuevana2.io/) - Stream Movies & TV (English audio movies with Spanish subtitles)
 * [cinecalidad.to](https://www.cinecalidad.to/) - Stream and DDL Movies & TV
 * [peliculas-hd.net](https://www.peliculas-hd.net/) - Stream and DDL Movies & TV
 * [dospelis.online](https://www.dospelis.online/) - Stream Movies & TV

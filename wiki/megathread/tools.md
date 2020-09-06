@@ -100,6 +100,7 @@
 
 Windows defender should be more than enough for virus protection, combined with [malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. 
 
+* [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
  * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
  * [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
 
