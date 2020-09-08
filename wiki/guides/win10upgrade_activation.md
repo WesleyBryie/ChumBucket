@@ -93,7 +93,7 @@ This activation mode is permanent and will not install a background service, whi
 
 Alternatively, if you're currently on a previous version of Windows, you'll be pleased to learn that Microsoft still offers a free upgrade to Windows 10 from a prior Windows version (7 and 8). The upgrade tool is still available through Microsoft's accessibility portal (for people who use assistive technologies) which can be found here:
 
->https://go.microsoft.com/fwlink/?linkid=822784 (Immediately starts a 6 MiB download, don't freak out).
+> https://go.microsoft.com/fwlink/?linkid=822784 (starts a 6 MiB download).
 
 If your Windows 7 OS was activated with a SLIC loader (i.e. Daz's Windows loader), or your Windows 8.1 OS was activated with a KMS activator, then you will be able to upgrade to Windows 10 and your OS wil be genuine thanks to digital entitlement. Digital entitlement provides your Windows 10 copy a genuine digital license since "you upgraded to Windows 10 for free from an eligible device running a 'genuine' copy of Windows 7 or Windows 8.1."
 

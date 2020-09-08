@@ -13,11 +13,13 @@
 
 Try to avoid the pirate bay for software, it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
-* [torrents]  [rutracker.org](http://rutracker.org/) [.org, .net, .nl] - Considered to be the most complete public tracker and is well-seeded. Amazing tracker for software of all types (ie. your favorite graphics/music/video software).
+* [torrents] [monkrus.ws](http://monkrus.ws/) - Trusted repacker for various highly popular software.
+
+* [torrents] [rutracker.org](http://rutracker.org/) [.org, .net, .nl] - Considered to be the most complete public tracker and is well-seeded. Amazing tracker for software of all types (ie. your favorite graphics/music/video software).
 
 * [torrents] [rarbg.to](https://rarbg.to/) - Allows no user uploads. Everything is automated to auto post scene releases and p2p content from general/0-day private trackers. It's one of the safest public trackers for software and games.
 
-* [DDL] [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion. Their [wiki](https://saidit.net/s/sjain_guides/wiki/index) contains an expanded list of resources.
+* [DDL] [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion for highly popular software. Their [wiki](https://saidit.net/s/sjain_guides/wiki/index) contains an expanded list of resources.
 
 * [DDL] [sanet.ws](https://sanet.ws) - Windows software cracks. Don't use the usenet button, it's just an ad.
 
@@ -49,10 +51,6 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 
 ## ► Sites focused on graphics/audio/video software
-
-* [DDL] [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion. Their [wiki](https://saidit.net/s/sjain_guides/wiki/index) contains an expanded list of resources.
-
-* [torrents] [monkrus.ws](http://w14.monkrus.ws/) - Repacks/Pre-cracked. Site for popular graphics/video software.
 
 * [torrents] [vstorrent.org](https://vstorrent.org/) - Video software and plugins.
 
