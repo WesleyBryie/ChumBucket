@@ -33,11 +33,11 @@
 
 
 
-## ► Windows/Office untouched images
+## ► Windows/Office untouched downloads
 
 * [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
 * [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump
-* [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to create Windows 10 installation media on a USB drive
+* [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to download Windows 10 and create USB installation media.
 * [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye - 2.7 TB back up of MSDN dump. Has a lot of hard to find ISOs, Windows 7, etc.
 
 &nbsp;
@@ -49,9 +49,13 @@
 
 ## ► **Adblockers & useful extensions**
 
-* [uBlock origin](https://github.com/gorhill/uBlock##installation) - for blocking most ads and pop-ups.
-* [uBlock-safari](https://github.com/el1t/uBlock-Safari) - uBlock port for Safari or MacOS users.
+* [uBlock origin](https://github.com/gorhill/uBlock#installation) - for blocking most ads and pop-ups.
+* [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
+* [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
+* [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - lightweight executable that blocks and mutes Spotify ads on Windows.
 * [Nano Defender](https://jspenguin2017.github.io/uBlockProtector) - [Read this](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin) for uBlock Origin integration. Some websites will block your access if you have an adblocker running. This browser extension is your anti-anti-adblocker. It blocks the blocking of adblockers.
+* [Bypass-Paywalls-Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Chrome extension to block paywalls
+* [Bypass paywalls - Method 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Change user agent to Google Bot.
 * [Violentmonkey](https://violentmonkey.github.io/) - Open source userscript manager
 
 &nbsp;
@@ -63,12 +67,15 @@
 
 ## ► **Useful userscripts**
 
+Installing the following requires a userscript manager like Violentmonkey, listed above.
+
 * [greasyfork.org](https://greasyfork.org/) - Repo for countless useful userscripts
 * [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adds a sci-hub button to countless academic/scholarly article websites to unlock the article being viewed.
 * [Anti-adblock killer](https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek) - Prevents websites from blocking your adblocker
 * [AdsBypasser](https://adsbypasser.github.io/) - Skip countdown ads or continue pages and prevent ad pop-up windows.
 * [Universal Bypass](https://universal-bypass.org/) - Skip countdown ads
 * [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Avoid installing unwanted applications downloading with legitimate software (e.g. McAfee with Adobe Flash)
+* [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Bypass newspaper site paywalls. Requires tampermoney/greasemonkey to install.
 * [Get DLC Info From SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Automatically creates a DLC list for tools such as CreamAPI, GreenLuma and SmartSteamEmu.
 * [Unlock Symbolabs steps & verify solutions](https://pastebin.com/wA3QQkCj) - Userscript [\(archived\)](https://web.archive.org/web/20200818154537/https://pastebin.com/wA3QQkCj)
 * [RARBG advanced filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Adds additional quality of life filters to RARBG search
@@ -100,7 +107,7 @@
 
 Windows defender should be more than enough for virus protection, combined with [malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. 
 
-* [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
+ * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
  * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
  * [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
 
@@ -223,14 +230,8 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-## ► Other tools
+## ► File Renaming
 
-* [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
-* [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
-* [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - lightweight executable that blocks and mutes Spotify ads on Windows.
-* [Bypass-Paywalls-Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Chrome extension to block paywalls
-* [Bypass paywalls - Method 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Change user agent to Google Bot.
-* [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Bypass newspaper site paywalls. Requires tampermoney/greasemonkey to install.
 * **[Paid]** [Filebot](https://www.filebot.net/) - Media renaming program (license runs at $6/year). Renames to a proper user-set naming scheme from typical naming conventions found on torrents (ie. Movie.Name.2005.1080p.BluRay.DD5.x264). [Sea-faring version.](https://github.com/barry-allen07/FB-Mod/releases)
 * [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Same aspect as filebot, but free.
 * [AdvancedRenamer](https://www.advancedrenamer.com/) - Same aspect as filebot, but free.
@@ -245,7 +246,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 ## ► Download Services
 
-> Some DDL sites may only offer downloads through premium links, meaning the download will be available through a file host which would lock the download unless you paid a subscription to said file host. The prices can be a bit extravagant, especially when you consider that many DDL sites may use different file hosts, so it would not be feasible to pay for multiple of these subscriptions.
+> Some DDL sites may only offer downloads through premium links, meaning the download will be available through a file host which would lock the download unless you paid a subscription to said file host. The prices can be a bit extravagant, especially when you consider that many DDL sites may use different file hosts, so it would not be feasible to pay for multiple of those subscriptions.
 
 * [seedr.cc](https://www.seedr.cc/) - Free seedbox that allows you to download torrents up to 2 GiB in size.
 * **[Paid]** [real-debrid.com](https://real-debrid.com/) - Online leeching service that will download from torrents and premium hosts, such as rapidgator, uploaded, etc. for you to later download directly from their servers. In regards to torrenting, it's a good way to prevent your IP from ever hitting the torrent's swarm, which is the main cause of receiving copyright infringement letters.

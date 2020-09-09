@@ -17,7 +17,7 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
 &nbsp;
 
-### ► **eBooks**
+### ► **Books**
 
 * [archive.org/details/texts](https://archive.org/details/texts) - The Internet Archive's immense archive of ebooks.
 
@@ -189,8 +189,6 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 * [MangaPlus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) [Official legal site] - Provides initial chapters of popular manga titles for free.
 
 * [MangaDex.org](https://mangadex.org/)
-
-* [KissManga.com](http://kissmanga.com/)
 
 * [comix-load.in](https://comix-load.in/)
 
