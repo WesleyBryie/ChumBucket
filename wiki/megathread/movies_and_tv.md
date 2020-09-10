@@ -112,29 +112,47 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [vmovie.biz](https://vmovie.biz/)
 * [bmovies.nl](https://bmovies.nl/)
 
-* ***Android apps:***
-  * **[Anime]** [AnimeMolecules](https://animemolecules.com/) - Anime streaming app
-  * **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
-  * **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
-  * **[Anime]** [Anyme](https://github.com/zunjae/anYme) - Anime streaming
-  * [TVZion](https://zionapp.live/) - Movies/TV streaming
-  * [Cinehub](https://www.cinehub.to/) - Movies/TV streaming
-  * [cinemaapk.com](https://cinemaapk.com/) - Movies/TV streaming
-  * [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
-  * [Nova TV](https://novatv.app/) - Movies/TV streaming
-  * [Viva TV](https://vivatv.io/) - Movies/TV streaming
-  * [CyberflixTV](https://cybercloud.media/) - Movies/TV streaming
-  * [TyphoonTV](https://www.typhoontv.me/) - Movies/TV streaming
-  * [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming
-  * [Mobdro](https://www.mobdro.to/index) - live streams aggregator (Sports, TV, etc...)
-  * [AOSTV](https://aostv.app/) - live streams aggregator (Sports, TV, etc...)
-  * [BeeTV](https://beetvapk.net/) - Movies/TV streaming
 &nbsp;
 
-* ***iOS apps:***
- * [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming app
+
+
+
+
+
+
+### ► **Android Streaming Apps**
+
+* **[Anime]** [AnimeMolecules](https://animemolecules.com/) - Anime streaming app
+* **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
+* **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
+* **[Anime]** [Anyme](https://github.com/zunjae/anYme) - Anime streaming
+* [TVZion](https://zionapp.live/) - Movies/TV streaming
+* [Cinehub](https://www.cinehub.to/) - Movies/TV streaming
+* [cinemaapk.com](https://cinemaapk.com/) - Movies/TV streaming
+* [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
+* [Nova TV](https://novatv.app/) - Movies/TV streaming
+* [Viva TV](https://vivatv.io/) - Movies/TV streaming
+* [CyberflixTV](https://cybercloud.media/) - Movies/TV streaming
+* [TyphoonTV](https://www.typhoontv.me/) - Movies/TV streaming
+* [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming
+* [Mobdro](https://www.mobdro.to/index) - live streams aggregator (Sports, TV, etc...)
+* [AOSTV](https://aostv.app/) - live streams aggregator (Sports, TV, etc...)
+* [BeeTV](https://beetvapk.net/) - Movies/TV streaming
 
 &nbsp;
+
+
+
+
+
+
+
+### ► iOS Streaming Apps
+* [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming app
+* [Wako TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Pair together with /r/Addons4Wako 
+
+&nbsp;
+
 
 
 
@@ -151,6 +169,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [time4tv.stream](https://time4tv.stream/)
 
 &nbsp;
+
 
 
 
@@ -179,7 +198,10 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 
 
+
 ### ► DDL (Direct Download)
+
+Some DDL sites will use premium-only hosts to distribute content. To get around them, jump to [Download Services in the Tools section of the megathread.](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_download_services)
 
 * [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Popular DDL forum. Has a request section.
 * [scnlog.me](https://scnlog.me/) - Pure scene releases
@@ -200,7 +222,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * **[Movies-only]** [moviefiles.org](https://moviefiles.org/) - Latest movies hosted on google drive
 * **[Movies-only]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
 * **[Movies-only]** [x265movies.co](https://x265movies.co/)
-* [**Premium hosts**] [hdencode.com](https://hdencode.com/) - Content downloadable only through premium links/hosts. See how to deal with premium links at the [bottom of the megathread.](https://www.reddit.com/r/Piracy/wiki/megathread)
+* [**Premium hosts**] [hdencode.com](https://hdencode.com/) - Content downloadable only through premium links/hosts.
 * [**Premium hosts**] [scene-rls.net](http://scene-rls.net/)
 
 &nbsp;
@@ -209,21 +231,25 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 
 
+
 ### ► Sports
 
-* /r/mmafights - MMA live streams. Links posted within the hour before the match
-* /r/rugbystreams - Links posted within the hour before the match
-* /r/MLBStreams - Links posted within the hour before the match
-* [liveonscore.tv](http://liveonscore.tv/) - Live streams. Baseball, basketball, soccer, football, mma, hockey
-* [sportsurge.net](https://sportsurge.net/) - Live streams. MMA, boxing, basketball, football
-* [worldcupfootball.me](http://www.worldcupfootball.me/)
-* [footybite.com](http://footybite.com/) - Live streams. Soccer
-* [nflbite.com](https://home.nflbite.com/) - Football
-* [6stream.xyz](http://6stream.xyz/) - Live streams for various sports
-* [bilasport.net](http://bilasport.net/index.html) - Live streams. Basketball, hockey, football, baseball, soccer, MMA.
-* [highlightstore.me](https://www.highlightstore.me/) - Replays of past matches for various sports
-* [720pstream.me](http://www.720pstream.me/) - Live streams for various sports
-* [ripple.is](http://ripple.is/) - Live streams for various sports
+* [xtremewrestlingtorrents.net](http://xtremewrestlingtorrents.net/) - Semi-private tracker
+* /r/mmafights - MMA live streams. Links posted within the hour of the match
+* /r/rugbystreams - Links posted within the hour of the match
+* /r/MLBStreams - Links posted within the hour of the match
+* [liveonscore.tv](http://liveonscore.tv/) - Live streams. Soccer, MMA, motor sports, baseball, basketball, football, hockey
+* [sportsurge.net](https://sportsurge.net/) - Live streams. MMA, boxing, motor sports, basketball, football, hockey
+* [worldcupfootball.me](http://www.worldcupfootball.me/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF, NCAAM
+* [footybite.com](http://footybite.com/) - Highlights and live streams. Soccer
+* [nflbite.com](https://home.nflbite.com/) - Live streams. Football
+* [nbabite.com](https://nbabite.com/) - Live streams. Basketball
+* [6stream.xyz](http://6stream.xyz/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF
+* [bilasport.net](http://bilasport.net/index.html) - Live streams. Soccer, MMA, baseball, basketball, football, hockey
+* [720pstream.me](http://www.720pstream.me/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF, NCAAM
+* [ripple.is](http://ripple.is/) - Live streams. Soccer, MMA, boxing, basketball, football, F1
+* [highlightstore.me](https://www.highlightstore.me/) - Replays. Soccer, wrestling, motor sports, basketball, baseball, football, hockey
+* [nbafullhd.com](https://www.nbafullhd.com/) - Replays. Basketball, football, F1
 
 &nbsp;
 
