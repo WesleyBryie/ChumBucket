@@ -148,8 +148,9 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 
 ### ► iOS Streaming Apps
-* [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming app
+* [MediaboxHD](https://mediaboxhd.net/) - Movies & TV streaming app
 * [Wako TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Pair together with /r/Addons4Wako 
+* [Zinitevi](https://zinitevi.github.io/movieapps/) - Movies & TV streaming app
 
 &nbsp;
 

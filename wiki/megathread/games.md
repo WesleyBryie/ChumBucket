@@ -13,7 +13,7 @@
 
 &nbsp;
 
-To check if a game has been cracked, jump to the [Scene Tracer section on the Megathread's Tools page](https://www.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_scene_.2F_p2p_tracer_websites.3A). 
+To check if a game has been cracked, jump to the [Scene Tracer section on the Megathread's Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_scene_.2F_p2p_tracer_websites). 
 
 For more PC games piracy news (new cracked games releases, DRM news etc), visit /r/CrackWatch. 
 
@@ -45,7 +45,7 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 
 
 
-## ►  **Torrent sites**
+## ► Torrent sites
 
 * [rarbg.to](http://rarbg.to/) - Scene releases
 
@@ -74,7 +74,7 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 
 
 
-## ►  **DDL sites (direct download)**
+## ► DDL sites (direct download)
 
 * [Steam Underground - cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=10) - Dedicated game piracy forum. Check [their FAQ](https://cs.rin.ru/forum/viewtopic.php?f=10&t=98158) to get the best usage out of the site. Best parts are the discussion and the different types of tools especially the multiplayer ones. Game links aren't always provided (especially for scene releases; they recommend some external sites in their FAQ) but when they are, they are on free file hosting services like zippyshare so that's another plus. Also includes early access games.
 
@@ -127,7 +127,41 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 
 
 
-## ►  **ROMs**
+
+## ► Emulators
+
+Emulators allow you to play console games on the PC. You can find resources for ROMs (copies of the games) in the next section below. Check the [Emulation Gametechwiki for an expanded list of emulators.](https://emulation.gametechwiki.com/index.php/Main_Page)
+
+❗ There are currently no existing Xbox One emulators. [Check this wiki page for any future developments.](https://emulation.gametechwiki.com/index.php/Xbox_One_emulators)
+
+* [mGBA](https://mgba.io/) - Game Boy Advance emulator
+
+* [Dolphin](https://github.com/dolphin-emu/dolphin) - GameCube & Wii emulator
+
+* [Citra](http://citra-emu.org/) - 3DS emulator
+
+* [Cemu](http://cemu.info/) - Wii U emulator
+
+* [yuzu](http://yuzu-emu.org/) - Switch emulator
+
+* [Xenia](https://github.com/xenia-project/xenia) - Xbox 360 emulator
+
+* [PCSX2](https://pcsx2.net/) - PS2 emulator
+
+* [RPCS3](https://github.com/rpcs3/rpcs3/) - PS3 emulator
+
+* [Orbital](https://github.com/AlexAltea/orbital) - PS4 emulator
+
+&nbsp;
+
+
+
+
+
+
+
+## ► ROMs
+
 Visit [emulation.gametechwiki.com](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) for extra resources for ROMs
 
 Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits) to view Console oriented subs
@@ -138,15 +172,17 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * [the-eye.eu](http://the-eye.eu/public/rom/) - Large collection of multi-platform console roms
 
+* [Vimm's Lair](https://vimm.net/?p=vault)
+
 * [emulator.games](https://emulator.games/) - Large collection of ROMs
 
-* [emuparadise.me](https://www.emuparadise.me) - Incredibly large ROM library. Use [this script](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) to reinstate the download links.
+* [emuparadise.me](https://www.emuparadise.me) - Incredibly large ROM library. Use [this script](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) to reinstate the download links
 
 * [romulation.net](https://www.romulation.net/)
 
 * [romnation.net](https://www.romnation.net/)
 
-* [Vimm's Lair](https://vimm.net/?p=vault)
+* [romsmania.cc](https://romsmania.cc/)
 
 * [pleasuredome.org.uk](http://www.pleasuredome.org.uk/)
 
@@ -167,13 +203,19 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 
 
-## ► **Misc**
+
+## ► Misc
 
 * [thetrove.net](https://thetrove.net/) - Archival resource containing tabletop gaming / RPGs
 
+&nbsp;
 
 
-## ►  **Private trackers**
+
+
+
+
+## ►  Private trackers
 
 [Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 

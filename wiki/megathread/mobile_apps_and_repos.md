@@ -50,9 +50,11 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 
 
-## ► Mobile Cracked App Markets/Repos
 
-#### Android:
+
+
+
+## ► Android Cracked App Markets / Repos
 
 * [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
 
@@ -74,9 +76,16 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 * [forum.sbenny.com](https://forum.sbenny.com/)
 
+&nbsp;
 
 
-#### iOS:
+
+
+
+
+
+
+## ► iOS Cracked App Markets / Repos
 
 * [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
 

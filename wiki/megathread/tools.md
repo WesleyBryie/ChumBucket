@@ -50,12 +50,15 @@
 ## ► **Adblockers & useful extensions**
 
 * [uBlock origin](https://github.com/gorhill/uBlock#installation) - for blocking most ads and pop-ups.
+* [Nano Defender](https://jspenguin2017.github.io/uBlockProtector) - [Read this](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin) for uBlock Origin integration. Some websites will block your access if you have an adblocker running. This browser extension is your anti-anti-adblocker. It blocks the blocking of adblockers.
 * [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
 * [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
 * [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - lightweight executable that blocks and mutes Spotify ads on Windows.
-* [Nano Defender](https://jspenguin2017.github.io/uBlockProtector) - [Read this](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin) for uBlock Origin integration. Some websites will block your access if you have an adblocker running. This browser extension is your anti-anti-adblocker. It blocks the blocking of adblockers.
-* [Bypass-Paywalls-Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Chrome extension to block paywalls
+* [Bypass-Paywalls-Chrome-Clean](https://bitbucket.org/magnolia1234/bypass-paywalls-chrome-clean/src/master/#installation-instructions) - Chrome extension to block paywalls. Supported sites are listed in the repo page.
+* [Bypass-Paywalls-Firefox-Clean](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) - Firefox extension to block paywalls. Supported sites are listed in the repo page.
+* [Bypass-Paywalls-Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Chrome extension to block paywalls. Supported sites are listed in the repo page.
 * [Bypass paywalls - Method 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Change user agent to Google Bot.
+* [Google-Unlocked](https://github.com/Ibit-to/google-unlocked) - Open source browser extension, which unlocks hidden google search results.
 * [Violentmonkey](https://violentmonkey.github.io/) - Open source userscript manager
 
 &nbsp;
@@ -70,10 +73,13 @@
 Installing the following requires a userscript manager like Violentmonkey, listed above.
 
 * [greasyfork.org](https://greasyfork.org/) - Repo for countless useful userscripts
+* [userscripts-mirror.org](https://userscripts-mirror.org/) - Alternative scripts repo. Mirror for Userscripts.org
+* [openuserjs.org](https://openuserjs.org/) - Alternative scripts repo
+* [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adds button next to shortened URLS which resolves the URL to its true location
+* [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Allows you to properly select/highlight links instead of the default dragging behavior
 * [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adds a sci-hub button to countless academic/scholarly article websites to unlock the article being viewed.
 * [Anti-adblock killer](https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek) - Prevents websites from blocking your adblocker
 * [AdsBypasser](https://adsbypasser.github.io/) - Skip countdown ads or continue pages and prevent ad pop-up windows.
-* [Universal Bypass](https://universal-bypass.org/) - Skip countdown ads
 * [AntiAdware](https://github.com/HandyUserscripts/AntiAdware##readme) - Avoid installing unwanted applications downloading with legitimate software (e.g. McAfee with Adobe Flash)
 * [Newspaper-Paywall-Bypasser](https://greasyfork.org/en/scripts/18585-newspaper-paywall-bypasser) - Bypass newspaper site paywalls. Requires tampermoney/greasemonkey to install.
 * [Get DLC Info From SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Automatically creates a DLC list for tools such as CreamAPI, GreenLuma and SmartSteamEmu.
@@ -191,14 +197,13 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-## ► Miscellaneous Download Tools
+## ► Other Download Tools
 
 * [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - Open-source commandline tool to download video/audio from a large variety of websites. See the [FAQ](https://reddit.com/r/piracy/wiki/faq) for how to install and use properly.
- * [Youtube-dl gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, in case you're not comfortable with using the command line.
+* [Youtube-dl gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, in case you're not comfortable with using the command line.
+* [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript to download videos from youtube
+* [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript to download subtitles from youtube
 * [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Bulk download anime episodes for various websites, in various resolutions, with or without filler episodes
-* [y2mate.com](https://www.y2mate.com/) - Download youtube video/audio.
-* [ripsave.com](https://ripsave.com/) - Multi-platform video downloader. Youtube, twitch, etc
-* [tomato.to](https://tomato.to/) - Stock photo downloader. Shutterstock, getty, adobestock, etc.
 * [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Download music from Bandcamp
 * [Megabasterd](https://github.com/tonikelope/megabasterd) - Bypass Mega's 5 GiB per 6 hours download limit.
 * [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Download from skillshare. [Original thread.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
@@ -209,6 +214,22 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [Batch download script for Google Drive](https://github.com/jonathanTIE/googledrive-copy-downloader) - Bypasses download limit. Original [reddit thread](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/), by /u/jonathanTIE
 
 &nbsp;
+
+
+
+
+
+
+
+## ► Online Download Tools
+
+* [y2mate.com](https://www.y2mate.com/) - Download youtube video/audio.
+* [ripsave.com](https://ripsave.com/) - Multi-platform video downloader. Youtube, twitch, etc
+* [sasrip.cf](https://sasrip.cf/) - Video / mp3 downloader
+* [tomato.to](https://tomato.to/) - Stock photo downloader. Shutterstock, getty, adobestock, etc.
+
+&nbsp;
+
 
 
 
@@ -279,7 +300,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 
 
 
-## ► Scene / p2p tracer websites:
+## ► Scene / p2p tracer websites
 
 These are sites that track Scene releases. They serve strictly as notice boards and do not offer downloads to any of the content posted.
 
