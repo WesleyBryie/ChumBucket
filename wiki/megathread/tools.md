@@ -207,6 +207,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Download music from Bandcamp
 * [Megabasterd](https://github.com/tonikelope/megabasterd) - Bypass Mega's 5 GiB per 6 hours download limit.
 * [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Download from skillshare. [Original thread.](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/)
+* [Another Skillshare-dl](https://github.com/K-E-N-W-A-Y/Skillshare-DL) - Download from skillshare
 * [Soundcloud downloader](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Firefox extension. Original thread [here](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). By /u/ImTwain.
 * [Omnibus](https://github.com/fireshaper/Omnibus) - Download from GetComics.info easily
 * [get_iplayer](https://github.com/get-iplayer/get_iplayer) - To download video from BBC's iPlayer

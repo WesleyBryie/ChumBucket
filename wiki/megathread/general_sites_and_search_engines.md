@@ -36,10 +36,6 @@
 
 * [rutor.info](http://rutor.info/)
 
-* [toorgle.net](http://www.toorgle.com/)
-
-* [zooqle.com](https://zooqle.com/) - Easy to use movie & TV indexer
-
 * **[DDL]** [the-eye.eu](https://the-eye.eu/) - Large collection of content
 
 * **[DDL]** /r/opendirectories - Subreddit for sharing open directories
@@ -48,31 +44,55 @@
 
 &nbsp;
 
+&nbsp;
+
+
+
+
+
+❗ **[Warning]** The below search engines / torrent aggregators will list as many publicly available torrents as possible, unfiltered and unfettered. This means that torrents that download malware are likely to appear in the search results. Never use these to search for software/games, but when searching for other media types, such as videos, take some [**preliminary measures**](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to avoid running malware.
+
+## ► Torrent Aggregators
+
+These are sites that index torrents from a predefined list of torrent sites
+
+* [torlock.com](https://www.torlock.com/) - Indexes torrents from many popular sites and lists them into categories
+
+* [torrentz2.is](https://torrentz2.is/) - Indexes torrents from many torrent sites
+
+* [snowfl.com](https://snowfl.com/) - Indexes torrents from many torrent sites
+
+* [zooqle.com](https://zooqle.com/) - Easy to use multi indexer
+
+* [toorgle.com](http://www.toorgle.com/) - Displays search results from 450+ sites
+
+&nbsp;
+
+
 
 
 
 
 ## ► **Search Engines / DHT crawlers**
 
-These torrent search engines/DHT crawlers can be used to search within as many publicly listed torrents as possible to find rare content that may not be available in the above trackers/indexers.
-
-❗ **[Warning]** These search engines will list as many publicly available torrents as possible, unfiltered and unfettered. This means that torrents that download malware are likely to appear in the search results. Never use these to search for software, but when searching for other media types, take some [**preliminary measures**](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to avoid running malware.
+These torrent search engines/DHT crawlers are the most powerful torrent search tools that can be used to search within as many publicly listed torrents as possible to find rare content that may not be available in the above trackers/indexers.
 
 * [SolidTorrents.net](https://solidtorrents.net) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/Piracy/comments/bjxlpe/massive_project_update_for_solidtorrents_fake/)
 
-* [btdig.com](https://btdig.com/) - DHT torrent search engine.
+* [btdig.com](https://btdig.com/)
 
-* [torrentz2.is](https://torrentz2.is/) - Multi-site search engine
+* [bt4g.org](https://bt4g.org/)
+
+* [skytorrents.lol](https://www.skytorrents.lol/)
 
 * [btdb.eu](https://btdb.eu/) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/trackers/comments/eaqnr5/btdb_bittorrent_database_looking_for_feedback/)
 
-* [snowfl.com](https://snowfl.com/) - Not a DHT crawler so it won't be as thorough, but it indexes many public trackers.
-
-* [toorgle.com](https://www.toorgle.com/) - Multi-site search engine. Searches 450 sites.
-
-For a more extensive list, see [this post](https://www.reddit.com/r/torrents/comments/5ok0yd/torrent_sites/) over at /r/torrents
+* [Magnetico](https://github.com/boramalper/magnetico) - Self-hosted DHT search engine
 
 &nbsp;
+
+
+
 
 
 

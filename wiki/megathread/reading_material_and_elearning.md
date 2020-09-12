@@ -21,11 +21,11 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
 * [archive.org/details/texts](https://archive.org/details/texts) - The Internet Archive's immense archive of ebooks.
 
-* [gen.lib.rus.ec](http://gen.lib.rus.ec/) aka libgen - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums.
+* [libgen.rs](http://libgen.rs/) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums
 
  * [libgen.pw](https://libgen.pw/) - Libgen mirror
 
-* [b-ok.org](https://b-ok.org/) - Formerly known as Bookzz. Mirrors Libgen library with better navigation.
+* [b-ok.org](https://b-ok.org/) - Formerly known as Bookzz. Mirrors Libgen library with better navigation
 
 * [the-eye.eu/public/Books](https://the-eye.eu/public/Books/) - The Eye's extensive eBooks archive
 
@@ -52,9 +52,9 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
 Guides and Search Engines dedicated to help you increase your reach in finding content
 
-* [**u/Amosqu's CSE**](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers) - Scours in many sites listed above. [**Guide**](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) to accompany this CSE.
+* [**u/Amosqu's CSE**](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers) - Scours in many sites listed above. [**Guide**](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) to accompany this CSE
 
-* [**r/Piracy's updated ebooks CSE**](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - Removed all dead links and added new websites. See [**here**](https://web.archive.org/web/20180501165358/https://pastebin.com/aapQMv7t) for the contents of the sites it scrapes.
+* [**r/Piracy's updated ebooks CSE**](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - Removed all dead links and added new websites. See [**here**](https://web.archive.org/web/20180501165358/https://pastebin.com/aapQMv7t) for the contents of the sites it scrapes
 
 * **[GUIDE]** [Idiot-proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Guide by u/Servalpur
 
@@ -72,13 +72,15 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 ### ► **Academic / Educational**
 
-* [sci-hub.tw](https://sci-hub.tw/) - Largest collection of research papers.
+* [libgen.rs](http://libgen.rs/) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums
 
-* [booksc.xyz](https://booksc.xyz/) - b-ok's (Z-Library) repo for articles. 
+* [sci-hub.tw](https://sci-hub.tw/) - Largest collection of research papers
 
-* [academictorrents.com](https://academictorrents.com/)
+* [booksc.org](https://booksc.org/) - Z-Library's repo for articles
 
-* [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - several links to free eBook resources.
+* [academictorrents.com](https://academictorrents.com/) - "Making over 65TB of research data available! We've designed a distributed system for sharing enormous datasets - for researchers, by researchers."
+
+* [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - Several links to free eBook resources
 
 
 &nbsp;
