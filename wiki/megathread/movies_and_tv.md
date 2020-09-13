@@ -276,9 +276,6 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 ### ► French Content Sites
 
-* [hdf.world](https://hdf.world/) - Private torrent tracker
-* [abnormal.ws](https://abnormal.ws/) - Private torrent tracker
-* [ethor.net](https://ethor.net/) - Private torrent tracker
 * [yggtorrent.se](https://www.yggtorrent.se/) - Semi-private torrent tracker
 * [oxtorrent.com](https://www.oxtorrent.com/) - Public torrent tracker
 * [torrent9.ac](https://www.torrent9.ac/) - Public torrent tracker
@@ -290,6 +287,21 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [hdss.to](https://hdss.to/) - Stream Movies & TV
 * [dpstream.info](https://www.dpstream.info/) - Stream Movies & TV
 * [vostfrserie.net](https://vostfrserie.net/) - Stream TV shows
+
+&nbsp;
+
+
+
+
+
+
+### ► French Content Private Trackers
+
+* [hdf.world](https://hdf.world/) - Private torrent tracker
+* [elite-tracker.net](https://elite-tracker.net/signup.php)
+* [abnormal.ws](https://abnormal.ws/) - Private torrent tracker
+* [ethor.net](https://ethor.net/) - Private torrent tracker
+* [xthor.tk](https://xthor.tk/)
 
 &nbsp;
 
@@ -346,7 +358,9 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 [Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
-* [PassThePopcorn (PTP)](https://passthepopcorn.me/) - Movies tracker. Best source for movies, period. Can be joined by becoming Elite on RED. Though this requires a fair amount of patience as the age of account on RED needs to be at least 1 year.
+* [PassThePopcorn (PTP)](https://passthepopcorn.me/) - Movies tracker. Best source for movies, period. One of the best features of this tracker (which is somewhat rare among the tracker community) is the amount of active fleshed out collections to discover content to watch. It's often better than some legit sites dedicated to this stuff.  
+~~Can be joined by becoming Elite on RED. Though this requires a fair amount of patience as the age of account on RED needs to be at least 1 year.~~ Although PTP has removed all their recruitment threads for now, it is still highly recommended to meet their old requirements at the least. Go higher if you can.  
+
 
 * [HD-Torrents (HDT)](https://hdts.ru/) - Movies/TV tracker. Focuses on HD content only. This tracker is great for HD movies though not as good as PTP. Specialty lies in allowing of multiple untouched material of the same movie, which helps in getting those foreign languages, different audio/video quality, or even different content in audio/videos. Slightly superior to PTP in this regard. Can be joined through RED or you can just pay for an account through their website. (Note - Only buy the account from their own website, not a 3rd party)
 

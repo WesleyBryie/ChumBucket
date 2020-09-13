@@ -7,7 +7,7 @@
 
 &nbsp;
 
-For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv) of the megathread.
+
 
 
 
@@ -18,29 +18,36 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 
 
+
+
+For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv) of the megathread.
+
 ## ► Mobile Apps
 
-* [**Movie Updates**](https://play.google.com/?id=com.tashila.movieupdates) -  Checks if the movies on your watchlist are uploaded online and sends you a notification as soon as they're available.
+* [Movie Updates](https://play.google.com/?id=com.tashila.movieupdates) -  Checks if the movies on your watchlist are uploaded online and sends you a notification as soon as they're available.
 
-* [**Lucky Patcher**](https://www.luckypatchers.com/) - Unlocks in-app purchases on Android apps and removes ads.
+* [Lucky Patcher](https://www.luckypatchers.com/) - Unlocks in-app purchases on Android apps and removes ads.
 
-* [**Newpipe**](https://newpipe.schabi.org/) - Watch and download youtube videos. Also offers ability to download from soundcloud.
+* [Newpipe](https://newpipe.schabi.org/) - Watch and download youtube videos. Also offers ability to download from soundcloud.
 
-* [**YMusic**](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - Youtube Music player and downloader
+* [Youtube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - Ad-free youtube, supports background play. Modded version of the official youtube app.
 
-* [**Tachiyomi**](https://github.com/inorichi/tachiyomi) - Manga reader
+* [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - Youtube Music player and downloader
 
-* [**forum.mobilism.org**](https://forum.mobilism.org/index.php) - Forums with large catalogue of cracked apps and eBooks
+* [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader
 
-* [**Fildo**](https://fildo.net/android/en/#) - Music streaming app and downloader
+* [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - Usenet and torrent remote management app with support for managing Sonarr / Radarr / Lidarr / Bazarr / Sickbeard / Couchpotato / Headphones
 
-* [**apkmirror.com**](https://www.apkmirror.com/) - Contains untouched and signed release apks. Useful if searching for a prior version of an application.
+* [iTorrent Search](https://play.google.com/store/apps/details?id=com.icodelife.itorrentsearch) - Torrent search app for Android
+
+* [Fildo](https://fildo.net/android/en/#) - Music streaming app and downloader
 
 &nbsp;
 
-* Streaming apps for Movies & TV listed under the [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv) section of the megathread
 
-* See /r/ApksApps for more android apps
+* See /r/ApksApps for more Android apps
+
+* See /r/moddedandroidapps for more Android apps
 
 * See /r/sideloaded for iOS
 
@@ -53,12 +60,44 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 
 
+## ► Torrent Clients
 
-## ► Android Cracked App Markets / Repos
+* [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) - Ad-free, open-source torrent client for Android.
+* [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Popular torrent client for Android.
+* [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - Popular torrent client for Android.
+* [Transdrone](https://f-droid.org/packages/org.transdroid.full/) - Remote torrent management app for your torrent client running on your main PC. Supports several 
+* [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - Remote torrent management app with support for managing Sonarr / Radarr / Lidarr / Bazarr / Sickbeard / Couchpotato / Headphones
 
-* [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
+&nbsp;
+
+
+
+
+
+
+
+## ► Clean APK Mirrors
+
+* [apkmirror.com](https://www.apkmirror.com/) - Contains untouched and signed release apks. Useful if searching for a prior version of an application.
 
 * [apkpure.com](https://apkpure.com/) - Similar to apkmirror.com
+
+* [apps.evozi.com/apk-downloader](http://apps.evozi.com/apk-downloader/) - Play Store APK downloader
+
+* [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - Play Store APK downloader
+
+&nbsp;
+
+
+
+
+
+
+
+
+## ► Android Cracked/Modded App Markets & Repos
+
+* [Mobilism for Android](https://forum.mobilism.org/viewtopic.php?f=398&t=214777) - Mobilism's app to browse their cracked apps & ebook catalogue
 
 * [androeed.ru](https://www.androeed.ru)
 
@@ -74,7 +113,11 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 * [4PDA](https://4pda.ru/forum/)
 
+* [blackmod.net](https://blackmod.net/)
+
 * [forum.sbenny.com](https://forum.sbenny.com/)
+
+* [dlandroid.com](https://dlandroid.com/)
 
 &nbsp;
 
@@ -85,7 +128,7 @@ For mobile Movies & TV apps, jump to the [Movies & TV section](https://www.reddi
 
 
 
-## ► iOS Cracked App Markets / Repos
+## ► iOS Cracked App Markets & Repos
 
 * [Mobilism](https://forum.mobilism.org/viewforum.php?f=1&sid=de0c8bc8562b4de21af5092ee62b8a86) - Mobilism's app to browse their cracked apps & ebook catalogue
 

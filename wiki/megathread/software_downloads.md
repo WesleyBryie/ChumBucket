@@ -25,7 +25,7 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [DDL] [diakov.net](https://diakov.net/) - Repacks/Pre-cracked software downloads. Hosted on premium hosts.
 
-* [DDL] [forum.ru-board.com > Underground](http://forum.ru-board.com/board.cgi?catplace=6) - "Underground" subforum at ru-board
+* [DDL] [forum.ru-board.com > Warez](http://forum.ru-board.com/forum.cgi?forum=35) - Warez subforum at ru-board
 
 * [DDL] [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Popular Warez forum with request subsections.
 

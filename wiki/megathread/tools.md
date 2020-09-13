@@ -5,7 +5,7 @@
 ---
 ---
 
-# APPS / TOOLS
+# APPS / TOOLS / WEB SERVICES
 
 
 ## ► Windows/Office tools
@@ -140,8 +140,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [ruTorrent for rTorrent](https://github.com/Novik/ruTorrent) - Web management UI for rtorrent
 * [Flood for rTorrent](https://github.com/Flood-UI/flood) - Sleek web management UI for rtorrent
 * **[Windows]** [uTorrent 2.2.1 Build 25302](http://web.archive.org/web/2011*/http://download.utorrent.com/2.2.1/utorrent.exe) - If you're still set on using uTorrent, this is a stable old build of uTorrent, before it turned to crap and had malware added. It was released on May 18, 2011. Set `net.discoverable` to False in settings and disable the Web GUI to mitigate security vulnerabilities that were later discovered. You can grab the installer from the wayback machine, as it has it cached. Just navigate to a close date past the release date noted earlier. You can check which version you have downloaded by checking the file's properties, in the details tab.
-* **[Android]** [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) - Ad-free, open-source torrent client for Android.
-* **[Android]** [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Popular torrent client for Android.
+For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos)
 
 &nbsp;
 
@@ -203,6 +202,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [Youtube-dl gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, in case you're not comfortable with using the command line.
 * [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript to download videos from youtube
 * [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript to download subtitles from youtube
+* [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl is a command-line program to download image-galleries and -collections from several image hosting sites 
 * [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Bulk download anime episodes for various websites, in various resolutions, with or without filler episodes
 * [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Download music from Bandcamp
 * [Megabasterd](https://github.com/tonikelope/megabasterd) - Bypass Mega's 5 GiB per 6 hours download limit.

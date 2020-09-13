@@ -34,7 +34,7 @@ If you have any critique or suggestions you would like to see added to the Megat
  > Sites for streaming and downloading/torrenting Movies & TV and Sports
 
 ## [► Software Downloads](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads)
- > Sites for obtaining popular software
+ > Sites for obtaining popular cracked software
 
 ## [► Books / Comics / e-learning / Other Reading Material](https://reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning)
  > Books, comics, manga, magazines, courses & tutorials

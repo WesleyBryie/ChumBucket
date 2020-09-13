@@ -56,6 +56,8 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 * [**r/Piracy's updated ebooks CSE**](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - Removed all dead links and added new websites. See [**here**](https://web.archive.org/web/20180501165358/https://pastebin.com/aapQMv7t) for the contents of the sites it scrapes
 
+* [filechef.com](https://www.filechef.com/) - Free File Search Engine
+
 * **[GUIDE]** [Idiot-proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Guide by u/Servalpur
 
 * **[GUIDE]** [How to "rent" your textbooks for free from Amazon using DeDRM Tools & Kindle Unpack](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) - Guide by u/Daveid
@@ -113,6 +115,8 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
 
+* [coursehunter.net](https://coursehunter.net/) - Legal site. Find free tutorials online
+
 * [freetutorialsus.com](https://freetutorialsus.com/) - Udemy, Lynda, Pluralsight courses available. 
 
 * [desirecourse.net](https://desirecourse.net/) - Download and request premium courses
@@ -127,11 +131,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [forcoder.su](https://forcoder.su/) - Focuses on programming textbooks
 
-* [coursehunter.net](https://coursehunter.net/) **(legal site)** - Find free tutorials online
-
 * [Avaxhome](https://avxhm.se/) - E-learning material. Pair together [with this](https://www.reddit.com/r/Piracy/comments/d0rfpe/download_ebooks_on_avaxhome_for_free/) to download.
-
-* [Skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - download from Skillshare ([original thread](https://www.reddit.com/r/Piracy/comments/dn16jp/skillsharedl_now_with_windows_support/))
 
 &nbsp;
 
@@ -144,7 +144,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [thetrove.net](https://thetrove.net/) - Wide variety of magazines, including tabletop gaming PDFs
 
-* [gen.lib.rus.ec](http://gen.lib.rus.ec/) - Mirror ([libgen.pw](https://libgen.pw/))
+* [libgen.rs](http://libgen.rs/) - Mirror ([libgen.pw](https://libgen.pw/))
 
 * [mobilism.org](http://mobilism.org/)
 
@@ -165,7 +165,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 ### ► **Comics**
 
-* [gen.lib.rus.ec](http://gen.lib.rus.ec/) - Mirror ([libgen.pw](https://libgen.pw/))
+* [libgen.rs](http://libgen.rs/) - Mirror ([libgen.pw](https://libgen.pw/))
 
 * [getcomics.info](http://getcomics.info/)
 
@@ -189,6 +189,10 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 ### ► **Manga**
 
 * [MangaPlus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) [Official legal site] - Provides initial chapters of popular manga titles for free.
+
+* [manganelo.com](https://manganelo.com/)
+
+* [manga4life.com](https://manga4life.com/)
 
 * [MangaDex.org](https://mangadex.org/)
 
