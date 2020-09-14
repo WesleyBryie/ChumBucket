@@ -33,7 +33,7 @@
 
 
 
-## ► Windows/Office untouched downloads
+## ► Windows/Office Untouched Downloads
 
 * [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
 * [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump
@@ -47,19 +47,19 @@
 
 
 
-## ► **Adblockers & useful extensions**
+## ► **Adblockers & Bypassers**
 
 * [uBlock origin](https://github.com/gorhill/uBlock#installation) - for blocking most ads and pop-ups.
 * [Nano Defender](https://jspenguin2017.github.io/uBlockProtector) - [Read this](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin) for uBlock Origin integration. Some websites will block your access if you have an adblocker running. This browser extension is your anti-anti-adblocker. It blocks the blocking of adblockers.
 * [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
 * [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
 * [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - lightweight executable that blocks and mutes Spotify ads on Windows.
+* [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Block ads on the Spotify website
 * [Bypass-Paywalls-Chrome-Clean](https://bitbucket.org/magnolia1234/bypass-paywalls-chrome-clean/src/master/#installation-instructions) - Chrome extension to block paywalls. Supported sites are listed in the repo page.
 * [Bypass-Paywalls-Firefox-Clean](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) - Firefox extension to block paywalls. Supported sites are listed in the repo page.
 * [Bypass-Paywalls-Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Chrome extension to block paywalls. Supported sites are listed in the repo page.
 * [Bypass paywalls - Method 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Change user agent to Google Bot.
 * [Google-Unlocked](https://github.com/Ibit-to/google-unlocked) - Open source browser extension, which unlocks hidden google search results.
-* [Violentmonkey](https://violentmonkey.github.io/) - Open source userscript manager
 
 &nbsp;
 
@@ -68,10 +68,9 @@
 
 
 
-## ► **Useful userscripts**
+## ► **Useful Userscripts**
 
-Installing the following requires a userscript manager like Violentmonkey, listed above.
-
+* [Violentmonkey](https://violentmonkey.github.io/) - Open source userscript manager. Required to install any of the below userscripts
 * [greasyfork.org](https://greasyfork.org/) - Repo for countless useful userscripts
 * [userscripts-mirror.org](https://userscripts-mirror.org/) - Alternative scripts repo. Mirror for Userscripts.org
 * [openuserjs.org](https://openuserjs.org/) - Alternative scripts repo
@@ -140,6 +139,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [ruTorrent for rTorrent](https://github.com/Novik/ruTorrent) - Web management UI for rtorrent
 * [Flood for rTorrent](https://github.com/Flood-UI/flood) - Sleek web management UI for rtorrent
 * **[Windows]** [uTorrent 2.2.1 Build 25302](http://web.archive.org/web/2011*/http://download.utorrent.com/2.2.1/utorrent.exe) - If you're still set on using uTorrent, this is a stable old build of uTorrent, before it turned to crap and had malware added. It was released on May 18, 2011. Set `net.discoverable` to False in settings and disable the Web GUI to mitigate security vulnerabilities that were later discovered. You can grab the installer from the wayback machine, as it has it cached. Just navigate to a close date past the release date noted earlier. You can check which version you have downloaded by checking the file's properties, in the details tab.
+
 For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos)
 
 &nbsp;
@@ -202,6 +202,7 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 * [Youtube-dl gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, in case you're not comfortable with using the command line.
 * [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript to download videos from youtube
 * [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript to download subtitles from youtube
+* [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL and Injector for dumping UWP applications
 * [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl is a command-line program to download image-galleries and -collections from several image hosting sites 
 * [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Bulk download anime episodes for various websites, in various resolutions, with or without filler episodes
 * [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Download music from Bandcamp
@@ -237,7 +238,7 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 
 
 
-## ► File sharing
+## ► File Sharing
 
 * [SyncThing](https://syncthing.net/) - Share files/folders between computers. Set up shared folders which will be automatically synced between devices. 
 * [file.pizza](https://file.pizza/) - Secure peer-to-peer file transfers. Useful for quick one-off file transfers. [Github page.](https://github.com/kern/filepizza)
@@ -255,9 +256,9 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 ## ► File Renaming
 
 * **[Paid]** [Filebot](https://www.filebot.net/) - Media renaming program (license runs at $6/year). Renames to a proper user-set naming scheme from typical naming conventions found on torrents (ie. Movie.Name.2005.1080p.BluRay.DD5.x264). [Sea-faring version.](https://github.com/barry-allen07/FB-Mod/releases)
-* [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Same aspect as filebot, but free.
-* [AdvancedRenamer](https://www.advancedrenamer.com/) - Same aspect as filebot, but free.
-* [TheRenamer](http://therenamer.com/) - Same aspect as filebot, but free.
+* [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Same concept as filebot, but free.
+* [AdvancedRenamer](https://www.advancedrenamer.com/) - Same concept as filebot, but free.
+* [TheRenamer](http://therenamer.com/) - Same concept as filebot, but free.
 
 &nbsp;
 
@@ -301,7 +302,7 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 
 
 
-## ► Scene / p2p tracer websites
+## ► Scene / P2P Tracer Websites
 
 These are sites that track Scene releases. They serve strictly as notice boards and do not offer downloads to any of the content posted.
 

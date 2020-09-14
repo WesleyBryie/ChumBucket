@@ -277,14 +277,17 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 ### ► French Content Sites
 
 * [yggtorrent.se](https://www.yggtorrent.se/) - Semi-private torrent tracker
-* [oxtorrent.com](https://www.oxtorrent.com/) - Public torrent tracker
+* [sharewood.tv](https://www.sharewood.tv/) - Semi-private torrent tracker
+* [oxtorrent.cc](https://www.oxtorrent.cc/) - Public torrent tracker
 * [torrent9.ac](https://www.torrent9.ac/) - Public torrent tracker
 * [omgtorrent.cz](https://www.omgtorrent.cz/) - Public torrent tracker
 * [cpasbien.tf](https://cpasbien.tf/) - Public torrent tracker
 * [extreme-down.video](https://www.extreme-down.video/) - DDL Movies & TV
 * [wawacity.vip](https://www.wawacity.vip/) - DDL Movies & TV
+* [tirexo.pro](https://www.tirexo.pro/) - DDL Movies & TV
 * [libertyvf.co](https://libertyvf.co/) - Stream and DDL Movies & TV
 * [hdss.to](https://hdss.to/) - Stream Movies & TV
+* [gratflix.net](https://www.gratflix.net/) - Stream Movies & TV
 * [dpstream.info](https://www.dpstream.info/) - Stream Movies & TV
 * [vostfrserie.net](https://vostfrserie.net/) - Stream TV shows
 
@@ -297,10 +300,10 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 ### ► French Content Private Trackers
 
-* [hdf.world](https://hdf.world/) - Private torrent tracker
+* [hdf.world](https://hdf.world/)
 * [elite-tracker.net](https://elite-tracker.net/signup.php)
-* [abnormal.ws](https://abnormal.ws/) - Private torrent tracker
-* [ethor.net](https://ethor.net/) - Private torrent tracker
+* [abnormal.ws](https://abnormal.ws/)
+* [ethor.net](https://ethor.net/)
 * [xthor.tk](https://xthor.tk/)
 
 &nbsp;

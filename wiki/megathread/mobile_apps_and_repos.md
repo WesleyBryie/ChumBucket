@@ -40,6 +40,8 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 
 * [iTorrent Search](https://play.google.com/store/apps/details?id=com.icodelife.itorrentsearch) - Torrent search app for Android
 
+* [iDope Torrent Search](https://idope.se/apk/down.html) - Torrent search app for Android
+
 * [Fildo](https://fildo.net/android/en/#) - Music streaming app and downloader
 
 &nbsp;
@@ -63,9 +65,13 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 ## ► Torrent Clients
 
 * [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) - Ad-free, open-source torrent client for Android.
+
 * [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) - Popular torrent client for Android.
+
 * [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - Popular torrent client for Android.
+
 * [Transdrone](https://f-droid.org/packages/org.transdroid.full/) - Remote torrent management app for your torrent client running on your main PC. Supports several 
+
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - Remote torrent management app with support for managing Sonarr / Radarr / Lidarr / Bazarr / Sickbeard / Couchpotato / Headphones
 
 &nbsp;

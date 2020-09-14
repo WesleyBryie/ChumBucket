@@ -56,11 +56,13 @@
 
 These are sites that index torrents from a predefined list of torrent sites
 
-* [torlock.com](https://www.torlock.com/) - Indexes torrents from many popular sites and lists them into categories
+* [torlock.com](https://www.torlock.com/) - Indexes torrents from various popular sites and lists them into categories
 
-* [torrentz2.is](https://torrentz2.is/) - Indexes torrents from many torrent sites
+* [torrentz2.is](https://torrentz2.is/) - Indexes torrents from various torrent sites
 
-* [snowfl.com](https://snowfl.com/) - Indexes torrents from many torrent sites
+* [idope.se](https://idope.se/) - Indexes torrents from various torrent sites
+
+* [snowfl.com](https://snowfl.com/) - Indexes torrents from various torrent sites
 
 * [zooqle.com](https://zooqle.com/) - Easy to use multi indexer
 

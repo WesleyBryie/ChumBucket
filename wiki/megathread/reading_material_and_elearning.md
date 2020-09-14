@@ -213,6 +213,27 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
+### ► French Content Sites
+
+* [french-bookys.org](https://french-bookys.org/) - DDL French books
+
+* [emulebdz.p1g1.org](http://emulebdz.p1g1.org/index.php?) - French comics. eD2k network
+
+* [bdmagexhumator.blogspot.com](https://bdmagexhumator.blogspot.com/) - DDL French comics
+
+* [lpebk.com](http://www.lpebk.com/) - French board. DDL comics
+
+* [yggtorrent.is](https://yggtorrent.is/) - French general content semi-private torrent tracker
+
+* [sharewood.tv](https://www.sharewood.tv/) - French general content semi-private torrent tracker
+
+&nbsp;
+
+
+
+
+
+
 ### ► **Private torrent trackers**
 
 [Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
