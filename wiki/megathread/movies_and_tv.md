@@ -126,7 +126,6 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
 * **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
 * **[Anime]** [Anyme](https://github.com/zunjae/anYme) - Anime streaming
-* [TVZion](https://zionapp.live/) - Movies/TV streaming
 * [Cinehub](https://www.cinehub.to/) - Movies/TV streaming
 * [cinemaapk.com](https://cinemaapk.com/) - Movies/TV streaming
 * [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
@@ -351,6 +350,58 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [qqqueros.com](http://qqqueros.com/)
 
 &nbsp;
+
+
+
+
+
+
+### ► German Content Sites
+
+* [torrent-explosiv.eu](https://torrent-explosiv.eu/) - Semi-private torrent tracker
+* [nima4k.org](https://nima4k.org/) - DDL Movies & TV, documentaries, sports
+* [kinox.to](https://kinox.to/) - DDL Movies & TV, documentaries
+* [movie-blog.tv](https://movie-blog.tv/) - DDL Movies & TV, sports
+* [de.ddl.me](https://de.ddl.me/) - DDL Movies & TV
+* [funxd.site](https://funxd.site/) - DDL Movies & TV. Click the Release link and type the release name into the filecrypt search
+* [einfachladen.org](https://einfachladen.org/) - DDL Movies (mega links)
+* [hd-world.org](http://hd-world.org/) - DDL TV Shows
+* [streamworld.co](https://streamworld.co/) - Stream Movies & TV
+* [movietown.org](https://movietown.org/) - Stream Movies & TV
+* [movieking.cc](https://movieking.cc/) - Stream Movies
+* [s.to](https://s.to/) - Stream TV Shows. Alternative domain: [serienstream.sx](https://serienstream.sx/)
+* [serienjunkies.org](https://serienjunkies.org/) - Stream TV Shows
+* [boerse.im](https://boerse.im/) - German board. Various types types of content
+* [board.darklight.to](https://board.darklight.to/) - German board. Various types of content
+* [sharehitz.net](https://sharehitz.net/) - German board. Various types of content
+* [mygully.com](http://mygully.com/) - German board. Various types of content
+
+&nbsp;
+
+* [ard.de](http://www.ard.de/) - Free German broadcasting
+* [zdf.de](http://zdf.de/) - Free German broadcasting
+* [mdr.de](http://mdr.de/) - Free German broadcasting
+
+
+&nbsp;
+
+
+
+
+
+
+
+### ► German Content Private Trackers
+
+* [bit-titan.net](https://bit-titan.net/) - General tracker
+* [sor-next.tk](http://sor-next.tk/) - General tracker
+* [tsctracker.net](http://tsctracker.net/) - General tracker
+* [theshinning.me](https://theshinning.me/) - General tracker
+* [immortuos.life](https://immortuos.life/) - General tracker
+* [ast4u.me](https://ast4u.me/) - Anime tracker
+
+&nbsp;
+
 
 
 

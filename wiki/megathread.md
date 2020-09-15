@@ -30,7 +30,7 @@ If you have any critique or suggestions you would like to see added to the Megat
 ## [► Games](https://reddit.com/r/Piracy/wiki/megathread/games)
  > Sites for downloading games and ROMs
 
-## [► Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
+## [► Movies & TV / Sports](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
  > Sites for streaming and downloading/torrenting Movies & TV and Sports
 
 ## [► Software Downloads](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads)
