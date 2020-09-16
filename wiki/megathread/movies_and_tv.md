@@ -78,6 +78,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * **[Anime]** [Nyaa.si](https://nyaa.si/)
 * **[Anime]** [nyaa.pantsu.cat](https://nyaa.pantsu.cat/)
 * **[Anime]** [horriblesubs.info](https://horriblesubs.info/)
+* **[Anime]** [hi10anime.com](https://hi10anime.com/)
 
 &nbsp;
 
@@ -177,20 +178,26 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 ### ► **Anime (Streaming)**
 
+[**/r/AnimePiracy's exhaustive wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/B100)
+
+[**/r/KissCartoon's extensive anime/manga site wiki**](https://www.reddit.com/r/KissCartoon/wiki/alternatives)
+
+* [9anime.to](https://9anime.to/)
+* [chia-anime.me](http://www.chia-anime.me/)
+* [kimcartoon.to](https://kimcartoon.to/)
+* [anime8.ru](https://anime8.ru/)
+* [kickassanime.rs](https://kickassanime.rs/)
+* [4anime.to](https://4anime.to/)
 * [Aniwatch.me](https://aniwatch.me/)
 * [animekaizoku.com](https://animekaizoku.com/)
 * [gogoanime.in](https://www5.gogoanime.in/)
-* [9anime.to](https://9anime.to/)
 * [aninow.net](https://aninow.net/)
 * [justdubs.org](http://justdubs.org/)
 * [vidstreaming.io](https://vidstreaming.io/)
 * [animeshow.tv](https://www1.animeshow.tv/)
-* [chia-anime.me](http://www.chia-anime.me/)
 * [animerush.tv](https://www.animerush.tv/)
 * [animehd47.com](https://animehd47.com/)
 * [twist.moe](https://twist.moe/)
-* [**/r/KissCartoon's extensive anime/manga site wiki**](https://www.reddit.com/r/KissCartoon/wiki/alternatives)
-* [**/r/AnimePiracy's exhaustive wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/B100)
 
 &nbsp;
 
@@ -289,6 +296,8 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [gratflix.net](https://www.gratflix.net/) - Stream Movies & TV
 * [dpstream.info](https://www.dpstream.info/) - Stream Movies & TV
 * [vostfrserie.net](https://vostfrserie.net/) - Stream TV shows
+* [animes9.com](https://animes9.com/) - Stream anime
+* [mavanimes.co](http://www.mavanimes.co/) - Stream anime
 
 &nbsp;
 
@@ -371,6 +380,12 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [movieking.cc](https://movieking.cc/) - Stream Movies
 * [s.to](https://s.to/) - Stream TV Shows. Alternative domain: [serienstream.sx](https://serienstream.sx/)
 * [serienjunkies.org](https://serienjunkies.org/) - Stream TV Shows
+* [bs.to](https://bs.to/) - Stream TV Shows
+* [aniflix.tv](https://aniflix.tv/) - Stream anime
+* [animestream.in](https://animestream.in/) - Stream anime
+
+&nbsp;
+
 * [boerse.im](https://boerse.im/) - German board. Various types types of content
 * [board.darklight.to](https://board.darklight.to/) - German board. Various types of content
 * [sharehitz.net](https://sharehitz.net/) - German board. Various types of content

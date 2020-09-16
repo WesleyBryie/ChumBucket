@@ -142,19 +142,25 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 ### ► **Magazines**
 
+* [Web Archive's Magazine Rack](https://archive.org/details/magazine_rack)
+
 * [thetrove.net](https://thetrove.net/) - Wide variety of magazines, including tabletop gaming PDFs
 
 * [libgen.rs](http://libgen.rs/) - Mirror ([libgen.pw](https://libgen.pw/))
 
+* [magazinelib.com](https://magazinelib.com/)
+
+* [pdfmagazines.club](https://pdfmagazines.club/)
+
 * [mobilism.org](http://mobilism.org/)
+
+* [downmagaz.net](https://downmagaz.net/)
 
 * [pdf-giant.com](http://pdf-giant.com/)
 
-* [magazinelib.com](https://magazinelib.com/)
+* [magazinesdownload.org](https://magazinesdownload.org/) - Magazines hosted on free, fast, file hosting sites 
 
-* [magazinesdownload.org](https://magazinesdownload.org/) - magazines hosted on free, fast, file hosting sites 
-
-* [ebook3000.com](http://ebook3000.com/) - be sure to use an adblocker
+* [ebook3000.com](http://ebook3000.com/) - Be sure to use an adblocker
 
 &nbsp;
 
@@ -171,11 +177,11 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [Omnibus](https://github.com/fireshaper/Omnibus) - Download from GetComics.info easily
 
+* [readcomicbooksonline.net](https://readcomicbooksonline.net/)
+
 * [comicextra.com](https://www.comicextra.com/)
 
 * [readcomiconline.to](https://readcomiconline.to/)
-
-* [readcomicbooksonline.net](https://readcomicbooksonline.net/)
 
 * [comix-load.in](https://comix-load.in/)
 
@@ -190,11 +196,13 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [MangaPlus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) [Official legal site] - Provides initial chapters of popular manga titles for free.
 
+* [nyaa.si](https://nyaa.si/)
+
+* [MangaDex.org](https://mangadex.org/)
+
 * [manganelo.com](https://manganelo.com/)
 
 * [manga4life.com](https://manga4life.com/)
-
-* [MangaDex.org](https://mangadex.org/)
 
 * [comix-load.in](https://comix-load.in/)
 
