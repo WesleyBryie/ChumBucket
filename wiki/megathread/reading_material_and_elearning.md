@@ -231,9 +231,19 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [lpebk.com](http://www.lpebk.com/) - French board. DDL comics
 
+* [japscan.co](https://www.japscan.co/) - French manga
+
+* [scantrad.net](https://scantrad.net/) - French manga
+
 * [yggtorrent.is](https://yggtorrent.is/) - French general content semi-private torrent tracker
 
 * [sharewood.tv](https://www.sharewood.tv/) - French general content semi-private torrent tracker
+
+* [torrent9.so/torrents/ebook](https://www.torrent9.so/torrents/ebook) - Torrent French ebooks, newspapers, magazines
+
+* [omgtorrent.cz](https://www.omgtorrent.cz/) - Torrent French ebooks
+
+* [cpasbien.tf/torrent-category/ebook/](https://cpasbien.tf/torrent-category/ebook/) - Torrent French ebooks
 
 &nbsp;
 
