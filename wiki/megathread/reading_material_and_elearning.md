@@ -9,9 +9,7 @@
 
 **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
-If you have purchased the kindle edition of your book and wish to strip its DRM and export it to .pdf, view this [guide](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) on how to deDRM your book. 
-
-If the ebook you are searching is available for kindle, you may also [*borrow*](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) the ebook, use the guide, and then return it for a refund.
+[Large list of resources for books](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) by u/ManWithoutModem
 
 Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums/forumdisplay.php?f=166) or /r/calibre
 
@@ -37,9 +35,9 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
 * [ebookee.org](https://ebookee.org/)
 
-* [s2.bitdownload.ir](http://s2.bitdownload.ir/) - Open directory of Ebooks
+* [s2.bitdownload.ir](http://s2.bitdownload.ir/) - Open directory of eBooks
 
-* [s3.bitdownload.ir](http://s3.bitdownload.ir/) - Open directory of Ebooks
+* [s3.bitdownload.ir](http://s3.bitdownload.ir/) - Open directory of eBooks
 
 * [Large list of ebook sites \(some defunct\)](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/)
 
@@ -60,6 +58,8 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 * **[GUIDE]** [Idiot-proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Guide by u/Servalpur
 
+- **[GUIDE]** [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
+
 * **[GUIDE]** [How to "rent" your textbooks for free from Amazon using DeDRM Tools & Kindle Unpack](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) - Guide by u/Daveid
 
 * **[GUIDE]** [How to search for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - Guide by u/ElectroXexual
@@ -67,6 +67,22 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 * **[GUIDE]** [Finding ebooks and textbooks](https://opentrackers.org/downloading-ebooks-textbooks/)
 
 &nbsp;
+
+
+
+
+
+
+
+### ► Book IRCs
+
+* irc://irc.undernet.org/bookz - Read http://encyclopediadramatica.ch/Bookz for an overview on how to download books
+
+* irc://irc.irchighway.net/ebooks
+
+&nbsp;
+
+
 
 
 
@@ -83,6 +99,8 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 * [academictorrents.com](https://academictorrents.com/) - "Making over 65TB of research data available! We've designed a distributed system for sharing enormous datasets - for researchers, by researchers."
 
 * [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - Several links to free eBook resources
+
+* [allitebooks.org](http://www.allitebooks.org/) - Large database of free IT and programming books. Viewable in browser
 
 
 &nbsp;

@@ -86,11 +86,11 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 
 * [scnlog.me](https://scnlog.me/) - Scene game releases
 
-* [forum.torrminatorr.com](https://forum.torrminatorr.com/) - Scene and p2p game releases
+* [forum.torrminatorr.com](https://forum.torrminatorr.com/) - GOG, scene, P2P, repacked games, and GNU/Linux games
 
-* [gog-games.com](https://gog-games.com/) - Untouched GOG games. No cracks needed.
+* [gog-games.com](https://gog-games.com/) - Untouched GOG games. No cracks needed
 
-* [steamunlocked.net](https://steamunlocked.net/) - Pre-installed games (not repacks). Save this one for last. The ads on this site are especially bad, though the downloadable content is safe.
+* [steamunlocked.net](https://steamunlocked.net/) - Pre-installed games (not repacks). Save this one for last. The ads on this site are especially bad, though the downloadable content is safe
 
 * [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - Game trainers, cheats, and standalone cracks for games
 
@@ -109,6 +109,10 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
 
 * **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
+
+* **[Repacks]** [blackboxrepack.com](http://www.blackboxrepack.com/) - Pre-cracked games
+
+* **[Repacks]** [cpgrepacks.site](http://cpgrepacks.site/) - Pre-cracked games
 
 &nbsp;
 
@@ -143,6 +147,8 @@ Emulators allow you to play console games on the PC. You can find resources for 
 * [Cemu](http://cemu.info/) - Wii U emulator
 
 * [yuzu](http://yuzu-emu.org/) - Switch emulator
+
+* [ryujinx.org](https://ryujinx.org/) - Switch emulator
 
 * [Xenia](https://github.com/xenia-project/xenia) - Xbox 360 emulator
 
