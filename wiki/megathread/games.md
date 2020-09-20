@@ -82,6 +82,8 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 
 * [ovagames.com](http://www.ovagames.com/) - Scene game downloads
 
+* [gload.cc](https://gload.cc/) - German site. Reposts ElAmigos repacks (multi-language repacks) and Scene releases.
+
 * [rlsbb.ru > PC Games](https://rlsbb.ru/category/games/pc/) - Scene game releases
 
 * [scnlog.me](https://scnlog.me/) - Scene game releases
@@ -221,7 +223,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 
 
-## ►  Private trackers
+## ► Private trackers
 
 [Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
@@ -236,5 +238,38 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 * [Filelist](https://filelist.io/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
 
 * [IPTorrents](http://iptorrents.com/) - The largest general private tracker
+
+&nbsp;
+
+
+
+
+
+
+## ► Do Not Use
+
+❗ Untrusted sites, release groups & repackers
+
+* **The Pirate Bay** - Do not use TPB or any of its mirrors to download games/software. High malware risk, [even from skulled users](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
+
+* **Kickass Torrents / KAT** - Kat went down in 2016. Don't rely on any supposed mirrors floating around.
+
+* **BBRepacks** - BlackBox Repacks impersonator. [Malware in the Doom Eternal repack posted on TPB and 1337x](https://old.reddit.com/r/Piracy/comments/fmgyf6/doom_eternal_repack_contains_malware/)
+
+* **Qoob / Seyter** - Qoob is the name that Seyter switched to after having been caught adding a [bitcoin miner to his JC3 release](https://old.reddit.com/r/CrackStatus/comments/4x0nt1/jc3_xl_seyter_has_bitcoin_miner/). More [info on Qoob](https://old.reddit.com/r/CrackWatch/comments/a78tvj/qoob_stopped_repacking/ec18n6f/)
+
+* **CorePack** - Malware in a long list of their releases. [Some background](https://old.reddit.com/r/CrackWatch/comments/8wp2fa/there_are_malwares_inside_fear_3_corepack_releases/). Their [official statement](https://old.reddit.com/r/CrackWatch/comments/8wuyyk/our_sincere_apologies_to_everyone_corepack/)
+
+* **Ocean Of Games** - [Malware risk](https://old.reddit.com/r/Piracy/comments/8yjv8e/do_not_use_ocean_of_games/) and past history of coin miners included in their installers
+
+* **NosTEAM** - Shitty blog site with shoddy ads and history of malware
+
+* Any website using the name of a Scene group (such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, etc.). Scene groups do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use).
+
+* Any site you find on Google by searching for "free game downloads", "cracked games", etc. Google de-lists piracy websites from its search results, which means that fake / imposter / malware-spreading sites will float to the top of the search results.
+
+* Any aggregator site like snowfl or DHT crawler like btdb, btdig, etc. Not because the sites intend to infect you with malware, but because their intent is to aggregate as many publicly available torrents as possible into one place. This can include torrents that have been posted to TPB or otherwise spread publicly via the DHT network. You should only grab games from sites that take a personal hand in adding content (excludes sites that auto-post scene releases, in which case they would need to be vetted to make sure that their posts are real scene releases) rather than automatically aggregating from hundreds of unknown sites.
+
+&nbsp;
 
 &nbsp;

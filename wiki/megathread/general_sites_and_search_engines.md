@@ -24,8 +24,6 @@
 
 * [warez-bb.org](https://warez-bb.org) - Warez board
 
-* [katcr.co](https://katcr.co/)
-
 * [limetorrents.cc](https://www.limetorrents.cc/)
 
 * [thepiratebay.org](https://thepiratebay.org/)
