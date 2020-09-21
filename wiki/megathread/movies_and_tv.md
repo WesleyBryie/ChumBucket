@@ -24,7 +24,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 ### ► Relevant Software
 
-**Media Centers / Clients**
+&nbsp; **Media Centers / Clients**
 
 * [Stremio](https://www.stremio.com/) - Multi video library manager. Plugins available to stream from various media sources, including torrents. Also check out /r/StremioAddons. Watch-together [guide](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/).
 * [Plex Media Server](https://www.plex.tv/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
@@ -34,7 +34,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 &nbsp;
 
-**Media Managers**
+&nbsp; **Media Managers**
 
 * [Sonarr](https://sonarr.tv/) - Sonarr is an automatic TV show downloading tool where you can add new shows to monitor, and it will automatically download any new episodes as soon as they are available on torrent sites.
 * [Radarr](https://radarr.video/) - Same as Sonarr, but for movies.
@@ -44,7 +44,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 &nbsp;
 
-**Download Managers**
+&nbsp; **Download Managers**
 
 > These are useful for DDL sites. Download managers such as these are meant to help to speed up downloads, typically by increasing the number of connections to the server or attempting to split the download into chunks. They are also especially handy when grabbing multiple links at once, which is typical with DDL sites, where they'll split up large downloads into multiple small `.rar` parts, as well as bypassing captchas and eliminating the risks of clicking on the wrong download button on various file hosts. They also help with resuming paused or timed out downloads which your browser may not be able to do in some cases.
 
@@ -74,7 +74,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [psarips.com](http://psarips.com/) - Small-sized x265 (re-)encodes
 * **[TV]** [eztv.io](https://eztv.io/)
 * **[Movies-only]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
-* **[Documentaries]** [forums.mvgroup.org](https://forums.mvgroup.org/index.php) - Very good documentaries indexer. Registration required.
+* **[Documentaries]** [forums.mvgroup.org](https://forums.mvgroup.org/index.php) - Very good documentaries tracker. Registration required.
 * **[Anime]** [Nyaa.si](https://nyaa.si/)
 * **[Anime]** [nyaa.pantsu.cat](https://nyaa.pantsu.cat/)
 * **[Anime]** [horriblesubs.info](https://horriblesubs.info/)
@@ -280,7 +280,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 
 
-### ► French Content Sites
+### ► French Sites
 
 * [yggtorrent.se](https://www.yggtorrent.se/) - Semi-private torrent tracker
 * [sharewood.tv](https://www.sharewood.tv/) - Semi-private torrent tracker
@@ -306,7 +306,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 
 
-### ► French Content Private Trackers
+### ► French Private Torrent Trackers
 
 * [hdf.world](https://hdf.world/)
 * [elite-tracker.net](https://elite-tracker.net/signup.php)
@@ -321,23 +321,31 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 
 
-### ► Spanish Content Sites
+### ► Spanish Sites
 
-* [descargas2020.org](https://www.descargas2020.org/) - Public torrent tracker
-* [elitetorrent.se](https://www.elitetorrent.se/) - Public torrent tracker. Castellano & Latino Esp
-* [mejortorrentt.net](http://www.mejortorrentt.net/) - Public torrent tracker
-* [subtorrents.la](https://www.subtorrents.la/) - Public torrent tracker. English audio movies with Spanish subtitles
-* [moviesdvdr.co](https://www.moviesdvdr.co/) - Public torrent tracker for Movies
-* [dontorrent.org](https://dontorrent.org/) - Public torrent tracker for Movies & TV
-* [divxtotal.la](https://www.divxtotal.la/) - Public torrent tracker for Movies & TV. Focuses on xvid/DVD encodes
-* [cuevana2.io](https://cuevana2.io/) - Stream Movies & TV (English audio movies with Spanish subtitles)
+* [pirateiro.com](http://pirateiro.com/) - Torrent Movies & TV, anime
+* [estrenosflix.org](https://estrenosflix.org/) - Torrent Movies & TV
+* [alt-torrent.com](https://www.alt-torrent.com/) - Torrent Movies & TV
+* [elitetorrent.se](https://www.elitetorrent.se/) - Torrent Movies & TV. Castellano & Latino Esp
+* [mejortorrentt.net](http://www.mejortorrentt.net/) - Torrent Movies & TV
+* [subtorrents.la](https://www.subtorrents.la/) - Torrent Movies & TV. English audio with Spanish subtitles
+* [dontorrent.org](https://dontorrent.org/) - Torrent Movies & TV
+* [divxtotal.la](https://www.divxtotal.la/) - Torrent Movies & TV. Focuses on xvid/DVD encodes
+* [zonatorrent.tv](https://zonatorrent.tv/) - Torrent Movies & TV
+* [moviesdvdr.co](https://www.moviesdvdr.co/) - Torrent Movies
+* [cuevana2.io](https://cuevana2.io/) - Stream Movies & TV. English audio with Spanish subtitles
 * [cinecalidad.to](https://www.cinecalidad.to/) - Stream and DDL Movies & TV
 * [peliculas-hd.net](https://www.peliculas-hd.net/) - Stream and DDL Movies & TV
+* [dixmax.com](https://dixmax.com/account.php) - Stream Movies & TV
 * [dospelis.online](https://www.dospelis.online/) - Stream Movies & TV
 * [movidy.co](https://movidy.co/) - Stream Movies & TV
+* [pelisplus.me](https://pelisplus.me/) - Stream Movies & TV
+* [hdfull.lv](https://hdfull.lv/) - Stream Movies & TV
+* [cliver.to](https://www.cliver.to/) - Stream Movies. English audio with Spanish subtitles
 * [danimados.com](https://danimados.com/) - Stream cartoons
 * [serieslan.com](https://serieslan.com/) - Stream cartoons
 * [animeflv.net](https://www.animeflv.net/) - Stream anime
+* [tioanime.com](https://tioanime.com/) - Stream anime
 
 &nbsp;
 
@@ -346,7 +354,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 
 
-### ► Spanish Content Private trackers
+### ► Spanish Private Torrent Trackers
 
 * [hdcity.li](https://hdcity.li/) - Castellano Esp
 * [hd-spain.com](https://www.hd-spain.com/) - Castellano Esp
@@ -354,6 +362,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [xbt.puntotorrent.com](https://xbt.puntotorrent.com/)
 * [hdolimpo.co](https://hdolimpo.co/)
 * [zonaq.pw](https://www.zonaq.pw/)
+* [divteam.com](https://divteam.com/)
 * [torrentland.li](https://torrentland.li/)
 * [xbytesv2.li](http://xbytesv2.li/)
 * [qqqueros.com](http://qqqueros.com/)
@@ -365,7 +374,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 
 
-### ► German Content Sites
+### ► German Sites
 
 * [torrent-explosiv.eu](https://torrent-explosiv.eu/) - Semi-private torrent tracker
 * [nima4k.org](https://nima4k.org/) - DDL Movies & TV, documentaries, sports
@@ -406,7 +415,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 
 
-### ► German Content Private Trackers
+### ► German Private Torrent Trackers
 
 * [bit-titan.net](https://bit-titan.net/) - General tracker
 * [sor-next.tk](http://sor-next.tk/) - General tracker
@@ -423,7 +432,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 
 
-### ► **Private torrent trackers**
+### ► **Private Torrent Trackers**
 
 [Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 

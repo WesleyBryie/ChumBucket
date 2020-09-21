@@ -67,11 +67,13 @@
 
 
 
-## ► Private Trackers
+## ► Private Torrent Trackers
 
 [Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
 * **[Semi-Private]** [en.metal-tracker.com](https://en.metal-tracker.com/) - A very nice tracker for metal music.
+
+* [jpopsuki.eu](https://jpopsuki.eu/) - Music tracker for various types of music such as Japenese, Korean, Chinese, Thai, etc
 
 * [Redacted.ch (RED)](https://redacted.ch/) [FLAC /mp3] - Best music private tracker. One of the harder trackers to maintain ratio on. 
 

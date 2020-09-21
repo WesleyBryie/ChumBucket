@@ -78,6 +78,10 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 
 * [Steam Underground - cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=10) - Dedicated game piracy forum. Check [their FAQ](https://cs.rin.ru/forum/viewtopic.php?f=10&t=98158) to get the best usage out of the site. Best parts are the discussion and the different types of tools especially the multiplayer ones. Game links aren't always provided (especially for scene releases; they recommend some external sites in their FAQ) but when they are, they are on free file hosting services like zippyshare so that's another plus. Also includes early access games.
 
+* [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - Game trainers, cheats, and standalone cracks for games
+
+* [myabandonware.com](https://www.myabandonware.com/) - Old/retro/"abandoned" games
+
 * [scenegames.to](https://scenegames.to/) - Scene game downloads
 
 * [ovagames.com](http://www.ovagames.com/) - Scene game downloads
@@ -93,10 +97,6 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 * [gog-games.com](https://gog-games.com/) - Untouched GOG games. No cracks needed
 
 * [steamunlocked.net](https://steamunlocked.net/) - Pre-installed games (not repacks). Save this one for last. The ads on this site are especially bad, though the downloadable content is safe
-
-* [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - Game trainers, cheats, and standalone cracks for games
-
-* [myabandonware.com](https://www.myabandonware.com/) - Old/retro/"abandoned" games
 
 * **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free file hosts
 
@@ -150,7 +150,7 @@ Emulators allow you to play console games on the PC. You can find resources for 
 
 * [yuzu](http://yuzu-emu.org/) - Switch emulator
 
-* [ryujinx.org](https://ryujinx.org/) - Switch emulator
+* [ryujinx](https://ryujinx.org/) - Switch emulator
 
 * [Xenia](https://github.com/xenia-project/xenia) - Xbox 360 emulator
 
