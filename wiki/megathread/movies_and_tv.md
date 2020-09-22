@@ -241,24 +241,44 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 ### ► Sports
 
-* [xtremewrestlingtorrents.net](http://xtremewrestlingtorrents.net/) - Semi-private tracker
-* /r/mmafights - MMA live streams. Links posted within the hour of the match
-* /r/rugbystreams - Links posted within the hour of the match
-* /r/MLBStreams - Links posted within the hour of the match
-* [liveonscore.tv](http://liveonscore.tv/) - Live streams. Soccer, MMA, motor sports, baseball, basketball, football, hockey
-* [sportsurge.net](https://sportsurge.net/) - Live streams. MMA, boxing, motor sports, basketball, football, hockey
-* [worldcupfootball.me](http://www.worldcupfootball.me/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF, NCAAM
+* [rutracker.org > Sports](https://rutracker.org/forum/index.php?c=28) - Torrents. Sports subforum at rutracker
+* [sport-video.org.ua](https://www.sport-video.org.ua/) - Torrent soccer, motorsports, baseball, basketball, football, hockey, rugby, other
 * [footybite.com](http://footybite.com/) - Highlights and live streams. Soccer
-* [nflbite.com](https://home.nflbite.com/) - Live streams. Football
-* [nbabite.com](https://nbabite.com/) - Live streams. Basketball
+* [highlightstore.me](https://www.highlightstore.me/) - Replays. Soccer, wrestling, motorsports, basketball, baseball, football, hockey
+* [nbafullhd.com](https://www.nbafullhd.com/) - Replays. Basketball, football, F1
+* /r/mmafights - Live streams. Links posted within the hour of the match
+* /r/rugbystreams - Live streams. Links posted within the hour of the match
+* /r/MLBStreams - Live streams. Links posted within the hour of the match
+* [liveonscore.tv](http://liveonscore.tv/) - Live streams. Soccer, MMA, motorsports, baseball, basketball, football, hockey
+* [sportsurge.net](https://sportsurge.net/) - Live streams. MMA, boxing, motorsports, basketball, football, hockey
+* [sporthd.live](https://sporthd.live/) - Soccer, MMA, handball, basketball, rugby, football, tennis and others
+* [worldcupfootball.me](http://www.worldcupfootball.me/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF, NCAAM
 * [6stream.xyz](http://6stream.xyz/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF
 * [bilasport.net](http://bilasport.net/index.html) - Live streams. Soccer, MMA, baseball, basketball, football, hockey
 * [720pstream.me](http://www.720pstream.me/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF, NCAAM
-* [ripple.is](http://ripple.is/) - Live streams. Soccer, MMA, boxing, basketball, football, F1
-* [highlightstore.me](https://www.highlightstore.me/) - Replays. Soccer, wrestling, motor sports, basketball, baseball, football, hockey
-* [nbafullhd.com](https://www.nbafullhd.com/) - Replays. Basketball, football, F1
+* [ripple.is](http://ripple.is/) - Live streams. Soccer, MMA, boxing, motorsports, basketball, football
+* [nflbite.com](https://home.nflbite.com/) - Live streams. Football
+* [nbabite.com](https://nbabite.com/) - Live streams. Basketball
 
 &nbsp;
+
+
+
+
+
+
+
+### ► Sports Private Torrent Trackers
+
+* [720pier.ru](https://720pier.ru/) - Semi-private torrent tracker. Main strengths are basketball, American football, and hockey content
+* [xtremewrestlingtorrents.net](http://xtremewrestlingtorrents.net/) - Semi-private torrent tracker
+* [~~sportscult.org~~](https://www.sportscult.org/) - Boxing, basketball, football, tennis, hockey, etc
+* [t3nnis.tv](http://t3nnis.tv/) - Tennis tracker
+* [racingfor.me](https://www.racingfor.me/) - Motorsports tracker
+* [racing4everyone.eu](https://racing4everyone.eu/) - Motorsports tracker
+
+&nbsp;
+
 
 
 
