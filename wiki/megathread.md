@@ -5,6 +5,10 @@
 ---
 ---
 
+
+# MEGATHREAD
+
+
 &nbsp;
 
 Alternative megathread [here](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) (original [reddit thread](https://old.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/)) or at /r/FREEMEDIAHECKYEAH (more than just piracy).
@@ -14,6 +18,9 @@ If you have any critique or suggestions you would like to see added to the Megat
 
 ---
 &nbsp;
+
+
+
 
 *Make sure your adblocker is on before visiting any of the linked websites*. uBlock Origin is recommended (See page below, Privacy and Security).
 

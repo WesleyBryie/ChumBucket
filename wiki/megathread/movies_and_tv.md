@@ -72,7 +72,6 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [1337x.to](https://1337x.to/) - Many public p2p releases/encodes are released here, including Tigole/UTR/YIFY. Cams are typically uploaded here as well.
 * [uniteam.co / UTR](https://uniteam.co/) - Decent-sized x265 encodes, with movie extras included.
 * [psarips.com](http://psarips.com/) - Small-sized x265 (re-)encodes
-* **[TV]** [eztv.io](https://eztv.io/)
 * **[Movies-only]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
 * **[Documentaries]** [forums.mvgroup.org](https://forums.mvgroup.org/index.php) - Very good documentaries tracker. Registration required.
 * **[Anime]** [Nyaa.si](https://nyaa.si/)

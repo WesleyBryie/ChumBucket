@@ -29,7 +29,6 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 &nbsp;
 
 
-### Usage instructions
 
 
 
@@ -50,7 +49,7 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 ## ► **Adblockers & Bypassers**
 
 * [uBlock origin](https://github.com/gorhill/uBlock#installation) - for blocking most ads and pop-ups.
-* [Nano Defender](https://jspenguin2017.github.io/uBlockProtector) - [Read this](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin) for uBlock Origin integration. Some websites will block your access if you have an adblocker running. This browser extension is your anti-anti-adblocker. It blocks the blocking of adblockers.
+* [Nano Defender](https://jspenguin2017.github.io/uBlockProtector) - For uBlock Origin integration, [read this](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin). Some websites will block your access if you have an adblocker running. This browser extension is your anti-anti-adblocker. It blocks the blocking of adblockers.
 * [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
 * [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
 * [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - lightweight executable that blocks and mutes Spotify ads on Windows.
@@ -70,10 +69,10 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 
 ## ► **Useful Userscripts**
 
-* [Violentmonkey](https://violentmonkey.github.io/) - Open source userscript manager. Required to install any of the below userscripts
-* [greasyfork.org](https://greasyfork.org/) - Repo for countless useful userscripts
-* [userscripts-mirror.org](https://userscripts-mirror.org/) - Alternative scripts repo. Mirror for Userscripts.org
-* [openuserjs.org](https://openuserjs.org/) - Alternative scripts repo
+* [**Violentmonkey**](https://violentmonkey.github.io/) - Open source userscript manager. Required to install any of the below userscripts
+* [**greasyfork.org**](https://greasyfork.org/) - Repo for countless useful userscripts
+* [**userscripts-mirror.org**](https://userscripts-mirror.org/) - Alternative scripts repo. Mirror for Userscripts.org
+* [**openuserjs.org**](https://openuserjs.org/) - Alternative scripts repo
 * [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adds button next to shortened URLs which resolves the URL to its true location
 * [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Allows you to properly select/highlight links instead of the default dragging behavior
 * [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adds a sci-hub button to countless academic/scholarly article websites to unlock the article being viewed.
@@ -97,8 +96,11 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 
 ## ► Pirate Site Proxies / Unblockers
 
+* [torrents.io > proxies](https://torrents.io/proxy/) - List of known proxies offered by several popular pirate sites
+* [knaben.info](https://knaben.info/) - List of known proxies offered by several popular pirate sites
 * [root.yt](https://root.yt/)
 * [unblocked-pw.github.io](https://unblocked-pw.github.io/)
+* [unblockall.org](https://unblockall.org/)
 
 &nbsp;
 
@@ -294,8 +296,8 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 ## ► Miscellaneous
 
 * [Squawkr.io](https://www.squawkr.io/) - Get notified when a movie releases. You can also set parameters such as resolution
-* [subscene.com](https://subscene.com/) - multinlingual subtitles for movies/series
-* [addic7ed.com](http://www.addic7ed.com/) - multinlingual subtitles for movies/series
+* [subscene.com](https://subscene.com/) - Multilingual subtitles for movies/series
+* [addic7ed.com](http://www.addic7ed.com/) - Multilingual subtitles for movies/series
 
 &nbsp;
 
