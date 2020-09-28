@@ -9,7 +9,7 @@
 
 **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
-❗ Scene groups (such as CODEX, CPY, SKIDROW, RELOADED, HOODLUM, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use). [What is "The Scene"](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)?
+❗ Scene groups (such as CODEX, CPY, SKIDROW, RELOADED, HOODLUM, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they will tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use). [What is "The Scene"](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)?
 
 &nbsp;
 
@@ -37,6 +37,18 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 * [XTREME download manager](https://subhra74.github.io/xdm/) - Another very nice download manager
 * [pyLoad](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
 * [aria2](https://aria2.github.io/) - Commandline-based download utility.
+
+**Steam Tools**
+
+* [**Steam Content Packager**](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Tool for cleaning steam files. Packages your Steam game files whilst removing identifying information for the purpose of sharing them to cs.rin.ru's [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) subforum
+* [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Steam Emulator. Crack your own Steam games or the clean Steam files shared on cs.rin.ru's [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) subforum
+* [Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Steam Emulator. Crack your own Steam game or the clean Steam files shared on cs.rin.ru's [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) subforum
+* [GreenLuma 2020](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Emulator
+* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Unlock all DLCs on legit Steam games
+* [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Automatically install and set up CreamAPI for Steam games
+* [Steamless](https://github.com/atom0s/Steamless) - Removes SteamStub DRM from Steam game executables if they contain it. To be used in conjunction with a Steam emulator if the emulator alone is not enough to crack the game
+
+More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.php?f=29)
 
 &nbsp;
 
@@ -80,7 +92,7 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 
 * [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - Game trainers, cheats, and standalone cracks for games
 
-* [myabandonware.com](https://www.myabandonware.com/) - Old/retro/"abandoned" games
+* [myabandonware.com](https://www.myabandonware.com/) - Old / retro / "abandoned" games
 
 * [scenegames.to](https://scenegames.to/) - Scene game downloads
 
@@ -134,7 +146,7 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 
 
 
-## ► Emulators
+## ► Console Emulators
 
 Emulators allow you to play console games on the PC. You can find resources for ROMs (copies of the games) in the next section below. Check the [Emulation Gametechwiki for an expanded list of emulators.](https://emulation.gametechwiki.com/index.php/Main_Page)
 
@@ -143,6 +155,8 @@ Emulators allow you to play console games on the PC. You can find resources for 
 * [mGBA](https://mgba.io/) - Game Boy Advance emulator
 
 * [Dolphin](https://github.com/dolphin-emu/dolphin) - GameCube & Wii emulator
+
+* [DeSmuME](https://desmume.org/) - Nintendo DS emulator
 
 * [Citra](http://citra-emu.org/) - 3DS emulator
 
@@ -153,6 +167,8 @@ Emulators allow you to play console games on the PC. You can find resources for 
 * [ryujinx](https://ryujinx.org/) - Switch emulator
 
 * [Xenia](https://github.com/xenia-project/xenia) - Xbox 360 emulator
+
+* [PPSSPP](https://www.ppsspp.org/) - PSP Portable emulator
 
 * [PCSX2](https://pcsx2.net/) - PS2 emulator
 
@@ -172,37 +188,38 @@ Emulators allow you to play console games on the PC. You can find resources for 
 
 Visit [emulation.gametechwiki.com](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) for extra resources for ROMs
 
-Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits) to view Console oriented subs
+Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits) to view Console oriented subs and ROM-sharing subs
 
-* /r/Roms 
+* /r/Roms - Has a ROMs megathread and allows requests for specific game titles
 
-* [ByAlvro's ROM collection](https://old.reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/)
+* [ByAlvro's ROM collection](https://old.reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/) - Super large archive of ROMs
 
-* [the-eye.eu](http://the-eye.eu/public/rom/) - Large collection of multi-platform console roms
+* [the-eye.eu](http://the-eye.eu/public/rom/) - Large ROM collection for a large list of different platforms
 
-* [Vimm's Lair](https://vimm.net/?p=vault)
+* [Vimm's Lair](https://vimm.net/?p=vault) - Large ROM collection for a large list of different platforms
 
-* [emulator.games](https://emulator.games/) - Large collection of ROMs
+* [emulator.games](https://emulator.games/) - Large ROM collection for a large list of different platforms
 
-* [emuparadise.me](https://www.emuparadise.me) - Incredibly large ROM library. Use [this script](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) to reinstate the download links
+* [emuparadise.me](https://www.emuparadise.me) - Large ROM collection for a large list of different platforms. Use [this script](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) to reinstate the download links
 
-* [romulation.net](https://www.romulation.net/)
+* [romulation.net](https://www.romulation.net/) - Large ROM collection for a large list of different platforms
 
-* [romnation.net](https://www.romnation.net/)
+* [romnation.net](https://www.romnation.net/) - Large ROM collection for a large list of different platforms
 
-* [romsmania.cc](https://romsmania.cc/)
+* [romsmania.cc](https://romsmania.cc/) - Large ROM collection for a large list of different platforms
 
-* [pleasuredome.org.uk](http://www.pleasuredome.org.uk/)
+* [pleasuredome.org.uk](http://www.pleasuredome.org.uk/) - Large ROM collection for a large list of different platforms
 
-* [DarkUmbra](https://darkumbra.net)
+* [gamesmega.net](https://gamesmega.net/) - PS Vita, PS4, Switch, 3DS, PSP, 
 
-* [ziperto.com](https://www.ziperto.com/)
-
+* [ziperto.com](https://www.ziperto.com/) - PS2, PSP, PS VITA, 3DS, Switch, GBA, GAMECUBE, NDS, N64, SNES, WII, WII U
 * [CDRomance](https://cdromance.com) - Formally NicoBlog
 
-* [romstorage.com](https://www.romstorage.com/)
+* [romstorage.com](https://www.romstorage.com/) - PS Vita, 3DS, Switch, Gameboy, Gameboy Colors, Nintendo 64, NES, SNES, etc
 
-* [digiex.net/forums](https://digiex.net/forums/) - Discussion forum. Has a ROMs subsection
+* [ps3iso.net](http://www.ps3iso.net/) - PS3 ROMs
+
+* [gload.cc](https://gload.cc/) - PS4, PS3, Xbox 360, Wii
 
 &nbsp;
 
@@ -250,7 +267,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 ❗ Untrusted sites, release groups & repackers
 
-* **The Pirate Bay** - Do not use TPB or any of its mirrors to download games/software. High malware risk, [even from skulled users](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
+* **The Pirate Bay / TPB** - Do not use the pirate bay or any of its mirrors to download games/software. High malware risk, [even from skulled users](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
 * **Kickass Torrents / KAT** - Kat went down in 2016. Don't rely on any supposed mirrors floating around.
 
@@ -269,6 +286,8 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 * Any site you find on Google by searching for "free game downloads", "cracked games", etc. Google de-lists piracy websites from its search results, which means that fake / imposter / malware-spreading sites will float to the top of the search results.
 
 * Any aggregator site like snowfl or DHT crawler like btdb, btdig, etc. Not because the sites intend to infect you with malware, but because their intent is to aggregate as many publicly available torrents as possible into one place. This can include torrents that have been posted to TPB or otherwise spread publicly via the DHT network. You should only grab games from sites that take a personal hand in adding content (excludes sites that auto-post scene releases, in which case they would need to be vetted to make sure that their posts are real scene releases) rather than automatically aggregating from hundreds of unknown sites.
+
+* **igg-games.com / pcgamestorrents.com / gamestorrent.co** - These are not recommended on this subreddit as trusted sites for various reasons, but inclusion of malware is not one of them, so you don't need to nuke your PC into orbit (unless you downloaded from an impostor site). With that said, igg games is not recommended mainly due to their history of terrible practices, such as including their own [form of DRM into their .dll files](https://reddit.com/r/Piracy/comments/c7356i/igg_infecting_their_downloads_with_their_selfmade/) (some [more info](https://reddit.com/r/Piracy/comments/gv6zmu/why_igg_games_seems_hated/)), and terrible [behavior by the owner/admins](https://reddit.com/r/Piracy/comments/apcvx4/here_we_go_again_igg_this_time_im_not_reporting/).
 
 &nbsp;
 

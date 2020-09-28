@@ -156,7 +156,7 @@ Links and requests
 
 ### ► Console Hacking oriented subreddits
 
-The following subreddits are centered around altering/hacking the respective consoles, and though these methods typically pave the way for piracy to become possible, these subreddits are **not centered around the discussion of piracy or piracy methods**. Read their rules for clarification.
+The following subreddits are centered around altering/hacking the respective consoles, and though some methods may pave the way for piracy to become possible, these subreddits are **not centered around the discussion of piracy or piracy methods**. Read their rules for clarification.
 
 * /r/PS3hacks 
 
@@ -183,6 +183,8 @@ The following subreddits are centered around altering/hacking the respective con
 * /r/WiiUHacks
 
 * /r/xb1hacks 
+
+* /r/emulation - General emulation discussion
 
 * /r/DolphinEmulator - "Dolphin is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii"
 

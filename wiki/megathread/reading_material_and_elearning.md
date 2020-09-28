@@ -15,7 +15,7 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
 &nbsp;
 
-### ► **Books**
+## ► **Books**
 
 * [archive.org/details/texts](https://archive.org/details/texts) - The Internet Archive's immense archive of ebooks.
 
@@ -46,7 +46,7 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
 
 
-### ► Guides and Custom Search Engines (CSEs)
+## ► Guides and Custom Search Engines (CSEs)
 
 Guides and Search Engines dedicated to help you increase your reach in finding content
 
@@ -74,7 +74,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 
 
-### ► Book IRCs
+## ► Book IRCs
 
 * irc://irc.undernet.org/bookz - Read http://encyclopediadramatica.ch/Bookz for an overview on how to download books
 
@@ -88,7 +88,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 
 
-### ► **Academic / Educational**
+## ► **Academic / Educational**
 
 * [libgen.rs](http://libgen.rs/) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums
 
@@ -110,7 +110,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 
 
-### ► **Audiobooks**
+## ► **Audiobooks**
 
 * [audiobookbay.nl](http://audiobookbay.nl/) - #1 public tracker for audiobooks. Shares a lot of content with MAM. When viewing the page for a particular audiobook, copy the torrent info hash to paste into your torrent client using the following format: magnet:?xt=urn:btih:`infohash`
 
@@ -129,7 +129,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 
 
-### ► **Courses/Tutorials**
+## ► **Courses/Tutorials**
 
 See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
 
@@ -158,7 +158,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
-### ► **Magazines**
+## ► **Magazines**
 
 * [Web Archive's Magazine Rack](https://archive.org/details/magazine_rack)
 
@@ -187,7 +187,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
-### ► **Comics**
+## ► **Comics**
 
 * [libgen.rs](http://libgen.rs/) - Mirror ([libgen.pw](https://libgen.pw/))
 
@@ -210,9 +210,25 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
-### ► **Manga**
+## ► Misc
 
-* [MangaPlus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) [Official legal site] - Provides initial chapters of popular manga titles for free.
+* [pindiy.com](https://www.pindiy.com/) - Sewing patterns
+
+* [eeff.net](http://www.eeff.net/forum.php?gid=298) - Sewing patterns
+
+&nbsp;
+
+
+
+
+
+
+
+## ► **Manga**
+
+* [**/r/animepiracy's exhaustive wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Manga/ranges/A1:H1)
+
+* [MangaPlus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) - Official legal site. Provides initial chapters of popular manga titles for free
 
 * [nyaa.si](https://nyaa.si/)
 
@@ -230,8 +246,6 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [cmreader.info](http://www.cmreader.info/)
 
-* [**/r/animepiracy's exhaustive wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Manga/ranges/A1:H1)
-
 &nbsp;
 
 
@@ -239,7 +253,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
-### ► French Content Sites
+## ► French Content Sites
 
 * [french-bookys.org](https://french-bookys.org/) - DDL French books
 
@@ -270,7 +284,21 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
-### ► **Private torrent trackers**
+## ► Spanish Content Sites
+
+* [epublibre.org](https://www.epublibre.org/) - Books
+* [ebookelo.com](https://www.ebookelo.com/) - Books
+* [lectulandia.co](https://www.lectulandia.co/) - Books
+
+&nbsp;
+
+
+
+
+
+
+
+## ► **Private torrent trackers**
 
 [Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
