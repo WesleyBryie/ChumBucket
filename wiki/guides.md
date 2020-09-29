@@ -7,19 +7,31 @@
 
 # GUIDES
 
-|Link | User | Date Published | Last Updated
-|-------|-------|-------|-------|
-[Protecting yourself when downloading pirated content - Guide concerning copyright infringement complaints](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints) | - | - | -
-[How to install and activate Windows 10  - Includes LTSB/LTSC](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation) | - | Nov 20, 2019 | -
-[How to get started with private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers) | - | - | -
-[Getting started with usenet - /r/usenet wiki](https://www.reddit.com/r/usenet/wiki/index) | - | - | -
-[Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases) | - | - | -
-[4K HDR Movies: A pirate's Guide](https://www.reddit.com/r/Piracy/comments/hvcozj/4k_hdr_movies_a_pirates_guide/) | u/lasttycoon | Jul 21, 2020 | Jul 21, 2020
-[A python script to bypass the download limit of google drive files (w executable&source code)](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/) | u/jonathanTIE | Jan 1, 2020 | Jan 3, 2020
-[Kodi 18.6 + IAGL + RetroArch = Emulation Heaven](https://www.reddit.com/r/Piracy/comments/g4gb8t/kodi_186_iagl_retroarch_emulation_heaven/) | u/TechDoctorUK | Apr 19, 2020 | -
-[Guide on searching for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - from /r/opendirectories  | u/ElectroXexual | Jul 30, 2018 | -
-[How to get paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) | u/Bebhio | Jun 25, 2018 | Jun 28, 2018
-[Unlimited free Sirius XM for your car](https://www.reddit.com/r/Piracy/comments/c9bsz7/unlimited_free_sirius_xm_for_your_car/) | u/Itswillyferret | Jul 05, 2019| -
+### ► General
+
+* [Protecting yourself when downloading pirated content - Guide concerning copyright infringement complaints](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
+
+* [How to install and activate Windows 10  - Includes LTSB/LTSC](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
+
+* [How to get started with private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+
+* [Getting started with usenet - /r/usenet wiki](https://www.reddit.com/r/usenet/wiki/index)
+
+* [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)
+
+* [4K HDR Movies: A pirate's Guide](https://www.reddit.com/r/Piracy/comments/hvcozj/4k_hdr_movies_a_pirates_guide/) - Guide by u/lasttycoon
+
+* [A python script to bypass the download limit of google drive files (w executable&source code)](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/) - Guide by u/jonathanTIE
+
+* [Kodi 18.6 + IAGL + RetroArch = Emulation Heaven](https://www.reddit.com/r/Piracy/comments/g4gb8t/kodi_186_iagl_retroarch_emulation_heaven/) - Guide by u/TechDoctorUK 
+
+* [Guide on searching for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - from /r/opendirectories  - Guide by u/ElectroXexual
+
+* [How to get paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Guide by u/Bebhio
+
+* [Unlimited free Sirius XM for your car](https://www.reddit.com/r/Piracy/comments/c9bsz7/unlimited_free_sirius_xm_for_your_car/) - Guide by u/Itswillyferret
+
+* [Play pirated games on Linux with Lutris](https://old.reddit.com/r/Piracy/comments/dir3do/pirate_games_working_under_linux_here_is_how_to/) - Guide by u/consentio
 
 &nbsp;
 
@@ -28,15 +40,19 @@
 
 ### ► ebooks/textbooks
 
-|Link | User | Date Published | Last Updated
-|-------|-------|-------|-------|
-[Guide to Copy Kindle Content to PDF using Calibre [**UPDATED**]](https://reddit.com/r/Piracy/comments/9bz51f/guide_to_copy_kindle_content_to_pdf_using_calibre/) | u/Jonny511 | Aug 31, 2018 | Oct 24, 2018 |
-[Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/5n7xs5/guide_to_copy_kindle_content_to_pdf_using_calibre/) | u/Jonny511 | Jan 10, 2017|Aug 3, 2018
-[Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) | u/Amosqu | Aug 25, 2015|Jan 30, 2016
-[The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)|u/Servalpur|Dec 6, 2014|-
-[How to "rent" your textbooks for free from Amazon...](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/)|u/Daveid|Sep 24, 2015|Jan 28, 2016
-[Download eBooks on AvaxHome for free](https://www.reddit.com/r/Piracy/comments/d0rfpe/download_ebooks_on_avaxhome_for_free/)|u/tinonreddit|Sep 7, 2019|-
-[Method to Extract Epub from Pearson eText](https://www.reddit.com/r/Piracy/comments/d3g7rw/method_to_extract_epub_from_pearson_etext/)|u/ph__throwaway|Sep 13, 2019|-
+* [Guide to Copy Kindle Content to PDF using Calibre [**UPDATED**]](https://reddit.com/r/Piracy/comments/9bz51f/guide_to_copy_kindle_content_to_pdf_using_calibre/)) - Guide by u/Jonny511
+
+* [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/5n7xs5/guide_to_copy_kindle_content_to_pdf_using_calibre/) - Guide by u/Jonny511
+
+* [Guide for Finding Textbooks](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) - Guide by u/Amosqu
+
+* [The idiot proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Guide by u/Servalpur
+
+* [How to "rent" your textbooks for free from Amazon](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) - Guide by u/Daveid
+
+* [Download eBooks on AvaxHome for free](https://www.reddit.com/r/Piracy/comments/d0rfpe/download_ebooks_on_avaxhome_for_free/) - Guide by u/tinonreddit
+
+* [Method to Extract Epub from Pearson eText](https://www.reddit.com/r/Piracy/comments/d3g7rw/method_to_extract_epub_from_pearson_etext/) - Guide by u/ph__throwaway
 
 &nbsp;
 

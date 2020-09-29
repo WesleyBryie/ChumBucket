@@ -240,14 +240,20 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 ### ► Sports
 
+* /r/rugbystreams - Live streams. Links posted within the hour of the match
+* /r/MLBStreams - Live streams. Links posted within the hour of the match
+* /r/ncaaBBallStreams - Live streams. Links posted within the hour of the match
+* /r/WWEstreams - Live streams. Links posted within the hour of the match
+* /r/mmafights - Live streams. Links posted within the hour of the match
+* /r/motorsportsstreams - Live streams. Links posted within the hour of the match
+
+&nbsp;
+
 * [rutracker.org > Sports](https://rutracker.org/forum/index.php?c=28) - Torrents. Sports subforum at rutracker
 * [sport-video.org.ua](https://www.sport-video.org.ua/) - Torrent soccer, motorsports, baseball, basketball, football, hockey, rugby, other
 * [footybite.com](http://footybite.com/) - Highlights and live streams. Soccer
 * [highlightstore.me](https://www.highlightstore.me/) - Replays. Soccer, wrestling, motorsports, basketball, baseball, football, hockey
 * [nbafullhd.com](https://www.nbafullhd.com/) - Replays. Basketball, football, F1
-* /r/mmafights - Live streams. Links posted within the hour of the match
-* /r/rugbystreams - Live streams. Links posted within the hour of the match
-* /r/MLBStreams - Live streams. Links posted within the hour of the match
 * [liveonscore.tv](http://liveonscore.tv/) - Live streams. Soccer, MMA, motorsports, baseball, basketball, football, hockey
 * [sportsurge.net](https://sportsurge.net/) - Live streams. MMA, boxing, motorsports, basketball, football, hockey
 * [sporthd.live](https://sporthd.live/) - Soccer, MMA, handball, basketball, rugby, football, tennis and others
@@ -286,11 +292,13 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 ### ► Subtitle Download Sites
 
-* [opensubtitles.org](https://www.opensubtitles.org/)
-* [subscene.com](https://subscene.com/)
-* [addic7ed.com](https://www.addic7ed.com/)
-* [legendas.tv](http://legendas.tv/)
-* [podnapisi.net](https://www.podnapisi.net/)
+* [opensubtitles.org](https://www.opensubtitles.org/) - Movies & TV. multi-language subtitles
+* [subscene.com](https://subscene.com/) - Movies & TV multi-language subtitles
+* [addic7ed.com](https://www.addic7ed.com/) - TV multi-language subtitles
+* [legendas.tv](http://legendas.tv/) - Movies & TV multi-language subtitles
+* [podnapisi.net](https://www.podnapisi.net/) - Movies & TV multi-language subtitles
+* [subtitles.hr](https://www.subtitles.hr/) - Movies & TV multi-language subtitles
+* [kitsunekko.net](https://www.kitsunekko.net/) - Anime multi-language subtitles
 
 &nbsp;
 

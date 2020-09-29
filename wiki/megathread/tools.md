@@ -134,8 +134,10 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [Webtorrent](https://webtorrent.io/desktop/) - Torrent-streaming client
 * [Transmission](https://transmissionbt.com/about/) - Simple and lightweight open-source torrent client.
 * [qBittorrent](https://www.qbittorrent.org/download.php) - Open-source torrent client. Has a built-in search feature that searches popular public trackers. Consistently updated.
+* [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork of qBittorrent intended for blocking leeching clients such as Xunlei.
 * [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Open-source torrent client.
 * [Tixati](https://www.tixati.com/download/) - Extremely customizable. All menus can be rearranged and color scheme can be changed completely.
+* [BiglyBT](https://www.biglybt.com/) - Feature filled, open source, ad-free, bittorrent client. A continuation of the popular client previously known as Vuze.
 * [kTorrent](https://kde.org/applications/en/internet/org.kde.ktorrent) - Torrent client for linux
 * [rTorrent](https://github.com/rakshasa/rtorrent) - Torrent client daemon for linux
 * [ruTorrent for rTorrent](https://github.com/Novik/ruTorrent) - Web management UI for rtorrent

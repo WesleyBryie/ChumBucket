@@ -18,11 +18,11 @@ It all depends on the bitrate of the video, which is an indication of average am
 
 ## ► On Bitrate and Codecs
 
-#### ► **Containers and codecs**
-
 Just a note before we go into codecs: a ‘container’ is the name for the small wrapper that contains video data and codec data. It can be identified by its file extension. MP4, MKV, AVI, FLV, and WEBM are examples.
 
 Extra note: An MKV can hold any kind of video, audio, and subtitles, including all the ones listed below.
+
+&nbsp;
 
 **Codecs:**
 
@@ -34,19 +34,18 @@ Some codecs are better than others in the sense that they can get more quality u
 
 Here is a small list of popular codecs:
 
-#####**Xvid**
+**Xvid**
 
 Xvid isn’t actually a codec, it’s a program that encodes videos. The name for the codec it uses is MPEG-4 ASP, but that never stuck. Quality-wise, it was OK for it’s time (2001!), but doesn’t hold a candle to modern codecs. Usually contained in AVI containers.
 
-#####**H.264**
+**H.264**
 
 Also called MPEG-4 AVC, this codec is used everywhere, basically. Usually contained in MP4, if not MKV.
-
-#####**VP9**
+**VP9**
 
 Developed by Google and used in YouTube and WEBM, this codec usually beats out H.264 by a small margin. Since no media standard uses it (Blu-Rays use H.264 or H.265), you won’t see this one very often. Usually contained in WEBM
 
-#####**H.265**
+**H.265**
 
 Also called HEVC. It is the successor to H264 and it aims to reduce filesizes by up to 50% compared to H264, though this number is not a blanket figure to be applied to every single scenario. H265 is more effective at higher resolutions, so the 50% figure might be applicable to 4K, though the savings can still be considerable at 1080p and 720p. Many people choose to download small-sized H265 content that would otherwise be too blurry on H264. Though H264 still reigns supreme at higher bitrates, as x265 (the encoding tool used to create H265 video) is still not as mature as x264, which is why many quality-oriented private trackers still maintain a higher focus on x264-encoded content. Some 1080p Blu-Rays and all 4K Blu-Rays use this one.
 
@@ -58,7 +57,7 @@ Usually contained in MP4, if not MKV.
 
 
 
-#### ► **Resolution**
+## ► **Resolution**
 
 Resolution refers to the number of pixels in an image or a single frame of a video file. It is usually expressed in the form WxH, where W is the width of the frame and H is the height. Most televisions are ‘Full HD’, which means 1920x1080. ‘UHD’, on the other hand, is twice the width and height to make 3840x2160. Most individuals and companies call this specific resolution ‘4K’.
 
@@ -79,7 +78,7 @@ For a more visual description, consider the image comparisons linked below.
 Video runtime: 2 hr 50 min.
 
 
-[Image 1](https://i.ibb.co/SwzV8NX/bomi-snapshot-2020-01-08-00-55-05.png) (AVC / **1080p** / 24.2 Mbps / 31 GiB).
+[Image 1](https://i.ibb.co/SwzV8NX/bomi-snapshot-2020-01-08-00-55-05.png) (AVC / **1080p** / 24.2 Mbps / 31 GiB). Cropped [Image.](https://files.catbox.moe/dywl65.png)
 
 [Image 2](https://i.ibb.co/8YC5fXq/bomi-snapshot-2019-12-25-20-08-04.png) (x264 / **1080p** / 10.7 Mbps / 15 GiB).
 

@@ -94,15 +94,15 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [myabandonware.com](https://www.myabandonware.com/) - Old / retro / "abandoned" games
 
-* [scenegames.to](https://scenegames.to/) - Scene game downloads
+* [scenegames.to](https://scenegames.to/) - Scene releases
 
-* [ovagames.com](http://www.ovagames.com/) - Scene game downloads
+* [ovagames.com](http://www.ovagames.com/) - Scene releases
 
-* [gload.cc](https://gload.cc/) - German site. Reposts ElAmigos repacks (multi-language repacks) and Scene releases.
+* [gload.cc](https://gload.cc/) - Scene releases. German site. Reposts ElAmigos repacks (multi-language repacks) and 
 
-* [rlsbb.ru > PC Games](https://rlsbb.ru/category/games/pc/) - Scene game releases
+* [rlsbb.ru > PC Games](https://rlsbb.ru/category/games/pc/) - Scene releases
 
-* [scnlog.me](https://scnlog.me/) - Scene game releases
+* [scnlog.me](https://scnlog.me/) - Scene releases
 
 * [forum.torrminatorr.com](https://forum.torrminatorr.com/) - GOG, scene, P2P, repacked games, and GNU/Linux games
 
@@ -131,7 +131,7 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 &nbsp;
 
 
-* **[Mac]** [rlsbb.ru > Mac Games](https://rlsbb.ru/category/games/mac-games/) - Scene game releases
+* **[Mac]** [rlsbb.ru > Mac Games](https://rlsbb.ru/category/games/mac-games/) - Scene releases
 
 * **[Mac]** [nxmac.com](https://nxmac.com/) - Mac games
 
@@ -220,6 +220,8 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 * [ps3iso.net](http://www.ps3iso.net/) - PS3 ROMs
 
 * [gload.cc](https://gload.cc/) - PS4, PS3, Xbox 360, Wii
+
+* [gamestorrents.io](https://www.gamestorrents.io/) - Xbox 360, PS4, PS3, PS2, WII, PSP, NDS
 
 &nbsp;
 

@@ -13,18 +13,16 @@
 
 
 
-### 1. Submissions must be related to the discussion of digital piracy.
- * 1a. Posts on /r/Piracy must be in English. If English isn't your first language, a proper translation is necessary.
- * 1b. Profanity is fine on /r/Piracy. If your post or comment is riddled in excessive profanity, the moderators may deem your submission as low quality and subject to removal.
+### 1. Submissions must be related to the discussion of digital piracy
 
 &nbsp;
 
 
 
 
-### 2. Spam, trading, selling, and blatant self-promotion posts are forbidden.
+### 2. No spam, trading, selling, or blatant self-promotion posts
  * 2a. No begging for invites to private sites, requesting for others to download content for you, requesting activation keys, etc.
- * 2b. No Requesting sites that deal in distributing "cracked" (read: stolen) accounts.
+ * 2b. No dealing "cracked" (read: stolen) accounts or request for sites that do so
  * 2c. Any monetary services are not allowed.
 
 &nbsp;
@@ -42,7 +40,7 @@
 
 
 
-### 4. Redundant questions that have been previously answered will be removed.
+### 4. Redundant questions that have been previously answered will be removed
  * Do a custom search via google, example: `where to find cracked apps site:reddit.com/r/piracy`
 
 &nbsp;
@@ -50,7 +48,7 @@
 
 
 
-### 5. Do not direct-message moderators for help with your issues. Either message the mod team if relevant, or make a post on the sub as normal.
+### 5. Do not direct-message moderators for help with your issues. Either message the mod team if relevant, or make a post on the sub as normal
  * Set the recipient as /r/piracy to message the mod team instead of direct-messaging a particular mod
 
 &nbsp;
