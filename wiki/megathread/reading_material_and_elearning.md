@@ -92,7 +92,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 * [libgen.rs](http://libgen.rs/) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums
 
-* [sci-hub.tw](https://sci-hub.tw/) - Largest collection of research papers
+* [sci-hub.se](https://sci-hub.se/) - Largest collection of research papers
 
 * [booksc.org](https://booksc.org/) - Z-Library's repo for articles
 
@@ -136,6 +136,8 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 * [coursehunter.net](https://coursehunter.net/) - Legal site. Find free tutorials online
 
 * [freetutorialsus.com](https://freetutorialsus.com/) - Udemy, Lynda, Pluralsight courses available. 
+
+* [tutflix.com](https://tutflix.com/) - Udemy and some others
 
 * [desirecourse.net](https://desirecourse.net/) - Download and request premium courses
 

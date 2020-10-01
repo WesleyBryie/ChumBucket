@@ -85,6 +85,39 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 
 
+
+### ► DDL (Direct Download)
+
+Some DDL sites will use premium-only hosts to distribute content. To get around them, jump to [Download Services in the Tools section of the megathread.](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_download_services)
+
+* [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Popular DDL forum. Has a request section.
+* [scnlog.me](https://scnlog.me/) - Scene releases
+* [rlsbb.ru](http://rlsbb.ru) - Scene releases
+* [ddlvalley.me](https://www.ddlvalley.me/)
+* [gdrivedl.xyz](https://gdrivedl.xyz/)
+* [adit-hd.com](http://adit-hd.com/)
+* [megaddl.co](https://megaddl.co/movies)
+* [rmz.cr](http://rmz.cr/)
+* [snahp.it](http://snahp.it/) - Website created by the /r/megalinks mods after it got banned (Password for links is `snahp.it`).
+* [forums.snahp.it](https://forum.snahp.it/) - Private forums. Has a lot more content than the main public site.
+* [2ddl.ms](https://2ddl.ms/)
+* [rarefilmm.com](https://rarefilmm.com/) - Rare movies
+* [crazy4tv.com](http://crazy4tv.com/)
+* [psarips.com](https://psarips.com/) - Small-sized x265 (re-)encodes
+* [x265movies.cc](https://x265movies.cc/) - Small-sized x265 (re-)encodes
+* **[Movies-only]** [moviefiles.org](https://moviefiles.org/) - Latest movies hosted on google drive
+* **[Movies-only]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
+* **[Movies-only]** [x265movies.co](https://x265movies.co/)
+* [**Premium hosts**] [hdencode.com](https://hdencode.com/) - Content downloadable only through premium links/hosts.
+* [**Premium hosts**] [scene-rls.net](http://scene-rls.net/)
+
+&nbsp;
+
+
+
+
+
+
 ### ► **Streaming**
 
 *For streaming with Kodi, visit r/Addons4Kodi*
@@ -197,39 +230,6 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [animerush.tv](https://www.animerush.tv/)
 * [animehd47.com](https://animehd47.com/)
 * [twist.moe](https://twist.moe/)
-
-&nbsp;
-
-
-
-
-
-
-### ► DDL (Direct Download)
-
-Some DDL sites will use premium-only hosts to distribute content. To get around them, jump to [Download Services in the Tools section of the megathread.](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_download_services)
-
-* [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Popular DDL forum. Has a request section.
-* [scnlog.me](https://scnlog.me/) - Pure scene releases
-* [gdrivedl.xyz](https://gdrivedl.xyz/)
-* [megaddl.co](https://megaddl.co/movies)
-* [rmz.cr](http://rmz.cr/)
-* [adit-hd.com](http://adit-hd.com/)
-* [scenep2p.com](https://www.scenep2p.com/)
-* [ddlvalley.me](https://www.ddlvalley.me/)
-* [snahp.it](http://snahp.it/) - Website created by the /r/megalinks mods after it got banned (Password for links is `snahp.it`).
- * [forums.snahp.it](https://forum.snahp.it/) - Private forums. Has a lot more content than the main public site.
-* [rlsbb.ru](http://rlsbb.ru)
-* [onceddl.net](https://onceddl.net/)
-* [rarefilmm.com](https://rarefilmm.com/) - Rare movies
-* [psarips.com](https://psarips.com/) - Small-sized x265 (re-)encodes
-* [crazy4tv.com](http://crazy4tv.com/)
-* [rmz.cr](http://rmz.cr/)
-* **[Movies-only]** [moviefiles.org](https://moviefiles.org/) - Latest movies hosted on google drive
-* **[Movies-only]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
-* **[Movies-only]** [x265movies.co](https://x265movies.co/)
-* [**Premium hosts**] [hdencode.com](https://hdencode.com/) - Content downloadable only through premium links/hosts.
-* [**Premium hosts**] [scene-rls.net](http://scene-rls.net/)
 
 &nbsp;
 

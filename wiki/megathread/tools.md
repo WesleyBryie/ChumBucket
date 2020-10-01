@@ -217,8 +217,6 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 * [Soundcloud downloader](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/) - Firefox extension. Original thread [here](https://addons.mozilla.org/en-US/firefox/addon/soundcloud-dl/). By /u/ImTwain.
 * [Omnibus](https://github.com/fireshaper/Omnibus) - Download from GetComics.info easily
 * [get_iplayer](https://github.com/get-iplayer/get_iplayer) - To download video from BBC's iPlayer
-* [Batch download script for Google Drive](https://github.com/shkcodes/google-drive-downloader) - Bypasses download limit. Original [reddit thread](https://www.reddit.com/r/Piracy/comments/fpe6ji/batch_download_script_for_google_drive/), by /u/cfcfrank1
-* [Batch download script for Google Drive](https://github.com/jonathanTIE/googledrive-copy-downloader) - Bypasses download limit. Original [reddit thread](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/), by /u/jonathanTIE
 
 &nbsp;
 
@@ -250,7 +248,6 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 * [file.pizza](https://file.pizza/) - Secure peer-to-peer file transfers. Useful for quick one-off file transfers. [Github page.](https://github.com/kern/filepizza)
 * [xkcd949.com](http://xkcd949.com/) - Same concept as file.pizza
 * [ShareDrop.io](https://www.sharedrop.io/) - Same concept as file.pizza
-* [send.firefox.com](https://send.firefox.com/) - Send files (up to 1 GiB) via self-destructing links. You can choose the parameters for when the link expires.
 
 &nbsp;
 

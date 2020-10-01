@@ -9,7 +9,7 @@
 
 **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
-❗ Scene groups (such as CODEX, CPY, SKIDROW, RELOADED, HOODLUM, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they will tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use). [What is "The Scene"](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)?
+⚠️ Scene groups (such as CODEX, CPY, SKIDROW, RELOADED, HOODLUM, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they will tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use). [What is "The Scene"](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)?
 
 &nbsp;
 
@@ -150,7 +150,7 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 Emulators allow you to play console games on the PC. You can find resources for ROMs (copies of the games) in the next section below. Check the [Emulation Gametechwiki for an expanded list of emulators.](https://emulation.gametechwiki.com/index.php/Main_Page)
 
-❗ There are currently no existing Xbox One emulators. [Check this wiki page for any future developments.](https://emulation.gametechwiki.com/index.php/Xbox_One_emulators)
+⚠️ There are currently no existing Xbox One emulators. [Check this wiki page for any future developments.](https://emulation.gametechwiki.com/index.php/Xbox_One_emulators)
 
 * [mGBA](https://mgba.io/) - Game Boy Advance emulator
 
@@ -267,7 +267,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 ## ► Do Not Use
 
-❗ Untrusted sites, release groups & repackers
+⚠️ Untrusted sites, release groups & repackers
 
 * **The Pirate Bay / TPB** - Do not use the pirate bay or any of its mirrors to download games/software. High malware risk, [even from skulled users](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
