@@ -350,7 +350,6 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 ### ► Spanish Sites
 
-* [pirateiro.com](http://pirateiro.com/) - Torrent Movies & TV, anime
 * [estrenosflix.org](https://estrenosflix.org/) - Torrent Movies & TV
 * [alt-torrent.com](https://www.alt-torrent.com/) - Torrent Movies & TV
 * [elitetorrent.se](https://www.elitetorrent.se/) - Torrent Movies & TV. Castellano & Latino Esp

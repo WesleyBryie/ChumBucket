@@ -72,7 +72,7 @@
 
 ### ► Downloading from websites
 
-* How do I download audio/video from streaming websites like youtube? (Does not work with Premium Youtube Videos, as these are protected by Widevine DRM. No public tools available to decrypt the streams.)
+* How do I download video/audio from streaming websites? (Excludes Premium Youtube Videos, as these are protected by Widevine DRM. No public tools available to decrypt the streams.)
  > With [Youtube-DL](https://ytdl-org.github.io/youtube-dl/index.html) (open-source command-line tool). Alternatively, you can use [Youtube-DLG.](https://mrs0m30n3.github.io/youtube-dl-gui/), which is a GUI for Youtube-DL
  >
  > [JDownloader2](http://jdownloader.org/jdownloader2) also works well. Also allows you to add your login credentials in order to access premium-only content that your account has access to.

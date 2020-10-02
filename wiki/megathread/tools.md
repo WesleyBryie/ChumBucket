@@ -248,6 +248,7 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 * [file.pizza](https://file.pizza/) - Secure peer-to-peer file transfers. Useful for quick one-off file transfers. [Github page.](https://github.com/kern/filepizza)
 * [xkcd949.com](http://xkcd949.com/) - Same concept as file.pizza
 * [ShareDrop.io](https://www.sharedrop.io/) - Same concept as file.pizza
+* [wetransfer.com](https://wetransfer.com/) - Send self-expiring links up to 2 GiB in size
 
 &nbsp;
 

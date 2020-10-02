@@ -54,15 +54,21 @@
 
 These are sites that index torrents from a predefined list of torrent sites
 
-* [torlock.com](https://www.torlock.com/) - Indexes torrents from various popular sites and lists them into categories
+* [torlock.com](https://www.torlock.com/) - Aggregates torrents from various popular sites and lists them into categories
 
-* [torrentz2.is](https://torrentz2.is/) - Indexes torrents from various torrent sites
+* [torrentz2.is](https://torrentz2.is/) - Torrent aggregator
 
-* [idope.se](https://idope.se/) - Indexes torrents from various torrent sites
+* [zooqle.com](https://zooqle.com/) - Easy to use torrent aggregator
 
-* [snowfl.com](https://snowfl.com/) - Indexes torrents from various torrent sites
+* [idope.se](https://idope.se/) - Torrent aggregator with file category filters
 
-* [zooqle.com](https://zooqle.com/) - Easy to use multi indexer
+* [filelisting.com](https://filelisting.com/) - Torrent aggregator
+
+* [snowfl.com](https://snowfl.com/) - Torrent aggregator
+
+* [knaben.net](https://knaben.net/) - Torrent aggregator with filetype filters
+
+* [veoble.com](http://veoble.com/torrent/) - Displays search results from several torrent sites
 
 * [toorgle.com](http://www.toorgle.com/) - Displays search results from 450+ sites
 
@@ -77,13 +83,13 @@ These are sites that index torrents from a predefined list of torrent sites
 
 These torrent search engines/DHT crawlers are the most powerful torrent search tools that can be used to search within as many publicly listed torrents as possible to find rare content that may not be available in the above trackers/indexers.
 
-* [SolidTorrents.net](https://solidtorrents.net) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/Piracy/comments/bjxlpe/massive_project_update_for_solidtorrents_fake/)
+* [SolidTorrents.net](https://solidtorrents.net) - DHT torrent search engine with file category filters. [Original Thread.](https://www.reddit.com/r/Piracy/comments/bjxlpe/massive_project_update_for_solidtorrents_fake/)
 
-* [btdig.com](https://btdig.com/)
+* [btdig.com](https://btdig.com/) - DHT torrent search engine
 
-* [bt4g.org](https://bt4g.org/)
+* [bt4g.org](https://bt4g.org/) - DHT torrent search engine with file category filters
 
-* [skytorrents.lol](https://www.skytorrents.lol/)
+* [skytorrents.lol](https://www.skytorrents.lol/) - DHT torrent search engine with file category filters
 
 * [btdb.eu](https://btdb.eu/) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/trackers/comments/eaqnr5/btdb_bittorrent_database_looking_for_feedback/)
 

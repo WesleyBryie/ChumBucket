@@ -11,11 +11,19 @@
 
 &nbsp;
 
+
+
+
+
+## ► Software Sites
+
 Try to avoid the pirate bay for software, it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
 * [torrents] [monkrus.ws](http://monkrus.ws/) - Trusted repacker for various highly popular software
 
 * [torrents] [rutracker.org](http://rutracker.org/) [.org, .net, .nl] - Considered to be the most complete public tracker and is well-seeded. Amazing tracker for software of all types (ie. your favorite graphics/music/video software)
+
+* [torrents] [1337x.to](https://1337x.to/) - Well-moderated torrent site
 
 * [torrents] [rarbg.to](https://rarbg.to/) - Allows no user uploads. Everything is automated to auto post scene releases and p2p content from general/0-day private trackers. It's one of the safest public trackers for software and games
 

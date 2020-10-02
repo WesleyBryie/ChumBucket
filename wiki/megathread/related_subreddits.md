@@ -93,6 +93,8 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 * /r/Emby - Media server. DIY netflix. Parent site is [emby.media](https://emby.media/)
 
+* **/r/Softwarr** - Listings and discussions of software in the Plex/Emby/Kodi ecosystem
+
 * /r/sonarr - Community  subreddit for Sonarr, the TV feed downloader. Parent site is [sonarr.tv](https://sonarr.tv/)
 
 * /r/radarr - Community subreddit for Radarr, the movies feed downloader. Parent site is [radarr.video](https://radarr.video/)

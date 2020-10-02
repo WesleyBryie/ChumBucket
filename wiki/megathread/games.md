@@ -41,8 +41,8 @@ Sites labeled **repacks** are for releases that have been repacked from the orig
 **Steam Tools**
 
 * [**Steam Content Packager**](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Tool for cleaning steam files. Packages your Steam game files whilst removing identifying information for the purpose of sharing them to cs.rin.ru's [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) subforum
+* [**Goldberg Emulator**](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Steam Emulator. Crack your own Steam game or the clean Steam files shared on cs.rin.ru's [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) subforum
 * [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Steam Emulator. Crack your own Steam games or the clean Steam files shared on cs.rin.ru's [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) subforum
-* [Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Steam Emulator. Crack your own Steam game or the clean Steam files shared on cs.rin.ru's [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) subforum
 * [GreenLuma 2020](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Emulator
 * [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Unlock all DLCs on legit Steam games
 * [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Automatically install and set up CreamAPI for Steam games
@@ -61,7 +61,7 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [rarbg.to](http://rarbg.to/) - Scene releases
 
-* [freegogpcgames.com](https://freegogpcgames.com/) - Untouched GOG games. No cracks needed
+* [1337x.to](https://1337x.to/) - Well-moderated torrent site. GOG games are reposted here as well as repacks from several popular repack groups, such as FitGirl, ElAmigos, Darck, R.G. Mechanics, Xatab, DODI, etc
 
 * [rutor.info](http://rutor.info/games) - Game repacks site
 
@@ -98,7 +98,7 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [ovagames.com](http://www.ovagames.com/) - Scene releases
 
-* [gload.cc](https://gload.cc/) - Scene releases. German site. Reposts ElAmigos repacks (multi-language repacks) and 
+* [gload.cc](https://gload.cc/) - Scene releases. German site. Reposts ElAmigos repacks (multi-language repacks) and GOG games
 
 * [rlsbb.ru > PC Games](https://rlsbb.ru/category/games/pc/) - Scene releases
 
@@ -281,11 +281,13 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * **Ocean Of Games** - [Malware risk](https://old.reddit.com/r/Piracy/comments/8yjv8e/do_not_use_ocean_of_games/) and past history of coin miners included in their installers
 
-* **NosTEAM** - Shitty blog site with shoddy ads and history of malware
+* **NosTEAM** - Shitty blog site with shoddy ads. Torrent downloads are handled by an intermediary ~3 MiB executable file: the epitome of shady behavior.
 
 * Any website using the name of a Scene group (such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, etc.). Scene groups do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use).
 
 * Any site you find on Google by searching for "free game downloads", "cracked games", etc. Google de-lists piracy websites from its search results, which means that fake / imposter / malware-spreading sites will float to the top of the search results.
+
+* Any "cracked games" site or download you find on Youtube
 
 * Any aggregator site like snowfl or DHT crawler like btdb, btdig, etc. Not because the sites intend to infect you with malware, but because their intent is to aggregate as many publicly available torrents as possible into one place. This can include torrents that have been posted to TPB or otherwise spread publicly via the DHT network. You should only grab games from sites that take a personal hand in adding content (excludes sites that auto-post scene releases, in which case they would need to be vetted to make sure that their posts are real scene releases) rather than automatically aggregating from hundreds of unknown sites.
 
