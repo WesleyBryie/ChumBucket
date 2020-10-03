@@ -285,7 +285,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * Any website using the name of a Scene group (such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, etc.). Scene groups do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use).
 
-* Any site you find on Google by searching for "free game downloads", "cracked games", etc. Google de-lists piracy websites from its search results, which means that fake / imposter / malware-spreading sites will float to the top of the search results.
+* Any site you find on Google by searching for "free game downloads", "cracked games", etc. Google de-lists piracy websites from its search results, which means that fake / impostor / malware-spreading sites will float to the top of the search results.
 
 * Any "cracked games" site or download you find on Youtube
 
