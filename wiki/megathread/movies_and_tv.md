@@ -76,8 +76,9 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * **[Documentaries]** [forums.mvgroup.org](https://forums.mvgroup.org/index.php) - Very good documentaries tracker. Registration required.
 * **[Anime]** [Nyaa.si](https://nyaa.si/)
 * **[Anime]** [nyaa.pantsu.cat](https://nyaa.pantsu.cat/)
-* **[Anime]** [horriblesubs.info](https://horriblesubs.info/)
 * **[Anime]** [hi10anime.com](https://hi10anime.com/)
+* **[Anime]** [shanaproject.com](https://www.shanaproject.com/)
+* **[Anime]** [anidex.info](https://anidex.info/)
 
 &nbsp;
 
@@ -128,6 +129,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [sockshare.ac](http://sockshare.ac/)
 * [ffilms.club](https://ffilms.club/)
 * [soap2day.com](https://www.soap2day.com/)
+* [fmovies.to](https://fmovies.to/)
 * [5movies.live](https://5movies.live/)
 * [batflix.org](https://ww2.batflix.org/)
 * [openloadmov.com](https://openloadmov.com/)
@@ -137,7 +139,6 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [simplestream.in](https://simplestream.in/)
 * [themoviebay.net](https://vww.themoviebay.net/)
 * [himovies.to](https://www.himovies.to/)
-* [fmovies.to](https://www3.fmovies.to/)
 * [solarmovie.fm](https://www.solarmovie.fm/)
 * [yesmovies.ag](https://yesmovies.ag/)
 * [hydrax.is](https://hydrax.is/)
@@ -322,9 +323,11 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [hdss.to](https://hdss.to/) - Stream Movies & TV
 * [gratflix.net](https://www.gratflix.net/) - Stream Movies & TV
 * [dpstream.info](https://www.dpstream.info/) - Stream Movies & TV
+* [wiflix.co](https://wvw.wiflix.co/) - Stream Movies & TV
 * [vostfrserie.net](https://vostfrserie.net/) - Stream TV shows
 * [animes9.com](https://animes9.com/) - Stream anime
 * [mavanimes.co](http://www.mavanimes.co/) - Stream anime
+* [vostfree.com](https://vostfree.com/) - Stream anime
 
 &nbsp;
 
@@ -371,6 +374,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [danimados.com](https://danimados.com/) - Stream cartoons
 * [serieslan.com](https://serieslan.com/) - Stream cartoons
 * [animeflv.net](https://www.animeflv.net/) - Stream anime
+* [jkanime.net](https://jkanime.net/) - Stream Anime
 * [tioanime.com](https://tioanime.com/) - Stream anime
 
 &nbsp;
