@@ -17,7 +17,7 @@ To check if a game has been cracked by the Scene, jump to the [Scene Tracer sect
 
 For more news of game releases (Scene as well as P2P), visit /r/CrackWatch.
 
-Sites labeled **repacks** are for releases that have been repacked from the original scene release. Their intent is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation.
+Sites labeled **repacks** are for releases that have been repacked from the original release (whether they are Scene, P2P, or GOG). Their intent is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation.
 
 &nbsp;
 

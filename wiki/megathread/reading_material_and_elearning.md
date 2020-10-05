@@ -197,13 +197,17 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [Omnibus](https://github.com/fireshaper/Omnibus) - Download from GetComics.info easily
 
+* [readcomiconline.to](https://readcomiconline.to/)
+
 * [readcomicbooksonline.net](https://readcomicbooksonline.net/)
 
 * [comicextra.com](https://www.comicextra.com/)
 
-* [readcomiconline.to](https://readcomiconline.to/)
-
 * [comix-load.in](https://comix-load.in/)
+
+* [xoxocomics.com](https://xoxocomics.com/)
+
+* [comicpunch.net](https://comicpunch.net/)
 
 &nbsp;
 
@@ -228,7 +232,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 ## ► **Manga**
 
-* [**/r/animepiracy's exhaustive wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Manga/ranges/A1:H1)
+* **/r/animepiracy's exhaustive [wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Manga/ranges/A1:H1)
 
 * [MangaPlus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) - Official legal site. Provides initial chapters of popular manga titles for free
 
@@ -236,13 +240,19 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [MangaDex.org](https://mangadex.org/)
 
-* [manganelo.com](https://manganelo.com/)
+* [mangakakalot.com](https://mangakakalot.com/)
 
 * [manga4life.com](https://manga4life.com/)
 
+* [mangahere.cc](http://www.mangahere.cc/)
+
+* [mangareader.net](https://www.mangareader.net/)
+
+* [mangafreak.net](https://mangafreak.net/)
+
 * [comix-load.in](https://comix-load.in/)
 
-* [mangakakalot.com](https://mangakakalot.com/)
+* [mangainn.net](https://mangainn.net/)
 
 * [mangakomi.com](https://mangakomi.com/)
 
