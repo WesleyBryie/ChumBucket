@@ -5,7 +5,7 @@
 ---
 ---
 
-# MOVIES AND TV
+# MOVIES & TV
 
 **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
@@ -92,15 +92,16 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 Some DDL sites will use premium-only hosts to distribute content. To get around them, jump to [Download Services in the Tools section of the megathread.](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_download_services)
 
 * [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Popular DDL forum. Has a request section.
+* [snahp.it](http://snahp.it/) - Website created by the /r/megalinks mods after it got banned (Password for links is `snahp.it`).
+* [forums.snahp.it](https://forum.snahp.it/) - Private forums. Has a lot more content than the main public site.
 * [scnlog.me](https://scnlog.me/) - Scene releases
 * [rlsbb.ru](http://rlsbb.ru) - Scene releases
 * [ddlvalley.me](https://www.ddlvalley.me/)
 * [gdrivedl.xyz](https://gdrivedl.xyz/)
+* [movieparadise.org](https://movieparadise.org/)
 * [adit-hd.com](http://adit-hd.com/)
 * [megaddl.co](https://megaddl.co/movies)
 * [rmz.cr](http://rmz.cr/)
-* [snahp.it](http://snahp.it/) - Website created by the /r/megalinks mods after it got banned (Password for links is `snahp.it`).
-* [forums.snahp.it](https://forum.snahp.it/) - Private forums. Has a lot more content than the main public site.
 * [2ddl.ms](https://2ddl.ms/)
 * [rarefilmm.com](https://rarefilmm.com/) - Rare movies
 * [crazy4tv.com](http://crazy4tv.com/)
@@ -123,7 +124,8 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 *For streaming with Kodi, visit r/Addons4Kodi*
 
-* **[torrent-based]** [magnetoo.io](https://www.magnetoo.io/) - Movies
+* [kimcartoon.to](https://kimcartoon.to/) - Cartoons
+* [wcostream.com](https://www.wcostream.com/) - Cartoons
 * [lookmovie.ag](https://lookmovie.ag/)
 * [vidcloud9.com](https://vidcloud9.com/)
 * [sockshare.ac](http://sockshare.ac/)
@@ -217,7 +219,6 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 * [9anime.to](https://9anime.to/)
 * [chia-anime.me](http://www.chia-anime.me/)
-* [kimcartoon.to](https://kimcartoon.to/)
 * [anime8.ru](https://anime8.ru/)
 * [kickassanime.rs](https://kickassanime.rs/)
 * [4anime.to](https://4anime.to/)

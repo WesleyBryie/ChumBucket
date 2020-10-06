@@ -65,7 +65,7 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [rutor.info](http://rutor.info/games) - Game repacks site
 
-* [gamestorrents.io](https://www.gamestorrents.io/)
+* [gamestorrents.nu](https://www.gamestorrents.nu/)
 
 * **[Repacks]** [xatab-repack.com](https://t.xatab-repack.com/) - Pre-cracked games
 
@@ -221,7 +221,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * [gload.cc](https://gload.cc/) - PS4, PS3, Xbox 360, Wii
 
-* [gamestorrents.io](https://www.gamestorrents.io/) - Xbox 360, PS4, PS3, PS2, WII, PSP, NDS
+* [gamestorrents.nu](https://www.gamestorrents.nu/) - Xbox 360, PS4, PS3, PS2, WII, PSP, NDS
 
 &nbsp;
 
@@ -275,13 +275,15 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * **BBRepacks** - BlackBox Repacks impersonator. [Malware in the Doom Eternal repack posted on TPB and 1337x](https://old.reddit.com/r/Piracy/comments/fmgyf6/doom_eternal_repack_contains_malware/)
 
-* **Qoob / Seyter** - Qoob is the name that Seyter switched to after having been caught adding a [bitcoin miner to his JC3 release](https://old.reddit.com/r/CrackStatus/comments/4x0nt1/jc3_xl_seyter_has_bitcoin_miner/). More [info on Qoob](https://old.reddit.com/r/CrackWatch/comments/a78tvj/qoob_stopped_repacking/ec18n6f/)
+* **Qoob / Seyter** - Qoob is the name that Seyter switched to after having been caught adding a [bitcoin miner to his JC3 repack](https://old.reddit.com/r/CrackStatus/comments/4x0nt1/jc3_xl_seyter_has_bitcoin_miner/). More [info on Qoob](https://old.reddit.com/r/CrackWatch/comments/a78tvj/qoob_stopped_repacking/ec18n6f/)
 
 * **CorePack** - Malware in a long list of their releases. [Some background](https://old.reddit.com/r/CrackWatch/comments/8wp2fa/there_are_malwares_inside_fear_3_corepack_releases/). Their [official statement](https://old.reddit.com/r/CrackWatch/comments/8wuyyk/our_sincere_apologies_to_everyone_corepack/)
 
 * **Ocean Of Games** - [Malware risk](https://old.reddit.com/r/Piracy/comments/8yjv8e/do_not_use_ocean_of_games/) and past history of coin miners included in their installers
 
 * **NosTEAM** - Shitty blog site with shoddy ads. Torrent downloads are handled by an intermediary ~3 MiB executable file: the epitome of shady behavior.
+
+* **igg-games.com / pcgamestorrents.com / gamestorrent.co** - These are not recommended on this subreddit as trusted sites for various reasons, but inclusion of malware is not one of them, so you don't need to nuke your PC into orbit (unless you downloaded from an impostor site). With that said, igg games is not recommended mainly due to their history of terrible practices, such as including their own [form of DRM into their .dll files](https://reddit.com/r/Piracy/comments/c7356i/igg_infecting_their_downloads_with_their_selfmade/) (some [more info](https://reddit.com/r/Piracy/comments/gv6zmu/why_igg_games_seems_hated/)), and terrible [behavior by the owner/admins](https://reddit.com/r/Piracy/comments/apcvx4/here_we_go_again_igg_this_time_im_not_reporting/).
 
 * Any website using the name of a Scene group (such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, etc.). Scene groups do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use).
 
@@ -290,8 +292,6 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 * Any "cracked games" site or download you find on Youtube
 
 * Any aggregator site like snowfl or DHT crawler like btdb, btdig, etc. Not because the sites intend to infect you with malware, but because their intent is to aggregate as many publicly available torrents as possible into one place. This can include torrents that have been posted to TPB or otherwise spread publicly via the DHT network. You should only grab games from sites that take a personal hand in adding content (excludes sites that auto-post scene releases, in which case they would need to be vetted to make sure that their posts are real scene releases) rather than automatically aggregating from hundreds of unknown sites.
-
-* **igg-games.com / pcgamestorrents.com / gamestorrent.co** - These are not recommended on this subreddit as trusted sites for various reasons, but inclusion of malware is not one of them, so you don't need to nuke your PC into orbit (unless you downloaded from an impostor site). With that said, igg games is not recommended mainly due to their history of terrible practices, such as including their own [form of DRM into their .dll files](https://reddit.com/r/Piracy/comments/c7356i/igg_infecting_their_downloads_with_their_selfmade/) (some [more info](https://reddit.com/r/Piracy/comments/gv6zmu/why_igg_games_seems_hated/)), and terrible [behavior by the owner/admins](https://reddit.com/r/Piracy/comments/apcvx4/here_we_go_again_igg_this_time_im_not_reporting/).
 
 &nbsp;
 
