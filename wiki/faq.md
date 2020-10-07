@@ -99,7 +99,7 @@
  > You don't. The methods detailed above won't work on paid streaming sites such as netflix, hulu, disney+, etc. due to their implementation of the Widevine DRM to encrypt the video stream. Scene groups and p2p groups have obtained methods to crack Widevine-protected streams, but they are kept internal to these groups, due to the fact that public disclosure of these methods would cause the exploits to be patched.
 
 * How do I download video from pan baidu?
- > https://www.reddit.com/r/Piracy/comments/auhyxk/how_do_i_download_from_panbaidu/eovyg8g/?context=33
+ > https://cs.rin.ru/forum/viewtopic.php?f=30&t=75480
 
 &nbsp;
 
