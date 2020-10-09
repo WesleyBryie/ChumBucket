@@ -61,6 +61,8 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 
 
+
+
 ### ► Semi-Related
 
 These subreddits are centered around technologies that have ties with piracy, but are **not centered around discussing piracy itself or piracy methods**. Read their rules for clarification.
@@ -81,7 +83,7 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 * /r/sideloaded - For sideloading 3rd party apps onto your iPhone or iPad
 
-* /r/torrents - For dicussion and tech support for torrenting.
+* /r/torrents - For torrents dicussion and news
 
 * /r/youtubedl - Support subreddit for [youtube-dl.](https://ytdl-org.github.io/youtube-dl/index.html)
 
@@ -93,7 +95,7 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 * /r/Emby - Media server. DIY netflix. Parent site is [emby.media](https://emby.media/)
 
-* **/r/Softwarr** - Listings and discussions of software in the Plex/Emby/Kodi ecosystem
+* **/r/Softwarr** - Listings and discussion of software in the Plex/Emby/Kodi ecosystem
 
 * /r/sonarr - Community  subreddit for Sonarr, the TV feed downloader. Parent site is [sonarr.tv](https://sonarr.tv/)
 
@@ -105,9 +107,11 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 * /r/watcher - Community subreddit for Watcher, the movies feed downloader. Parent site is [nosmokingbandit.github.io](https://nosmokingbandit.github.io/)
 
-* /r/nzbhydra - Community subreddit for NZBHydra, the meta search software for usenet indexer. Parent site is [github.com/theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2)
+* /r/nzbhydra - Community subreddit for NZBHydra, the meta search software for usenet indexers. Parent site is [github.com/theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2)
 
 &nbsp;
+
+
 
 
 
@@ -131,6 +135,8 @@ Links and requests
 
 * /r/Scholar - "This subreddit is for requesting and sharing specific articles available in various databases"
 
+* /r/alexandria - Share and request books
+
 * /r/textbook_piracy 
 
 * /r/textbookrequest 
@@ -140,6 +146,8 @@ Links and requests
 * /r/panelshows 
 
 * /r/notapanelshow
+
+* /r/MusicalBootlegs - Broadway bootlegs
 
 * /r/xTrill - Music sharing
 
@@ -156,37 +164,59 @@ Links and requests
 
 
 
-### ► Console Hacking oriented subreddits
+
+### ► Drama Subreddits
+
+* /r/CDrama - Chinese Drama. Their [wiki](https://old.reddit.com/r/CDrama/wiki/streaming)
+
+* /r/KDRAMA - Korean Drama. Their [wiki](https://old.reddit.com/r//wiki/index). List of [all their wiki pages](https://old.reddit.com/r/KDRAMA/wiki/pages)
+
+* /r/JDorama - Japanese Dramas. Their [wiki](https://old.reddit.com/r/JDorama/wiki/index)
+
+* /r/asiandrama - Their [wiki](https://old.reddit.com/r/asiandrama/wiki/index). 
+
+* /r/HKdramas - Hong Kong Dramas.
+
+* /r/taiwandramas - Their [wiki](https://old.reddit.com/r/taiwandramas/wiki/index)
+
+&nbsp;
+
+
+
+
+
+
+### ► Console Hacking Oriented Subreddits
 
 The following subreddits are centered around altering/hacking the respective consoles, and though some methods may pave the way for piracy to become possible, these subreddits are **not centered around the discussion of piracy or piracy methods**. Read their rules for clarification.
 
 * /r/PS3hacks 
 
-* /r/PS3homebrew - Subreddit centered around jailbreaking the PS3
+* /r/PS3homebrew - Subreddit centered around jailbreaking the PS3. Their [wiki](https://old.reddit.com/r/ps3homebrew/wiki/index)
 
-* /r/PS4homebrew
+* /r/PS4homebrew - Their [FAQ](https://old.reddit.com/r/ps4homebrew/wiki/faq). List of [all their wiki pages](https://old.reddit.com/r/ps4homebrew/wiki/pages)
 
 * /r/PSPhacks 
 
-* /r/Vitahacks 
+* /r/Vitahacks - Their [wiki](https://old.reddit.com/r/vitahacks/wiki/index). Their [FAQ](https://old.reddit.com/r/vitahacks/wiki/faq)
 
-* /r/N64Homebrew 
+* /r/N64Homebrew - Their [wiki](https://old.reddit.com/r/N64Homebrew/wiki/index). List of [all their wiki pages](https://old.reddit.com/r/N64Homebrew/wiki/pages)
 
-* /r/3DShacks 
+* /r/3DShacks - Their [wiki](https://old.reddit.com/r/3dshacks/wiki/index). List of [all their wiki pages](https://old.reddit.com/r/3dshacks/wiki/pages)
 
-* /r/360hacks 
+* /r/360hacks - Their [wiki](https://old.reddit.com/r/360hacks/wiki/index). List of [all their wiki pages](https://old.reddit.com/r/360hacks/wiki/pages)
 
-* /r/SwitchHacks 
+* /r/SwitchHacks - Switchbrew info: https://switchbrew.org/
 
-* /r/SwitchHaxing
+* /r/SwitchHaxing - Their [wiki](https://old.reddit.com/r/SwitchHaxing/wiki/index)
 
-* /r/WiiHacks 
+* /r/WiiHacks - [Wiki page](https://www.wiihacks.org/)
 
-* /r/WiiUHacks
+* /r/WiiUHacks - Their [wiki](https://old.reddit.com/r/WiiUHacks/wiki/index). 
 
 * /r/xb1hacks 
 
-* /r/emulation - General emulation discussion
+* /r/emulation - General emulation discussion. Their [wiki](https://old.reddit.com/r/emulation/wiki/index). List of [all their wiki pages](https://old.reddit.com/r/emulation/wiki/pages)
 
 * /r/DolphinEmulator - "Dolphin is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii"
 
@@ -195,9 +225,11 @@ The following subreddits are centered around altering/hacking the respective con
 
 
 
-### ► Console oriented subreddits with a focus on piracy
 
-* /r/Roms 
+
+### ► Console Oriented Subreddits With a Focus on Piracy
+
+* /r/Roms - Their [wiki](https://old.reddit.com/r/Roms/wiki/index)
 
 * /r/Romstorage - Parent site is [romstorage.com](https://www.romstorage.com/)
 
@@ -205,15 +237,13 @@ The following subreddits are centered around altering/hacking the respective con
 
 * r/SwitchNSPs - Switch NSPs
 
-* /r/3DSpiracy 
+* /r/3DSpiracy - Their [FAQ](https://old.reddit.com/r/3dspiracy/wiki/faq)
 
 * /r/VitaPiracy 
 
 * /r/VitaPiracyHelp 
 
-* /r/WiiUPiracy
-
-* /r/CemuPiracy - Cemu is a WiiU emulator for the PC. This sub is for discussion on WiiU piracy with a focus on emulation.
+* /r/CemuPiracy - Cemu is a WiiU emulator for the PC. This sub is for discussion on WiiU piracy with a focus on emulation. Their [wiki](https://old.reddit.com/r/CemuPiracy/wiki/index)
 
 * r/PkgLinks - PS4 PKGs
 

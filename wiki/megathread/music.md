@@ -14,9 +14,53 @@
 
 
 
-## ► DDL (Direct Downloads)
+## ► Desktop Apps
 
-* /r/MusicalBootlegs
+* [Youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download video/audio from Youtube videos and other sites. 
+
+* [Youtube-dl-GUI](https://github.com/MrS0m30n3/youtube-dl-gui) - Desktop GUI for youtube-dl for those not proficient in using the command line.
+
+* [FreezerPC](https://codeberg.org/exttex/freezerpc) - Streaming and downloading app for Deezer. Builds available for Windows and Linux
+
+* [Deemix](/r/deemix) - Desktop app for downloading mp3/FLAC from Deezer. Replacement for Deezloader.
+
+* [Chimera](https://notabug.org/Aesir/chimera) - Supports downloading music from multiple platforms.
+
+* [Soulseek](http://www.slsknet.org/news/node/1) - Desktop app that connects you to a P2P network used for downloading music (any format). Unlike bittorrent, the protocol used here is direct P2P i.e. downloading and uploading is not done with multiple users simultaneously but with a single user (like downloading a file from a website). This provides more security than public trackers as there is no swarm for copyright trolls to stay in and monitor. Though there is no quality control here, the chances of encountering low quality files is still quite low. For people wanting to share their libraries, soulseek is the easiest and fastest way.
+
+&nbsp;
+
+
+
+
+
+
+## ► Android Apps
+
+* [Spotify and Deezer modded apps to allow full ad-less streaming available at Mobilism.](https://forum.mobilism.org/viewforum.php?f=399)
+
+* [Freezer](https://notabug.org/exttex/freezer) - Streaming and downloading app for Deezer.
+
+* [AIDS](/r/deemix) - Android app for downloading mp3/FLAC from Deezer. Replacement for deezloader
+
+* [Fildo](https://fildo.net/android/en/) - Android app for downloading and streaming music.
+
+* [Newpipe](https://newpipe.schabi.org/) - Watch and download youtube videos. Also offers ability to download from soundcloud.
+
+* [Youtube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - Ad-free youtube, supports background play. Modded version of the official youtube app.
+
+* [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - Youtube Music player and downloader
+
+&nbsp;
+
+
+
+
+
+
+## ► DDL Sites (Direct Downloads)
+
+* /r/MusicalBootlegs - Broadway bootlegs
 
 * [Jimmyr mp3 search](http://www.jimmyr.com/mp3_search.php) - Custom search and downloader to find mp3 files on google.
 
@@ -26,23 +70,11 @@
 
 * [free-mp3-download.net](https://free-mp3-download.net/) - High quality music downloads (mp3/FLAC). Uses only unintrusive banner ads.
 
-* [Deezloader](/r/deezloadersisback) - [\[DISCONTINUED. DISCUSSION THREAD\]](https://www.reddit.com/r/Piracy/comments/fweoa7/deezloader_will_soon_not_be_able_to_download/) Desktop app for downloading mp3/FLAC from Deezer. You can convert your Spotify playlist to a Deezer playlist and download it via Deezloader as well.
+* [mp3juices.cc](https://www.mp3juices.cc/) - Searches for audio on several sources, such as youtube and soundcloud. Allows downloading in mp3 and streaming.
 
-* [Deemix](/r/deemix) -  Desktop app for downloading mp3/FLAC from Deezer. Replacement for Deezloader.
-
-* [AIDS](/r/deemix) -  Android app for downloading mp3/FLAC from Deezer. Replacement for deezloader
-
-* [Chimera](https://notabug.org/Aesir/chimera) - Supports downloading music from multiple platforms.
-
-* [Youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download video/audio from Youtube videos and other sites. 
-
-* [Youtube-dl-GUI](https://github.com/MrS0m30n3/youtube-dl-gui) - Desktop GUI for youtube-dl for those not proficient in using the command line.
-
-* [Khinsider](https://downloads.khinsider.com/) (mp3) - Video game scores/soundtracks.
+* [khinsider.com](https://downloads.khinsider.com/) - Mp3 streams & downloads. Video game scores/soundtracks.
 
 * [squid-board.ru](https://www.squid-board.ru/) - Video game, anime, and TV & Cinema scores/soundtracks.
-
-* [Fildo](https://fildo.net/android/en/) [mp3] - Android app for downloading and streaming music.
 
 &nbsp;
 
@@ -51,12 +83,12 @@
 
 
 
-## ► Torrents / P2P
+## ► Torrents / P2P Sites
 
 
 * [rutracker.org](http://rutracker.org/forum/index.php) [.org, .net, .nl] - Russian tracker with an extensive music catalog (any format).
 
-* [Soulseek](http://www.slsknet.org/news/node/1) - Desktop app that connects you to a P2P network used for downloading music (any format). Unlike bittorrent, the protocol used here is direct P2P i.e. downloading and uploading is not done with multiple users simultaneously but with a single user (like downloading a file from a website). This provides more security than public trackers as there is no swarm for copyright trolls to stay in and monitor. There is no quality control here, though the chances of encountering low quality files is still quite low. For people wanting to share their libraries, soulseek is the easiest and fastest way.
+* [nyaa.si](https://nyaa.si/) - Anime OSTs
 
 * [music-torrent.net](http://music-torrent.net/) - Music torrents
 
@@ -73,10 +105,12 @@
 
 * **[Semi-Private]** [en.metal-tracker.com](https://en.metal-tracker.com/) - A very nice tracker for metal music.
 
-* [jpopsuki.eu](https://jpopsuki.eu/) - Music tracker for various types of music such as Japenese, Korean, Chinese, Thai, etc
+* [jpopsuki.eu](https://jpopsuki.eu/) - Aka JPS. Music tracker for various types of music such as Japenese, Korean, Chinese, Thai, etc
 
-* [Redacted.ch (RED)](https://redacted.ch/) [FLAC /mp3] - Best music private tracker. One of the harder trackers to maintain ratio on. 
+* [animebytes.tv](https://animebytes.tv/) - Aka AB. Anime OSTs
 
-* [Orpheus.network](https://orpheus.network/) [FLAC/mp3] - 2nd best music private tracker, after RED. Much easier ratio economy compared to RED. In addition, there is a thread where you can request any torrent available on RED, without putting a request. This provides full access to RED without the hard economy. It is highly beneficial to have accounts on both trackers.
+* [Redacted.ch](https://redacted.ch/) - Aka RED. FLAC, mp3, m4a. Best music private tracker. One of the harder trackers to maintain ratio on. 
+
+* [Orpheus.network](https://orpheus.network/) -  Aka OPS. FLAC, mp3, m4a. Second best music private tracker, after RED. Much easier ratio economy compared to RED. In addition, there is a thread where you can request any torrent available on RED, without putting a request. This provides full access to RED without the hard economy. It is highly beneficial to have accounts on both trackers.
 
 &nbsp;

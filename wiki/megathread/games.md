@@ -88,7 +88,9 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 ## ► DDL sites (direct download)
 
-* [Steam Underground - cs.rin.ru](https://cs.rin.ru/forum/viewforum.php?f=10) - Dedicated game piracy forum. Check [their FAQ](https://cs.rin.ru/forum/viewtopic.php?f=10&t=98158) to get the best usage out of the site. Best parts are the discussion and the different types of tools especially the multiplayer ones. Game links aren't always provided (especially for scene releases; they recommend some external sites in their FAQ) but when they are, they are on free file hosting services like zippyshare so that's another plus. Also includes early access games.
+* [cs.rin.ru / Steam Underground](https://cs.rin.ru/forum/viewforum.php?f=10) - Dedicated game piracy forum. Check [their FAQ](https://cs.rin.ru/forum/viewtopic.php?f=10&t=98158) to get the best usage out of the site. Best parts are the discussion and the different types of tools especially the multiplayer ones. Game links aren't always provided (especially for scene releases; they recommend some external sites in their FAQ) but when they are, they are on free file hosting services like zippyshare so that's another plus. Also includes early access games.
+
+* [forum.torrminatorr.com](https://forum.torrminatorr.com/) - GOG, scene, P2P, repacked games, and GNU/Linux games
 
 * [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - Game trainers, cheats, and standalone cracks for games
 
@@ -96,19 +98,15 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [scenegames.to](https://scenegames.to/) - Scene releases
 
-* [ovagames.com](http://www.ovagames.com/) - Scene releases
-
 * [gload.cc](https://gload.cc/) - Scene releases. German site. Reposts ElAmigos repacks (multi-language repacks) and GOG games
 
 * [rlsbb.ru > PC Games](https://rlsbb.ru/category/games/pc/) - Scene releases
 
 * [scnlog.me](https://scnlog.me/) - Scene releases
 
-* [forum.torrminatorr.com](https://forum.torrminatorr.com/) - GOG, scene, P2P, repacked games, and GNU/Linux games
-
 * [gog-games.com](https://gog-games.com/) - Untouched GOG games. No cracks needed
 
-* [steamunlocked.net](https://steamunlocked.net/) - Pre-installed games (not repacks). Save this one for last. The ads on this site are especially bad, though the downloadable content is safe
+* [steamunlocked.net](https://steamunlocked.net/) - Pre-installed games (not repacks). Games are entirely downloadable via a single download link rather than several small-sized parts which is more typically the case for DDL sites.
 
 * **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free file hosts
 

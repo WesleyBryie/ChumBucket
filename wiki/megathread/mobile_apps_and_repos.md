@@ -28,12 +28,6 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 
 * [Lucky Patcher](https://www.luckypatchers.com/) - Unlocks in-app purchases on Android apps and removes ads.
 
-* [Newpipe](https://newpipe.schabi.org/) - Watch and download youtube videos. Also offers ability to download from soundcloud.
-
-* [Youtube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - Ad-free youtube, supports background play. Modded version of the official youtube app.
-
-* [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - Youtube Music player and downloader
-
 * [Tachiyomi](https://github.com/inorichi/tachiyomi) - Manga reader
 
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - Usenet and torrent remote management app with support for managing Sonarr / Radarr / Lidarr / Bazarr / Sickbeard / Couchpotato / Headphones
@@ -41,8 +35,6 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 * [iTorrent Search](https://play.google.com/store/apps/details?id=com.icodelife.itorrentsearch) - Torrent search app for Android
 
 * [iDope Torrent Search](https://idope.se/apk/down.html) - Torrent search app for Android
-
-* [Fildo](https://fildo.net/android/en/#) - Music streaming app and downloader
 
 &nbsp;
 
@@ -61,6 +53,25 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 
 
 
+## ► Android Music Apps
+
+* [Freezer](https://notabug.org/exttex/freezer) - Streaming and downloading app for Deezer.
+
+* [AIDS](/r/deemix) - Android app for downloading mp3/FLAC from Deezer. Replacement for deezloader
+
+* [Fildo](https://fildo.net/android/en/) - Android app for downloading and streaming music.
+
+* [Newpipe](https://newpipe.schabi.org/) - Watch and download youtube videos. Also offers ability to download from soundcloud.
+
+* [Youtube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - Ad-free youtube, supports background play. Modded version of the official youtube app.
+
+* [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - Youtube Music player and downloader
+&nbsp;
+
+
+
+
+
 
 ## ► Torrent Clients
 
@@ -70,7 +81,7 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 
 * [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - Popular torrent client for Android.
 
-* [Transdrone](https://f-droid.org/packages/org.transdroid.full/) - Remote torrent management app for your torrent client running on your main PC. Supports several 
+* [Transdrone](https://f-droid.org/packages/org.transdroid.full/) - Remote torrent management app for your torrent client running on your main PC. Supports several torrent clients
 
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - Remote torrent management app with support for managing Sonarr / Radarr / Lidarr / Bazarr / Sickbeard / Couchpotato / Headphones
 

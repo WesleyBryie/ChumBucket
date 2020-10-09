@@ -198,6 +198,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 * [pluto.tv](http://pluto.tv/welcome) - Official legal service 
 * [github.com/iptv-org/iptv](https://github.com/iptv-org/iptv) - Mass IPTV aggregation
+* [sportsbay.org](https://sportsbay.org/) - Sports & non-sports channels
 * [reboot.tube](https://reboot.tube/) - aka ScrubTV: Pseudo live TV
 * [123tvnow.com](http://123tvnow.com/)
 * [cxtvlive.com](http://www.cxtvlive.com/)
@@ -258,7 +259,8 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [nbafullhd.com](https://www.nbafullhd.com/) - Replays. Basketball, football, F1
 * [liveonscore.tv](http://liveonscore.tv/) - Live streams. Soccer, MMA, motorsports, baseball, basketball, football, hockey
 * [sportsurge.net](https://sportsurge.net/) - Live streams. MMA, boxing, motorsports, basketball, football, hockey
-* [sporthd.live](https://sporthd.live/) - Soccer, MMA, handball, basketball, rugby, football, tennis and others
+* [sporthd.live](https://sporthd.live/) - Live streams. Soccer, MMA, handball, basketball, rugby, football, tennis and others
+* [sportsbay.org](https://sportsbay.org/) - Live streams. Football, soccer, basketball, hockey, baseball, NCAA, tennis, cricket, motorsports
 * [worldcupfootball.me](http://www.worldcupfootball.me/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF, NCAAM
 * [6stream.xyz](http://6stream.xyz/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF
 * [bilasport.net](http://bilasport.net/index.html) - Live streams. Soccer, MMA, baseball, basketball, football, hockey

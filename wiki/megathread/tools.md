@@ -74,6 +74,8 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 * [**userscripts-mirror.org**](https://userscripts-mirror.org/) - Alternative scripts repo. Mirror for Userscripts.org
 * [**openuserjs.org**](https://openuserjs.org/) - Alternative scripts repo
 * [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adds button next to shortened URLs which resolves the URL to its true location
+* [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Enables copying text from websites that try to prevent copying
+* [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Enables right clicking and copying on websites that try to prevent right clicking
 * [select-text-inside-a-link-like-opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Allows you to properly select/highlight links instead of the default dragging behavior
 * [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Adds a sci-hub button to countless academic/scholarly article websites to unlock the article being viewed.
 * [Anti-adblock killer](https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek) - Prevents websites from blocking your adblocker
