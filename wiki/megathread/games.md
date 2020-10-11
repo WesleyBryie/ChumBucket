@@ -9,8 +9,6 @@
 
 **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
-⚠️ Scene groups (such as CODEX, CPY, SKIDROW, RELOADED, HOODLUM, etc) do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they will tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use). [What is "The Scene"](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)?
-
 &nbsp;
 
 To check if a game has been cracked by the Scene, jump to the [Scene Tracer section on the Megathread's Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_scene_.2F_p2p_tracer_websites). 
@@ -263,9 +261,9 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 
 
-## ► Do Not Use
+## ► Do Not Use ⚠️
 
-⚠️ Untrusted sites, release groups & repackers
+Untrusted sites, release groups & repackers
 
 * **The Pirate Bay / TPB** - Do not use the pirate bay or any of its mirrors to download games/software. High malware risk, [even from skulled users](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
@@ -283,7 +281,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * **igg-games.com / pcgamestorrents.com / gamestorrent.co** - These are not recommended on this subreddit as trusted sites for various reasons, but inclusion of malware is not one of them, so you don't need to nuke your PC into orbit (unless you downloaded from an impostor site). With that said, igg games is not recommended mainly due to their history of terrible practices, such as including their own [form of DRM into their .dll files](https://reddit.com/r/Piracy/comments/c7356i/igg_infecting_their_downloads_with_their_selfmade/) (some [more info](https://reddit.com/r/Piracy/comments/gv6zmu/why_igg_games_seems_hated/)), and terrible [behavior by the owner/admins](https://reddit.com/r/Piracy/comments/apcvx4/here_we_go_again_igg_this_time_im_not_reporting/).
 
-* Any website using the name of a Scene group (such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, etc.). Scene groups do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use).
+* Any website using the name of a Scene group (such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, etc.). Scene groups do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use). [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
 
 * Any site you find on Google by searching for "free game downloads", "cracked games", etc. Google de-lists piracy websites from its search results, which means that fake / impostor / malware-spreading sites will float to the top of the search results.
 

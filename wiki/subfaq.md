@@ -64,7 +64,7 @@ Yes! We've prepared an alternate location in reddit-like platform Raddle. The lo
 
 ### ► Why Raddle?
 
-Because it's a decent reddit-like alternative run by anarchists [with a strong security culture](https://raddle.me/wiki/privacy_policy) and an [intact warrant cannary ](https://raddle.me/wiki/warrant_canary). Some of the mods of /r/piracy are already there, so you also know what to expect.
+Because it's a decent reddit-like alternative run by anarchists [with a strong security culture](https://raddle.me/wiki/privacy_policy) and an [intact warrant canary ](https://raddle.me/wiki/warrant_canary). Some of the mods of /r/piracy are already there, so you also know what to expect.
 
 &nbsp;
 

@@ -66,7 +66,7 @@
 
 * [leakedalbums.org](https://leakedalbums.org/) - New music albums
 
-* [pluspremieres.nl](https://www.pluspremieres.nl/) - iTunes releases (m4a)
+* [pluspremieres.to](https://www.pluspremieres.to/) - iTunes releases (m4a)
 
 * [free-mp3-download.net](https://free-mp3-download.net/) - High quality music downloads (mp3/FLAC). Uses only unintrusive banner ads.
 

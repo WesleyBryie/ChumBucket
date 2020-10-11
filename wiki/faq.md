@@ -49,6 +49,9 @@
 
 ### ► Torrenting and VPN questions
 
+* Is it recommended to use a VPN when downloading pirated material? 
+ > If you are torrenting, yes. Using a VPN is not necessary when downloading from DDL sites such as Google drive, mega, zippy share, etc. Some countries may have lax copyright laws so you may not need a VPN at all, even when torrenting. [Read more here.](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
+
 * Which free VPN service is recommended for downloading torrents?
  > None. Free VPNs are likely to collect data from you for marketing purposes, be too slow to bother with, or do not allow torrent traffic in the first place. It's recommended to purchase a subscription of a VPN service - many can be as cheap as 3 USD/month, if you buy in bulk.
 
@@ -98,7 +101,7 @@
 
  > You don't. The methods detailed above won't work on paid streaming sites such as netflix, hulu, disney+, etc. due to their implementation of the Widevine DRM to encrypt the video stream. Scene groups and p2p groups have obtained methods to crack Widevine-protected streams, but they are kept internal to these groups, due to the fact that public disclosure of these methods would cause the exploits to be patched.
 
-* How do I download video from pan baidu?
+* How do I download from pan baidu?
  > https://cs.rin.ru/forum/viewtopic.php?f=30&t=75480
 
 &nbsp;
