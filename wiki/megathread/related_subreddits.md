@@ -16,7 +16,7 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/CrackSupport -  For those who have already downloaded their desired (pirated) game, but require technical assistance with it.
 
-* [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion
+* [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Cracked software guides and discussion
 
 * /r/FREEMEDIAHECKYEAH - Vast Piracy and Free Media resources
 
@@ -27,6 +27,8 @@ These subreddits are centered around the topic of piracy. Though they may discus
 * /r/PiratedGames 
 
 * /r/moddedandroidapps 
+
+* /r/scihub - Support community for Sci-Hub. No requests.
 
 * /r/trackers - For discussion of public and private torrent trackers. No requests of specific pirated titles.
 
