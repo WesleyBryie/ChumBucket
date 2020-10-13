@@ -7,7 +7,7 @@
 
 # SOFTWARE
 
-**Use an adblocker like uBlock Origin before visiting any of the linked sites.**
+⚠️ **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
 Jump to the [Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools) of the megathread for Office & Windows activation tools.
 
@@ -27,11 +27,15 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [torrents] [1337x.to](https://1337x.to/) - Well-moderated torrent site
 
-* [torrents] [rarbg.to](https://rarbg.to/) - Allows no user uploads. Everything is automated to auto post scene releases and p2p content from general/0-day private trackers. It's one of the safest public trackers for software and games
+* [torrents] [rarbg.to](https://rarbg.to/) - Mostly Scene releases. In regards to software, it's mostly small-time applications.
 
 * [DDL] [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion for highly popular software. Their [wiki](https://saidit.net/s/sjain_guides/wiki/index) contains an expanded list of resources
 
-* [DDL] [sanet.st](https://sanet.st) - Windows software cracks. Don't use the usenet button, it's just an ad
+* [DDL] [karanpc.com](https://karanpc.com/) - Cracked Windows software
+
+* [DDL] [sadeempc.com](https://www.sadeempc.com/) - Cracked Windows software
+
+* [DDL] [sanet.st](https://sanet.st) - Cracked Windows software. Don't use the usenet button, it's just an ad
 
 * [DDL] [Mobilism > Windows Warez](https://forum.mobilism.org/viewforum.php?f=1073) - Warez board
 
@@ -66,7 +70,7 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 &nbsp;
 
 
-## ► Sites focused on graphics/audio/video software
+## ► Sites focused on graphics / audio / video software
 
 * [torrents] [vstorrent.org](https://vstorrent.org/) - Video software and plugins.
 

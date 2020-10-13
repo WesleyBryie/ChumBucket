@@ -134,12 +134,13 @@ Notes: Bittorrent Inc. has bundled malware (a bitcoin miner) into [uTorrent in t
 Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 
 * [Webtorrent](https://webtorrent.io/desktop/) - Torrent-streaming client
-* [Transmission](https://transmissionbt.com/about/) - Simple and lightweight open-source torrent client.
-* [qBittorrent](https://www.qbittorrent.org/download.php) - Open-source torrent client. Has a built-in search feature that searches popular public trackers. Consistently updated.
-* [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork of qBittorrent intended for blocking leeching clients such as Xunlei.
-* [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Open-source torrent client.
+* [Transmission](https://transmissionbt.com/about/) - Simple and lightweight open-source torrent client
+* [qBittorrent](https://www.qbittorrent.org/download.php) - Open-source torrent client. Has a built-in search feature that searches popular public trackers. Consistently updated
+* [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Fork of qBittorrent intended for blocking leeching clients such as Xunlei
+* [PicoTorrent](https://picotorrent.org/) - Simple and lightweight torrent client
+* [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Open-source torrent client
 * [Tixati](https://www.tixati.com/download/) - Extremely customizable. All menus can be rearranged and color scheme can be changed completely.
-* [BiglyBT](https://www.biglybt.com/) - Feature filled, open source, ad-free, bittorrent client. A continuation of the popular client previously known as Vuze.
+* [BiglyBT](https://www.biglybt.com/) - Feature filled, open source, ad-free, bittorrent client. A continuation of the popular client previously known as Vuze
 * [kTorrent](https://kde.org/applications/en/internet/org.kde.ktorrent) - Torrent client for linux
 * [rTorrent](https://github.com/rakshasa/rtorrent) - Torrent client daemon for linux
 * [ruTorrent for rTorrent](https://github.com/Novik/ruTorrent) - Web management UI for rtorrent
@@ -248,6 +249,7 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 
 * [SyncThing](https://syncthing.net/) - Share files/folders between computers. Set up shared folders which will be automatically synced between devices. 
 * [file.pizza](https://file.pizza/) - Secure peer-to-peer file transfers. Useful for quick one-off file transfers. [Github page.](https://github.com/kern/filepizza)
+* [instant.io](https://instant.io/) - Same concept as file.pizza
 * [xkcd949.com](http://xkcd949.com/) - Same concept as file.pizza
 * [ShareDrop.io](https://www.sharedrop.io/) - Same concept as file.pizza
 * [wetransfer.com](https://wetransfer.com/) - Send self-expiring links up to 2 GiB in size

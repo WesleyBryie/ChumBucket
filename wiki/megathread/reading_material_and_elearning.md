@@ -7,11 +7,13 @@
 
 # BOOKS, COMICS, E-LEARNING, AND OTHER READING MATERIAL
 
-**Use an adblocker like uBlock Origin before visiting any of the linked sites.**
+⚠️ **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
 [Large list of resources for books](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) by u/ManWithoutModem
 
 Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums/forumdisplay.php?f=166) or /r/calibre
+
+❗ To upload to libgen, navigate to the `/librarian` page of whatever libgen domain is online, eg. `libgen.rs/librarian`. User: `genesis` passwd: `upload`
 
 &nbsp;
 

@@ -15,7 +15,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 &nbsp;
 
-❗ ***For hard-to-find content, you can use these [general trackers and/or search for open directories](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). The search engines in particular listen in on the DHT network and will list as many torrents as possible. Read the warning.***
+❗ ***For hard-to-find content, you can use these [general trackers and/or search for open directories](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). The torrent aggregators and DHT crawlers will be your best bet for finding rare content***
 
 &nbsp;
 
