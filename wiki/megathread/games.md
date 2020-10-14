@@ -7,7 +7,7 @@
 
 # GAMES
 
-**Use an adblocker like uBlock Origin before visiting any of the linked sites.**
+⚠️ **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
 &nbsp;
 
@@ -86,11 +86,9 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 ## ► DDL sites (direct download)
 
-* [cs.rin.ru / Steam Underground](https://cs.rin.ru/forum/viewforum.php?f=10) - Dedicated game piracy forum. Check [their FAQ](https://cs.rin.ru/forum/viewtopic.php?f=10&t=98158) to get the best usage out of the site. Best parts are the discussion and the different types of tools especially the multiplayer ones. Game links aren't always provided (especially for scene releases; they recommend some external sites in their FAQ) but when they are, they are on free file hosting services like zippyshare so that's another plus. Also includes early access games.
+* [cs.rin.ru / Steam Underground](https://cs.rin.ru/forum/viewforum.php?f=10) - Dedicated game piracy forum. Check [their FAQ](https://cs.rin.ru/forum/viewtopic.php?f=10&t=98158) to get the best usage out of the site. Best parts are the discussion and the different types of tools especially the multiplayer ones. Game links aren't always provided (especially for scene releases; they recommend some external sites in their FAQ) but when they are, they are on free file hosting services like zippyshare so that's another plus. Also includes early access games. You can request clean steam files as a means of getting the latest update for non-DRMed games (excludes SteamStub DRM, which can be removed).
 
 * [forum.torrminatorr.com](https://forum.torrminatorr.com/) - GOG, scene, P2P, repacked games, and GNU/Linux games
-
-* [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - Game trainers, cheats, and standalone cracks for games
 
 * [myabandonware.com](https://www.myabandonware.com/) - Old / retro / "abandoned" games
 
@@ -227,9 +225,15 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 
 
-## ► Misc
+## ► Miscellaneous
 
 * [thetrove.net](https://thetrove.net/) - Archival resource containing tabletop gaming / RPGs
+
+* [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - PC Game Trainers, Cheats, No-CD / No-DVD PlayFixes and Patches, standalone cracks, etc
+
+* [gameburnworld.com](http://www.gameburnworld.com/) - Cheats, Patches, Game Fixes, Trainers, No-CD Patch, etc
+
+* [megagames.com](https://megagames.com/) - Game Trainers, Cheats, Mods, Fixes, etc
 
 &nbsp;
 

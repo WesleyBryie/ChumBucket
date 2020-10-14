@@ -7,7 +7,7 @@
 
 # MOVIES & TV
 
-**Use an adblocker like uBlock Origin before visiting any of the linked sites.**
+⚠️ **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
 Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) (in regards to non-software) to avoid accidentally running malware.
 
@@ -63,7 +63,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 
 ### ► **Torrents**
 
-* **[Application]** [stremio.com](https://www.stremio.com/) - Torrent streaming. You can install plugins for various content sources, including torrents.
+* [solidtorrents.net](https://solidtorrents.net/movies) - DHT crawler with a dedicated interface for movies
 * [RARBG.to](https://rarbg.to/) - One of the most organized public trackers, gets new content very quickly. Can search by IMDB tags (eg. `tt0258038`, appearing in IDMB URLs)
 * [rutracker.org](https://rutracker.org/) [.org, .net, .nl] - The best general tracker from Russia and arguably the best one overall. It's great for niche movies, especially from Russia and other east European countries.
 * [TorrentGalaxy.to](https://torrentgalaxy.to/) - Another highly recommended site for movies & TV. [Proxy list.](https://proxygalaxy.pw/)

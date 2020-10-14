@@ -169,15 +169,17 @@ Links and requests
 
 ### ► Drama Subreddits
 
+
+
 * /r/CDrama - Chinese Drama. Their [wiki](https://old.reddit.com/r/CDrama/wiki/streaming)
 
-* /r/KDRAMA - Korean Drama. Their [wiki](https://old.reddit.com/r//wiki/index). List of [all their wiki pages](https://old.reddit.com/r/KDRAMA/wiki/pages)
+* /r/KDRAMA - Korean Drama. Piracy is not within the scope of this subreddit. Their [wiki](https://old.reddit.com/r//wiki/index) containing a list of legal KDrama sources. List of [all their wiki pages](https://old.reddit.com/r/KDRAMA/wiki/pages)
 
 * /r/JDorama - Japanese Dramas. Their [wiki](https://old.reddit.com/r/JDorama/wiki/index)
 
 * /r/asiandrama - Their [wiki](https://old.reddit.com/r/asiandrama/wiki/index). 
 
-* /r/HKdramas - Hong Kong Dramas.
+* /r/HKdramas - Hong Kong Drama.
 
 * /r/taiwandramas - Their [wiki](https://old.reddit.com/r/taiwandramas/wiki/index)
 

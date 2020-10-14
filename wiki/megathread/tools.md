@@ -36,8 +36,11 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 
 * [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
 * [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump
-* [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to download Windows 10 and create USB installation media.
 * [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye - 2.7 TB back up of MSDN dump. Has a lot of hard to find ISOs, Windows 7, etc.
+* [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors for LTSB, LTSC, and consumer edition Windows 10 ISOs. [Original post](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) at MyDigitalLife forums
+* [Windows ISOs at nmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular Russian forum and torrent tracker. Torrents for LTSC and consumer edition Windows 10 ISOs
+* [Massgravel's Pastebin](https://pastebin.com/raw/jduBSazJ) - Various sources for obtaining Genuine Installation Media. Available at the [MAS repository](https://github.com/massgravel/Microsoft-Activation-Scripts/)
+* [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to download Windows 10 and create USB installation media.
 
 &nbsp;
 

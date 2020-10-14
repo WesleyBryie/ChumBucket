@@ -45,6 +45,8 @@ Note: The eval ISOs of LTSB/LTSC cannot be extended past their typical 3 month e
 
 > LTSC x86_64 (64-bit) iso: http://cdn.digiboy.ir/?b=dlir-s3&f=SW_DVD5_WIN_ENT_LTSC_2019_64-bit_English_MLF_X21-96425.ISO (original thread [here](https://www.reddit.com/r/Piracy/comments/9wzu0f/ltsc_2019_rereleased_iso_x32x64_en/)).
 
+More resources for Original Windows Installation Media in the [Megathread > Tools section](https://old.reddit.com/r/Piracy/wiki/megathread/tools)
+
 Further reading: [**What is Windows LTSC?**](https://old.reddit.com/r/Windows10LTSC/wiki/index)
 
 Note that LTSC will stay frozen on the feature set of Windows 10 build 1809 (until the next long term channel, to be released in 2021), if you have an Xbox Game Pass, you'll need build 1903, which is only attainable with the consumer edition of Windows 10. Be careful if you have newer hardware (2019 or later), research to see if your hardware will perform optimally on LTSC.
@@ -80,7 +82,7 @@ If you're on Mac, you'll need [**UNetbootin**](http://unetbootin.github.io/).
 
 ## ► Activating Windows 10
 
-Just download and run [MAS (Microsoft-Activation-Tools)](http://www.reddit.com/r/piracy/wiki/megathread/tools) to activate. Download from the Releases page at the github repo. Extract the contents from the zip, then run the `cmd` file located in the `All-In-One-Version` directory. To activate Win10, run the `HWID` option and you're done. 
+Just download and run [MAS (Microsoft-Activation-Scripts)](http://www.reddit.com/r/piracy/wiki/megathread/tools) to activate. Download from the Releases page at the github repo. Extract the contents from the zip, then run the `cmd` file located in the `All-In-One-Version` directory. To activate Win10, run the `HWID` option and you're done. 
 
 This activation mode is permanent and will not install a background service, which would be liable to be removed by an antivirus, causing your windows to become de-activated, which was historically the case with previous KMS activation tools. It grants, by all intents and purposes, a genuine licenese, because it takes advantage of the fact that Microsoft still offers a free win7/8 -> win10 upgrade, spoofs that upgrade ticket, thus granting you a digital license to Windows 10.
 
