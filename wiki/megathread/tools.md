@@ -32,11 +32,11 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 
 
 
-## ► Windows/Office Untouched Downloads
+## ► Windows & Office Genuine/Untouched Downloads
 
 * [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
 * [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump
-* [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye - 2.7 TB back up of MSDN dump. Has a lot of hard to find ISOs, Windows 7, etc.
+* [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye's 2.7 TB back up of MSDN dump. Has a lot of hard to find ISOs, Windows 7, etc.
 * [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors for LTSB, LTSC, and consumer edition Windows 10 ISOs. [Original post](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) at MyDigitalLife forums
 * [Windows ISOs at nmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular Russian forum and torrent tracker. Torrents for LTSC and consumer edition Windows 10 ISOs
 * [Massgravel's Pastebin](https://pastebin.com/raw/jduBSazJ) - Various sources for obtaining Genuine Installation Media. Available at the [MAS repository](https://github.com/massgravel/Microsoft-Activation-Scripts/)
@@ -52,7 +52,6 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 ## ► **Adblockers & Bypassers**
 
 * [uBlock origin](https://github.com/gorhill/uBlock#installation) - for blocking most ads and pop-ups.
-* [Nano Defender](https://jspenguin2017.github.io/uBlockProtector) - For uBlock Origin integration, [read this](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin). Some websites will block your access if you have an adblocker running. This browser extension is your anti-anti-adblocker. It blocks the blocking of adblockers.
 * [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
 * [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
 * [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - lightweight executable that blocks and mutes Spotify ads on Windows.

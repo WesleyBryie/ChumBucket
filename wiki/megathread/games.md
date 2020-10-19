@@ -11,11 +11,21 @@
 
 &nbsp;
 
-To check if a game has been cracked by the Scene, jump to the [Scene Tracer section on the Megathread's Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_scene_.2F_p2p_tracer_websites). 
+## ► Introduction
 
-For more news of game releases (Scene as well as P2P), visit /r/CrackWatch.
+* **EMPRESS** releases to cs.rin.ru at the Main Forum. Use a download manager to grab the links easily.
 
-Sites labeled **repacks** are for releases that have been repacked from the original release (whether they are Scene, P2P, or GOG). Their intent is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation.
+* The sites described as having **Scene releases** will contain releases from the Scene groups **CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SIMPLEX, DARKSiDERS, PLAZA**, etc. [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
+
+* The sites labeled **REPACKS** are for releases that have been repacked from the original release (whether it is a Scene, P2P, or GOG release). The intent of a repack is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation as an All-In-One package. Not to be confused with [The Scene's definition of REPACK](https://old.reddit.com/r/Piracy/comments/9r54lr/what_does_proper_and_repack_mean/)
+
+* To check if a game has been cracked by the Scene, jump to the [Scene Tracer section on the Megathread's Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_scene_.2F_p2p_tracer_websites). 
+
+* Check the [FAQ page](https://old.reddit.com/r/piracy/wiki/faq#wiki_.25BA_games) for some frequently-asked game-related questions
+
+* Cracked game downloads will always have a readme `*.txt` or `*.nfo` file containing instructions. If you need further assistance, visit /r/CrackSupport 
+
+* For more news of game releases (Scene as well as P2P), visit /r/CrackWatch. For more subreddits, such as Console hacking, ROM piracy, etc, visit the [Related Subreddits page](https://old.reddit.com/r/Piracy/wiki/megathread/related_subreddits)
 
 &nbsp;
 
@@ -57,9 +67,9 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 ## ► Torrent sites
 
-* [rarbg.to](http://rarbg.to/) - Scene releases
+* [rarbg.to](http://rarbg.to/) - Scene releases. GOG games
 
-* [1337x.to](https://1337x.to/) - Well-moderated torrent site. GOG games are reposted here as well as repacks from several popular repack groups, such as FitGirl, ElAmigos, Darck, R.G. Mechanics, Xatab, DODI, etc
+* [1337x.to](https://1337x.to/) - Well-moderated torrent site. Scene and GOG games are reposted here, as well as repacks from several popular repack groups, such as FitGirl, ElAmigos, Darck, R.G. Mechanics, Xatab, DODI, etc
 
 * [rutor.info](http://rutor.info/games) - Game repacks site
 
@@ -200,8 +210,6 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * [romnation.net](https://www.romnation.net/) - Large ROM collection for a large list of different platforms
 
-* [romsmania.cc](https://romsmania.cc/) - Large ROM collection for a large list of different platforms
-
 * [pleasuredome.org.uk](http://www.pleasuredome.org.uk/) - Large ROM collection for a large list of different platforms
 
 * [gamesmega.net](https://gamesmega.net/) - PS Vita, PS4, Switch, 3DS, PSP, 
@@ -210,9 +218,6 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 * [CDRomance](https://cdromance.com) - Formally NicoBlog
 
 * [romstorage.com](https://www.romstorage.com/) - PS Vita, 3DS, Switch, Gameboy, Gameboy Colors, Nintendo 64, NES, SNES, etc
-
-* [ps3iso.net](http://www.ps3iso.net/) - PS3 ROMs
-
 * [gload.cc](https://gload.cc/) - PS4, PS3, Xbox 360, Wii
 
 * [gamestorrents.nu](https://www.gamestorrents.nu/) - Xbox 360, PS4, PS3, PS2, WII, PSP, NDS
@@ -283,9 +288,9 @@ Untrusted sites, release groups & repackers
 
 * **NosTEAM** - Shitty blog site with shoddy ads. Torrent downloads are handled by an intermediary ~3 MiB executable file: the epitome of shady behavior.
 
-* **igg-games.com / pcgamestorrents.com / gamestorrent.co** - These are not recommended on this subreddit as trusted sites for various reasons, but inclusion of malware is not one of them, so you don't need to nuke your PC into orbit (unless you downloaded from an impostor site). With that said, igg games is not recommended mainly due to their history of terrible practices, such as including their own [form of DRM into their .dll files](https://reddit.com/r/Piracy/comments/c7356i/igg_infecting_their_downloads_with_their_selfmade/) (some [more info](https://reddit.com/r/Piracy/comments/gv6zmu/why_igg_games_seems_hated/)), and terrible [behavior by the owner/admins](https://reddit.com/r/Piracy/comments/apcvx4/here_we_go_again_igg_this_time_im_not_reporting/).
+* **igg-games.com / pcgamestorrents.com / gamestorrent.co** - These are not recommended on this subreddit as trusted sites for various reasons, but inclusion of malware is not one of them, so you don't need to nuke your PC into orbit (unless you downloaded from an impostor site). With that said, igg games is not recommended mainly due to their history of terrible practices, such as including their own [form of DRM into their .dll files](https://reddit.com/r/Piracy/comments/c7356i/igg_infecting_their_downloads_with_their_selfmade/), another [one](https://old.reddit.com/r/Piracy/comments/afctdw/once_again_with_the_pirated_release_of_the/) (some [extra background info](https://reddit.com/r/Piracy/comments/gv6zmu/why_igg_games_seems_hated/)), and terrible [behavior by the owner/admins](https://reddit.com/r/Piracy/comments/apcvx4/here_we_go_again_igg_this_time_im_not_reporting/).
 
-* Any website using the name of a Scene group (such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, etc.). Scene groups do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (2 notable exceptions are skidrowreloaded.com and skidrowrepacks.com, which are fine to use). [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
+* Any website using the name of a Scene group (such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SIMPLEX, DARKSiDERS, PLAZA, etc.). Scene groups do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (3 notable exceptions are skidrowreloaded.com, skidrowrepacks.com, and skidrowcodex.net, which are fine to use). [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
 
 * Any site you find on Google by searching for "free game downloads", "cracked games", etc. Google de-lists piracy websites from its search results, which means that fake / impostor / malware-spreading sites will float to the top of the search results.
 
