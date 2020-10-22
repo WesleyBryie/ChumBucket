@@ -239,7 +239,7 @@ The following subreddits are centered around altering/hacking the respective con
 
 * /r/SwitchPirates 
 
-* r/SwitchNSPs - Switch NSPs
+* ~~r/SwitchNSPs - Switch NSPs~~ Banned for sharing pirated material
 
 * /r/3DSpiracy - Their [FAQ](https://old.reddit.com/r/3dspiracy/wiki/faq)
 

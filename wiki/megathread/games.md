@@ -15,11 +15,11 @@
 
 * **EMPRESS** releases to cs.rin.ru at the Main Forum. Use a download manager to grab the links easily.
 
-* The sites described as having **Scene releases** will contain releases from the Scene groups **CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SIMPLEX, DARKSiDERS, PLAZA**, etc. [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
+* The sites described as having **Scene releases** will contain releases from the Scene groups **CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA**, etc. [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
 
 * The sites labeled **REPACKS** are for releases that have been repacked from the original release (whether it is a Scene, P2P, or GOG release). The intent of a repack is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation as an All-In-One package. Not to be confused with [The Scene's definition of REPACK](https://old.reddit.com/r/Piracy/comments/9r54lr/what_does_proper_and_repack_mean/)
 
-* To check if a game has been cracked by the Scene, jump to the [Scene Tracer section on the Megathread's Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_scene_.2F_p2p_tracer_websites). 
+* To check if a game has been cracked by the Scene, jump to the [Scene Tracer section on the Megathread's Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_scene_.2F_p2p_tracer_websites). For a general overview of Scene game releases: https://predb.ovh/?q=%40cat%20games
 
 * Check the [FAQ page](https://old.reddit.com/r/piracy/wiki/faq#wiki_.25BA_games) for some frequently-asked game-related questions
 
@@ -156,6 +156,8 @@ Emulators allow you to play console games on the PC. You can find resources for 
 
 ⚠️ There are currently no existing Xbox One emulators. [Check this wiki page for any future developments.](https://emulation.gametechwiki.com/index.php/Xbox_One_emulators)
 
+* [Emulator Files at Gametechwiki](https://emulation.gametechwiki.com/index.php/Emulator_Files) - BIOS files, menu files, etc
+
 * [mGBA](https://mgba.io/) - Game Boy Advance emulator
 
 * [Dolphin](https://github.com/dolphin-emu/dolphin) - GameCube & Wii emulator
@@ -198,19 +200,23 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * [ByAlvro's ROM collection](https://old.reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/) - Super large archive of ROMs
 
-* [the-eye.eu](http://the-eye.eu/public/rom/) - Large ROM collection for a large list of different platforms
+* [the-eye.eu](http://the-eye.eu/public/rom/) - Large ROM collection for various platforms
 
-* [Vimm's Lair](https://vimm.net/?p=vault) - Large ROM collection for a large list of different platforms
+* [Vimm's Lair](https://vimm.net/?p=vault) - Large ROM collection for various platforms
 
-* [emulator.games](https://emulator.games/) - Large ROM collection for a large list of different platforms
+* [emulator.games](https://emulator.games/) - Large ROM collection for various platforms
 
 * [emuparadise.me](https://www.emuparadise.me) - Large ROM collection for a large list of different platforms. Use [this script](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) to reinstate the download links
 
-* [romulation.net](https://www.romulation.net/) - Large ROM collection for a large list of different platforms
+* [romhustler.org](https://romhustler.org/) - Large ROM collection for various platforms
 
-* [romnation.net](https://www.romnation.net/) - Large ROM collection for a large list of different platforms
+* [romulation.net](https://www.romulation.net/) - Large ROM collection for various platforms
 
-* [pleasuredome.org.uk](http://www.pleasuredome.org.uk/) - Large ROM collection for a large list of different platforms
+* [romnation.net](https://www.romnation.net/) - Large ROM collection for various platforms
+
+* [pleasuredome.org.uk](http://www.pleasuredome.org.uk/) - Large retro ROM collection
+
+* [gamulator.com](https://www.gamulator.com/) - Retro ROM collection
 
 * [gamesmega.net](https://gamesmega.net/) - PS Vita, PS4, Switch, 3DS, PSP, 
 
@@ -221,6 +227,10 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 * [gload.cc](https://gload.cc/) - PS4, PS3, Xbox 360, Wii
 
 * [gamestorrents.nu](https://www.gamestorrents.nu/) - Xbox 360, PS4, PS3, PS2, WII, PSP, NDS
+
+* [nxbrew.com](https://nxbrew.com/) - Switch Games: NSPs, XCIs, Homebrews, & CFWs
+
+* [switch-xci.com](https://switch-xci.com/) - Switch NSPs and SCIs
 
 &nbsp;
 
@@ -236,7 +246,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - PC Game Trainers, Cheats, No-CD / No-DVD PlayFixes and Patches, standalone cracks, etc
 
-* [gameburnworld.com](http://www.gameburnworld.com/) - Cheats, Patches, Game Fixes, Trainers, No-CD Patch, etc
+* [gameburnworld.com](http://www.gameburnworld.com/) - Cheats, Patches, Game Fixes, Trainers, No-CD Patches, etc
 
 * [megagames.com](https://megagames.com/) - Game Trainers, Cheats, Mods, Fixes, etc
 
@@ -290,7 +300,7 @@ Untrusted sites, release groups & repackers
 
 * **igg-games.com / pcgamestorrents.com / gamestorrent.co** - These are not recommended on this subreddit as trusted sites for various reasons, but inclusion of malware is not one of them, so you don't need to nuke your PC into orbit (unless you downloaded from an impostor site). With that said, igg games is not recommended mainly due to their history of terrible practices, such as including their own [form of DRM into their .dll files](https://reddit.com/r/Piracy/comments/c7356i/igg_infecting_their_downloads_with_their_selfmade/), another [one](https://old.reddit.com/r/Piracy/comments/afctdw/once_again_with_the_pirated_release_of_the/) (some [extra background info](https://reddit.com/r/Piracy/comments/gv6zmu/why_igg_games_seems_hated/)), and terrible [behavior by the owner/admins](https://reddit.com/r/Piracy/comments/apcvx4/here_we_go_again_igg_this_time_im_not_reporting/).
 
-* Any website using the name of a Scene group (such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SIMPLEX, DARKSiDERS, PLAZA, etc.). Scene groups do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (3 notable exceptions are skidrowreloaded.com, skidrowrepacks.com, and skidrowcodex.net, which are fine to use). [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
+* Any website using the name of a Scene group (such as CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA, etc.). Scene groups do not have public websites. If you find a site using the name of a scene group, they are impersonators. Beware of these sites as they tend to package their releases with malware (3 notable exceptions are skidrowreloaded.com, skidrowrepacks.com, and skidrowcodex.net, which are fine to use). [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
 
 * Any site you find on Google by searching for "free game downloads", "cracked games", etc. Google de-lists piracy websites from its search results, which means that fake / impostor / malware-spreading sites will float to the top of the search results.
 
