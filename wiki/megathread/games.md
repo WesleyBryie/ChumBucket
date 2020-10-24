@@ -102,13 +102,11 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [myabandonware.com](https://www.myabandonware.com/) - Old / retro / "abandoned" games
 
-* [scenegames.to](https://scenegames.to/) - Scene releases
+* [scnlog.me](https://scnlog.me/) - Scene releases. Offers Linux and Mac scene releases.
 
 * [gload.cc](https://gload.cc/) - Scene releases. German site. Reposts ElAmigos repacks (multi-language repacks) and GOG games
 
 * [rlsbb.ru > PC Games](https://rlsbb.ru/category/games/pc/) - Scene releases
-
-* [scnlog.me](https://scnlog.me/) - Scene releases
 
 * [gog-games.com](https://gog-games.com/) - Untouched GOG games. No cracks needed
 
