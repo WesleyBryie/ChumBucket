@@ -52,6 +52,7 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 ## ► **Adblockers & Bypassers**
 
 * [uBlock origin](https://github.com/gorhill/uBlock#installation) - for blocking most ads and pop-ups.
+* [AdNauseam](https://adnauseam.io/) - Based on uBlock Origin. Designed to obfuscate browsing data and protect users from tracking by advertising networks
 * [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
 * [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
 * [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - lightweight executable that blocks and mutes Spotify ads on Windows.

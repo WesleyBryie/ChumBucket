@@ -77,11 +77,11 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * **[Repacks]** [xatab-repack.com](https://t.xatab-repack.com/) - Pre-cracked games
 
+* **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
+
 * **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
 
 * **[Repacks]** [kaoskrew.org](https://kaoskrew.org/) - Pre-cracked games
-
-* **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
 
 * **[Repacks]** [rg-mechanics.org](https://rg-mechanics.org/) - Mirrors RG Mechanics' repacks. Their home location is the tapochek.net forums (closed forums). Their repacks are also posted to rutor.
 
@@ -116,15 +116,17 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * **[Repacks]** [kaoskrew.org](https://kaoskrew.org/) - Pre-cracked games
 
-* **[Repacks]** [kapitalsin.com](http://www.kapitalsin.com/forum/index.php?board=4.0) - Pre-cracked games
+* **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
 
-* **[Repacks]** [elamigos-games.com](https://www.elamigos-games.com/) - Pre-cracked games
+* [masquerade.site](https://masquerade.site/) - Pre-cracked games
+
+* **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
+
+* **[Repacks]** [kapitalsin.com](http://www.kapitalsin.com/forum/index.php?board=4.0) - Pre-cracked games
 
 * **[Repacks]** [darckrepacks.com](https://darckrepacks.com/) - Pre-cracked games
 
-* **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
-
-* **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
+* **[Repacks]** [elamigos-games.com](https://www.elamigos-games.com/) - Pre-cracked games
 
 * **[Repacks]** [blackboxrepack.com](http://www.blackboxrepack.com/) - Pre-cracked games
 
@@ -219,9 +221,13 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 * [gamesmega.net](https://gamesmega.net/) - PS Vita, PS4, Switch, 3DS, PSP, 
 
 * [ziperto.com](https://www.ziperto.com/) - PS2, PSP, PS VITA, 3DS, Switch, GBA, GAMECUBE, NDS, N64, SNES, WII, WII U
-* [CDRomance](https://cdromance.com) - Formally NicoBlog
+
+* [CDRomance](https://cdromance.com) - Formally NicoBlog. PS1, PS2, PSP, Gamecube, DS, GBA, etc
+
+* [nblog.org](https://nblog.org/) - PS3, Vita, Wii
 
 * [romstorage.com](https://www.romstorage.com/) - PS Vita, 3DS, Switch, Gameboy, Gameboy Colors, Nintendo 64, NES, SNES, etc
+
 * [gload.cc](https://gload.cc/) - PS4, PS3, Xbox 360, Wii
 
 * [gamestorrents.nu](https://www.gamestorrents.nu/) - Xbox 360, PS4, PS3, PS2, WII, PSP, NDS
