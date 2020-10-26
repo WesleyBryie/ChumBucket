@@ -19,9 +19,9 @@ In regards to downloading, it depends on the country in which you live, but this
 
 If you are downloading via torrents (ie. Torrenting, through the use of a bittorrent client or other torrent-based application like Popcorn Time, or Showbox -- To disable torrent functionality from Showbox, look through its settings), then yes, you will be caught. Being part of a torrent swarm at all means you are at risk of getting a copyright notice.
 
-Otherwise, downloading through other means, such as direct downloads/DDL **(which would be done directly via your browser, ie. downloading from cloud storage like google drive or mega.nz, or file hosts such as zippyshare, etc.)**, would not get you caught. DDL is a blanket term used for any sort of direct connection between you and a single other server. Such transfers could take the form of HTTP, FTP, etc.
+Otherwise, downloading through other means, such as direct downloads/DDL **(ie. downloading from cloud storage like google drive or mega.nz, or file hosts such as zippyshare, etc.)**, would not get you caught. DDL is a blanket term used for any sort of direct connection between you and a single other server. Basically, if the download is done via HTTP, FTP (either through your browser or a download manager), you will not be caught.
 
-Downloading a `.torrent` file does not classify as torrenting. Browsing a torrent site also will not trigger complaints from your ISP. Continue reading below for an explanation.
+Downloading a `.torrent` file from a website does not classify as torrenting, as that occurs through an HTTP download. Browsing a torrent site also will not trigger complaints from your ISP. Continue reading below for an explanation.
 
 &nbsp;
 
