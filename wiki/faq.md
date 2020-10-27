@@ -110,12 +110,11 @@
 
 ### ► Movies & TV
 
-* [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)
- > Related questions:
- >
- > Why do file sizes of videos with the same resolution vary so much?
- >
- > Which release do I get? Which is better?
+* Why do file sizes of videos with the same resolution vary so much? Which release do I get? Which is better?
+ > Video filesizes vary due to the varying levels of compression settings applied while encoding the video. More info: [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)
+
+* How can I encode a video?
+> To do quick and dirty encodes to lower the filesizes of your video library, check out [Tdarr](https://github.com/HaveAGitGat/Tdarr). To get more polished-looking encodes, you'll want to take a more manual approach. Check the [Wiki > Guides](https://www.reddit.com/r/piracy/wiki/guides) page for proper encoding guides.
 
 * Why do some of my downloads have dull/darkened/washed out colors?
  > You downloaded a video with HDR metadata. You need an HDR-capable display to play it back properly, else you'll have to use a tone-mapping software such as madVR with a video player such as [MPC](https://github.com/clsid2/mpc-hc). [MPV](https://mpv.io/) includes tone-mapping by default.
@@ -143,6 +142,21 @@
 
 Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.php?f=10&t=98158)
 
+* Where do the groups **CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA**, etc release? Do they have a website?
+ > The groups mentioned here are known as Scene groups. "The Scene" is an underground community of different groups who leak and share copyrighted material. They do not have public websites, so any website using their name to advertise themselves are likely only doing so for the purpose of spreading malware. There are other sites that post Scene releases, however. You may find them at the [Megathread > Games](https://old.reddit.com/r/Piracy/wiki/megathread/games) page.
+
+* Where does EMPRESS release to?
+ > Empress releases to the Steam Underground (cs.rin.ru) at the Main Forum. Use a download manager like JDownloader2 to grab the links easily.
+
+* Is EMPRESS a Scene group?
+ > No, EMPRESS is a P2P group. P2P group are groups that release publicly, either to torrent sites or warez boards like csrin.
+
+* Is `x` game cracked? When will it be cracked?
+ > Nobody knows when a game will be cracked. Scene groups don't announce their intentions publicly. P2P groups like EMPRESS *may* announce their next crack, but it's more common for them to just stay silent until they decide to release their new crack. To check if a game has been cracked (especially Denuvo titles), check /r/CrackWatch's pinned thread for [Games with special DRM schemes](https://old.reddit.com/r/CrackWatch/comments/ieo7u4/crack_watch_games/) and their crack status.
+
+* Can I request a game to be cracked?
+ > The Scene doesn't take requests, they crack what they want when they want. If a game is a Steam game that is not protected by a special DRM like the games listed in /r/CrackWatch's pinned Games thread linked above, then you may request someone to share clean steam files at cs.rin.ru, which you may then crack yourself with a Steam Emulator like Mr. Goldberg's. Check the Steam Tools section at the [Megathread > Games](https://old.reddit.com/r/Piracy/wiki/megathread/games) page.
+
 * Will I get banned from steam/origin/uplay/epic if i play a pirated game? **No.**
  > Related: Will I get banned from steam if I use the "Add a non-steam game to my library" function to add a pirated game? **No**.
 
@@ -160,8 +174,8 @@ Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.p
 * Fitgirl's repacks are taking a hecking long time to install. Why?
  > Fitgirl's repacks are extremely compressed, so they'll take a long time to decompress and will take several hours to install, even on a beefy system. They are intended for people with *very* slow or data-capped internet, in order to give them a chance to download a game in a timely manner or without blowing through their data cap. If you have a strong internet connection, you may try downloading the original release from which the repack was created (whether it's a Scene release, P2P, or GOG) or another repacker's repack in order to avoid the super long installation times.
 
-* Why does the cracked game I just installed bring up the store page?
- > Either you didn't apply the crack or your antivirus deleted the cracks. If you installed a scene release (CODEX, CPY, SKIDROW, HOODLUM, etc), read the section below for how to apply the crack. If you've applied the crack but you're still being prompted to buy the game, check your antivirus, as it may have quarantined the crack files. Set an exception for the game install directory and the original download directory. If you installed a repack, then the crack should have been applied automatically, check your antivirus quarantine/exclusion settings as previously stated.
+* Why does the cracked game I just installed bring up the store page or crash with `missing .dll` error messages?
+ > Either you didn't apply the crack files or your antivirus deleted the cracks. If you installed a scene release (CODEX, CPY, SKIDROW, HOODLUM, etc) or other non-Scene release like EMPRESS', read the section below for how to apply the crack. If you've applied the crack but you're still being prompted to buy the game, check your antivirus, as it may have quarantined the crack files. Set an exception for the game install directory and the original download directory. If you installed a repacked (like fitgirl, xatab, elamigos, dodi, etc), then the crack should have been applied automatically, check your antivirus quarantine/exclusion settings as previously stated.
 
 * How do I install a pirated game and apply the crack?
  > If your download yielded a set of rar files in parts (in a sequence of `.r00`, `.r01`, `.r02`, etc.), then simply find the non-numbered `.rar` file, right click on it, and click `extract here`. Example image: https://i.imgur.com/WhaFCSu.jpg. 

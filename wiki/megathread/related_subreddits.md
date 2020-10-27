@@ -28,8 +28,6 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/moddedandroidapps 
 
-* /r/scihub - Support community for Sci-Hub. No requests.
-
 * /r/trackers - For discussion of public and private torrent trackers. No requests of specific pirated titles.
 
 * /r/Invites - Request and offer invites for private trackers that allow for invites to be distributed to such means.
@@ -97,7 +95,7 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 * /r/Emby - Media server. DIY netflix. Parent site is [emby.media](https://emby.media/)
 
-* **/r/Softwarr** - Listings and discussion of software in the Plex/Emby/Kodi ecosystem
+* /r/Softwarr - Listings and discussion of software in the Plex/Emby/Kodi ecosystem
 
 * /r/sonarr - Community  subreddit for Sonarr, the TV feed downloader. Parent site is [sonarr.tv](https://sonarr.tv/)
 
@@ -112,6 +110,28 @@ These subreddits are centered around technologies that have ties with piracy, bu
 * /r/nzbhydra - Community subreddit for NZBHydra, the meta search software for usenet indexers. Parent site is [github.com/theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2)
 
 &nbsp;
+
+
+
+
+
+
+
+
+### ► Books Subreddits
+
+* /r/scihub - Support community for Sci-Hub. No requests.
+
+* /r/libgen - Community for libgen. Do not directly link books. [Their wiki](https://old.reddit.com/r/libgen/wiki/index)
+
+* /r/alexandria - Share and request books
+
+* /r/textbook_piracy - Share and request books
+
+* /r/textbookrequest - Share and request books
+
+&nbsp;
+
 
 
 
@@ -136,12 +156,6 @@ Links and requests
 * /r/STLland - Share STL files
 
 * /r/Scholar - "This subreddit is for requesting and sharing specific articles available in various databases"
-
-* /r/alexandria - Share and request books
-
-* /r/textbook_piracy 
-
-* /r/textbookrequest 
 
 * /r/UKTVLAND 
 
