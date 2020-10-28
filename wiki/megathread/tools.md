@@ -145,7 +145,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [Tixati](https://www.tixati.com/download/) - Extremely customizable. All menus can be rearranged and color scheme can be changed completely.
 * [BiglyBT](https://www.biglybt.com/) - Feature filled, open source, ad-free, bittorrent client. A continuation of the popular client previously known as Vuze
 * [kTorrent](https://kde.org/applications/en/internet/org.kde.ktorrent) - Torrent client for linux
-* [rTorrent](https://github.com/rakshasa/rtorrent) - Torrent client daemon for linux
+* [rTorrent](https://github.com/rakshasa/rtorrent) - Terminal-based torrent client for linux
 * [ruTorrent for rTorrent](https://github.com/Novik/ruTorrent) - Web management UI for rtorrent
 * [Flood for rTorrent](https://github.com/Flood-UI/flood) - Sleek web management UI for rtorrent
 * **[Windows]** [uTorrent 2.2.1 Build 25302](http://web.archive.org/web/2011*/http://download.utorrent.com/2.2.1/utorrent.exe) - If you're still set on using uTorrent, this is a stable old build of uTorrent, before it turned to crap and had malware added. It was released on May 18, 2011. Set `net.discoverable` to False in settings and disable the Web GUI to mitigate security vulnerabilities that were later discovered. You can grab the installer from the wayback machine, as it has it cached. Just navigate to a close date past the release date noted earlier. You can check which version you have downloaded by checking the file's properties, in the details tab.
