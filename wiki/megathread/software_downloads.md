@@ -41,6 +41,8 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [DDL] [lrepacks.ru](https://lrepacks.ru/) - Software repacks
 
+* [DDL] [repack.me](https://repack.me/) - Software repacks
+
 * [DDL] [diakov.net](https://diakov.net/) - Repacks/Pre-cracked software downloads. Hosted on premium hosts
 
 * [DDL] [forum.ru-board.com > Warez](http://forum.ru-board.com/forum.cgi?forum=35) - Warez subforum at ru-board
