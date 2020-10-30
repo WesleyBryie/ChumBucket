@@ -36,6 +36,7 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 
 * [tb.rg-adguard.net/index.php](https://tb.rg-adguard.net/index.php) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
 * [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump
+* [corenoc.de archive](https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/) - Torrent mirrors of Windows 7 that were available at Microsoft's DigitalRiverContent CDN
 * [the-eye.eu/public/MSDN](https://the-eye.eu/public/MSDN/) - The eye's 2.7 TB back up of MSDN dump. Has a lot of hard to find ISOs, Windows 7, etc.
 * [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors for LTSB, LTSC, and consumer edition Windows 10 ISOs. [Original post](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) at MyDigitalLife forums
 * [Windows ISOs at nmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular Russian forum and torrent tracker. Torrents for LTSC and consumer edition Windows 10 ISOs
