@@ -209,8 +209,8 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 
 ## ► Other Download Tools
 
-* [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) - Open-source commandline tool to download video/audio from a large variety of websites. See the [FAQ](https://reddit.com/r/piracy/wiki/faq) for how to install and use properly.
-* [Youtube-dl gui](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, in case you're not comfortable with using the command line.
+* [Youtube-dl](https://youtube-dl.org/) - Open-source commandline tool to download video/audio from a large variety of websites. See the [FAQ](https://reddit.com/r/piracy/wiki/faq) for how to install and use properly.
+* [Youtube-dl GUI](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, in case you're not comfortable with using the command line.
 * [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript to download videos from youtube
 * [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript to download subtitles from youtube
 * [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL and Injector for dumping UWP applications
