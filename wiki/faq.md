@@ -146,19 +146,19 @@ Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.p
  > The groups mentioned here are known as Scene groups. "The Scene" is an underground community of different groups who leak and share copyrighted material. They do not have public websites, so any website using their name to advertise themselves are likely only doing so for the purpose of spreading malware. There are other sites that post Scene releases, however. You may find them at the [Megathread > Games](https://old.reddit.com/r/Piracy/wiki/megathread/games) page.
 
 * Where does EMPRESS release to?
- > Empress releases to the Steam Underground (cs.rin.ru) at the Main Forum. Use a download manager like JDownloader2 to grab the links easily.
+ > EMPRESS releases to the Steam Underground (cs.rin.ru) at the Main Forum. Use a download manager like JDownloader2 to grab the links easily.
 
 * Is EMPRESS a Scene group?
- > No, EMPRESS is a P2P group. P2P group are groups that release publicly, either to torrent sites or warez boards like csrin.
+ > No, EMPRESS is a P2P group. P2P groups are groups that release publicly, either to torrent sites or warez boards like csrin.
 
 * Is `x` game cracked? When will it be cracked?
- > Nobody knows when a game will be cracked. Scene groups don't announce their intentions publicly. P2P groups like EMPRESS *may* announce their next crack, but it's more common for them to just stay silent until they decide to release their new crack. To check if a game has been cracked (especially Denuvo titles), check /r/CrackWatch's pinned thread for [Games with special DRM schemes](https://old.reddit.com/r/CrackWatch/comments/ieo7u4/crack_watch_games/) and their crack status.
+ > Nobody knows when a game will be cracked. Scene groups don't announce their intentions publicly. P2P groups like EMPRESS *may* announce their next crack, but it's more common for them to just stay silent until they decide to release their new crack. As a general rule, games with no special protection can easily be cracked on the same day of its official release, it all depends on whether it's a popular enough game to merit attention. Games with special DRM schemes like Denuvo require require a high degree of knowledge and require laborious work to crack (can be several days to weeks of work), and game cracking groups that are willing to put that much time and effort into doing so are hard to come by. At the time of writing (Nov 2, 2020), there are currently 2 groups working on Denuvo cracks: CPY and EMPRESS. CODEX has previously released Denuvo cracks but it is not likely that they'll do so anymore. To check if a game has been cracked (especially Denuvo titles), check /r/CrackWatch's pinned thread for [Games with special DRM schemes](https://old.reddit.com/r/CrackWatch/comments/ieo7u4/crack_watch_games/) and their crack status.
 
 * Can I request a game to be cracked?
  > The Scene doesn't take requests, they crack what they want when they want. If a game is a Steam game that is not protected by a special DRM like the games listed in /r/CrackWatch's pinned Games thread linked above, then you may request someone to share clean steam files at cs.rin.ru, which you may then crack yourself with a Steam Emulator like Mr. Goldberg's. Check the Steam Tools section at the [Megathread > Games](https://old.reddit.com/r/Piracy/wiki/megathread/games) page.
 
-* Will I get banned from steam/origin/uplay/epic if i play a pirated game? **No.**
- > Related: Will I get banned from steam if I use the "Add a non-steam game to my library" function to add a pirated game? **No**.
+* Will I get banned from steam/origin/uplay/epic if i play a pirated game?
+ > **No.** You will also not get banned from steam if you use the "Add a non-steam game to my library" function to add a pirated game.
 
 * Are the game sites linked in the [megathread](https://www.reddit.com/r/Piracy/wiki/megathread) safe?
  > If you use general trackers that allow user uploading you'll have to be careful and are generally best avoided unless you can be sure the indexer is well-moderated. Also avoid using torrent aggregators/DHT crawlers (such as snowfl, torrentz2, btdig, etc.) to download games or other software. The reason for this is not because the sites intend to infect you with malware, but because their intent is to aggregate as many publicly available torrents as possible into one place. This can include torrents that have been posted to TPB or otherwise spread publicly via the DHT network.
