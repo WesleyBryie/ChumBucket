@@ -198,7 +198,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 * [pluto.tv](http://pluto.tv/welcome) - Official legal service 
 * [github.com/iptv-org/iptv](https://github.com/iptv-org/iptv) - Mass IPTV aggregation
-* [sportsbay.org](https://sportsbay.org/) - Sports & non-sports channels
+* [sportsbay.org](https://sportsbay.org/sports/tv-channels) - Sports & non-sports channels
 * [reboot.tube](https://reboot.tube/) - aka ScrubTV: Pseudo live TV
 * [123tvnow.com](http://123tvnow.com/)
 * [cxtvlive.com](http://www.cxtvlive.com/)
