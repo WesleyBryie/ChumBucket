@@ -145,7 +145,6 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [yesmovies.ag](https://yesmovies.ag/)
 * [hydrax.is](https://hydrax.is/)
 * [teatv.xyz](https://teatv.xyz/)
-* [vmovie.biz](https://vmovie.biz/)
 * [bmovies.nl](https://bmovies.nl/)
 
 &nbsp;

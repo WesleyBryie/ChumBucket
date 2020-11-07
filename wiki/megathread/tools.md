@@ -214,7 +214,7 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 * [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript to download videos from youtube
 * [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript to download subtitles from youtube
 * [UWPDumper](https://github.com/Wunkolo/UWPDumper) - DLL and Injector for dumping UWP applications
-* [Only Fans Data Scraper](https://github.com/DIGITALCRIMINAL/Only Fans) - Scrape all media from an Onlyfans account
+* [Only Fans Data Scraper](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all media from an Onlyfans account
 * [gallery-dl](https://github.com/mikf/gallery-dl) - gallery-dl is a command-line program to download image-galleries and -collections from several image hosting sites 
 * [Anime-Downloader](https://github.com/Oshan96/Anime-Downloader) - Bulk download anime episodes for various websites, in various resolutions, with or without filler episodes
 * [bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Download music from Bandcamp
