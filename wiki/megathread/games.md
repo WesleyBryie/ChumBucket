@@ -58,6 +58,12 @@
 
 More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.php?f=29)
 
+**Game Launchers**
+
+* [Playnite](https://playnite.link/) - Universal game launcher for Windows
+* [GOG Galaxy](https://www.gog.com/galaxy) - Universal game launcher for Windows/MacOS
+* [Lutris](https://lutris.net/) - Universal game launcher for linux
+
 &nbsp;
 
 
@@ -245,6 +251,8 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 
 ## ► Miscellaneous
+
+* [pcgamingwiki.com](https://www.pcgamingwiki.com/) - Solutions wiki for many issues that arise with PC games
 
 * [thetrove.net](https://thetrove.net/) - Archival resource containing tabletop gaming / RPGs
 
