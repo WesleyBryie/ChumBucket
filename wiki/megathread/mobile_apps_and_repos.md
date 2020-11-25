@@ -63,7 +63,7 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 
 * [Newpipe](https://newpipe.schabi.org/) - Watch and download youtube videos. Also offers ability to download from soundcloud.
 
-* [Youtube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - Ad-free youtube, supports background play. Modded version of the official youtube app.
+* [Youtube Vanced](https://vancedapp.com/) - Ad-free youtube, supports background play. Modded version of the official youtube app.
 
 * [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - Youtube Music player and downloader
 &nbsp;

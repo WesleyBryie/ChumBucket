@@ -210,6 +210,7 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 ## ► Other Download Tools
 
 * [Youtube-dl](https://youtube-dl.org/) - Open-source commandline tool to download video/audio from a large variety of websites. See the [FAQ](https://reddit.com/r/piracy/wiki/faq) for how to install and use properly.
+* [Youtube-dlc](https://github.com/blackjack4494/yt-dlc) - Fork of YouTube-dl, intended to be more actively maintained.
 * [Youtube-dl GUI](https://mrs0m30n3.github.io/youtube-dl-gui/) - GUI for youtube-dl, in case you're not comfortable with using the command line.
 * [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Userscript to download videos from youtube
 * [Youtube Subtitle Downloader](https://greasyfork.org/en/scripts/5368-youtube-subtitle-downloader-v20) - Userscript to download subtitles from youtube
