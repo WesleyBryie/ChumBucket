@@ -55,7 +55,7 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 
 ## ► Android Music Apps
 
-* [Freezer](https://notabug.org/exttex/freezer) - Streaming and downloading app for Deezer.
+* [Freezer](https://files.freezer.life) - Streaming and downloading app for Deezer.
 
 * [AIDS](/r/deemix) - Android app for downloading mp3/FLAC from Deezer. Replacement for deezloader
 

@@ -20,7 +20,7 @@
 
 * [Youtube-dl-GUI](https://github.com/MrS0m30n3/youtube-dl-gui) - Desktop GUI for youtube-dl for those not proficient in using the command line.
 
-* [FreezerPC](https://codeberg.org/exttex/freezerpc) - Streaming and downloading app for Deezer. Builds available for Windows and Linux
+* [FreezerPC](https://files.freezer.life) - Streaming and downloading app for Deezer. Builds available for Windows and Linux
 
 * [Deemix](/r/deemix) - Desktop app for downloading mp3/FLAC from Deezer. Replacement for Deezloader.
 
@@ -39,7 +39,7 @@
 
 * [Spotify and Deezer modded apps to allow full ad-less streaming available at Mobilism.](https://forum.mobilism.org/viewforum.php?f=399)
 
-* [Freezer](https://notabug.org/exttex/freezer) - Streaming and downloading app for Deezer.
+* [Freezer](https://files.freezer.life) - Streaming and downloading app for Deezer.
 
 * [AIDS](/r/deemix) - Android app for downloading mp3/FLAC from Deezer. Replacement for deezloader
 
