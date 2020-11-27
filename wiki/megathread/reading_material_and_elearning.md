@@ -52,6 +52,8 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
 Guides and Search Engines dedicated to help you increase your reach in finding content
 
+* [u/NotoriousYEG's Ultimate eBook Search Engine](https://cse.google.com/cse?cx=c46414ccb6a943e39) - Scours the web for ebooks. [Original thread.](https://old.reddit.com/r/EBook_Resources/comments/k15b3z/the_ultimate_ebook_search_engine/)
+
 * [**u/Amosqu's CSE**](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers) - Scours in many sites listed above. [**Guide**](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) to accompany this CSE
 
 * [**r/Piracy's updated ebooks CSE**](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - Removed all dead links and added new websites. See [**here**](https://web.archive.org/web/20180501165358/https://pastebin.com/aapQMv7t) for the contents of the sites it scrapes

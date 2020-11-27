@@ -118,11 +118,13 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 
 
-### ► Books Subreddits
+### ► Book Subreddits
 
 * /r/scihub - Support community for Sci-Hub. No requests.
 
 * /r/libgen - Community for libgen. Do not directly link books. [Their wiki](https://old.reddit.com/r/libgen/wiki/index)
+
+* /r/EBook_Resources - Resources for finding ebooks
 
 * /r/alexandria - Share and request books
 
