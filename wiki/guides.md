@@ -42,15 +42,15 @@
 
 ### ► Encoding / Ripping Guides
 
-* [A Guide to x264](https://www.dropbox.com/s/hrxjr5xv4q27ipe/x264-guide.pdf)
-
 * [Simple x264 Encoding Guide for Handbrake](https://sometimes-archives-things.github.io/archived-things/ptp_guides/Simple-x264-Encoding-Guide-for-Handbrake-\(Mar-13\).html)
 
 * [Basic HANDJOB encoding guide](https://sometimes-archives-things.github.io/archived-things/ptp_guides/The-HANDJOB-Guide.html)
 
 * [The HANDJOB Guide to BluRay Encodes for Mac \(Beginner Friendly\)](https://sometimes-archives-things.github.io/archived-things/ptp_guides/The-HANDJOB-Guide-to-BluRay-Encodes-for-Mac-\(Beginner-Friendly\).html)
 
-* [Encoding and Ripping Archive](https://sometimes-archives-things.github.io/archived-things/)
+* [A Guide to x264](https://www.dropbox.com/s/hrxjr5xv4q27ipe/x264-guide.pdf)
+
+* [**Full encoding and Ripping Archive**](https://sometimes-archives-things.github.io/archived-things/)
 
 &nbsp;
 
