@@ -132,6 +132,8 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 * /r/textbookrequest - Share and request books
 
+* /r/Scholar - "This subreddit is for requesting and sharing specific articles available in various databases"
+
 &nbsp;
 
 
@@ -157,7 +159,7 @@ Links and requests
 
 * /r/STLland - Share STL files
 
-* /r/Scholar - "This subreddit is for requesting and sharing specific articles available in various databases"
+* /r/hamlinks - Share and request cartoons 
 
 * /r/UKTVLAND 
 
