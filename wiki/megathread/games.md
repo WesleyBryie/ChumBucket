@@ -77,6 +77,8 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [1337x.to](https://1337x.to/) - Well-moderated torrent site. Scene and GOG games are reposted here, as well as repacks from several popular repack groups, such as FitGirl, ElAmigos, Darck, R.G. Mechanics, Xatab, DODI, etc
 
+* [rustorka.com](http://rustorka.com/) - Popular Russian torrent tracker and board for games. Scene releases, Steam / GOG / Origin rips. Offers ROMs as well.
+
 * [rutor.info](http://rutor.info/games) - Game repacks site
 
 * [gamestorrents.nu](https://www.gamestorrents.nu/)
@@ -240,7 +242,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * [nxbrew.com](https://nxbrew.com/) - Switch Games: NSPs, XCIs, Homebrews, & CFWs
 
-* [switch-xci.com](https://switch-xci.com/) - Switch NSPs and SCIs
+* [switch-xci.xyz](https://switch-xci.xyz/) - Switch NSPs and SCIs
 
 &nbsp;
 
