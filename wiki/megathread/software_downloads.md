@@ -56,8 +56,6 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [Mac] [macserialjunkie.com/forum](https://www.macserialjunkie.com/forum/) (aka MSJ) - Mac apps bulletin board
 
-* [Mac] [mac-torrents.io](https://mac-torrents.io/) - Popular DDL site for mac apps and games
-
 * [Mac] [macappdownload.com](https://www.macappdownload.com/) - aka Macbed/Appked
 
 * [Mac] [nxmac.com](https://nxmac.com/) - Popular DDL site for mac apps and games
