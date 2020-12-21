@@ -63,7 +63,7 @@
 * My torrent download speeds are hecking slow or stalled even though the torrent site is reporting a ton of seeders for that torrent. What do?
  > As a preliminary measure, check the website you got the torrent file from to see how many peers are in the swarm. If there is an equal or greater amount of peers than seeders, it's only natural that your download speeds will be slow - you'll have to wait it out. If your torrent is stalled, right click on it and choose to re-announce yourself to the swarm.
  >
- > Add [more trackers](https://github.com/ngosang/trackerslist/blob/master/trackers_best.txt) to your torrent. This will give you a chance to gain a larger swarm of peers/seeds who are sharing the same torrent.
+ > Make sure DHT is enabled in your torrent client's settings, this will allow you to find more peers through the DHT network.
  >
  > Most importantly, make sure you are connectable. In your torrent client's settings, find the setting listing the port that it uses for "incoming connections". Change the port number to one in [the range of 49152 - 65535](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Dynamic,_private_or_ephemeral_ports). Visit this [site](https://www.canyouseeme.org/) and enter the port number you changed it to and it'll tell you if you are reachable or not. If it shows you are not reachable, you'll need to whitelist the port number in your [windows firewall settings](https://www.tomshardware.com/news/how-to-open-firewall-ports-in-windows-10,36451.html) and in your router settings. You'll need to google how to accomplish this, as it will depend on your router's model/brand.
  >
