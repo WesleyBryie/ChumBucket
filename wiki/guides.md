@@ -42,6 +42,8 @@
 
 ### ► Encoding / Ripping Guides
 
+* [Audio ripping guides](https://captainrookie.com/)
+
 * [Simple x264 Encoding Guide for Handbrake](https://sometimes-archives-things.github.io/archived-things/ptp_guides/Simple-x264-Encoding-Guide-for-Handbrake-\(Mar-13\).html)
 
 * [Basic HANDJOB encoding guide](https://sometimes-archives-things.github.io/archived-things/ptp_guides/The-HANDJOB-Guide.html)
