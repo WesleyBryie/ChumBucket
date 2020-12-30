@@ -97,10 +97,6 @@
 * How do I download from spotify?
  > You can't. There aren't any tools that can download the unencrypted spotify streams. The best method is to convert your Spotify playlist to a Deezer playlist, then download that via [Deezloader](/r/DeezloadersIsBack). More sites/tools for music available in the [megathread](https://reddit.com/r/Piracy/wiki/megathread/music).
 
-* How Do I download from streaming sites such as Netflix, Hulu, Disney+, etc?
-
- > You don't. The methods detailed above won't work on paid streaming sites such as netflix, hulu, disney+, etc. due to their implementation of the Widevine DRM to encrypt the video stream. Scene groups and p2p groups have obtained methods to crack Widevine-protected streams, but they are kept internal to these groups, due to the fact that public disclosure of these methods would cause the exploits to be patched.
-
 * How do I download from pan baidu?
  > https://cs.rin.ru/forum/viewtopic.php?f=30&t=75480
 

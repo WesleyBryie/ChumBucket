@@ -236,7 +236,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 ## ► **Manga**
 
-* **/r/animepiracy's exhaustive [wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Manga/ranges/A1:H1)
+* **/r/animepiracy's exhaustive [wiki filled with anime streaming, manga, and light novel sites](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Manga/ranges/A1:H1)**
 
 * [MangaPlus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) - Official legal site. Provides initial chapters of popular manga titles for free
 
