@@ -22,7 +22,7 @@ If you have any critique or suggestions you would like to see added to the Megat
 
 
 
-*Make sure your adblocker is on before visiting any of the linked websites*. uBlock Origin is recommended (See page below, Privacy and Security).
+*Make sure your adblocker is on before visiting any of the linked websites*. uBlock Origin is recommended (See the `Tools` page below).
 
 
 ## [► Related / Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits)
