@@ -48,12 +48,6 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/KissCommunitySupport - KissManga + KissAnime support service
 
-* /r/deemix 
-
-* /r/DeezloadersIsBack 
-
-* /r/Soulseek 
-
 
 &nbsp;
 
@@ -117,7 +111,6 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 
 
-
 ### ► Book Subreddits
 
 * /r/scihub - Support community for Sci-Hub. No requests.
@@ -137,6 +130,24 @@ These subreddits are centered around technologies that have ties with piracy, bu
 &nbsp;
 
 
+
+
+
+
+
+### ► Music Subreddits
+
+* /r/deemix - Discussion for Deemux, the Deezer downloading client
+
+* /r/DeezloadersIsBack - Discussion for Deezer downloading apps (originally for Deezloader, now discontinued)
+
+* /r/Soulseek - Discussion for Soulseek, a very famous and widely used music-sharing/downloading client
+
+* /r/FreezerApp - Discussion for Freezer, a Deezer playback and downloading client
+
+* /r/musichoarder - Music hoarder subreddit. Their [wiki](https://old.reddit.com/r/musichoarder/wiki/index)
+
+&nbsp;
 
 
 
