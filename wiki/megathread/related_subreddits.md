@@ -73,7 +73,7 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 * /r/VPNTorrents - Discussion of VPNs for the purpose of torrenting
 
-* /r/NetflixViaVPN 
+* /r/NetflixByProxy - Discussion of VPNs or other proxies with which to access region-locked content
 
 * /r/sideloaded - For sideloading 3rd party apps onto your iPhone or iPad
 
