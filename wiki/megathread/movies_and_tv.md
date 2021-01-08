@@ -494,7 +494,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 * [AvistaZ](https://avistaz.to/) - Movies/TV tracker. One of the best places for Asian (mainly Japan, South Korea, China etc) movies and TV shows. Best place for Korean dramas. Easiest way to join is through application on their site. Also one of the few top trackers that have open signups from time to time.
 
-* [Blutopia](http://blutopia.xyz/) - Movies/TV tracker. Very nice tracker for Movies and TV. Like other private trackers, you can make the most of it through the use of its request section.
+* [Blutopia](http://blutopia.xyz/) - Movies/TV tracker. Very nice tracker for Movies and TV. Like other private trackers, you can make the most of it through the use of its request section. As SD encodes are not allowed on this tracker, it is a great source for untouched DVDs, especially if you aren't in top trackers yet
 
 * [animebytes.tv](https://animebytes.tv/) - Anime tracker. The most complete anime tracker.
 
