@@ -129,7 +129,6 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [lookmovie.ag](https://lookmovie.ag/)
 * [vidcloud9.com](https://vidcloud9.com/)
 * [sockshare.ac](http://sockshare.ac/)
-* [ffilms.club](https://ffilms.club/)
 * [soap2day.com](https://www.soap2day.com/)
 * [fmovies.to](https://fmovies.to/)
 * [5movies.live](https://5movies.live/)
