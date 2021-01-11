@@ -24,7 +24,7 @@
 
 * [Deemix](/r/deemix) - Desktop app for downloading mp3/FLAC from Deezer. Replacement for Deezloader.
 
-* [Chimera](https://notabug.org/Aesir/chimera) - Supports downloading music from multiple platforms.
+* [Chimera](https://github.com/CedArctic/Chimera) - Supports downloading music from multiple platforms.
 
 * [Soulseek](http://www.slsknet.org/news/node/1) - Desktop app that connects you to a P2P network used for downloading music (any format). Unlike bittorrent, the protocol used here is direct P2P i.e. downloading and uploading is not done with multiple users simultaneously but with a single user (like downloading a file from a website). This provides more security than public trackers as there is no swarm for copyright trolls to stay in and monitor. Though there is no quality control here, the chances of encountering low quality files is still quite low. For people wanting to share their libraries, soulseek is the easiest and fastest way.
 
