@@ -156,6 +156,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 ### ► **Android Streaming Apps**
 
+* **[Anime]** [AnimeZone](https://animezone.info/) - Anime streaming app. [Their github.](https://github.com/spyderbibek/Anime-Zone)
 * **[Anime]** [AnimeMolecules](https://animemolecules.com/) - Anime streaming app
 * **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
 * **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
