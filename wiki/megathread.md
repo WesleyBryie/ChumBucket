@@ -11,7 +11,7 @@
 
 &nbsp;
 
-Alternative megathread [here](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) (original [reddit thread](https://old.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/)) or at /r/FREEMEDIAHECKYEAH (more than just piracy).
+Alternative megathread [here](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) (original [reddit thread](https://old.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/)) or at **/r/FREEMEDIAHECKYEAH** (more than just piracy).
 
 If you have any critique or suggestions you would like to see added to the Megathread, or would like to be granted contribution privileges, send us a mod mail [here](https://www.reddit.com/message/compose?to=%2Fr%2FPiracy&subject=Megathread%20suggestion) (If link doesn't work, then just send a private message with /r/Piracy as the recipient).
 
