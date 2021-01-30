@@ -36,6 +36,10 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 
 * [iDope Torrent Search](https://idope.se/apk/down.html) - Torrent search app for Android
 
+* [Libgen for Android](https://github.com/manuelvargastapia/libgen_mobile_app) - Libgen search/download app
+
+* [Librebook for Android](https://github.com/bagaswastu/librebook) - Libgen search/download app
+
 &nbsp;
 
 
