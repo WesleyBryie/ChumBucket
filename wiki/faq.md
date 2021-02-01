@@ -9,8 +9,8 @@
 
 ### ► General questions
 
-* Will I get in trouble for downloading `x` or browsing a pirate site? How to avoid getting in trouble -- All about copyright infringement complaints and what to do if you've received one.
- > [Guide on protecting yourself when downloading pirated content](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
+* Will I get in trouble for downloading `x` or browsing a pirate site? How to avoid getting in trouble when pirating in general?
+ > [Guide on protecting yourself when downloading pirated content -- All about copyright infringement complaints and what to do if you've received one.](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
 
 * Preliminary measures to take to avoid running malware-infected files (in regards to non-software)
  > [Browsing and downloading guide](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)
@@ -145,7 +145,7 @@ Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.p
  > EMPRESS releases to the Steam Underground (cs.rin.ru) at the Main Forum. Use a download manager like JDownloader2 to grab the links easily.
 
 * Is EMPRESS a Scene group?
- > No, EMPRESS is a P2P group. P2P groups are groups that release publicly, either to torrent sites or warez boards like csrin.
+ > No, EMPRESS is a P2P group. P2P is a blanket term used for basically any group or persons that are not part of the Scene - they will release via means of torrents, to message boards like cs.rin.ru, etc.
 
 * Is `x` game cracked? When will it be cracked?
  > Nobody knows when a game will be cracked. Scene groups don't announce their intentions publicly. P2P groups like EMPRESS *may* announce their next crack, but it's more common for them to just stay silent until they decide to release their new crack. As a general rule, games with no special protection can easily be cracked on the same day of its official release, it all depends on whether it's a popular enough game to merit attention. Games with special DRM schemes like Denuvo require require a high degree of knowledge and require laborious work to crack (can be several days to weeks of work), and game cracking groups that are willing to put that much time and effort into doing so are hard to come by. At the time of writing (Nov 2, 2020), there are currently 2 groups working on Denuvo cracks: CPY and EMPRESS. CODEX has previously released Denuvo cracks but it is not likely that they'll do so anymore. To check if a game has been cracked (especially Denuvo titles), check /r/CrackWatch's pinned thread for [Games with special DRM schemes](https://old.reddit.com/r/CrackWatch/comments/ieo7u4/crack_watch_games/) and their crack status.

@@ -1,7 +1,9 @@
 ---
 ---
 
-[◄◄ Back to Guides](https://www.reddit.com//r/piracy/wiki/guides)
+[◄◄ **Back to Guides**](https://www.reddit.com//r/piracy/wiki/guides)
+
+[◄◄ **Back to FAQ**](https://www.reddit.com//r/piracy/wiki/faq)
 
 ---
 ---
@@ -147,9 +149,9 @@ MAM: MyAnonaMouse
 
 * Remuxes: PrivateHD, BeyondHD, HDTorrents
 
-* Movies: HDTorrents, PrivateHD, BeyondHD, Blutopia, UHDBits
+* Movies: HDTorrents, PrivateHD, BeyondHD, Blutopia, UHDBits, TorrentLeech, FileList , IPT
 
-* TV: MoreThanTV, PrivateHD, HDTorrents, Blutopia
+* TV: MoreThanTV, PrivateHD, HDTorrents, Blutopia, TorrentLeech, FileList , IPT
 
 * Music: RED, JPopsuki (Asian), Desi.cd (Indian)
 
