@@ -78,6 +78,11 @@
 
 * [Method to Extract Epub from Pearson eText](https://www.reddit.com/r/Piracy/comments/d3g7rw/method_to_extract_epub_from_pearson_etext/) - Guide by u/ph__throwaway
 
+* [Internet Archive ~ Borrowing Picture Books](https://old.reddit.com/r/Piracy/comments/fm1xpw/internet_archive_borrowing_picture_books/) - Guide by u/look_who_it_isnt
+
+* [How to download books from Archive.org and how to remove DRM protection of the downloaded book using Calibre](https://old.reddit.com/r/Piracy/comments/l9exis/how_to_download_books_from_archive_org_and_how_to/) - Guide by u/silentshot546
+
+
 &nbsp;
 
 
