@@ -73,7 +73,7 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 ## ► Torrent sites
 
-* [rarbg.to](http://rarbg.to/) - Scene releases. GOG games
+* [rarbg.to](http://rarbg.to/) - Scene releases. GOG games. No need to worry if it re-directs you to another proxy, it's just load balancing.
 
 * [1337x.to](https://1337x.to/) - Well-moderated torrent site. Scene and GOG games are reposted here, as well as repacks from several popular repack groups, such as FitGirl, ElAmigos, Darck, R.G. Mechanics, Xatab, DODI, etc
 
@@ -118,7 +118,7 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [gog-games.com](https://gog-games.com/) - Untouched GOG games. No cracks needed
 
-* [steamunlocked.net](https://steamunlocked.net/) - Pre-installed games (not repacks). Games are entirely downloadable via a single download link rather than several small-sized parts which is more typically the case for DDL sites.
+* [steamunlocked.net](https://steamunlocked.net/) - Pre-installed games (not repacks). Games are entirely downloadable via a single download link rather than several small-sized parts which is typically the case for DDL sites.
 
 * **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free file hosts
 
@@ -126,7 +126,7 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - DDL links are only valid for new releases since they die off quickly. Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
 
-* [masquerade.site](https://masquerade.site/) - Pre-cracked games
+* **[Repacks]** [masquerade.site](https://masquerade.site/) - Pre-cracked games
 
 * **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
 
