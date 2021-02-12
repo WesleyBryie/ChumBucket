@@ -139,8 +139,6 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 * /r/deemix - Discussion for Deemux, the Deezer downloading client
 
-* /r/DeezloadersIsBack - Discussion for Deezer downloading apps (originally for Deezloader, now discontinued)
-
 * /r/Soulseek - Discussion for Soulseek, a very famous and widely used music-sharing/downloading client
 
 * /r/FreezerApp - Discussion for Freezer, a Deezer playback and downloading client
