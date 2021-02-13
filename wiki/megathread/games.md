@@ -9,6 +9,8 @@
 
 ⚠️ **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
+⚠️ First and foremost, stay away from The Pirate Bay. Reason: malware-filled shithole. Read the section at the bottom for more info.
+
 &nbsp;
 
 ## ► Introduction
