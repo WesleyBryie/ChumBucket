@@ -13,6 +13,8 @@
 
 * [How to install and activate Windows 10  - Includes LTSB/LTSC](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
 
+* [How to install and activate Office](https://old.reddit.com/r/Piracy/wiki/guides/office_activation)
+
 * [What are private trackers and how to get started](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
 * [Getting started with usenet - /r/usenet wiki](https://www.reddit.com/r/usenet/wiki/index)
