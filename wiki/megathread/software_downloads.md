@@ -121,6 +121,7 @@ Jump to the [Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools) 
 * [abbodi1406's pastebin for Office 2016 C2R Images ](https://pastebin.com/raw/e8JiAw6E) - Original [post at MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
 * [Massgravel's Pastebin](https://pastebin.com/raw/jduBSazJ) - Various sources for obtaining Genuine Installation Media. Available at the [MAS repository](https://github.com/massgravel/Microsoft-Activation-Scripts/)
 * [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to download Windows 10 and create USB installation media.
+* [Office images for Mac](https://macadmins.software/) - Neatly organized page for MSFT-provided downloads of Mac Office images.
 
 
 &nbsp;
