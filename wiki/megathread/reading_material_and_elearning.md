@@ -21,11 +21,11 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
 * [archive.org/details/texts](https://archive.org/details/texts) - The Internet Archive's immense archive of ebooks.
 
-* [libgen.rs](http://libgen.rs/) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums
+* [libgen.fun](http://libgen.fun/) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums
 
- * [libgen.pw](https://libgen.pw/) - Libgen mirror
+ * [libgen.rs](https://libgen.rs/) - Libgen mirror
 
-* [b-ok.org](https://b-ok.org/) - Formerly known as Bookzz. Mirrors Libgen library with better navigation
+* [b-ok.org](https://b-ok.org/) - Formerly known as Bookzz. Mirrors Libgen library
 
 * [the-eye.eu/public/Books](https://the-eye.eu/public/Books/) - The Eye's extensive eBooks archive
 
@@ -94,7 +94,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 ## ► **Academic / Educational**
 
-* [libgen.rs](http://libgen.rs/) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums
+* [libgen.fun](http://libgen.fun/) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums
 
 * [sci-hub.se](https://sci-hub.se/) - Largest collection of research papers
 
@@ -170,7 +170,9 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [thetrove.net](https://thetrove.net/) - Wide variety of magazines, including tabletop gaming PDFs
 
-* [libgen.rs](http://libgen.rs/) - Mirror ([libgen.pw](https://libgen.pw/))
+* [libgen.fun](http://libgen.fun/)
+
+* [libgen.rs](https://libgen.rs/) - Libgen mirror
 
 * [magazinelib.com](https://magazinelib.com/)
 
@@ -195,7 +197,9 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 ## ► **Comics**
 
-* [libgen.rs](http://libgen.rs/) - Mirror ([libgen.pw](https://libgen.pw/))
+* [libgen.fun](http://libgen.fun/)
+
+* [libgen.rs](https://libgen.rs/) - Libgen mirror
 
 * [getcomics.info](http://getcomics.info/)
 
