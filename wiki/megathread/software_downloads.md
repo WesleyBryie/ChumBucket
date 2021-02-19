@@ -19,7 +19,7 @@
 
 Try to avoid the pirate bay for software, it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
-* [torrents] [monkrus.ws](http://monkrus.ws/) - Highly recommended repacker for various popular software
+* [torrents] [monkrus.ws](http://monkrus.ws/) - Highly recommended and trusted repacker for various popular software
 
 * [torrents] [rutracker.org](http://rutracker.org/) [.org, .net, .nl] - Considered to be the most complete public tracker and is well-seeded. Amazing tracker for software of all types (ie. your favorite graphics/music/video software)
 
