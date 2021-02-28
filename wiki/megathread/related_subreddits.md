@@ -22,7 +22,7 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/ApksApps - Pirate-oriented android apps
 
-* /r/animepiracy 
+* /r/animepiracy - Discussion community related to the piracy of media, including, but not limited to anime, manga, manhwa, light novels, visual novels, and hentai.
 
 * /r/PiratedGames 
 
