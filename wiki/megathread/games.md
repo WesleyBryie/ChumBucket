@@ -17,7 +17,7 @@
 
 * Check the [FAQ page](https://old.reddit.com/r/piracy/wiki/faq#wiki_.25BA_games) for some frequently-asked game-related questions
 
-* **EMPRESS** recently died due to self-trauma in an attempt to merge /r/im14andthisisdeep and /r/EmpressEvolution. RIP
+* **EMPRESS** releases to cs.rin.ru at the Main Forum. Use a download manager to grab the links easily.
 
 * The sites described as having **Scene releases** will contain releases from the Scene groups **CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA**, etc. [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
 

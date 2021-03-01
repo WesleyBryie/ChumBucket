@@ -17,7 +17,7 @@ If you're going to download software/games, [definitely avoid the piratebay](htt
 
 If you're going to download other torrents that aren't software, you can at least take preliminary measures that you're not running a fake file, even if you download from TPB.
 
-The following examples use video files as an example, and while it is wholly possible to include malware in anything, malware in files like video files, PDFs, aren't a likely scenario. Even then, they would have to target a specific program (ie. a specific video player) to attempt to exploit in order to tailor a video file with malware only meant to be able to run on such a video player. The main idea here is to use up-to-date programs in order to prevent being a victim of most of these exploits.
+The following examples use video files as an example, and while it is wholly possible to include malware in anything, malware in files like video files, music files, aren't a likely scenario. Even then, they would have to target a specific program (ie. a specific video player) to attempt to exploit in order to tailor a video file with malware only meant to be able to run on such a video player. The main idea here is to use up-to-date programs in order to prevent being a victim of most of these exploits.
 
 If you're looking for video, obviously an exe file is not what you're looking for, so that's an obvious candidate for the trash bin. Other attack vectors include intentionally bloated videos that simply contain messages like "download `x` codec to properly view this video". In the download folder there may be a link or executable to install the supposed "codecs", which will obviously be malware.
 
