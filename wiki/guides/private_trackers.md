@@ -30,7 +30,7 @@ Invite giveaways and requests: /r/invites
 
 To start off, bear in mind that buying invites will result in a very high chance of you getting banned from the tracker. It is very easy for trackers to catch you, since invites that are sold are harvested from stolen/compromised accounts. Not only will this result in wasted money on your part, it is hugely detrimental to the health of private trackers. Also note that begging for invites is highly frowned upon due to the fact that members are responsible for the people they invite. If the invitee gets in trouble for any reason, it reflects back upon the inviter, potentially affecting their ability to further invite people, and if the offense is serious enough, then both users may get banned from the tracker.
 
-Those familiar with how private trackers work will know not to beg. Consequently, the only thing beggars are achieving is indicating that they are terrible candidates for receiving an invite.
+As a result of the above, those familiar with how private trackers work will know not to beg for invites. Consequently, the only thing beggars are achieving is indicating that they are terrible candidates for receiving an invite.
 
 &nbsp;
 
@@ -112,8 +112,6 @@ PTP: PassThePopcorn
 
 BTN: BroadcastTheNet
 
-AHD: AwesomeHD
-
 GGn: GazelleGames
 
 MAM: MyAnonaMouse
@@ -127,9 +125,9 @@ MAM: MyAnonaMouse
 
  * TV: **HDBits**, **BTN**, PrivateHD, BeyondHD
 
-* Movies: **PTP**, **HDBits**, **AHD**
+* Movies: **PTP**, **HDBits**, BeyondHD
 
-* TV: **BTN**,  **HDBits**
+* TV: **BTN**,  **HDBits**, BeyondHD
 
 * Music: RED, Orpheus, JPopsuki (Asian), Desi.cd (Indian)
 
