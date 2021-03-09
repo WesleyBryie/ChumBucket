@@ -70,7 +70,7 @@ If you have any critique or suggestions you would like to see added to the Megat
 
 * Try to avoid the pirate bay if you can (for software/games), it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
-  * If you are going to use the pirate bay for non-software/games, you'll want to take preliminary steps to avoid accidentally downloading malware when browsing for other types of media (video, audio, etc.). [Guide.](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)
+  * You can still use The Pirate Bay safely when searching for other media types (video, audio, etc.). [Basic guide.](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)
 
 * uTorrent [has bundled malware (a bitcoin miner) into the software in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). The company developing this software is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
 
@@ -80,7 +80,7 @@ If you have any critique or suggestions you would like to see added to the Megat
 
 * [Sidify/Allavsoft are scams - They are not able to download from spotify in any way, and instead record the streams or download from alternative platforms, like youtube.](https://www.reddit.com/r/Piracy/comments/6l2lwh/any_experience_with_sidify/)
 
-* Peerblock is garbage and placebo software. If you were to assume that their IP block lists are accurate, it still would not help to curb copyright complaints against you. Other peers in the swarm do not need to be connected to you in order to see your IP. Your IP will be visible regardless and if found in a torrent swarm, it's liable to be logged and reported.
+* Peerblock is garbage and placebo software. Peerblock's blocklists are not accurate in any way and is not able to discern between the IP of a normal user and that of a copyright troll.
 
 
 &nbsp;

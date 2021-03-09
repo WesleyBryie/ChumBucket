@@ -25,7 +25,7 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
  * [libgen.rs](https://libgen.rs/) - Libgen mirror
 
-* [b-ok.cc](https://b-ok.cc/) - Formerly known as Bookzz. Mirrors Libgen library
+* [z-lib.org](https://z-lib.org/) - Z-Library. Books and articles. Mirrors libgen library.
 
 * [the-eye.eu/public/Books](https://the-eye.eu/public/Books/) - The Eye's extensive eBooks archive
 
