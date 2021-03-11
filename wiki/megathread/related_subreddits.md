@@ -137,7 +137,7 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 ### ► Music Subreddits
 
-* /r/deemix - Discussion for Deemux, the Deezer downloading client
+* /r/deemix - Discussion for Deemix, the Deezer downloading client
 
 * /r/Soulseek - Discussion for Soulseek, a very famous and widely used music-sharing/downloading client
 
