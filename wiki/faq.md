@@ -20,9 +20,6 @@
  >
  > I want to disable updates just in case, how do I do this? **Don't do this. You need security updates.**
 
-* I have Win 10 Home. How do I upgrade to the Pro version?
- > Simply use [hwidgen](https://reddit.com/r/piracy/wiki/megathread/tools)'s `license switch` function: https://i.imgur.com/lmjLOtq.jpg
-
 * [How do I install and activate Office?](https://old.reddit.com/r/Piracy/wiki/guides/office_activation)
 
 * [What is a private tracker and how do I get started? Benefits of private trackers, etc.](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)

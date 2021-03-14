@@ -93,6 +93,23 @@ This activation mode is permanent and will not install a background service, whi
 
 
 
+
+
+
+## ► Upgrading from Win10 Home to Pro
+
+If you wish to upgrade from the Home edition to the Pro edition, you just need to run option `6: Extras` in MAS, then run option `3: Change Windows 10 Edition`
+
+Alternatively, you may also use [hwidgen](https://reddit.com/r/piracy/wiki/megathread/tools) for this and choose the `license switch` function: https://i.imgur.com/lmjLOtq.jpg
+
+&nbsp;
+
+
+
+
+
+
+
 ## ► Upgrading to Windows 10 (from a previous version of Windows)
 
 Alternatively, if you're currently on a previous version of Windows, you'll be pleased to learn that Microsoft still offers a free upgrade to Windows 10 from a prior Windows version (7 and 8). The upgrade tool is still available through Microsoft's accessibility portal (for people who use assistive technologies) which can be found here:

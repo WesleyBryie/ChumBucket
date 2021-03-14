@@ -10,7 +10,7 @@
 
 ## ► Windows/Office tools
 
-* **READ THE NOTES COLUMN**
+* Guided instructions available on [Wiki > Guides.](https://old.reddit.com/r/piracy/wiki/guides)
 
 * Cached links are available to allow you to view the page without needing to sign in.
 
@@ -19,7 +19,7 @@
 
 Tool Name|Version #|URL|Cached Link|Win 7|Win 8/8.1|Win 10/LTSB/LTSC|Office|NOTES
 --|--|--|--|--|--|--|--|--
-MAS|1.4|[Github page](https://github.com/massgravel/Microsoft-Activation-Scripts) - [Latest releases](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) (Don't ask for the zip password)|[Wayback Machine](https://web.archive.org/web/20200828104337/https://github.com/massgravel/Microsoft-Activation-Scripts)| ✓	| ✓	| **Best**| ✓| Activates all Win10 and Office. Download the release and run the `cmd` file located in the `All-In-One-Version` directory. Use `HWID` mode to activate any Win10 version permanently. To activate office, run the option `Online KMS activation` and choose to activate, then run the option `Renewal and Activation Task`
+MAS|1.4|[Github page](https://github.com/massgravel/Microsoft-Activation-Scripts) - [Latest releases](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) (If you have to ask for the zip password... Try more observation)|[Wayback Machine](https://web.archive.org/web/20200828104337/https://github.com/massgravel/Microsoft-Activation-Scripts)| ✓	| ✓	| **Best**| ✓| Activates all Win10 and Office. Download the release and run the `cmd` file located in the `All-In-One-Version` directory. Use `HWID` mode to activate any Win10 version permanently. To activate office, run the option `Online KMS activation` and choose to activate, then run the option `Renewal and Activation Task`
 Office C2R-R2V-AIO | 6.8.0	| [Original post](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/page-28#post-1150042) at MyDigitalLife. abbodi1406's [GitHub Repo](https://github.com/abbodi1406/C2R-R2V-AIO)	| [GDrive](https://drive.google.com/open?id=1h2qQ75BT7OHmMq4N702e1lxR8SnIu8Ci) -- [Dropbox](https://www.dropbox.com/s/b8kdzbbat9n78tt/C2R.pdf?dl=0)	| 	| 	| 	|✓	| Converts Office Retail installations to Volume License.
 KMS_VL_ALL	|34.7	| Forum [discussion page](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/) at MyDigitalLife. Codepen [Page](https://codepen.io/abbodi1406/full/yLaYNKr) (No login needed)	|[GDrive](https://drive.google.com/open?id=17u8O23O4H8tSRhYx0hDUaRSfkW1_olLU) -- [Dropbox](https://www.dropbox.com/s/xv8fn9akuwnv6h1/KMS_VL_ALL.pdf?dl=0)	|✓	|✓	|✓	|✓	|  Activates Office Volume License installations and Windows.  **Does not work on Win7 Ultimate.**
 KMSAuto Net	|1.5.3	|[ru-board forum page](http://forum.ru-board.com/topic.cgi?forum=2&amp;topic=5559#1)	|[Gdrive](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view) -- [Dropbox](https://www.dropbox.com/s/yfy61pslmopnz9g/autokms.pdf?dl=0)	|✓	|✓	|✓	|✓	| Does the same as KMS_VL_ALL. **Does not work on Win7 Ultimate.**
