@@ -213,7 +213,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 ### ► **Anime (Streaming)**
 
-[**/r/AnimePiracy's exhaustive wiki filled with anime streaming, manga, and light novel sites**](https://docs.zoho.com.au/sheet/open/stzn58acc24611fea414e8901724ff4510fe8/sheets/Anime/ranges/B100)
+[**/r/AnimePiracy's exhaustive wiki filled with anime streaming, manga, and light novel sites**](https://piracy.moe/)
 
 [**/r/KissCartoon's extensive anime/manga site wiki**](https://www.reddit.com/r/KissCartoon/wiki/alternatives)
 
