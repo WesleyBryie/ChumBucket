@@ -85,6 +85,8 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [gamestorrents.nu](https://www.gamestorrents.nu/)
 
+* [gnarly-repacks.site](https://www.gnarly-repacks.site/) - Console/Emulator-based game repacks
+
 * **[Repacks]** [xatab-repack.com](https://t.xatab-repack.com/) - Pre-cracked games
 
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
@@ -121,6 +123,8 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 * [gog-games.com](https://gog-games.com/) - Untouched GOG games. No cracks needed
 
 * [steamunlocked.net](https://steamunlocked.net/) - Pre-installed games (not repacks). Games are entirely downloadable via a single download link rather than several small-sized parts which is typically the case for DDL sites.
+
+* [gnarly-repacks.site](https://www.gnarly-repacks.site/) - Console/emulator-based game repacks
 
 * **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free file hosts
 
@@ -257,6 +261,8 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 ## ► Miscellaneous
 
 * [pcgamingwiki.com](https://www.pcgamingwiki.com/) - Solutions wiki for many issues that arise with PC games
+
+* [online-fix.me](https://online-fix.me/) - Multiplayer/Steamworks game fixes
 
 * [thetrove.net](https://thetrove.net/) - Archival resource containing tabletop gaming / RPGs
 
