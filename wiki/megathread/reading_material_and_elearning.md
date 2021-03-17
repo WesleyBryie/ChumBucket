@@ -116,7 +116,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 ## ► **Audiobooks**
 
-* [audiobookbay.nl](http://audiobookbay.nl/) - #1 public tracker for audiobooks. Shares a lot of content with MAM. When viewing the page for a particular audiobook, copy the torrent info hash to paste into your torrent client using the following format: magnet:?xt=urn:btih:`infohash`
+* [audiobookbay.nl](http://audiobookbay.nl/) - #1 public tracker for audiobooks. Shares a lot of content with MAM. To get the magnet link without creating an account, navigate to the page for a particular audiobook, copy the torrent info hash, which you'll paste into your torrent client using the following format: magnet:?xt=urn:btih:`infohash`. Eg. If the infohash is `abc123`, then the magnet link will need to be pasted into your torrent client as `magnet:?xt=urn:btih:abc123`.
 
 * [mobilism.org](http://mobilism.org/) - Warez board
 
