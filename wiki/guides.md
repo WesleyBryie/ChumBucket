@@ -35,6 +35,8 @@
 
 * [Play pirated games on Linux with Lutris](https://old.reddit.com/r/Piracy/comments/dir3do/pirate_games_working_under_linux_here_is_how_to/) - Guide by u/consentio
 
+[The Complete Guide to Building Your Own Personal Streaming Service Powered by Docker and Plex] (https://www.reddit.com/r/Piracy/comments/ma1hlm/the_complete_guide_to_building_your_own_personal/) - Guide by u/WhereIsYourMind
+
 &nbsp;
 
 
