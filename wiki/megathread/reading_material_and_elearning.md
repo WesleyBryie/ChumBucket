@@ -80,7 +80,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 ## ► Book IRCs
 
-* irc://irc.undernet.org/bookz - Read http://encyclopediadramatica.ch/Bookz for an overview on how to download books
+* irc://irc.undernet.org/bookz - Read https://dramatica.online/Bookz for an overview on how to download books
 
 * irc://irc.irchighway.net/ebooks
 
