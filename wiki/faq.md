@@ -141,7 +141,7 @@ Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.p
  > The groups mentioned here are known as Scene groups. "The Scene" is an underground community of different groups who leak and share copyrighted material. They do not have public websites, so any website using their name to advertise themselves are likely only doing so for the purpose of spreading malware. There are other sites that post Scene releases, however. You may find them at the [Megathread > Games](https://old.reddit.com/r/Piracy/wiki/megathread/games) page.
 
 * Where does EMPRESS release to?
- > EMPRESS releases to the Steam Underground (cs.rin.ru) at the Main Forum. Use a download manager like JDownloader2 to grab the links easily.
+ > EMPRESS releases to 1337x
 
 * Is EMPRESS a Scene group?
  > No, EMPRESS is a P2P group. P2P is a blanket term used for basically any group or persons that are not part of the Scene - they will release via means of torrents, to message boards like cs.rin.ru, etc.

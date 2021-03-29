@@ -17,9 +17,9 @@
 
 * Check the [FAQ page](https://old.reddit.com/r/piracy/wiki/faq#wiki_.25BA_games) for some frequently-asked game-related questions
 
-* **EMPRESS** releases to cs.rin.ru at the Main Forum. Use a download manager to grab the links easily.
+* **EMPRESS** releases to 1337x
 
-* The sites described as having **Scene releases** will contain releases from the Scene groups **CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA**, etc. [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
+* The sites described below as having **Scene releases** will contain releases from the Scene groups **CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA**, etc. [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
 
 * The sites labeled **REPACKS** are for releases that have been repacked from the original release (whether it is a Scene, P2P, or GOG release). The intent of a repack is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation as an All-In-One package. Not to be confused with [The Scene's definition of REPACK](https://old.reddit.com/r/Piracy/comments/9r54lr/what_does_proper_and_repack_mean/)
 
@@ -97,8 +97,6 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * **[Repacks]** [rg-mechanics.org](https://rg-mechanics.org/) - Mirrors RG Mechanics' repacks. Their home location is the tapochek.net forums (closed forums). Their repacks are also posted to rutor.
 
-* **[Repacks]** [repack.info](https://repack.info/) - Pre-cracked games
-
 &nbsp;
 
 
@@ -137,8 +135,6 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 * **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
 
 * **[Repacks]** [kapitalsin.com](http://www.kapitalsin.com/forum/index.php?board=4.0) - Pre-cracked games
-
-* **[Repacks]** [darckrepacks.com](https://darckrepacks.com/) - Pre-cracked games
 
 * **[Repacks]** [elamigos-games.com](https://www.elamigos-games.com/) - Pre-cracked games
 
