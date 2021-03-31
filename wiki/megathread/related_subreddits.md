@@ -26,6 +26,8 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/PiratedGames 
 
+* /r/LinuxCrackSupport - Discussion centered around pirated linux games
+
 * /r/moddedandroidapps 
 
 * /r/trackers - For discussion of public and private torrent trackers. No requests of specific pirated titles.
