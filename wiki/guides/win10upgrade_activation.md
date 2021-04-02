@@ -65,7 +65,7 @@ This part is not strictly related to Piracy - you can find guides on how to inst
 
 Requirements:
 
-* A USB drive of at least 4GiB. The Windows 10 ISO installation media is approximately 3.5 GiB in size.
+* A USB drive of at least 4GB. The Windows 10 ISO installation media is approximately 3.5 GiB in size.
 * Another working PC (If you are building a new PC).
 
 If you're on Windows, this part is already covered by the previous step, and was achieved by running MSFT's Media Creation Tool - You may skip to the next step.
