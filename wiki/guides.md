@@ -56,6 +56,8 @@
 
 * [A Guide to x264](https://www.dropbox.com/s/hrxjr5xv4q27ipe/x264-guide.pdf)
 
+* [AHD's Encoding Guide](https://encoding-guide.neocities.org/)
+
 * [**Full encoding and Ripping Archive**](https://sometimes-archives-things.github.io/archived-things/)
 
 &nbsp;
