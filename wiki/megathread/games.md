@@ -260,7 +260,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * [online-fix.me](https://online-fix.me/) - Multiplayer/Steamworks game fixes
 
-* [thetrove.net](https://thetrove.net/) - Archival resource containing tabletop gaming / RPGs
+* [thetrove.is](https://thetrove.is/) - Archival resource containing tabletop gaming / RPGs
 
 * [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - PC Game Trainers, Cheats, No-CD / No-DVD PlayFixes and Patches, standalone cracks, etc
 

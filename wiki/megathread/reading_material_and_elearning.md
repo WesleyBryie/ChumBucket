@@ -168,7 +168,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [Web Archive's Magazine Rack](https://archive.org/details/magazine_rack)
 
-* [thetrove.net](https://thetrove.net/) - Wide variety of magazines, including tabletop gaming PDFs
+* [thetrove.is](https://thetrove.is/) - Wide variety of magazines, including tabletop gaming PDFs
 
 * [libgen.fun](http://libgen.fun/)
 
