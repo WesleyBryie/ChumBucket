@@ -16,7 +16,7 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/CrackSupport -  For those who have already downloaded their desired (pirated) game, but require technical assistance with it.
 
-* [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Cracked software guides and discussion
+* [/s/sjain_guides](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides) - Cracked software guides and discussion
 
 * /r/FREEMEDIAHECKYEAH - Vast Piracy and Free Media resources
 

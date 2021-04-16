@@ -27,8 +27,6 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [torrents] [rarbg.to](https://rarbg.to/) - Mostly Scene releases. In regards to software, it's mostly small-time applications.
 
-* [DDL] [/s/sjain_guides](https://www.saidit.net/s/sjain_guides) - Guides and discussion for highly popular software. Their [wiki](https://saidit.net/s/sjain_guides/wiki/index) contains an expanded list of resources
-
 * [DDL] [sadeempc.com](https://www.sadeempc.com/) - Cracked Windows software
 
 * [DDL] [sanet.st](https://sanet.st) - Cracked Windows software. Don't use the usenet button, it's just an ad

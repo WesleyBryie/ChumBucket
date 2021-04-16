@@ -27,6 +27,8 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
 * [z-lib.org](https://z-lib.org/) - Z-Library. Books and articles. Mirrors libgen library.
 
+* [pdfdrive.com](https://www.pdfdrive.com/) - PDF file search engine
+
 * [the-eye.eu/public/Books](https://the-eye.eu/public/Books/) - The Eye's extensive eBooks archive
 
 * [forcoder.su](https://forcoder.su/) - Focuses on programming textbooks
@@ -116,7 +118,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 ## ► **Audiobooks**
 
-* [audiobookbay.nl](http://audiobookbay.nl/) - #1 public tracker for audiobooks. Shares a lot of content with MAM. To get the magnet link without creating an account, navigate to the page for a particular audiobook, copy the torrent info hash, which you'll paste into your torrent client using the following format: magnet:?xt=urn:btih:`infohash`. Eg. If the infohash is `abc123`, then the magnet link will need to be pasted into your torrent client as `magnet:?xt=urn:btih:abc123`.
+* [audiobookbay.nl](http://audiobookbay.nl/) - #1 public torrent site for audiobooks. Shares a lot of content with MAM. To get the magnet link without creating an account, navigate to the page for a particular audiobook, copy the torrent info hash, which you'll paste into your torrent client using the following format: magnet:?xt=urn:btih:`infohash`. Eg. If the infohash is `abc123`, then the magnet link will need to be pasted into your torrent client as `magnet:?xt=urn:btih:abc123`.
 
 * [mobilism.org](http://mobilism.org/) - Warez board
 
@@ -126,6 +128,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible files to mp3 and other file types
 
+* [tokybook.com](https://tokybook.com/) - Audiobook streaming
 &nbsp;
 
 
