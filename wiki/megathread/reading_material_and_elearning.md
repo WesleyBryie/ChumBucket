@@ -288,7 +288,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [scantrad.net](https://scantrad.net/) - French manga
 
-* [yggtorrent.is](https://yggtorrent.is/) - French general content semi-private torrent tracker
+* [yggtorrent.li](https://yggtorrent.li/) - French general content semi-private torrent tracker
 
 * [sharewood.tv](https://www.sharewood.tv/) - French general content semi-private torrent tracker
 

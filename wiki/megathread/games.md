@@ -21,7 +21,7 @@
 
 * The sites described below as having **Scene releases** will contain releases from the Scene groups **CODEX, CPY, SKIDROW, HOODLUM, RELOADED, SiMPLEX, DARKSiDERS, PLAZA**, etc. [What is "The Scene"?](https://old.reddit.com/r/Piracy/comments/32isgo/noobpirate_what_is_a_scene_cracktorrent/)
 
-* The sites labeled **REPACKS** are for releases that have been repacked from the original release (whether it is a Scene, P2P, or GOG release). The intent of a repack is to provide pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation as an All-In-One package. Not to be confused with [The Scene's definition of REPACK](https://old.reddit.com/r/Piracy/comments/9r54lr/what_does_proper_and_repack_mean/)
+* The sites labeled **REPACKS** are for releases that have been repacked from the original (pirated) release (whether it is a Scene, P2P, or GOG release). The intent of a repack is to provide one-click, pre-cracked installations as well as smaller filesizes, and in many cases, also provide DLCs included in the installation as an All-In-One package. Not to be confused with [The Scene's definition of REPACK](https://old.reddit.com/r/Piracy/comments/9r54lr/what_does_proper_and_repack_mean/)
 
 * To check if a game has been cracked by the Scene, jump to the [Scene Tracer section on the Megathread's Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_scene_.2F_p2p_tracer_websites). For a general overview of Scene game releases: https://predb.ovh/?q=%40cat%20games
 

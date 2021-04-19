@@ -312,7 +312,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 ### ► French Sites
 
-* [yggtorrent.se](https://www.yggtorrent.se/) - Semi-private torrent tracker
+* [yggtorrent.li](https://yggtorrent.li/) - Semi-private torrent tracker
 * [sharewood.tv](https://www.sharewood.tv/) - Semi-private torrent tracker
 * [oxtorrent.cc](https://www.oxtorrent.cc/) - Public torrent tracker
 * [torrent9.ac](https://www.torrent9.ac/) - Public torrent tracker
