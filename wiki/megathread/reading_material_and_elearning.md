@@ -106,8 +106,6 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 * [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - Several links to free eBook resources
 
-* [allitebooks.org](http://www.allitebooks.org/) - Large database of free IT and programming books. Viewable in browser
-
 
 &nbsp;
 
@@ -209,8 +207,6 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 * [Omnibus](https://github.com/fireshaper/Omnibus) - Download from GetComics.info easily
 
 * [readcomiconline.to](https://readcomiconline.to/)
-
-* [readcomicbooksonline.net](https://readcomicbooksonline.net/)
 
 * [comicextra.com](https://www.comicextra.com/)
 

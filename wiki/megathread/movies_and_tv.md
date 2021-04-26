@@ -107,7 +107,6 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [crazy4tv.com](http://crazy4tv.com/)
 * [psarips.com](https://psarips.com/) - Small-sized x265 (re-)encodes
 * [x265movies.cc](https://x265movies.cc/) - Small-sized x265 (re-)encodes
-* **[Movies-only]** [moviefiles.org](https://moviefiles.org/) - Latest movies hosted on google drive
 * **[Movies-only]** [hevcbay.com](https://hevcbay.com/) - Tiny-sized x265 (re-)encodes
 * **[Movies-only]** [x265movies.co](https://x265movies.co/)
 * [**Premium hosts**] [hdencode.com](https://hdencode.com/) - Content downloadable only through premium links/hosts.
@@ -134,17 +133,12 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [5movies.live](https://5movies.live/)
 * [batflix.org](https://ww2.batflix.org/)
 * [openloadmov.com](https://openloadmov.com/)
-* [moviegaga.to](https://moviegaga.to/)
 * [streamlord.com](http://www.streamlord.com/)
-* [lunchflix.com](https://www.lunchflix.com/)
 * [simplestream.in](https://simplestream.in/)
 * [themoviebay.net](https://vww.themoviebay.net/)
 * [himovies.to](https://www.himovies.to/)
-* [solarmovie.fm](https://www.solarmovie.fm/)
 * [yesmovies.ag](https://yesmovies.ag/)
-* [hydrax.is](https://hydrax.is/)
 * [teatv.xyz](https://teatv.xyz/)
-* [bmovies.nl](https://bmovies.nl/)
 
 &nbsp;
 
@@ -157,7 +151,6 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 ### ► **Android Streaming Apps**
 
 * **[Anime]** [AnimeZone](https://animezone.info/) - Anime streaming app. [Their github.](https://github.com/spyderbibek/Anime-Zone)
-* **[Anime]** [AnimeMolecules](https://animemolecules.com/) - Anime streaming app
 * **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
 * **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
 * **[Anime]** [Anyme](https://github.com/zunjae/anYme) - Anime streaming
@@ -218,11 +211,9 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 [**/r/KissCartoon's extensive anime/manga site wiki**](https://www.reddit.com/r/KissCartoon/wiki/alternatives)
 
 * [9anime.to](https://9anime.to/)
-* [chia-anime.me](http://www.chia-anime.me/)
 * [anime8.ru](https://anime8.ru/)
 * [kickassanime.rs](https://kickassanime.rs/)
 * [4anime.to](https://4anime.to/)
-* [Aniwatch.me](https://aniwatch.me/)
 * [animekaizoku.com](https://animekaizoku.com/)
 * [gogoanime.in](https://www5.gogoanime.in/)
 * [aninow.net](https://aninow.net/)

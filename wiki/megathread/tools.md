@@ -102,11 +102,9 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 
 ## ► Pirate Site Proxies / Unblockers
 
-* [torrents.io > proxies](https://torrents.io/proxy/) - List of known proxies offered by several popular pirate sites
 * [knaben.info](https://knaben.info/) - List of known proxies offered by several popular pirate sites
 * [root.yt](https://root.yt/)
 * [unblocked-pw.github.io](https://unblocked-pw.github.io/)
-* [unblockall.org](https://unblockall.org/)
 
 &nbsp;
 
@@ -145,7 +143,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [Deluge](https://dev.deluge-torrent.org/wiki/Download) - Open-source torrent client
 * [Tixati](https://www.tixati.com/download/) - Extremely customizable. All menus can be rearranged and color scheme can be changed completely.
 * [BiglyBT](https://www.biglybt.com/) - Feature filled, open source, ad-free, bittorrent client. A continuation of the popular client previously known as Vuze
-* [kTorrent](https://kde.org/applications/en/internet/org.kde.ktorrent) - Torrent client for linux
+* [kTorrent](https://apps.kde.org/ktorrent/) - Torrent client for linux
 * [rTorrent](https://github.com/rakshasa/rtorrent) - Terminal-based torrent client for linux
 * [ruTorrent for rTorrent](https://github.com/Novik/ruTorrent) - Web management UI for rtorrent
 * [Flood for rTorrent](https://github.com/Flood-UI/flood) - Sleek web management UI for rtorrent

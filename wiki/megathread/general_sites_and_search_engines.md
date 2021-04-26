@@ -20,7 +20,7 @@
 
 * [torrentgalaxy.to](https://torrentgalaxy.to/)
 
-* [nnm-club.me](https://nnm-club.me/) - Russian tracker and forum.
+* [nnmclub.to](http://nnmclub.to/) - Russian tracker and forum.
 
 * [RARBG.to](https://rarbg.to/torrents.php) - Popular torrent tracker. General content Scene releases and p2p releases
 
@@ -55,8 +55,6 @@ Discussion and release boards for multiple types of content
 
 * [forum.snahp.it](https://forum.snahp.it/) - Private forums
 
-* [warez-bb.org](https://warez-bb.org)
-
 * [forum.dirtywarez.com](https://forum.dirtywarez.com/)
 
 * [forum.sbenny.com](https://forum.sbenny.com/)
@@ -69,7 +67,7 @@ Discussion and release boards for multiple types of content
 
 * [warezheaven.com](https://www.warezheaven.com/)
 
-* [nnm-club.me](https://nnm-club.me/) - Russian warez board and torrent tracker
+* [nnmclub.to](http://nnmclub.to/) - Russian warez board and torrent tracker
 
 
 &nbsp;
@@ -106,7 +104,7 @@ Discussion and release boards for multiple types of content
 
 These are sites that index torrents from a predefined list of torrent sites
 
-* [torrentz2.is](https://torrentz2.is/) - Torrent aggregator
+* [torrentz2eu.me](https://torrentz2eu.me/) - Torrent aggregator
 
 * [torlock.com](https://www.torlock.com/) - Aggregates torrents from various popular sites and lists them into categories
 
@@ -148,8 +146,6 @@ These torrent search engines/DHT crawlers are the most powerful torrent search t
 * [btdig.com](https://btdig.com/) - DHT torrent search engine
 
 * [bt4g.org](https://bt4g.org/) - DHT torrent search engine with file category filters
-
-* [skytorrents.lol](https://www.skytorrents.lol/) - DHT torrent search engine with file category filters
 
 * [btdb.eu](https://btdb.eu/) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/trackers/comments/eaqnr5/btdb_bittorrent_database_looking_for_feedback/)
 

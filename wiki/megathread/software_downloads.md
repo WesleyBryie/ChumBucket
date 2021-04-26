@@ -43,9 +43,6 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [DDL] [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Popular Warez forum with request subsections.
 
-* [DDL] [warez-bb.org](http://warez-bb.org/) - This one is especially good for PC software. The site is down most of the time though, sadly. Has the highest number of cracked software than any other resource. For larger torrents though, it is recommended to use MOCH (multi one-click hosters) like real-debrid, or you can try the torrents first while keeping the DDL alternatives as a last resort.
-
-
 * [Mac] [MacBB.org](https://macbb.org/) - Mac apps bulletin board
 
 * [Mac] [macserialjunkie.com/forum](https://www.macserialjunkie.com/forum/) (aka MSJ) - Mac apps bulletin board
