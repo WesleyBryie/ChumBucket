@@ -244,7 +244,7 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 * [nxbrew.com](https://nxbrew.com/) - Switch Games: NSPs, XCIs, Homebrews, & CFWs
 
-* [switch-xci.xyz](https://switch-xci.xyz/) - Switch NSPs and SCIs
+* [switch-xci.xyz](https://switch-xci.xyz/) - Switch NSPs and XCIs
 
 &nbsp;
 
