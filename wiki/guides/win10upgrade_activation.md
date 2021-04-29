@@ -45,7 +45,7 @@ Note: The eval ISOs of LTSB/LTSC cannot be extended past their typical 3 month e
 
 > LTSB isos hosted by the-eye: https://the-eye.eu/public/MSDN/Windows%2010/
 
-> LTSC x86_64 (64-bit) iso: http://cdn.digiboy.ir/?b=dlir-s3&f=SW_DVD5_WIN_ENT_LTSC_2019_64-bit_English_MLF_X21-96425.ISO (original thread [here](https://www.reddit.com/r/Piracy/comments/9wzu0f/ltsc_2019_rereleased_iso_x32x64_en/)).
+> LTSC x86_64 (64-bit) iso: https://mega.nz/folder/ChNTDaiL#nNqH2PTfIzTLAEs8nc-U0w
 
 More resources for Original Windows Installation Media in the [Megathread > Tools section](https://old.reddit.com/r/Piracy/wiki/megathread/tools)
 
