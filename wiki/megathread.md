@@ -70,7 +70,7 @@ If you have any critique or suggestions you would like to see added to the Megat
 
 * Try to avoid the pirate bay if you can (for software/games), it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
-  * You can still use The Pirate Bay safely when searching for other media types (video, audio, etc.). [Basic guide.](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)
+  * You can still use The Pirate Bay safely when searching for other media types (video, audio, etc.) [if you follow some basic steps.](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)
 
 * uTorrent [has bundled malware (a bitcoin miner) into the software in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). The company developing this software is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
 
