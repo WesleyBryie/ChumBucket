@@ -141,7 +141,8 @@ These are sites that index torrents from a predefined list of torrent sites
 
 These torrent search engines/DHT crawlers are the most powerful torrent search tools that can be used to search within as many publicly listed torrents as possible to find rare content that may not be available in the above trackers/indexers.
 
-* [SolidTorrents.net](https://solidtorrents.net) - DHT torrent search engine with file category filters. [Original Thread.](https://www.reddit.com/r/Piracy/comments/bjxlpe/massive_project_update_for_solidtorrents_fake/)
+* [bitsearch.to](https://bitsearch.to/) - DHT torrent search engine with file category filters. Successor to Solid Torrents. [Original Thread.
+](https://www.reddit.com/r/Piracy/comments/ovwrwg/new_torrent_search_engine_in_town_bitsearchto/)
 
 * [btdig.com](https://btdig.com/) - DHT torrent search engine
 
