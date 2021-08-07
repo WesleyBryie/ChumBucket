@@ -458,13 +458,12 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 [Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 
-* [PassThePopcorn (PTP)](https://passthepopcorn.me/) - Movies tracker. Best source for movies, period. One of the best features of this tracker (which is somewhat rare among the tracker community) is the amount of active fleshed out collections to discover content to watch. It's often better than some legit sites dedicated to this stuff.  
-~~Can be joined by becoming Elite on RED. Though this requires a fair amount of patience as the age of account on RED needs to be at least 1 year.~~ Although PTP has removed all their recruitment threads for now, it is still highly recommended to meet their old requirements at the least. Go higher if you can.  
-
+* [PassThePopcorn (PTP)](https://passthepopcorn.me/) - Movies tracker. Best source for movies, period. Couple of unique features - 
+!!!!* The amount of active fleshed out collections available to discover content to watch. It's often better than some legit sites dedicated to this stuff.  
+!!!!* High quality encodes. Many torrents are marked Golden Popcorn (GP). They are best of the best encodes. It is like Oscars but for encodes.  
+Currently it is not possible to join PTP unless you know someone who has an account there and can invite you. The best strategy suggested is to reach as high of a user class you can reach on RED as feasibly possible. This will increase chances when PTP starts recruiting again. In the meantime you can join SC, BHD, BLU etc and make requests there
 
 * [HD-Torrents (HDT)](https://hdts.ru/) - Movies/TV tracker. Focuses on HD content only. This tracker is great for HD movies though not as good as PTP. Specialty lies in allowing of multiple untouched material of the same movie, which helps in getting those foreign languages, different audio/video quality, or even different content in audio/videos. Slightly superior to PTP in this regard. Can be joined through RED or you can just pay for an account through their website. (Note - Only buy the account from their own website, not a 3rd party)
-
-* [awesome-hd.me](https://awesome-hd.me/) - Movies/TV tracker. Focuses on HD content only. Great internal encodes and awesome encoding tutorials.
 
 * [pixelhd.me](https://pixelhd.me/) - Movies tracker. Known for producing small sized encodes. `PxHD Mobies` - 720p/AAC/mp4 at 1.5-2GB (esp. for Mobile Devices); `PxHD/PxEHD` - 1080p/AC3/mp4 at 4GB and 8GB; and `PxHDA` - 1080p/DTS/ at "whatever size is necessary" for high transparency (usually 6-12gb).
 
