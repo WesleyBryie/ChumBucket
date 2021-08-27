@@ -68,11 +68,12 @@ You won't get into any tracker (especially the elite ones) by begging for invite
 
 **Option 1:**
 
-The best way of joining private trackers is through recruitment threads (invite forums) on other trackers. In order to access a tracker's invite forums, you need to rank up -- each tracker will have diferent requirements for ranking up, but will include uploading new content in some capacity. "Power User" is typically the rank required to access a tracker's invite forums. With this in mind, it seems like getting into another tracker requires you to have a presence in another tracker. There has to be a starting point or otherwise it would be a closed loop. Luckily, there is.
+The best way of joining private trackers is through recruitment threads (invite forums) on other trackers. In order to access a tracker's invite forums, you need to rank up -- each tracker will have diferent requirements for ranking up, but will include uploading new content in some capacity. "Power User" is typically the rank required to access a tracker's invite forums. With this in mind, it seems like getting into that other tracker requires you to have a presence in the 1st tracker. That 1st tracker is called the entry tracker which you can join with no prior tracker experience.  
 
-There are a few methods for starting out, but the advice most veterans will give you is to start off with RED (Redacted), which is a music-oriented tracker that gives you a chance to interview with them to join ([interviewfor.red](http://interviewfor.red)). It is an elite-tier tracker so other high tier trackers will recruit at RED's invite forums.
+There are a few starting trackers but the advice most veterans will give you is to start off with RED (Redacted), which is a music-oriented tracker that gives you a chance to interview with them to join ([interviewfor.red](http://interviewfor.red)). It is an elite-tier tracker so other high tier trackers will recruit at RED's invite forums.
 
-RED may be the starting point from which you can get into other high tier trackers, but it has a difficult-to-maneuver ratio economy, which will be exceedingly difficult for newbies who have never been in a private tracker before. To remedy this, it is recommended that you try your hand at a ratio-pure (non-ratioless) tracker that offers open signup at /r/opensignups and figure out how to maneuver in a private tracker environment. Then, once you feel comfortable, you go to apply at RED. The reason to do this is because you are only allowed 1 account per lifetime, so if you are a new user inexperienced with maneuvering around a private tracker, there is a high chance that you will mess up with RED's difficult economy (and therefore getting your account disabled due to low ratio) and lose your chances at joining other elite trackers.
+RED may be the starting point from which you can get into other high tier trackers, but it has a difficult-to-maneuver ratio economy, which might be exceedingly difficult for newbies who have never been in a private tracker before. If you find yourself to be one of those users, it is recommended that you try your hand at the 2nd best starter tracker, MAM. It is one of the easiest trackers to maintain ratio on.  
+Then, once you feel comfortable, you go to apply at RED. The reason to do this is because you are only allowed 1 account per lifetime, so if you are a new user inexperienced with maneuvering around a private tracker, there is a high chance that you will mess up with RED's difficult economy (and therefore getting your account disabled due to low ratio) and lose your chances at joining other elite trackers.
 
 However, a lot of the trackers that recruit at RED will require an account age of 6-12 months (on top of the Power User or Elite rank requirements) before you are eligible to be recruited. To get the clock ticking on your RED account age as soon as possible, it is recommended to apply to RED first, and if you pass the RED Interview, forget about using the tracker for a while (aside from logging in once every 4 months to avoid being pruned for inactivity), while you practice with another ratio-pure tracker, as we stated above. TorrentLeech is recommended (sometimes pops up at /r/OpenSignups), since it has a somewhat difficult economy and you will develop the necessary knowledge. Once you're comfortable with how private trackers work, set your focus back to RED and work on ranking up.
 
@@ -85,6 +86,21 @@ If you don't have any intentions of joining any elite trackers because you feel 
 Alternatively, Blutopia, PrivateHD, BeyondHD, and MTV have open applications from time to time (/r/opensignups tends to announce open applications as well). So instead of applying to MAM, you can wait for news regarding these 4 trackers' announcements of open applications (applications will typically require ratio proofs from other trackers), then apply to get access to a large amount of content. They will require ratio proofs from other trackers (at least 2) in their application.
 
 Keep in mind that ratio proofs from public trackers are worthless. There are a few private trackers whose ratio proofs are also equally worthless due to those trackers' tendency to be very hostile towards other trackers, going as far as ddosing them and attacking them in other ways, which is why they are referred to as "The Insidious Six" or the "scum6" by the tracker community, or alternatively, "The IPT mafia" because they are all owned by the IPT operator. Some of these trackers are IPTorrents, TorrentDay, TorrenTing, speed.cd, SceneTime and Deildu -- no respectable tracker will care about your ratio proofs from these trackers, and as such, being part of the aforementioned 6 trackers will not benefit you in any way in regards to advancing onto better trackers. If you choose to join any one of these (the only one worth joining is IPT, however), make sure to not interact with the community (No posting on forums or commenting on releases) to keep any sort of spotlight off yourself, as people have been known to be banned for very little reason from these trackers.
+
+**Option 3:**
+
+Use this option if you cannot use the other 2 for any reason at all. Couple of examples -
+
+- Trying to join trackers where there is no recruitment threads or any application system (e.g. PTP, BTN, HDB etc)  
+- If you don't have access to RED/MAM's or to their invite forums for any reason at all. 
+
+So here you get involved in the community and start "networking", in forums and irc (and/or more). Slowly you will develop contacts which will invite you top trackers. This includes PTP, BTN, HDB etc which currently cannot be joined through options 1 & 2.  
+There are some drawbacks. Here is a list -  
+
+- You'll be spending more time. Going through invite forums is faster most of the times.   
+- There is a high degree of unpredictability and luck involved. Progress might be very slow or fast depending upon your internet social skills and luck.  
+- You'll be joining through user invites. You seriously don't want that. If the user that invites you makes trouble, you might get in trouble. There is no such risk with official invites  
+- You're more prone to "collecting" trackers, especially when compared to option 1. Using 1, you just go for whatever tracker you want, you don't have to jump through multiple trackers.  
 
 ---
 
