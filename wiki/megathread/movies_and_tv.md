@@ -126,7 +126,6 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [kimcartoon.to](https://kimcartoon.to/) - Cartoons
 * [wcostream.com](https://www.wcostream.com/) - Cartoons
 * [lookmovie.ag](https://lookmovie.ag/)
-* [vidcloud9.com](https://vidcloud9.com/)
 * [sockshare.ac](http://sockshare.ac/)
 * [soap2day.com](https://www.soap2day.com/)
 * [fmovies.to](https://fmovies.to/)
