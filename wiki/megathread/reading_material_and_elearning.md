@@ -304,8 +304,6 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 ## ► Spanish Content Sites
 
 * [epublibre.org](https://www.epublibre.org/) - Books
-* [ebookelo.com](https://www.ebookelo.com/) - Books
-* [lectulandia.co](https://www.lectulandia.co/) - Books
 
 &nbsp;
 
