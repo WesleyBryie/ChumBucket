@@ -15,6 +15,7 @@
 
 ### 1. Submissions must be related to the discussion of digital piracy
 
+ * 1a. No low effort submissions such as sharing seeding ratio screenshots are permitted.
 &nbsp;
 
 
