@@ -189,6 +189,8 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [ebook3000.com](http://ebook3000.com/) - Be sure to use an adblocker
 
+* [magazinesbb.com](https://magazinesbb.com/) ([endorsed here](https://www.reddit.com/r/Piracy/comments/rh5ptp/megathread_update_just_asking/hori7e2/))
+
 &nbsp;
 
 
