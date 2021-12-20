@@ -436,6 +436,9 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * [bs.to](https://bs.to/) - Stream TV Shows
 * [aniflix.tv](https://aniflix.tv/) - Stream anime
 * [animestream.in](https://animestream.in/) - Stream anime
+* [hd-source.to](https://hd-source.to/)
+* [serienfans.org](https://serienfans.org/)
+* [Moviehunterz.cc](https://moviehunterz.cc/)
 
 &nbsp;
 
