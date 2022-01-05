@@ -234,7 +234,7 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 
 ## ► Online Download Tools
 
-* [y2mate.com](https://www.y2mate.com/) - Download youtube video/audio.
+* [y2mate.com](https://www.y2mate.com/) - Download youtube video/audio. (Doesn't work in USA anymore)
 * [9xbuddy.com](https://9xbuddy.com/) - Youtube / Multi-site download site
 * [sasrip.cf](https://sasrip.cf/) - Video / mp3 downloader
 * [tomato.to](https://tomato.to/) - Stock photo downloader. Shutterstock, getty, adobestock, etc.
