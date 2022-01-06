@@ -150,8 +150,6 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [git.ir](https://git.ir/) - Costs many courses/tutorials from udemy, tutsplus, lynda, etc... Available through direct download links.
 
-* [freecoursesite.us](https://freecoursesite.us/) - Download premium courses
-
 * [courseclub.me](https://courseclub.me/) - Download premium courses
 
 * [forcoder.su](https://forcoder.su/) - Focuses on programming textbooks

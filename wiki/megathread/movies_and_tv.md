@@ -188,9 +188,9 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 
 * [HD-Torrents (HDT)](https://hdts.ru/) - Movies/TV tracker. Focuses on HD content only. This tracker is great for HD movies though not as good as PTP. Specialty lies in allowing of multiple untouched material of the same movie, which helps in getting those foreign languages, different audio/video quality, or even different content in audio/videos. Slightly superior to PTP in this regard. Can be joined through RED or you can just pay for an account through their website. (Note - Only buy the account from their own website, not a 3rd party)
 
-* [pixelhd.me](https://pixelhd.me/) - Movies tracker. Known for producing small sized encodes. `PxHD Mobies` - 720p/AAC/mp4 at 1.5-2GB (esp. for Mobile Devices); `PxHD/PxEHD` - 1080p/AC3/mp4 at 4GB and 8GB; and `PxHDA` - 1080p/DTS/ at "whatever size is necessary" for high transparency (usually 6-12gb).
+* [beyond-hd.me (BHD)](https://beyond-hd.me/) - Movies/TV tracker. Focuses on HD and some SD content. Originally home to the famous FRaMeSToR remux group but then many more after AHD died. Currently the best alternative to PTP and BTN. After AHD's demise, this is now the 2nd best tracker for high quality encodes too. Can be joined through RED (either be Elite user class OR power user with 6 months old account)
 
-* [beyond-hd.me (BHD)](https://beyond-hd.me/) - Movies/TV tracker. Focuses on HD and some SD content. Originally home to the famous FRaMeSToR remux group but then many more after AHD died. Currently the best alternative to PTP and BTN. Can be joined through RED (either be Elite user class OR power user with 6 months old account)
+* [pixelhd.me](https://pixelhd.me/) - Movies tracker. Known for producing small sized encodes. `PxHD Mobies` - 720p/AAC/mp4 at 1.5-2GB (esp. for Mobile Devices); `PxHD/PxEHD` - 1080p/AC3/mp4 at 4GB and 8GB; and `PxHDA` - 1080p/DTS/ at "whatever size is necessary" for high transparency (usually 6-12gb).
 
 * [uhdbits.org (UHDB)](https://uhdbits.org/) - Small movies tracker. Should not aim for it as your primary tracker but it is good to have as backup, aim for BHD instead. Can be joined through RED.
 
