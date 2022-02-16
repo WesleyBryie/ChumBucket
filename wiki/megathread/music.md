@@ -20,12 +20,6 @@
 
 * [Youtube-dl-GUI](https://github.com/MrS0m30n3/youtube-dl-gui) - Desktop GUI for youtube-dl for those not proficient in using the command line.
 
-* [FreezerPC](https://files.freezer.life) - Streaming and downloading app for Deezer. Builds available for Windows and Linux
-
-* [Deemix](/r/deemix) - Desktop app for downloading mp3/FLAC from Deezer. Replacement for Deezloader.
-
-* [Chimera](https://github.com/CedArctic/Chimera) - Supports downloading music from multiple platforms.
-
 * [Soulseek](http://www.slsknet.org/news/node/1) - Desktop app that connects you to a P2P network used for downloading music (any format). Unlike bittorrent, the protocol used here is direct P2P i.e. downloading and uploading is not done with multiple users simultaneously but with a single user (like downloading a file from a website). This provides more security than public trackers as there is no swarm for copyright trolls to stay in and monitor. Though there is no quality control here, the chances of encountering low quality files is still quite low. For people wanting to share their libraries, soulseek is the easiest and fastest way.
 
 &nbsp;
@@ -38,10 +32,6 @@
 ## ► Android Apps
 
 * [Spotify and Deezer modded apps to allow full ad-less streaming available at Mobilism.](https://forum.mobilism.org/viewforum.php?f=399)
-
-* [Freezer](https://files.freezer.life) - Streaming and downloading app for Deezer.
-
-* [AIDS](/r/deemix) - Android app for downloading mp3/FLAC from Deezer. Replacement for deezloader
 
 * [Fildo](https://fildo.net/android/en/) - Android app for downloading and streaming music.
 

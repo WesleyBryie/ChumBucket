@@ -75,9 +75,13 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 ## ► **Useful Userscripts**
 
 * [**Violentmonkey**](https://violentmonkey.github.io/) - Open source userscript manager. Required to install any of the below userscripts
+* [**Tampermonkey**](https://www.tampermonkey.net/) - Open source userscript manager. Required to install some userscripts   
+
 * [**greasyfork.org**](https://greasyfork.org/) - Repo for countless useful userscripts
-* [**userscripts-mirror.org**](https://userscripts-mirror.org/) - Alternative scripts repo. Mirror for Userscripts.org
-* [**openuserjs.org**](https://openuserjs.org/) - Alternative scripts repo
+* [**userscripts-mirror.org**](https://userscripts-mirror.org/) - Alternative scripts repo. Mirror for Userscripts.org  
+* [**openuserjs.org**](https://openuserjs.org/) - Alternative scripts repo  
+
+* [musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music from musescore for free
 * [URL-Shortener-Unshortened](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adds button next to shortened URLs which resolves the URL to its true location
 * [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Enables copying text from websites that try to prevent copying
 * [absolute-enable-right-click-and-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy) - Enables right clicking and copying on websites that try to prevent right clicking

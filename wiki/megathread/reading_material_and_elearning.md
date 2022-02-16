@@ -268,7 +268,17 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 &nbsp;
 
 
+## ► **Private torrent trackers**
 
+[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+
+* [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - One of the 2 biggest private tracker for ebooks/audiobooks. The focus is on the fictional ebooks side unlike libgen though making requests can do the job. Also the best place for audiobooks in numbers though overall quality lacks a little. Similar to libgen, it's also a great place to contribute
+
+* [bitspyder.net](http://bitspyder.net/) - Tracker that focuses on e-learning content.
+
+* [thegeeks.click/](https://thegeeks.click/) - Large tracker that focuses on e-learning content
+
+* [bibliotik](https://bibliotik.me/) - Best private tracker for ebooks. Also has audiobooks though MAM's selection is better. One of the best request section on the internet, so make a request for anything you can't find
 
 
 
@@ -313,17 +323,7 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
-## ► **Private torrent trackers**
 
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
-
-* [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - One of the 2 biggest private tracker for ebooks/audiobooks. The focus is on the fictional ebooks side unlike libgen though making requests can do the job. Also the best place for audiobooks in numbers though overall quality lacks a little. Similar to libgen, it's also a great place to contribute
-
-* [bitspyder.net](http://bitspyder.net/) - Tracker that focuses on e-learning content.
-
-* [thegeeks.click/](https://thegeeks.click/) - Large tracker that focuses on e-learning content
-
-* [bibliotik](https://bibliotik.me/) - private tracker for ebooks/audiobooks
 
 
 
