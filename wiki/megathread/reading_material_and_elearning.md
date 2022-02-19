@@ -127,6 +127,9 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible files to mp3 and other file types
 
 * [tokybook.com](https://tokybook.com/) - Audiobook streaming
+
+* [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - Biggest private tracker for audiobooks. Has a great request section. It's also a great place to contribute your own uploads
+
 &nbsp;
 
 
@@ -137,6 +140,8 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 ## ► **Courses/Tutorials**
 
 See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
+
+* [FTU Udemy](https://www.ftuudemy.com/) - Best torrent website for udemy courses
 
 * [coursehunter.net](https://coursehunter.net/) - Legal site. Find free tutorials online
 
@@ -222,7 +227,6 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
-
 ## ► Misc
 
 * [pindiy.com](https://www.pindiy.com/) - Sewing patterns
@@ -232,6 +236,19 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 &nbsp;
 
 
+
+
+## ► **Private torrent trackers**
+
+[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+
+* [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - One of the 2 biggest private tracker for ebooks/audiobooks. The focus is on the fictional ebooks side unlike libgen though making requests can do the job. Also the best place for audiobooks in numbers though overall quality lacks a little. Similar to libgen, it's also a great place to contribute
+
+* [bitspyder.net](http://bitspyder.net/) - Tracker that focuses on e-learning content.
+
+* [thegeeks.click/](https://thegeeks.click/) - Large tracker that focuses on e-learning content
+
+* [bibliotik](https://bibliotik.me/) - Best private tracker for ebooks. Also has audiobooks though MAM's selection is better. One of the best request section on the internet, so make a request for anything you can't find
 
 
 
@@ -268,17 +285,6 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 &nbsp;
 
 
-## ► **Private torrent trackers**
-
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
-
-* [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - One of the 2 biggest private tracker for ebooks/audiobooks. The focus is on the fictional ebooks side unlike libgen though making requests can do the job. Also the best place for audiobooks in numbers though overall quality lacks a little. Similar to libgen, it's also a great place to contribute
-
-* [bitspyder.net](http://bitspyder.net/) - Tracker that focuses on e-learning content.
-
-* [thegeeks.click/](https://thegeeks.click/) - Large tracker that focuses on e-learning content
-
-* [bibliotik](https://bibliotik.me/) - Best private tracker for ebooks. Also has audiobooks though MAM's selection is better. One of the best request section on the internet, so make a request for anything you can't find
 
 
 
