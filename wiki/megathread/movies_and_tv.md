@@ -108,38 +108,10 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 
 
-### ► **Streaming**
-
-*For streaming with Kodi, visit r/Addons4Kodi*
-
-* [kimcartoon.to](https://kimcartoon.to/) - Cartoons
-* [wcostream.com](https://www.wcostream.com/) - Cartoons
-* [lookmovie.ag](https://lookmovie.ag/)
-* [sockshare.ac](http://sockshare.ac/)
-* [soap2day.com](https://www.soap2day.com/)
-* [fmovies.to](https://fmovies.to/)
-* [5movies.buzz](https://5movies.buzz/)
-* [batflixmovies.club](https://www.batflixmovies.club/)
-* [openloadmov.com](https://openloadmov.com/)
-* [streamlord.com](http://www.streamlord.com/)
-* [themoviebay.net](https://vww.themoviebay.net/)
-* [himovies.to](https://www.himovies.to/)
-* [yesmovies.ag](https://yesmovies.ag/)
-* [teatv.xyz](https://teatv.xyz/)
-
-&nbsp;
-
-
-
-
-
-
-
 ### ► **Android Streaming Apps**
 
 * **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
 * **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
-* **[Anime]** [Anyme](https://github.com/zunjae/anYme) - Anime streaming
 * [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
 * [Nova TV](https://novatv.app/) - Movies/TV streaming
 * [Viva TV](https://vivatv.io/) - Movies/TV streaming
@@ -150,6 +122,8 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [BeeTV](https://beetvapk.net/) - Movies/TV streaming
 
 &nbsp;
+
+
 
 
 
@@ -196,7 +170,35 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 
 * [alpharatio.cc](https://alpharatio.cc/) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
 
+* [Nebulance (NBL)](https://nebulance.io/) - Very good alternative to BTN and easy to join. Should ideally be used along with BHD or BLU as many rips that cannot be uploaded to those trackers can be found here. NBL can be joined through MAM. You are eligible the moment you become PU, which is 1 month
+
 &nbsp;
+
+
+
+
+
+### ► **Streaming**
+
+*For streaming with Kodi, visit r/Addons4Kodi*
+
+* [kimcartoon.to](https://kimcartoon.to/) - Cartoons
+* [wcostream.com](https://www.wcostream.com/) - Cartoons
+* [lookmovie.ag](https://lookmovie.ag/)
+* [sockshare.ac](http://sockshare.ac/)
+* [soap2day.com](https://www.soap2day.com/)
+* [fmovies.to](https://fmovies.to/)
+* [5movies.buzz](https://5movies.buzz/)
+* [batflixmovies.club](https://www.batflixmovies.club/)
+* [openloadmov.com](https://openloadmov.com/)
+* [streamlord.com](http://www.streamlord.com/)
+* [themoviebay.net](https://vww.themoviebay.net/)
+* [himovies.to](https://www.himovies.to/)
+* [yesmovies.ag](https://yesmovies.ag/)
+* [teatv.xyz](https://teatv.xyz/)
+
+&nbsp;
+
 
 
 
