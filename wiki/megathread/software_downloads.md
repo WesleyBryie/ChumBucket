@@ -61,7 +61,7 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 ## ► Sites focused on graphics / audio / video software
 
-* [torrents] [vstorrent.org](https://vstorrent.org/) - Video software and plugins.
+* [torrents] [vstorrent.org](https://vstorrent.org/) - Audio software and plugins.
 
 * [torrents/private] [audionews.org](https://audionews.org/) - Audio software and plugins, as well as tutorials. ***Registration opens on the 2nd of every month (Midnight / Moscow time).***
 

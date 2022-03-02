@@ -87,8 +87,6 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [gnarly-repacks.site](https://www.gnarly-repacks.site/) - Console/Emulator-based game repacks
 
-* **[Repacks]** [xatab-repack.com](https://t.xatab-repack.com/) - Pre-cracked games
-
 * **[Repacks]** [fitgirl-repacks.site](http://fitgirl-repacks.site/) - Popular website for highly compressed game repacks -- games can take several hours to install. Recommended if you have very slow or data-capped internet.
 
 * **[Repacks]** [dodi-repacks.site](http://dodi-repacks.site/) - Pre-cracked games
@@ -197,6 +195,26 @@ Emulators allow you to play console games on the PC. You can find resources for 
 
 
 
+## ► Private trackers
+
+[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+
+* [Gazellegames.net (GGn)](https://gazellegames.net) - Best source for games for enthusiasts. Carries games from basically any console. Can be joined through RED
+
+* [PixelCove](https://www.pixelcove.me/) - Another pretty great source of games for the enthusiast crowd.
+
+* [TorrentLeech](https://www.torrentleech.org/) - One of the largest general private trackers
+
+* [alpharatio.cc](https://alpharatio.cc/) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
+
+* [Filelist](https://filelist.io/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
+
+* [IPTorrents](http://iptorrents.com/) - The largest general private tracker
+
+&nbsp;
+
+
+
 
 
 
@@ -248,25 +266,6 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 
 
-
-
-## ► Private trackers
-
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
-
-* [Gazellegames.net (GGn)](https://gazellegames.net) - Best source for games for enthusiasts. Carries games from basically any console. Can be joined through RED
-
-* [PixelCove](https://www.pixelcove.me/) - Another pretty great source of games for the enthusiast crowd.
-
-* [TorrentLeech](https://www.torrentleech.org/) - One of the largest general private trackers
-
-* [alpharatio.cc](https://alpharatio.cc/) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
-
-* [Filelist](https://filelist.io/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
-
-* [IPTorrents](http://iptorrents.com/) - The largest general private tracker
-
-&nbsp;
 
 
 

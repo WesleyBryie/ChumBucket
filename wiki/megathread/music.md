@@ -16,9 +16,8 @@
 
 ## ► Desktop Apps
 
-* [Youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download video/audio from Youtube videos and other sites. 
 
-* [Youtube-dl-GUI](https://github.com/MrS0m30n3/youtube-dl-gui) - Desktop GUI for youtube-dl for those not proficient in using the command line.
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - (their own description) yt-dlp is a youtube-dl fork based on the now inactive youtube-dlc. The main focus of this project is adding new features and patches while also keeping up to date with the original project
 
 * [Soulseek](http://www.slsknet.org/news/node/1) - Desktop app that connects you to a P2P network used for downloading music (any format). Unlike bittorrent, the protocol used here is direct P2P i.e. downloading and uploading is not done with multiple users simultaneously but with a single user (like downloading a file from a website). This provides more security than public trackers as there is no swarm for copyright trolls to stay in and monitor. Though there is no quality control here, the chances of encountering low quality files is still quite low. For people wanting to share their libraries, soulseek is the easiest and fastest way.
 

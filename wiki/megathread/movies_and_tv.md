@@ -112,6 +112,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 * **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
 * **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
+* **[Anime]** [aniyomi](https://github.com/jmir1/aniyomi) - (their own description) *Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above.*
 * [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
 * [Nova TV](https://novatv.app/) - Movies/TV streaming
 * [Viva TV](https://vivatv.io/) - Movies/TV streaming
