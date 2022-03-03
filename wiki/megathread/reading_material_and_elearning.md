@@ -43,7 +43,7 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
 * [s3.bitdownload.ir](http://s3.bitdownload.ir/) - Open directory of eBooks
 
-* [Large list of ebook sites \(some defunct\)](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/)
+* [Large list of ebook sites \(some defunct\)](https://www.unddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/)
 
 &nbsp;
 

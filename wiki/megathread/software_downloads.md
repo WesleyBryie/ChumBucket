@@ -69,15 +69,14 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [torrents/private] [cgpeers.com](https://www.cgpeers.com) - Graphics software/plugins downloads and discussion - 3D/Visual Effects/Computer Graphics/Design/Computer Assisted Art. ~~Registration opens on the 1st and 15th of every month.~~. ***User cap reached, tracker is completely closed, invites are disabled.***
 
-* [DDL/private] [cgpersia.com](https://forum.cgpersia.com/) - Graphics software and plugins. Registration is currently closed.
-
 * [DDL] [flsaudio.com](https://flsaudio.com) - Audio software and plugins.
 
 * [DDL] [audioz.download](https://audioz.download/) - Audio software and plugins.
 
-* [DDL] [forum.gfxdomain.net](https://forum.gfxdomain.net/) - Graphics software and plugins, as well as tutorials.
+* [DDL/private] [cgpersia.com](https://forum.cgpersia.com/) - Graphics software and plugins. Registration is currently closed.
 
-* [DDL] [gfx-hub.net](https://gfx-hub.net/) - Graphics software and plugins.
+* [DDL/private] [forum.gfxdomain.net](https://forum.gfxdomain.net/) - Graphics software and plugins, as well as tutorials.
+
 
 &nbsp;
 
