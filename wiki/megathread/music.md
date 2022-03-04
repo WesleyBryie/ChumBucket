@@ -102,4 +102,10 @@
 
 * [Orpheus.network](https://orpheus.network/) -  Aka OPS. FLAC, mp3, m4a. Second best music private tracker, after RED. Much easier ratio economy compared to RED. In addition, there is a thread where you can request any torrent available on RED, without putting a request. This provides full access to RED without the hard economy. It is highly beneficial to have accounts on both trackers.
 
+&nbsp;
+
+## ► Sheet music
+
+* [musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music from musescore for free
+
 &nbsp;
