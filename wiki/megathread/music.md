@@ -49,6 +49,8 @@
 
 ## ► DDL Sites (Direct Downloads)
 
+* (Discord) [GamesDrive / SlavDoge](https://discord.com/invite/gwxRf6ySGK) - Deezer, Qobuz, TIDAL, and SoundCloud Download Bot. The link straight takes you to discord server invite. There you can get direct download link by pasting the url for the supported streaming sites in the appropriate channel. Bot responds fast and download is fast
+
 * /r/MusicalBootlegs - Broadway bootlegs
 
 * [Jimmyr mp3 search](http://www.jimmyr.com/mp3_search.php) - Custom search and downloader to find mp3 files on google.
