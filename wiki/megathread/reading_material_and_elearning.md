@@ -227,16 +227,6 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 
 
-## ► Misc
-
-* [pindiy.com](https://www.pindiy.com/) - Sewing patterns
-
-* [eeff.net](http://www.eeff.net/forum.php?gid=298) - Sewing patterns
-
-&nbsp;
-
-
-
 
 ## ► **Private torrent trackers**
 
@@ -283,6 +273,36 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 * [cmreader.info](http://www.cmreader.info/)
 
 &nbsp;
+
+
+
+
+
+
+## ► **Light Novels**
+
+* [LNReader](https://github.com/LNReader/lnreader) - LNReader is a Tachiyomi-like, free and open source light novel reader for Android. 
+
+&nbsp;
+
+
+
+
+
+## ► Misc
+
+* [pindiy.com](https://www.pindiy.com/) - Sewing patterns
+
+* [eeff.net](http://www.eeff.net/forum.php?gid=298) - Sewing patterns
+
+&nbsp;
+
+
+
+
+
+
+
 
 
 

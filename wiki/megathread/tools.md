@@ -118,15 +118,7 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 
 
 
-## ► **Security**
 
-Windows defender should be more than enough for virus protection, combined with [malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. 
-
- * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
- * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
- * [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
-
-&nbsp;
 
 
 
@@ -166,6 +158,7 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 * [Stremio](https://www.stremio.com/) - Multi video library manager. Plugins available to stream from various media sources, including torrents. Also check out /r/StremioAddons. Watch-together [guide](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/).
 * [Plex Media Server](https://www.plex.tv/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
 * [Jellyfin Media Server](https://jellyfin.org/) - Open-source self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
+* [Plexamp](https://plexamp.com/) - Plex but for music. Available on ios, mac, windows, linux and android
 * [Emby Media Server](https://emby.media/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
 * [Kodi](https://kodi.tv/) - Home theater media center. Host your own content or add online content sources (/r/Addons4Kodi)
 * [OSMC](https://osmc.tv/) - Home theater media center. Forked from Kodi, provides a simple UI for the Raspberry Pi and Apple TV
@@ -174,7 +167,15 @@ For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://re
 
 
 
+## ► **Security**
 
+Windows defender should be more than enough for virus protection, combined with [malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. 
+
+ * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
+ * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
+ * [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
+
+&nbsp;
 
 
 ## ► Media Managers
