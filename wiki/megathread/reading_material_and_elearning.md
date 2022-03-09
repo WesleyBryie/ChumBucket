@@ -62,6 +62,8 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 * [filechef.com](https://www.filechef.com/) - Free File Search Engine
 
+* [Rave eBook Search Engine](https://ravebooksearch.com/) - Creator's thread - https://www.reddit.com/r/Piracy/comments/qfj0v7/rave_ebook_search_engine_has_a_new_address/
+
 * **[GUIDE]** [Idiot-proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Guide by u/Servalpur
 
 - **[GUIDE]** [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)

@@ -95,6 +95,7 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 * [RARBG advanced filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Adds additional quality of life filters to RARBG search
 * [RARBG torrent and magnet links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) - Adds a column with torrent and magnet links in RARBG lists
 * [IMDB to RARBG Torrent Search](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - Adds a `RARBG` button to IMDB page listings to find the movie/show on RARBG
+* [Web Archives](https://github.com/dessant/web-archives) - Web Archives is a browser extension that enables you to find archived and cached versions of web pages (works on over 10 search engines)
 
 &nbsp;
 

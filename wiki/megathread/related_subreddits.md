@@ -50,6 +50,7 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/KissCommunitySupport - KissManga + KissAnime support service
 
+* /r/CrackedPlugins2 - For audio plugins (VST, presets etc)
 
 &nbsp;
 
@@ -143,8 +144,6 @@ These subreddits are centered around technologies that have ties with piracy, bu
 
 * /r/Soulseek - Discussion for Soulseek, a very famous and widely used music-sharing/downloading client
 
-* /r/FreezerApp - Discussion for Freezer, a Deezer playback and downloading client
-
 * /r/musichoarder - Music hoarder subreddit. Their [wiki](https://old.reddit.com/r/musichoarder/wiki/index)
 
 &nbsp;
@@ -162,13 +161,7 @@ Links and requests
 
 * **u/nbatman's directory of [streaming subreddits](https://www.reddit.com/user/nbatman/m/streaming/)**
 
-* /r/riprequests 
-
 * /r/ZippyShare 
-
-* /r/TelegramChannels - Download channels in telegram for various types of content
-
-* /r/STLland - Share STL files
 
 * /r/hamlinks - Share and request cartoons 
 
@@ -176,17 +169,11 @@ Links and requests
 
 * /r/panelshows 
 
-* /r/notapanelshow
-
 * /r/MusicalBootlegs - Broadway bootlegs
 
 * /r/xTrill - Music sharing
 
-* /r/MegaLinks4U 
-
 * /r/megaporn
-
-* /r/MegalinkNSFW
 
 
 &nbsp;

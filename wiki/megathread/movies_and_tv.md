@@ -41,6 +41,7 @@ See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/relate
 * [Medusa](https://pymedusa.com/) - Very good alternative to Sonarr. An automatic TV show download tool.
 * [SickChill](https://sickchill.github.io/) - Very good alternative to Sonarr. An automatic TV show download tool.
 * [Jackett](https://github.com/Jackett/Jackett) - Jackett is an all-in-one indexer. It allows you to add many different torrent trackers onto the app, in which you can do all your searching. In conjunction with sonarr/radarr, you can add jackett as an indexer to them, allowing them to search on any or every single torrent tracker that you have added to jackett.
+* [Prowlarr](https://wiki.servarr.com/prowlarr) - Similar to Jackett but from the *arr family of apps so it has the same design as Sonarr, Radarr, Lidarr, and Readarr
 
 &nbsp;
 

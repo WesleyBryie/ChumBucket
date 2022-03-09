@@ -58,6 +58,10 @@
 * [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Automatically install and set up CreamAPI for Steam games
 * [Steamless](https://github.com/atom0s/Steamless) - Removes SteamStub DRM from Steam game executables if they contain it. To be used in conjunction with a Steam emulator if the emulator alone is not enough to crack the game
 
+**EPIC Tools**
+
+* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Legit DLC Unlocker for Epic Online Services. Works only for games you own. Features like multiplayer, achievements, etc. remain fully functional.
+
 More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.php?f=29)
 
 **Game Launchers**
@@ -122,6 +126,10 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [gnarly-repacks.site](https://www.gnarly-repacks.site/) - Console/emulator-based game repacks
 
+* [online-fix.me](https://online-fix.me/) - Download games with multiplayer/Steamworks fixes to play with friends. Covers steam and epic games
+
+&nbsp;
+
 * **[Private]** [forums.snahp.it](https://forum.snahp.it/) - One of the best private DDL forums. Used to be public. Links are provided on free file hosts
 
 * **[Repacks]** [kaoskrew.org](https://kaoskrew.org/) - Pre-cracked games
@@ -141,7 +149,6 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 * **[Repacks]** [cpgrepacks.site](http://cpgrepacks.site/) - Pre-cracked games
 
 &nbsp;
-
 
 * **[Mac]** [rlsbb.ru > Mac Games](https://rlsbb.ru/category/games/mac-games/) - Scene releases
 
@@ -274,8 +281,6 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 ## ► Miscellaneous
 
 * [pcgamingwiki.com](https://www.pcgamingwiki.com/) - Solutions wiki for many issues that arise with PC games
-
-* [online-fix.me](https://online-fix.me/) - Multiplayer/Steamworks game fixes
 
 * [thetrove.is](https://thetrove.is/) - Archival resource containing tabletop gaming / RPGs
 

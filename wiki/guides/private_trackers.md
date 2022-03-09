@@ -10,17 +10,7 @@
 
 &nbsp;
 
-**Some extra resources:**
-
-Listings for signups/applications: https://opentrackers.org/ or /r/OpenSignups 
-
-List of trackers: [tracker list](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) by /u/-HDVinnie-, original [submission](https://www.reddit.com/r/trackers/comments/ehd7oy/new_private_trackers_spreadsheet/).
-
 For more in-depth discussion of private trackers: /r/trackers 
-
-/r/Tracker's wiki: /r/trackers/wiki/reading
-
-Invite giveaways and requests: /r/invites 
 
 &nbsp;
 
@@ -28,7 +18,7 @@ Invite giveaways and requests: /r/invites
 
 #Private trackers
 
-To start off, bear in mind that buying invites will result in a very high chance of you getting banned from the tracker. It is very easy for trackers to catch you, since invites that are sold are harvested from stolen/compromised accounts. Not only will this result in wasted money on your part, it is hugely detrimental to the health of private trackers. Also note that begging for invites is highly frowned upon due to the fact that members are responsible for the people they invite. If the invitee gets in trouble for any reason, it reflects back upon the inviter, potentially affecting their ability to further invite people, and if the offense is serious enough, then both users may get banned from the tracker.
+To start off, bear in mind that buying invites will result in a very high chance of you getting banned from the tracker. It is very easy for trackers to catch you, since invites that are sold are harvested from stolen/compromised accounts. Not only will this result in wasted money on your part, it is hugely detrimental to the health of private trackers. Also note that begging for invites is highly frowned upon due to the fact that members are responsible for the people they invite. If the invitee gets in trouble for any reason, it reflects back upon the inviter, potentially affecting their ability to further invite people, and if the offence is serious enough, then both users may get banned from the tracker.
 
 As a result of the above, those familiar with how private trackers work will know not to beg for invites. Consequently, the only thing beggars are achieving is indicating that they are terrible candidates for receiving an invite.
 
@@ -122,15 +112,6 @@ General trackers are considered jacks of all trades, and while they are a good w
 
 The following is a list of different categories, followed by trackers (in descending order, in regards to quality and amount of content) that are the best in that category. **Trackers in bold have very stringent join requirements.**
 
-Tracker abbrevations:
-
-PTP: PassThePopcorn
-
-BTN: BroadcastTheNet
-
-GGn: GazelleGames
-
-MAM: MyAnonaMouse
 
 &nbsp;
 
@@ -173,4 +154,16 @@ MAM: MyAnonaMouse
 
 * E-learning: BitSpider, MAM
 
-&nbsp;
+&nbsp;
+
+
+
+#### ► **Tracker abbrevations**:
+
+Tracker's name | Abbreviation  
+:--: | :--:  
+MyAnonaMouse | MAM  
+Redacted | RED  
+PassThePopcorn | PTP  
+BroadcastTheNet | BTN  
+GazelleGames | GGn

@@ -52,12 +52,20 @@ If you have any critique or suggestions you would like to see added to the Megat
 ## [► Porn](https://reddit.com/r/Piracy/wiki/megathread/porn)
  > Pirate porn sites
 
+## [► Private Trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+
 ## [► Miscellaneous](https://www.reddit.com/r/Piracy/wiki/megathread/miscellaneous)
 
 ## [► General-Purpose Sites / Search Engines](https://reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines)
  > General-purpose torrent sites. Torrent search engines/aggregators/DHT crawlers are listed to search within as many publicly listed torrents as possible to find rare content that cannot be found in any of the trackers listed in the above categories.
  >
  > When using torrent search engines/DHT crawlers, they will list as many publicly available torrents as possible, unfiltered and unfettered in regards to viruses. Never use thse to search for software, but when searching for other media types, take some [**preliminary measures**](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to avoid running malware.
+
+## ► **Alternative piracy resources compilations**
+
++ [Ripped guide](https://ripped.guide/)
+
++ [Awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
 
 &nbsp;
 

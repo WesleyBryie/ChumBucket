@@ -27,6 +27,8 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [torrents] [rarbg.to](https://rarbg.to/) - Mostly Scene releases. In regards to software, it's mostly small-time applications.
 
+* [torrents] [FTUApps](https://ftuapps.dev/) - Part of the FTU network. Can get variety of softwares here
+
 * [DDL] [sanet.st](https://sanet.st) - Cracked Windows software. Don't use the usenet button, it's just an ad
 
 * [DDL] [Mobilism > Windows Warez](https://forum.mobilism.org/viewforum.php?f=1073) - Warez board
@@ -48,6 +50,8 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 * [Mac] [macappdownload.com](https://www.macappdownload.com/) - aka Macbed/Appked
 
 * [Mac] [nxmac.com](https://nxmac.com/) - Popular DDL site for mac apps and games
+
+* [Mac] [Macdrop.net/CMacked](https://cmacked.com/) - Mac apps and games
 
 * [DDL] [forums.mydigitallife.net](https://forums.mydigitallife.net/) - Software release board
 
