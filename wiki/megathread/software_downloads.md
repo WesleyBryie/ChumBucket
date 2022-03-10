@@ -19,15 +19,16 @@
 
 Try to avoid the pirate bay for software, it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
 
-* [torrents] [monkrus.ws](http://monkrus.ws/) - Highly recommended and trusted repacker for various popular software
 
-* [torrents] [rutracker.org](http://rutracker.org/) [.org, .net, .nl] - Considered to be the most complete public tracker and is well-seeded. Amazing tracker for software of all types (ie. your favorite graphics/music/video software)
+* [torrents] [rutracker.org](http://rutracker.org/) [.org, .net, .nl] - The best place for softwares (of all kinds). Need an account to search; signup is free
 
-* [torrents] [1337x.to](https://1337x.to/) - Well-moderated torrent site
-
-* [torrents] [rarbg.to](https://rarbg.to/) - Mostly Scene releases. In regards to software, it's mostly small-time applications.
+* [torrents] [1337x.to](https://1337x.to/) - Well-moderated torrent site. 
 
 * [torrents] [FTUApps](https://ftuapps.dev/) - Part of the FTU network. Can get variety of softwares here
+
+* [torrents] [monkrus.ws](http://monkrus.ws/) - Highly recommended and trusted repacker for various popular software. Selection is lacking compared to other sources though
+
+* [torrents] [rarbg.to](https://rarbg.to/) - Mostly Scene releases. In regards to software, it's mostly small-time applications.
 
 * [DDL] [sanet.st](https://sanet.st) - Cracked Windows software. Don't use the usenet button, it's just an ad
 
