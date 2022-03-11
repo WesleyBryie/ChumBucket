@@ -66,13 +66,13 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 ## ► Sites focused on graphics / audio / video software
 
+* [torrents/private] [cgpeers.com](https://www.cgpeers.com) - Best place for graphics softwares and plugins (Key words - 3D/Visual Effects/Computer Graphics/Design/Computer Assisted Art). Easiest way to join is through MAM. Requires 6 months old account and 1TB upload. [Private trackers guide](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+
 * [torrents] [vstorrent.org](https://vstorrent.org/) - Audio software and plugins.
 
 * [torrents/private] [audionews.org](https://audionews.org/) - Audio software and plugins, as well as tutorials. ***Registration opens on the 2nd of every month (Midnight / Moscow time).***
 
 * [torrents/private] [theaudioscene.net](https://theaudioscene.net/) - Audio software and plugins. Registration is available in exchange for a small donation.
-
-* [torrents/private] [cgpeers.com](https://www.cgpeers.com) - Graphics software/plugins downloads and discussion - 3D/Visual Effects/Computer Graphics/Design/Computer Assisted Art. ~~Registration opens on the 1st and 15th of every month.~~. ***User cap reached, tracker is completely closed, invites are disabled.***
 
 * [DDL] [flsaudio.com](https://flsaudio.com) - Audio software and plugins.
 
