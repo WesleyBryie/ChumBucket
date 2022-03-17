@@ -33,7 +33,9 @@
 
 * [Unlimited free Sirius XM for your car](https://www.reddit.com/r/Piracy/comments/c9bsz7/unlimited_free_sirius_xm_for_your_car/) - Guide by u/Itswillyferret
 
-* [Play pirated games on Linux with Lutris](https://old.reddit.com/r/Piracy/comments/dir3do/pirate_games_working_under_linux_here_is_how_to/) - Guide by u/consentio
+* [Play pirated games on Linux with Lutris (GOG releases only)](https://old.reddit.com/r/Piracy/comments/dir3do/pirate_games_working_under_linux_here_is_how_to/) - Guide by u/consentio
+
+* [Install Repacks on your Linux Desktop using Lutris/Wine](https://www.reddit.com/r/Piracy/comments/tebyga/install_repacks_on_your_linux_desktop_using/)
 
 [The Complete Guide to Building Your Own Personal Streaming Service Powered by Docker and Plex] (https://www.reddit.com/r/Piracy/comments/ma1hlm/the_complete_guide_to_building_your_own_personal/) - Guide by u/WhereIsYourMind
 
