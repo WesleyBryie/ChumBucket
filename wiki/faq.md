@@ -41,6 +41,8 @@
  >
  > They keep the downloads in their servers for a while, for as long as people are trying to grab content from a particular link. So in conjunction with streaming apps that support real debrid, it works as a caching service, so that you can stream the popular links at full speed from real debrid as opposed to streaming directly from the slow file hosts.
 
+* [How do you guys know if a virus warning is a false positive or not?](https://www.reddit.com/r/Piracy/comments/n62da6/how_do_you_guys_know_if_a_virus_warning_is_a/gx4whhz/) - Answer by /u/ilike2burn
+
 &nbsp;
 
 

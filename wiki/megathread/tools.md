@@ -58,10 +58,9 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 * [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
 * [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
 * [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - lightweight executable that blocks and mutes Spotify ads on Windows.
-* [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Block ads on the Spotify website
-* [Bypass-Paywalls-Chrome-Clean](https://bitbucket.org/magnolia1234/bypass-paywalls-chrome-clean/src/master/#installation-instructions) - Chrome extension to block paywalls. Supported sites are listed in the repo page.
-* [Bypass-Paywalls-Firefox-Clean](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) - Firefox extension to block paywalls. Supported sites are listed in the repo page.
-* [Bypass-Paywalls-Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Chrome extension to block paywalls. Supported sites are listed in the repo page.
+* [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Block ads on the Spotify website  
+* [Bypass-Paywalls-Firefox-Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Firefox extension to block paywalls. Supported sites are listed in the repo page.
+* [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) - Chrome extension to bypass paywalls.  
 * [Bypass paywalls - Method 2](https://www.reddit.com/r/Piracy/comments/eipv6v/any_way_to_bypass_news_sites_paywalls/fct20vp/) - Change user agent to Google Bot.
 * [Google-Unlocked](https://github.com/Ibit-to/google-unlocked) - Open source browser extension, which unlocks hidden google search results.
 
@@ -276,6 +275,8 @@ Windows defender should be more than enough for virus protection, combined with 
 * [Rename My TV Series 2](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/) - Same concept as filebot, but free.
 * [AdvancedRenamer](https://www.advancedrenamer.com/) - Same concept as filebot, but free.
 * [TheRenamer](http://therenamer.com/) - Same concept as filebot, but free.
+* [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Allows renaming by RegEx
+* [Ant Renamer](https://antp.be/software/renamer) - Great for quick bulk string management (for Plex for instance). 
 
 &nbsp;
 
