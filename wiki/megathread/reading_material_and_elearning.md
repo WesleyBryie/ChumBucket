@@ -124,8 +124,6 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 * [novanon.net](http://novanon.net/) - Warez board
 
-* [audiobooks.cloud](https://audiobooks.cloud/) - DDL audiobook site
-
 * [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible files to mp3 and other file types
 
 * [tokybook.com](https://tokybook.com/) - Audiobook streaming
