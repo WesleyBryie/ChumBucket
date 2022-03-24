@@ -9,17 +9,8 @@
 
 ⚠️ **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
-Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) (in regards to non-software) to avoid accidentally running malware.
-
-See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits) for streaming subreddits or request subreddits
 
 &nbsp;
-
-❗ ***For hard-to-find content, you can use these [general trackers and/or search for open directories](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). The torrent aggregators and DHT crawlers will be your best bet for finding rare content***
-
-&nbsp;
-
-
 
 
 ### ► Relevant Software
@@ -128,10 +119,12 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 
 
-
 ### ► **Private Torrent Trackers**
 
 [Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+
+* [Nebulance (NBL)](https://nebulance.io/) - Very good alternative to BTN and easy to join. Great for finding/requesting old, unpopular, obscure shows.  
+NBL can be joined through MAM. You are eligible the moment you become PU, which is 1 month.
 
 * [Filelist](https://filelist.io/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian). The tracker might be smaller compared to IPT but the quality control is better, especially for movies and TV shows. You will be able to find high quality encodes from PTP and BTN which you might not find on IPT. Can be joined through MAM with a 5 months old account
 
@@ -171,8 +164,6 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * [TorrentLeech](https://www.torrentleech.org/) - General scene tracker. One of the largest general private trackers
 
 * [alpharatio.cc](https://alpharatio.cc/) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
-
-* [Nebulance (NBL)](https://nebulance.io/) - Very good alternative to BTN and easy to join. Should ideally be used along with BHD or BLU as many rips that cannot be uploaded to those trackers can be found here. NBL can be joined through MAM. You are eligible the moment you become PU, which is 1 month
 
 &nbsp;
 
@@ -467,4 +458,14 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * [immortuos.life](https://immortuos.life/) - General tracker
 * [animeworld.cx](https://animeworld.cx/) - Anime tracker
 
-&nbsp;
+&nbsp;
+
+
+
+### ► Misc
+
+Some preliminary [steps to take](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) (in regards to non-software) to avoid accidentally running malware.
+
+See: [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits) for streaming subreddits or request subreddits
+
+❗ ***For hard-to-find content, you can use these [general trackers and/or search for open directories](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines).***
