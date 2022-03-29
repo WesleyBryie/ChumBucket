@@ -81,8 +81,6 @@
 
 * [nyaa.si](https://nyaa.si/) - Anime OSTs
 
-* [music-torrent.net](http://music-torrent.net/) - Music torrents
-
 &nbsp;
 
 
