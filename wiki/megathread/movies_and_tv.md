@@ -185,7 +185,6 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * [batflixmovies.club](https://www.batflixmovies.club/)
 * [openloadmov.com](https://openloadmov.com/)
 * [streamlord.com](http://www.streamlord.com/)
-* [themoviebay.net](https://vww.themoviebay.net/)
 * [himovies.to](https://www.himovies.to/)
 * [yesmovies.ag](https://yesmovies.ag/)
 * [teatv.xyz](https://teatv.xyz/)
