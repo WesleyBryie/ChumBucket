@@ -164,7 +164,13 @@ Tracker's name | Abbreviation
 :--: | :--:  
 MyAnonaMouse | MAM  
 Redacted | RED  
-Nebulance | NBL
+Nebulance | NBL  
+GazelleGames | GGn  
 PassThePopcorn | PTP  
 BroadcastTheNet | BTN  
-GazelleGames | GGn
+Cinematik | TIK  
+HDBits | HDB  
+
+#### ► **Exclusive content**:
+
+Only a couple of private trackers like TIK and HDB condone making torrents exclusive, and would enforce the breaking of that rule. Rest of the trackers do not accept this behaviour and you're free upload that content anywhere you like

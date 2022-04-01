@@ -53,6 +53,6 @@
 
 * **[Semi-Private]** [pornolab.net (PL)](https://pornolab.net/) - An always open private tracker and the best out there if going by the sheer amount of porn available here, from studio professional to amateur stuff. 
 
-* [empornium.me (EMP)](https://empornium.me/) - Has much lower content overall compoared to PL but the biggest strengths are the request section and the amount of amateur content - both better than PL. Also has other pornographic content like magazines, games, books, comics etc. Can be joined by becoming power user on RED. Account needs to be 6 months old
+* [empornium.me (EMP)](https://empornium.me/) - Has much lower content compared to PL but it's better in its request section, amount of amateur content and an English speaking community. Also has other pornographic content like magazines, games, books, comics etc. Can be joined by becoming power user on RED. Account needs to be 6 months old
 
 &nbsp;
