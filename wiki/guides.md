@@ -37,7 +37,9 @@
 
 * [Install Repacks on your Linux Desktop using Lutris/Wine](https://www.reddit.com/r/Piracy/comments/tebyga/install_repacks_on_your_linux_desktop_using/)
 
-[The Complete Guide to Building Your Own Personal Streaming Service Powered by Docker and Plex] (https://www.reddit.com/r/Piracy/comments/ma1hlm/the_complete_guide_to_building_your_own_personal/) - Guide by u/WhereIsYourMind
+* [The Complete Guide to Building Your Own Personal Streaming Service Powered by Docker and Plex](https://www.reddit.com/r/Piracy/comments/ma1hlm/the_complete_guide_to_building_your_own_personal/) - Guide by u/WhereIsYourMind
+
+* [Create Your Own 1337x Proxy](https://www.reddit.com/r/Piracy/comments/tz7nyx/guide_create_your_own_1337x_proxy/) - Try this after you have tried all the available domains/proxies.
 
 &nbsp;
 
