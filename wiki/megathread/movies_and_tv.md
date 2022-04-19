@@ -55,7 +55,6 @@
 
 ### ► **Torrents**
 
-* [solidtorrents.net](https://solidtorrents.net/movies) - DHT crawler with a dedicated interface for movies
 * [RARBG.to](https://rarbg.to/) - One of the most organized public trackers, gets new content very quickly. Can search by IMDB tags (eg. `tt0258038`, appearing in IDMB URLs)
 * [rutracker.org](https://rutracker.org/) [.org, .net, .nl] - The best general tracker from Russia and arguably the best one overall. It's great for niche movies, especially from Russia and other east European countries.
 * [TorrentGalaxy.to](https://torrentgalaxy.to/) - Another highly recommended site for movies & TV. [Proxy list.](https://proxygalaxy.pw/)
