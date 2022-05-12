@@ -126,7 +126,7 @@ The following is a list of different categories, followed by trackers (in descen
 
 * TV: **BTN**,  **HDBits**, BeyondHD
 
-* Music: RED, Orpheus, JPopsuki (Asian), Desi.cd (Indian)
+* Music: RED, Orpheus, JPopsuki (Asian)
 
 * Games: GGn, PixelCove
 
@@ -148,7 +148,7 @@ The following is a list of different categories, followed by trackers (in descen
 
 * TV: MoreThanTV, PrivateHD, HDTorrents, Blutopia, TorrentLeech, FileList , IPT
 
-* Music: RED, JPopsuki (Asian), Desi.cd (Indian)
+* Music: RED, JPopsuki (Asian)
 
 * Books: MAM (Has open applications)
 

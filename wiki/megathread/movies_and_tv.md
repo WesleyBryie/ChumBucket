@@ -110,8 +110,8 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [CyberflixTV](https://cybermedia.cloud/) - Movies/TV streaming
 * [TyphoonTV](https://www.typhoontv.me/) - Movies/TV streaming
 * [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming
-* [AOSTV](https://aostv.app/) - live streams aggregator (Sports, TV, etc...)
 * [BeeTV](https://beetvapk.net/) - Movies/TV streaming
+* [[POSSIBLE MALWARE](https://www.reddit.com/r/Piracy/comments/rqqw5d/piracy_wiki_megathread_of_pirate_sites_apps_tools/i7ssqsl/)] [AOSTV](https://aostv.app/) - live streams aggregator (Sports, TV, etc...) 
 
 &nbsp;
 
