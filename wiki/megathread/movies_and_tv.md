@@ -13,45 +13,6 @@
 &nbsp;
 
 
-### ► Relevant Software
-
-&nbsp; **Media Centers / Clients**
-
-* [Stremio](https://www.stremio.com/) - Multi video library manager. Plugins available to stream from various media sources, including torrents. Also check out /r/StremioAddons. Watch-together [guide](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/).
-* [Plex Media Server](https://www.plex.tv/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
-* [Jellyfin Media Server](https://jellyfin.org/) - Open-source self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
-* [Emby Media Server](https://emby.media/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
-* [Kodi](https://kodi.tv/) - Home theater media center. Host your own content or add online content sources (/r/Addons4Kodi)
-
-&nbsp;
-
-&nbsp; **Media Managers**
-
-* [Sonarr](https://sonarr.tv/) - Sonarr is an automatic TV show downloading tool where you can add new shows to monitor, and it will automatically download any new episodes as soon as they are available on torrent sites.
-* [Radarr](https://radarr.video/) - Same as Sonarr, but for movies.
-* [Medusa](https://pymedusa.com/) - Very good alternative to Sonarr. An automatic TV show download tool.
-* [SickChill](https://sickchill.github.io/) - Very good alternative to Sonarr. An automatic TV show download tool.
-* [Jackett](https://github.com/Jackett/Jackett) - Jackett is an all-in-one indexer. It allows you to add many different torrent trackers onto the app, in which you can do all your searching. In conjunction with sonarr/radarr, you can add jackett as an indexer to them, allowing them to search on any or every single torrent tracker that you have added to jackett.
-* [Prowlarr](https://wiki.servarr.com/prowlarr) - Similar to Jackett but from the *arr family of apps so it has the same design as Sonarr, Radarr, Lidarr, and Readarr
-
-&nbsp;
-
-&nbsp; **Download Managers**
-
-> These are useful for DDL sites. Download managers such as these are meant to help to speed up downloads, typically by increasing the number of connections to the server or attempting to split the download into chunks. They are also especially handy when grabbing multiple links at once, which is typical with DDL sites, where they'll split up large downloads into multiple small `.rar` parts, as well as bypassing captchas and eliminating the risks of clicking on the wrong download button on various file hosts. They also help with resuming paused or timed out downloads which your browser may not be able to do in some cases.
-
-* [JDownloader2](http://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
-* [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this](https://github.com/J2TEAM/idm-trial-reset). Alternative [method here](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
-* [XTREME download manager](https://subhra74.github.io/xdm/) - Another very nice download manager
-* [pyLoad](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
-* [aria2](https://aria2.github.io/) - Commandline-based download utility.
-
-&nbsp;
-
-
-
-
-
 
 ### ► **Torrents**
 
@@ -68,8 +29,6 @@
 * **[Anime]** [shanaproject.com](https://www.shanaproject.com/)
 
 &nbsp;
-
-
 
 
 
@@ -136,11 +95,11 @@ NBL can be joined through MAM. You are eligible the moment you become PU, which 
 !!!!* High quality encodes. Many torrents are marked Golden Popcorn (GP). They are best of the best encodes. It is like Oscars but for encodes.  
 Currently it is not possible to join PTP unless you know someone who has an account there and can invite you. The best strategy suggested is to reach as high of a user class you can reach on RED as feasibly possible. This will increase chances when PTP starts recruiting again. In the meantime you can join SC, BHD, BLU etc and make requests there
 
-* [HD-Torrents (HDT)](https://hdts.ru/) - Movies/TV tracker. Focuses on HD content only. This tracker is great for HD movies though not as good as PTP. Specialty lies in allowing of multiple untouched material of the same movie, which helps in getting those foreign languages, different audio/video quality, or even different content in audio/videos. Slightly superior to PTP in this regard. Can be joined through RED or you can just pay for an account through their website. (Note - Only buy the account from their own website, not a 3rd party)
-
 * [beyond-hd.me (BHD)](https://beyond-hd.me/) - Movies/TV tracker. Focuses on HD and some SD content. Originally home to the famous FRaMeSToR remux group but then many more after AHD died. Currently the best alternative to PTP and BTN. After AHD's demise, this is now the 2nd best tracker for high quality encodes too. Can be joined through RED (either be Elite user class OR power user with 6 months old account)
 
-* [pixelhd.me](https://pixelhd.me/) - Movies tracker. Known for producing small sized encodes. `PxHD Mobies` - 720p/AAC/mp4 at 1.5-2GB (esp. for Mobile Devices); `PxHD/PxEHD` - 1080p/AC3/mp4 at 4GB and 8GB; and `PxHDA` - 1080p/DTS/ at "whatever size is necessary" for high transparency (usually 6-12gb).
+* [pixelhd.me](https://pixelhd.me/) - Movies tracker. Known for producing small sized encodes. `PxHD Mobies` - 720p/AAC/mp4 at 1.5-2GB (esp. for Mobile Devices); `PxHD/PxEHD` - 1080p/AC3/mp4 at 4GB and 8GB; and `PxHDA` - 1080p/DTS/ at "whatever size is necessary" for high transparency (usually 6-12gb). Can be joined through RED (Elite or "high-level" PU; + 2 more proofs; all 3 accounts at least 6 months old) and MAM (Elite or "high-level" PU; + 2 more proofs; all 3 accounts at least 6 months old)
+
+* [HD-Torrents (HDT)](https://hdts.ru/) - Movies/TV tracker. Focuses on HD content only. This tracker is great for HD movies though not as good as PTP. Specialty lies in allowing of multiple untouched material of the same movie, which helps in getting those foreign languages, different audio/video quality, or even different content in audio/videos. Slightly superior to PTP in this regard. You can pay for an account through their website. (Note - Only buy the account from their own website, not a 3rd party)
 
 * [uhdbits.org (UHDB)](https://uhdbits.org/) - Small movies tracker. Should not aim for it as your primary tracker but it is good to have as backup, aim for BHD instead. Can be joined through RED.
 
@@ -455,6 +414,42 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * [theshinning.me](https://theshinning.me/) - General tracker
 * [immortuos.life](https://immortuos.life/) - General tracker
 * [animeworld.cx](https://animeworld.cx/) - Anime tracker
+
+&nbsp;
+
+
+### ► Relevant Software
+
+&nbsp; **Media Centers / Clients**
+
+* [Stremio](https://www.stremio.com/) - Multi video library manager. Plugins available to stream from various media sources, including torrents. Also check out /r/StremioAddons. Watch-together [guide](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/).
+* [Plex Media Server](https://www.plex.tv/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
+* [Jellyfin Media Server](https://jellyfin.org/) - Open-source self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
+* [Emby Media Server](https://emby.media/) - Self-hosted netflix. Provide your own content and serve them in a netflix-like interface.
+* [Kodi](https://kodi.tv/) - Home theater media center. Host your own content or add online content sources (/r/Addons4Kodi)
+
+&nbsp;
+
+&nbsp; **Media Managers**
+
+* [Sonarr](https://sonarr.tv/) - Sonarr is an automatic TV show downloading tool where you can add new shows to monitor, and it will automatically download any new episodes as soon as they are available on torrent sites.
+* [Radarr](https://radarr.video/) - Same as Sonarr, but for movies.
+* [Medusa](https://pymedusa.com/) - Very good alternative to Sonarr. An automatic TV show download tool.
+* [SickChill](https://sickchill.github.io/) - Very good alternative to Sonarr. An automatic TV show download tool.
+* [Jackett](https://github.com/Jackett/Jackett) - Jackett is an all-in-one indexer. It allows you to add many different torrent trackers onto the app, in which you can do all your searching. In conjunction with sonarr/radarr, you can add jackett as an indexer to them, allowing them to search on any or every single torrent tracker that you have added to jackett.
+* [Prowlarr](https://wiki.servarr.com/prowlarr) - Similar to Jackett but from the *arr family of apps so it has the same design as Sonarr, Radarr, Lidarr, and Readarr
+
+&nbsp;
+
+&nbsp; **Download Managers**
+
+> These are useful for DDL sites. Download managers such as these are meant to help to speed up downloads, typically by increasing the number of connections to the server or attempting to split the download into chunks. They are also especially handy when grabbing multiple links at once, which is typical with DDL sites, where they'll split up large downloads into multiple small `.rar` parts, as well as bypassing captchas and eliminating the risks of clicking on the wrong download button on various file hosts. They also help with resuming paused or timed out downloads which your browser may not be able to do in some cases.
+
+* [JDownloader2](http://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
+* [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this](https://github.com/J2TEAM/idm-trial-reset). Alternative [method here](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
+* [XTREME download manager](https://subhra74.github.io/xdm/) - Another very nice download manager
+* [pyLoad](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
+* [aria2](https://aria2.github.io/) - Commandline-based download utility.
 
 &nbsp;
 
