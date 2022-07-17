@@ -86,7 +86,7 @@ NBL can be joined through MAM. You are eligible the moment you become PU, which 
 
 * [Filelist](https://filelist.io/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian). The tracker might be smaller compared to IPT but the quality control is better, especially for movies and TV shows. You will be able to find high quality encodes from PTP and BTN which you might not find on IPT. Can be joined through MAM with a 5 months old account
 
-* [IPTorrents](http://iptorrents.com/) - The largest general private tracker, period. Definitely worth to have as a back up. Invites are easy to come by if you make acquaintances otherwise you can join it through EMP. Also, don't forget to log in every 3 months or you lose your account (called Inactivity rule)
+* [IPTorrents](http://iptorrents.com/) - The largest general private tracker, period. Definitely worth to have as a back up. Invites are easy to come by if you make acquaintances otherwise you can join it through EMP (unofficial invites; need access to invite forum so you have to be Good Perv user class which requires 8 weeks on the tracker). Also, don't forget to log in every 3 months or you lose your account (called Inactivity rule)
 
 * [Secret Cinema](https://secret-cinema.pw/) - If any of the following keywords interest you then this is the tracker for you - old (as early as the 1st movie ever), non-mainstream, non-English, arthouse, experimental, rare - movies and Tv shows. This tracker can be joined through MAM (6 months old account required) and RED.
 
@@ -285,14 +285,8 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * [torrent9.si](https://www.torrent9.si/) - Public torrent tracker
 * [cpasbien.ac](https://cpasbien.ac/) - Public torrent tracker
 * [extreme-down.video](https://www.extreme-down.video/) - DDL Movies & TV
-* [wawacity.vip](https://www.wawacity.vip/) - DDL Movies & TV
 * [tirexo.pro](https://www.tirexo.pro/) - DDL Movies & TV
-* [libertyvf.co](https://libertyvf.co/) - Stream and DDL Movies & TV
-* [hdss.to](https://hdss.to/) - Stream Movies & TV
-* [gratflix.org](https://www.gratflix.org/) - Stream Movies & TV
-* [dpstream.info](https://www.dpstream.info/) - Stream Movies & TV
-* [wiflix.film](https://wvw.wiflix.film/) - Stream Movies & TV
-* [animes9.com](https://animes9.com/) - Stream anime
+* [wawacity.red](https://www.wawacity.vip/) - Streaming
 * [mavanimes.co](http://www.mavanimes.co/) - Stream anime
 * [vostfree.com](https://vostfree.com/) - Stream anime
 
