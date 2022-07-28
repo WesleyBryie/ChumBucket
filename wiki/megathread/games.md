@@ -205,7 +205,7 @@ Emulators allow you to play console games on the PC. You can find resources for 
 
 ## ► Private trackers
 
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers) (Abbrevations are mentioned here)
 
 * [Gazellegames.net (GGn)](https://gazellegames.net) - Best source for games for enthusiasts. Carries games from basically any console. Can be joined through RED
 
