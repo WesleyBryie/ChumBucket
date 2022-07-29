@@ -12,14 +12,42 @@
 &nbsp;
 
 
+## ► Torrents / P2P Sites
+
+
+* [rutracker.org](http://rutracker.org/forum/index.php) [.org, .net, .nl] - General Russian public tracker with an extensive music catalog (any format). Currently the best public source of music
+
+* [nyaa.si](https://nyaa.si/) - Anime OSTs
+
+&nbsp;
+
+
+
+
+## ► Private Torrent Trackers
+
+[Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+
+* **[Semi-Private]** [en.metal-tracker.com](https://en.metal-tracker.com/) - A very nice tracker for metal music.
+
+* [jpopsuki.eu](https://jpopsuki.eu/) - Aka JPS. Music tracker for various types of music such as Japenese, Korean, Chinese, Thai, etc
+
+* [animebytes.tv](https://animebytes.tv/) - Aka AB. Anime OSTs
+
+* [Redacted.ch](https://redacted.ch/) - Aka RED. FLAC, mp3, m4a. Best music private tracker. One of the harder trackers to maintain ratio on. 
+
+* [Orpheus.network](https://orpheus.network/) -  Aka OPS. FLAC, mp3, m4a. Second best music private tracker, after RED. Much easier ratio economy compared to RED. In addition, there is a thread where you can request any torrent available on RED, without putting a request. This provides full access to RED without the hard economy. It is highly beneficial to have accounts on both trackers.
+
+&nbsp;
+
 
 
 ## ► Desktop Apps
 
-
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - (their own description) yt-dlp is a youtube-dl fork based on the now inactive youtube-dlc. The main focus of this project is adding new features and patches while also keeping up to date with the original project
-
 * [Soulseek](http://www.slsknet.org/news/node/1) - Desktop app that connects you to a P2P network used for downloading music (any format). Unlike bittorrent, the protocol used here is direct P2P i.e. downloading and uploading is not done with multiple users simultaneously but with a single user (like downloading a file from a website). This provides more security than public trackers as there is no swarm for copyright trolls to stay in and monitor. Though there is no quality control here, the chances of encountering low quality files is still quite low. For people wanting to share their libraries, soulseek is the easiest and fastest way.
+
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - (their own description) *yt-dlp is a youtube-dl fork based on the now inactive youtube-dlc. The main focus of this project is adding new features and patches while also keeping up to date with the original project*  
+It's advisable to use this as a last resort. The quality from youtube is bad and there is no metadata.
 
 &nbsp;
 
@@ -74,35 +102,7 @@
 
 
 
-## ► Torrents / P2P Sites
 
-
-* [rutracker.org](http://rutracker.org/forum/index.php) [.org, .net, .nl] - Russian tracker with an extensive music catalog (any format).
-
-* [nyaa.si](https://nyaa.si/) - Anime OSTs
-
-&nbsp;
-
-
-
-
-
-
-## ► Private Torrent Trackers
-
-[Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
-
-* **[Semi-Private]** [en.metal-tracker.com](https://en.metal-tracker.com/) - A very nice tracker for metal music.
-
-* [jpopsuki.eu](https://jpopsuki.eu/) - Aka JPS. Music tracker for various types of music such as Japenese, Korean, Chinese, Thai, etc
-
-* [animebytes.tv](https://animebytes.tv/) - Aka AB. Anime OSTs
-
-* [Redacted.ch](https://redacted.ch/) - Aka RED. FLAC, mp3, m4a. Best music private tracker. One of the harder trackers to maintain ratio on. 
-
-* [Orpheus.network](https://orpheus.network/) -  Aka OPS. FLAC, mp3, m4a. Second best music private tracker, after RED. Much easier ratio economy compared to RED. In addition, there is a thread where you can request any torrent available on RED, without putting a request. This provides full access to RED without the hard economy. It is highly beneficial to have accounts on both trackers.
-
-&nbsp;
 
 ## ► Sheet music
 
