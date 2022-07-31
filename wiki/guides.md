@@ -92,7 +92,8 @@
 
 * [How to download books from Archive.org and how to remove DRM protection of the downloaded book using Calibre](https://old.reddit.com/r/Piracy/comments/l9exis/how_to_download_books_from_archive_org_and_how_to/) - Guide by u/silentshot546
 
-* [How to sideload ebooks to kindle](https://www.reddit.com/r/Piracy/comments/t9hmzy/how_to_sideload_ebooks_to_kindle/)
+* [How to sideload ebooks to kindle](https://www.reddit.com/r/Piracy/comments/t9hmzy/how_to_sideload_ebooks_to_kindle/) - Guide by /u/jackstewert123
+
 
 &nbsp;
 
