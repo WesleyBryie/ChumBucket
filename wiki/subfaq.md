@@ -52,7 +52,9 @@ Yes, [here.](https://github.com/db0/subredditScrubber)
 
 ### ► Is there a fallback location people can migrate to if and when the subreddit is suspended?
 
-Yes! We've prepared an alternate location in reddit-like platform Raddle. The location is here: https://raddle.me/f/Piracy
+Yes! We've prepared an alternate location in reddit-like decentralized reddit-like platform Lemmy. The location is here: https://lemmy.ml/c/piracy
+
+There is a secondary fallback location also available in Raddle: https://raddle.me/f/Piracy
 
 &nbsp;
 
@@ -61,6 +63,9 @@ Yes! We've prepared an alternate location in reddit-like platform Raddle. The lo
 
 
 
+### ► Why Lemmy?
+
+Because it's a decentralized reddit-like alternative which makes it increasingly hard to be taken down as we can move our content to another instance easily while users retain their accounts. The head mod of /r/piracy is already there as well.
 
 ### ► Why Raddle?
 
@@ -78,7 +83,7 @@ Because it's a decent reddit-like alternative run by anarchists [with a strong s
 
 Because places which advertise themselves simply as "anti censorship" as their main draw, end up in one of two ways. Either they use "anti-censorship" as a way to draw users while they quickly abandon this rhetoric once the server costs or greed become high enough that they start trying to attract advertisers (e.g. see: Reddit). Or they take such a blanket view on free speech that the hate speech takes over the site, meanwhile every marginalized person flees from the constant abuse (e.g. see Voat).
 
-Raddle is not about "freeze peach" the way the others are, it's unashamedly anarchist and therefore does not tolerate hate speech, while at the same time doesn't care about pleasing advertisers. If you just want to talk about piracy, it's objectively the best option. 
+The fallback sites chosen here are not about "freeze peach" the way the others are, it's unashamedly anarchist or socialist and therefore do not tolerate hate speech, while at the same time don't care about pleasing advertisers. If you just want to talk about piracy, it's objectively the best option. 
 
 &nbsp;
 
