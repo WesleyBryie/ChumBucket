@@ -58,25 +58,6 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 
 
-### ► **Android Streaming Apps**
-
-* **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
-* **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
-* **[Anime]** [aniyomi](https://github.com/jmir1/aniyomi) - (their own description) *Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above.*
-* [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
-* [Nova TV](https://novatv.app/) - Movies/TV streaming
-* [Viva TV](https://vivatv.io/) - Movies/TV streaming
-* [CyberflixTV](https://cybermedia.cloud/) - Movies/TV streaming
-* [TyphoonTV](https://www.typhoontv.me/) - Movies/TV streaming
-* [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming
-* [BeeTV](https://beetvapk.net/) - Movies/TV streaming
-* [[POSSIBLE MALWARE](https://www.reddit.com/r/Piracy/comments/rqqw5d/piracy_wiki_megathread_of_pirate_sites_apps_tools/i7ssqsl/)] [AOSTV](https://aostv.app/) - live streams aggregator (Sports, TV, etc...) 
-
-&nbsp;
-
-
-
-
 ### ► **Private Torrent Trackers**
 
 [Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
@@ -133,14 +114,14 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 
 *For streaming with Kodi, visit r/Addons4Kodi*
 
-* [kimcartoon.to](https://kimcartoon.to/) - Cartoons
-* [wcostream.com](https://www.wcostream.com/) - Cartoons
-* [lookmovie.ag](https://lookmovie.ag/)
+* [lookmovie2.to](https://lookmovie2.to/) - [Mirrors](https://proxymirrorlookmovie.github.io/)
+* [fmovies.to](https://fmovies.to/) - [Mirrors](https://fmovies.name/)
 * [sockshare.ac](http://sockshare.ac/)
 * [soap2day.com](https://www.soap2day.com/)
-* [fmovies.to](https://fmovies.to/)
 * [5movies.buzz](https://5movies.buzz/)
 * [batflixmovies.club](https://www.batflixmovies.club/)
+* [kimcartoon.to](https://kimcartoon.to/) - Cartoons
+* [wcostream.com](https://www.wcostream.com/) - Cartoons
 * [openloadmov.com](https://openloadmov.com/)
 * [streamlord.com](http://www.streamlord.com/)
 * [himovies.to](https://www.himovies.to/)
@@ -149,6 +130,27 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * [gomovies-online](https://gomovies-online.com/)
 
 &nbsp;
+
+
+
+
+
+### ► **Android Streaming Apps**
+
+* **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
+* **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
+* **[Anime]** [aniyomi](https://github.com/jmir1/aniyomi) - (their own description) *Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above.*
+* [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
+* [Nova TV](https://novatv.app/) - Movies/TV streaming
+* [Viva TV](https://vivatv.io/) - Movies/TV streaming
+* [CyberflixTV](https://cybermedia.cloud/) - Movies/TV streaming
+* [TyphoonTV](https://www.typhoontv.me/) - Movies/TV streaming
+* [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming
+* [BeeTV](https://beetvapk.net/) - Movies/TV streaming
+* [[POSSIBLE MALWARE](https://www.reddit.com/r/Piracy/comments/rqqw5d/piracy_wiki_megathread_of_pirate_sites_apps_tools/i7ssqsl/)] [AOSTV](https://aostv.app/) - live streams aggregator (Sports, TV, etc...) 
+
+&nbsp;
+
 
 
 
