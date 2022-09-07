@@ -7,7 +7,7 @@
 
 
 # MEGATHREAD
-
+## EDIT (09/06/2022): This Megathread is no longer maintained. Use at your own caution and refer to the threads below for alternatives.
 
 &nbsp;
 
