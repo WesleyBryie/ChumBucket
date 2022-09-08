@@ -143,11 +143,11 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [FTU Udemy](https://www.ftuudemy.com/) - Best torrent website for udemy courses
 
+* [FreeCourseSite \(FCS\)](https://freecoursesite.com/) - Great site for udemy courses. Rivals FTU
+
 * [coursehunter.net](https://coursehunter.net/) - Legal site. Find free tutorials online
 
 * [freetutorialsus.com](https://freetutorialsus.com/) - Udemy, Lynda, Pluralsight courses available. 
-
-* [tutflix.com](https://tutflix.com/) - Udemy and some others
 
 * [desirecourse.net](https://desirecourse.net/) - Download and request premium courses
 
@@ -160,6 +160,8 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 * [forcoder.su](https://forcoder.su/) - Focuses on programming textbooks
 
 * [Avaxhome](https://avxhm.se/) - E-learning material. Pair together [with this](https://www.reddit.com/r/Piracy/comments/d0rfpe/download_ebooks_on_avaxhome_for_free/) to download.
+
+* [tutflix.com](https://tutflix.com/) - Udemy and some others [not working 09/08/22]
 
 &nbsp;
 
