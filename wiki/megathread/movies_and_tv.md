@@ -116,6 +116,7 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 
 * [lookmovie2.to](https://lookmovie2.to/) - [Mirrors](https://proxymirrorlookmovie.github.io/)
 * [fmovies.to](https://fmovies.to/) - [Mirrors](https://fmovies.name/)
+* [DailyFlix](https://main.dailyflix.stream/) - [Mirror](https://main.dailyflix.one/)
 * [sockshare.ac](http://sockshare.ac/)
 * [soap2day.com](https://www.soap2day.com/)
 * [5movies.buzz](https://5movies.buzz/)
@@ -140,6 +141,7 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
 * **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
 * **[Anime]** [aniyomi](https://github.com/jmir1/aniyomi) - (their own description) *Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above.*
+* [Cloudstream](https://recloudstream.github.io/) - Movies, TV and Anime
 * [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
 * [Nova TV](https://novatv.app/) - Movies/TV streaming
 * [Viva TV](https://vivatv.io/) - Movies/TV streaming
