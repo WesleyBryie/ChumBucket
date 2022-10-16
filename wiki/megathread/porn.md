@@ -29,6 +29,8 @@
 
 * [porntrex.com](https://www.porntrex.com/)
 
+* [eporner](https://www.eporner.com/) [best for 4k according to /u/prudent-rope3484]
+
 * [Reddit thread](https://www.reddit.com/r/Piracy/comments/fc126u/new_porn_streaming_websites/)
 
 * **[DDL]** /r/JavDownloadCenter - Mega links. Has been made private as of 2020-4-27
