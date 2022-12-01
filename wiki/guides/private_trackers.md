@@ -16,6 +16,21 @@ For more in-depth discussion of private trackers: /r/trackers
 
 ---
 
+#### ► **Tracker abbrevations**
+
+Tracker's name | Abbreviation | How to join  
+:--: | :--: | :--:
+MyAnonaMouse (myanonamouse.net) | MAM | https://www.myanonamouse.net/inviteapp.php
+Redacted | RED  
+Nebulance | NBL  
+GazelleGames | GGn  
+PassThePopcorn | PTP  
+BroadcastTheNet | BTN  
+Cinematik | TIK  
+HDBits | HDB  
+
+---
+
 #Private trackers
 
 To start off, bear in mind that buying invites will result in a very high chance of you getting banned from the tracker. It is very easy for trackers to catch you, since invites that are sold are harvested from stolen/compromised accounts. Not only will this result in wasted money on your part, it is hugely detrimental to the health of private trackers. Also note that begging for invites is highly frowned upon due to the fact that members are responsible for the people they invite. If the invitee gets in trouble for any reason, it reflects back upon the inviter, potentially affecting their ability to further invite people, and if the offence is serious enough, then both users may get banned from the tracker.
@@ -156,20 +171,6 @@ The following is a list of different categories, followed by trackers (in descen
 
 &nbsp;
 
-
-
-#### ► **Tracker abbrevations**:
-
-Tracker's name | Abbreviation  
-:--: | :--:  
-MyAnonaMouse (myanonamouse.net) | MAM  
-Redacted | RED  
-Nebulance | NBL  
-GazelleGames | GGn  
-PassThePopcorn | PTP  
-BroadcastTheNet | BTN  
-Cinematik | TIK  
-HDBits | HDB  
 
 #### ► **Exclusive content**:
 

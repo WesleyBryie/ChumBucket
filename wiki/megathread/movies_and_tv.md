@@ -216,6 +216,14 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 
 ### ► Sports
 
+FIFA World Cup 2022
+
+* https://rentry.org/champagne_wiki#watch-live-sports-replays   
+* [Sportsbay.run](https://www.sportsbay.run)  
+* [worldcup.soccerstreams.net](https://worldcup.soccerstreams.net/)  
+
+---
+
 * /r/rugbystreams - Live streams. Links posted within the hour of the match
 * /r/MLBStreams - Live streams. Links posted within the hour of the match
 * /r/ncaaBBallStreams - Live streams. Links posted within the hour of the match
