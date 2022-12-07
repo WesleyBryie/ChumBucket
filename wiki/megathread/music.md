@@ -77,7 +77,7 @@ It's advisable to use this as a last resort. The quality from youtube is bad and
 
 ## ► DDL Sites (Direct Downloads)
 
-* (Discord) [GamesDrive / SlavDoge](https://discord.com/invite/gwxRf6ySGK) - Deezer, Qobuz, TIDAL, and SoundCloud Download Bot. The link straight takes you to discord server invite. There you can get direct download link by pasting the url for the supported streaming sites in the appropriate channel. Bot responds fast and download is fast
+* [Slavart \(on divolt\)](https://divolt.xyz/invite/TStW7rFg) -  Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL & SoundCloud Download Bot. The link takes you straight to divolt invite. There you can get direct download link by pasting the url for the supported streaming sites in the appropriate channel. Bot responds fast and download is fast [Site](https://slavart.gamesdrive.net/)
 
 * /r/MusicalBootlegs - Broadway bootlegs
 
