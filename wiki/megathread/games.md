@@ -279,6 +279,9 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 * Steamworks fix - Applied to game's files so that you can use Steam to play games that you do not own with other people that also do not own the game. Go to online-fix.me. Also go to cs.rin.ru if you have anything to discuss
 
 
+## ► Mobile games (Android/iOS/Windows etc)
+
+* [Mobilism](https://forum.mobilism.org/viewforum.php?f=375) - Forum with DDL links 
 
 
 ## ► Miscellaneous
