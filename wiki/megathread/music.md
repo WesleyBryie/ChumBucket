@@ -83,10 +83,6 @@ It's advisable to use this as a last resort. The quality from youtube is bad and
 
 * [Jimmyr mp3 search](http://www.jimmyr.com/mp3_search.php) - Custom search and downloader to find mp3 files on google.
 
-* [leakedalbums.org](https://leakedalbums.org/) - New music albums
-
-* [pluspremieres.to](https://www.pluspremieres.to/) - iTunes releases (m4a)
-
 * [free-mp3-download.net](https://free-mp3-download.net/) - High quality music downloads (mp3/FLAC). Uses only unintrusive banner ads.
 
 * [mp3juices.cc](https://www.mp3juices.cc/) - Searches for audio on several sources, such as youtube and soundcloud. Allows downloading in mp3 and streaming.
