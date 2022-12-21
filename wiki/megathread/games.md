@@ -79,6 +79,8 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 ## ► Torrent sites
 
+⚠️ Depending on your country, you might want to use a VPN to avoid getting copyright notices
+
 * [rarbg.to](http://rarbg.to/) - Scene releases. GOG games. No need to worry if it re-directs you to another proxy, it's just load balancing.
 
 * [rustorka.com](http://rustorka.com/) - Popular Russian torrent tracker and board for games. Scene releases, Steam / GOG / Origin rips. Offers ROMs as well.
@@ -99,8 +101,11 @@ More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.
 
 * [rutracker](https://rutracker.org/) - One of the best public trackers for games. Need an account before you can search. Use Chrome to auto-translate the sign-up page
 
+* [Archive.org - Classic PC games](https://archive.org/details/classicpcgames) - (from their own description) "The files available in this collection consist primarily of PC demos, freeware, and shareware." This also includes abandonware 
+
 * [1337x.to](https://1337x.to/) - Scene and GOG games are reposted here, as well as repacks from several popular repack groups, such as FitGirl, ElAmigos, Darck, R.G. Mechanics, Xatab, DODI, etc.  
-Note: Be careful of Crackingpatching, links - [1](https://www.reddit.com/r/Piracy/comments/qy6z3c/be_careful_of_crackingpatching/) || [2 \(/r/PiratedGames megathread\)](https://rentry.org/pgames-mega-thread)
+Note: Be careful of Crackingpatching, links - [1](https://www.reddit.com/r/Piracy/comments/qy6z3c/be_careful_of_crackingpatching/) || [2 \(/r/PiratedGames megathread\)](https://rentry.org/pgames-mega-thread)  
+(Also check Do Not Use section at the bottom of this page for uploaders to avoid)
 
 &nbsp;
 
@@ -128,6 +133,8 @@ Note: Be careful of Crackingpatching, links - [1](https://www.reddit.com/r/Pirac
 * [gnarly-repacks.site](https://www.gnarly-repacks.site/) - Console/emulator-based game repacks
 
 * [online-fix.me](https://online-fix.me/) - Download games with multiplayer/Steamworks fixes to play with friends. Covers steam and epic games
+
+* [Archive.org - Classic PC games](https://archive.org/details/classicpcgames) - (from their own description) "The files available in this collection consist primarily of PC demos, freeware, and shareware." This also includes abandonware 
 
 &nbsp;
 
