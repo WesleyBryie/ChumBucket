@@ -19,10 +19,8 @@
 * [RARBG.to](https://rarbg.to/) - One of the most organized public trackers, gets new content very quickly. Can search by IMDB tags (eg. `tt0258038`, appearing in IDMB URLs)
 * [rutracker.org](https://rutracker.org/) [.org, .net, .nl] - The best general tracker from Russia and arguably the best one overall. It's great for niche movies, especially from Russia and other east European countries.
 * [TorrentGalaxy.to](https://torrentgalaxy.to/) - Another highly recommended site for movies & TV. [Proxy list.](https://proxygalaxy.pw/)
-* [ettvdl.com](https://www.ettvdl.com/home/)
-* [Zooqle.com](https://zooqle.com/) - Easy to use torrent site
 * [1337x.to](https://1337x.to/) - Many public p2p releases/encodes are released here, including Tigole/UTR/YIFY. Cams are typically uploaded here as well.
-* [psarips.com](http://psarips.com/) - Small-sized x265 (re-)encodes
+* [psa.pm](https://psa.pm/) - Small-sized x265 (re-)encodes
 * **[Documentaries]** [forums.mvgroup.org](https://forums.mvgroup.org/index.php) - Very good documentaries tracker. Registration required.
 * **[Anime]** [Nyaa.si](https://nyaa.si/)
 * **[Anime]** [hi10anime.com](https://hi10anime.com/)
@@ -197,6 +195,7 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 [**/r/KissCartoon's extensive anime/manga site wiki**](https://www.reddit.com/r/KissCartoon/wiki/alternatives)
 
 * [9anime.to](https://9anime.to/)
+* [anime8.ru](https://anime8.ru/)
 * [kickassanime.rs](https://kickassanime.rs/)
 * [animekaizoku.com](https://animekaizoku.com/)
 * [gogoanime.in](https://www5.gogoanime.in/)
@@ -205,7 +204,6 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * [animeshow.tv](https://www1.animeshow.tv/)
 * [animerush.tv](https://www.animerush.tv/)
 * [twistmoe.net](https://twistmoe.net/)
-* [8anime.ru](https://anime8.ru/) - redirects to monfury.com as cover site, extensions like CleanURLs break it
 
 &nbsp;
 
@@ -220,7 +218,6 @@ FIFA World Cup 2022
 
 * https://rentry.org/champagne_wiki#watch-live-sports-replays   
 * [Sportsbay.run](https://www.sportsbay.run)  
-* [worldcup.soccerstreams.net](https://worldcup.soccerstreams.net/)  
 
 ---
 
