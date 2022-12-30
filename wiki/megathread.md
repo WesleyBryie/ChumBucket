@@ -7,7 +7,10 @@
 
 
 # MEGATHREAD
-## EDIT (09/06/2022): This Megathread is no longer maintained. Use at your own caution and refer to the threads below for alternatives.
+~~EDIT (09/06/2022): This Megathread is no longer maintained. Use at your own caution and refer to the threads below for alternatives.~~
+
+## EDIT (30/12/2022): This Megathread is no longer regularly updated with new links or periodically reviewed. We will make necessary changes as we become aware of the need to do so ourselves, or from reports.
+## We encourage the community to inform the mod team of out of date resources, or of concerns regarding any current links (e.g. a domain move, site having been taken down, or containing malware). Use at your own caution and refer to the threads below for alternatives.
 
 &nbsp;
 
