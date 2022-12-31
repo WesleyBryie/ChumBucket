@@ -291,11 +291,14 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 * [Mobilism](https://forum.mobilism.org/viewforum.php?f=375) - Forum with DDL links 
 
 
+## ► Tabletop RPGs / TTRPG / RPG rulebooks
+
+* /r/thetrove - Read the sticky there
+
+
 ## ► Miscellaneous
 
 * [pcgamingwiki.com](https://www.pcgamingwiki.com/) - Solutions wiki for many issues that arise with PC games
-
-* [thetrove.is](https://thetrove.is/) - Archival resource containing tabletop gaming / RPGs
 
 * [gamecopyworld.com](https://gamecopyworld.com/games/index.php) - PC Game Trainers, Cheats, No-CD / No-DVD PlayFixes and Patches, standalone cracks, etc
 
