@@ -16,18 +16,21 @@ For more in-depth discussion of private trackers: /r/trackers
 
 ---
 
-#### ► **Tracker abbrevations**
+#### ► **Trackers overview**
+
+* PU = Power User. The first rank when you level up. You need to be this rank before you can access a tracker's invite forum
 
 Tracker's name | Abbreviation | How to join  
 :--: | :--: | :--:
-MyAnonaMouse (myanonamouse.net) | MAM | https://www.myanonamouse.net/inviteapp.php
-Redacted | RED  
-Nebulance | NBL  
-GazelleGames | GGn  
-PassThePopcorn | PTP  
-BroadcastTheNet | BTN  
-Cinematik | TIK  
-HDBits | HDB  
+MyAnonaMouse (myanonamouse.net) | MAM | https://www.myanonamouse.net/inviteapp.php  
+Orpheus (orpheus.network) | OPS | https://interview.orpheus.network/ [[OR]] In case you don't want to do the interview, due to long wait times or any other reason, OPS can also be joined through MAM, as the latter has a much faster and easier process. Only requirement is to be PU  
+Redacted | RED | https://interviewfor.red/en/index.html  
+Nebulance | NBL | Can be joined through MAM. Only requirement is to be PU  
+GazelleGames | GGn | Can be joined through OPS or RED. Both require PU and 3 months old account  
+PassThePopcorn | PTP | No recruitment currently   
+BroadcastTheNet | BTN | No recruitment currently
+Cinematik | TIK | No recruitment currently  
+HDBits | HDB | No recruitment currently  
 
 ---
 
