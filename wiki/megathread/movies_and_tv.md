@@ -240,7 +240,7 @@ FIFA World Cup 2022
 * [sportsbay.sx](https://sportsbay.sx/) - Live streams. Football, soccer, basketball, hockey, baseball, NCAA, tennis, cricket, motorsports
 * [worldcupfootball.me](http://www.worldcupfootball.me/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF, NCAAM
 * [6stream.xyz](http://6stream.xyz/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF
-* [bilasport.net](http://bilasport.net/index.html) - Live streams. Soccer, MMA, baseball, basketball, football, hockey
+* [bilasport.net](http://bilasport.net/index.html) - Live streams. MMA, baseball, basketball, football, hockey
 * [720pstream.me](http://www.720pstream.me/) - Live streams. MMA, baseball, basketball, football, hockey, NCAAF, NCAAM
 * [ripple.is](http://ripple.is/) - Live streams. Soccer, MMA, boxing, motorsports, basketball, football
 * [nflbite.com](https://home.nflbite.com/) - Live streams. Football
@@ -369,11 +369,10 @@ FIFA World Cup 2022
 
 ### ► German Sites
 
-* [torrent-explosiv.eu](https://torrent-explosiv.eu/) - Semi-private torrent tracker
+
 * [nima4k.org](https://nima4k.org/) - DDL Movies & TV, documentaries, sports
 * [kinox.to](https://kinox.to/) - DDL Movies & TV, documentaries
 * [funxd.site](https://funxd.site/) - DDL Movies & TV. Click the Release link and type the release name into the filecrypt search
-* [einfachladen.org](https://einfachladen.org/) - DDL Movies (mega links)
 * [hd-world.org](http://hd-world.org/) - DDL TV Shows
 * [movieking.cc](https://movieking.cc/) - Stream Movies
 * [s.to](https://s.to/) - Stream TV Shows. Alternative domain: [serienstream.sx](https://serienstream.sx/)

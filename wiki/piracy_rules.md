@@ -1,36 +1,34 @@
----
----
-[◄◄ **Back to Wiki Index**](https://www.reddit.com/r/Piracy/wiki/index)
-
----
----
-
-# /r/Piracy Rules
-
-### 1 ➜ Posts must be related to the discussion of digital piracy
-
- * 1a. No low effort submissions such as sharing seeding ratio screenshots are permitted.
-
-&nbsp;
-
-### 2 ➜ No spam, trading, selling, or blatant self-promotion posts
- * 2a. No begging for invites to private sites, requesting for others to download content for you, requesting activation keys, etc.
- * 2b. No dealing "cracked" (read: stolen) accounts or request for sites that do so
- * 2c. Any monetary services are not allowed.
-
-&nbsp;
-
-### 3 ➜ Do not request for specific pirated titles (ie. a specific movie, book title, software title, etc.); do not link to pirated content. [Why?](https://www.reddit.com/r/piracy/wiki/subfaq)
- * 3a. You **may ask** generalized questions such as "Where can I find 4K movies, children's books, sci-fi books, etc.". You **may not** name a specific work's title in your content request.
- * 3b. Do not link to specific pirated media. You **may link** to the top level of a site, eg. https://1337x.to but **never** to a specific pirated release, eg. http://1337x.to/specific-movie-torrent
- * 3c. Do not encourage rule breaking by asking which specific title someone is looking for when they make a request
-
-&nbsp;
-
-### 4 ➜ Redundant questions that have been previously answered will be removed
- * Do a custom search via google, example: `where to find cracked apps site:reddit.com/r/piracy`
-
-&nbsp;
-
-### 5 ➜ Do not direct-message moderators for help with your issues. Either message the mod team if relevant, or make a post on the sub as normal
- * Set the recipient as /r/piracy to message the mod team instead of direct-messaging a particular mod
+⚓ ❮ Return to **r/Piracy**
+---
+💀 ❮ Return to [**Wiki Index**](https://www.reddit.com/r/Piracy/wiki/index/)
+---
+
+![](%%rules%%)
+
+# 📑 1 ➜ Posts must be related to the discussion of digital piracy.
+
+- The focus on file-sharing, articles and discussions about moral dilemmas with unauthorized distribution, legal developments, challenges, and other related topics are all welcome.
+- Comics, Memes & Screenshots are acceptable, but should be of good quality. Images that are too blurry or have a lot of unintelligible text will be deleted.
+- You are however, not allowed to post any visual representation for seeding / leeching ratio.
+
+&nbsp;
+
+# 📑 2 ➜ Don't request invites, spam, trade, sell, or self-promote.
+- No pleading for scene site invite requests, content downloads from others, activation keys etc.
+- No spamming multiple posts in a short time span.
+- No trading or selling monetary services.
+- No self-promoting your own work.
+
+&nbsp;
+
+# 📑 3 ➜ Don't [request or link](https://www.reddit.com/r/piracy/wiki/subfaq) to **specific** pirated titles.
+- **Yes you can ask** generalized questions (eg. *Where can I find games, movies, softwares etc*). 
+- **No you may not ask** for a specific pirated title (eg. "*Where can I download {insert title}*)? 
+- **Yes you can link** to the top level domain of a site (*eg. https://1337x.to/*).
+- **No you may not link** to a specific pirated title (*eg. https://1337x.to/torrent/movie/*).
+- Do not encourage rule breaking by asking which specific title another person is looking for when they make a request.
+
+&nbsp;
+
+# 📑 4 ➜ Make an effort not to ask questions that are redundant.
+- We are aware that occasionally, newcomers will ask questions that are similar to or identical to those that have already been asked. Because of this, we are pretty understanding in this area, however if at all possible, please try searching the internet first, including this subreddit.
