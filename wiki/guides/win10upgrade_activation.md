@@ -35,7 +35,7 @@ It's essentially piracy with a middleman.
 
 If you're on Windows, download and run the [**media creation tool**](https://www.microsoft.com/en-us/software-download/windows10) from microsoft. It will download Windows 10 and automatically create a bootable installation media for it on your USB drive.
 
-If you're on a different platform, you can use [**tb.rg-adguard.net**](https://tb.rg-adguard.net/public.php), which is just a web interface for MSFT's techbench site - any downloads will be done through MSFT's CDN.
+If you're on a different platform, you can use [**rg-adguard.net**](https://files.rg-adguard.net/), which is just a web interface for MSFT's techbench site - any downloads will be done through MSFT's CDN.
 
 &nbsp;
 

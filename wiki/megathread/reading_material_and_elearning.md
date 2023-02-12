@@ -5,11 +5,10 @@
 ---
 ---
 
-# BOOKS, COMICS, E-LEARNING, AND OTHER READING MATERIAL
+# BOOKS, COMICS and E-LEARNING
 
 ⚠️ **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
-[Large list of resources for books](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) by u/ManWithoutModem
 
 Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums/forumdisplay.php?f=166) or /r/calibre
 
@@ -17,27 +16,34 @@ Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums
 
 &nbsp;
 
-## ► **Books**
 
-* [archive.org/details/texts](https://archive.org/details/texts) - The Internet Archive's immense archive of ebooks.
 
-* [libgen.fun](http://libgen.fun/) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums
 
-* [libgen.rs](https://libgen.rs/) - Libgen mirror
+
+## ► **Textbooks / Academic books**
+
+* [libgen.rs (mirrors - .is/.st)](https://libgen.rs/) - Best site for textbooks. Provides several download options like DDL and torrent. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request [here](https://forum.mhut.org/viewtopic.php?f=17&t=6399)
+
+* [libgen.fun](http://libgen.fun/) - An offshoot of the primary libgen created by the founder, bookwarrior ([Complete story](https://www.reddit.com/r/libgen/comments/lelp7y/reviving_the_libgen_community/)). Catalogue not as good as libgen.rs but it's close. Also search for books and make requests here. 
+
+* [[Private tracker](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)] [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - As good as libgen to get your requests filled. 
+
+* [sci-hub.se](https://sci-hub.se/) - Largest collection of research papers
+
+* [academictorrents.com](https://academictorrents.com/) - "Making over 65TB of research data available! We've designed a distributed system for sharing enormous datasets - for researchers, by researchers."
 
 * [zlib.freedit.eu](https://zlib.freedit.eu/) - z-lib library. Books were originally sourced from libgen and other sources
 
-* [pdfdrive.com](https://www.pdfdrive.com/) - PDF file search engine
-
-* [the-eye.eu/public/Books](https://the-eye.eu/public/Books/) - The Eye's extensive eBooks archive
+* [archive.org/details/texts](https://archive.org/details/texts) - The Internet Archive's immense archive of ebooks.
 
 * [forcoder.su](https://forcoder.su/) - Focuses on programming textbooks
 
 * [mobilism.org](https://forum.mobilism.org/viewforum.php?f=106) - Large warez board that contains a request subforum
 
-* [Large list of ebook sites \(some defunct\)](https://www.unddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/)
-
 &nbsp;
+
+
+
 
 
 
@@ -53,6 +59,8 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 * [**r/Piracy's updated ebooks CSE**](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - Removed all dead links and added new websites. See [**here**](https://web.archive.org/web/20180501165358/https://pastebin.com/aapQMv7t) for the contents of the sites it scrapes
 
 * [filechef.com](https://www.filechef.com/) - Free File Search Engine
+
+* [oceanofpdf.com](https://oceanofpdf.com/) - Free File Search Engine
 
 * [Rave eBook Search Engine](https://ravebooksearch.com/) - Creator's thread - https://www.reddit.com/r/Piracy/comments/qfj0v7/rave_ebook_search_engine_has_a_new_address/
 
@@ -76,7 +84,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 ## ► Book IRCs
 
-* irc://irc.undernet.org/bookz - Read https://dramatica.online/Bookz for an overview on how to download books
+* irc://irc.undernet.org/bookz - Read https://encyclopediadramatica.online/Bookz for an overview on how to download books
 
 * irc://irc.irchighway.net/ebooks
 
@@ -88,15 +96,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 
 
-## ► **Academic / Educational**
 
-* [libgen.fun](http://libgen.fun/) - Most popular ebook site and provides several mirrors to ebooks including torrents. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request in the respective thread in the forums
-
-* [sci-hub.se](https://sci-hub.se/) - Largest collection of research papers
-
-* [academictorrents.com](https://academictorrents.com/) - "Making over 65TB of research data available! We've designed a distributed system for sharing enormous datasets - for researchers, by researchers."
-
-* [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - Several links to free eBook resources
 
 
 &nbsp;
@@ -129,15 +129,9 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 ## ► **Courses/Tutorials**
 
-See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
-
-* [FTU Udemy](https://www.ftuudemy.com/) - Best torrent website for udemy courses
-
 * [FreeCourseSite \(FCS\)](https://freecoursesite.com/) - Great site for udemy courses. Rivals FTU
 
 * [coursehunter.net](https://coursehunter.net/) - Legal site. Find free tutorials online
-
-* [freetutorialsus.com](https://freetutorialsus.com/) - Udemy, Lynda, Pluralsight courses available. 
 
 * [desirecourse.net](https://desirecourse.net/) - Download and request premium courses
 
@@ -152,6 +146,8 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 * [Avaxhome](https://avxhm.se/) - E-learning material. Pair together [with this](https://www.reddit.com/r/Piracy/comments/d0rfpe/download_ebooks_on_avaxhome_for_free/) to download.
 
 * [online-courses.club](https://online-courses.club/) - Online courses, including a lot of CGPersia content
+
+See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
 
 &nbsp;
 
@@ -205,13 +201,11 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 * [comicextra.com](https://www.comicextra.com/)
 
-* [comix-load.in](https://comix-load.in/)
-
 * [xoxocomics.com](https://xoxocomics.com/)
 
-* [comicpunch.net](https://comicpunch.net/)
 
 &nbsp;
+
 
 
 
@@ -281,6 +275,12 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 ## ► Misc
 
+* [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - Several links to free eBook resources
+
+* [pdfdrive.com](https://www.pdfdrive.com/) - PDF file search engine
+
+* [the-eye.eu/public/Books](https://the-eye.eu/public/Books/) - The Eye's extensive eBooks archive
+
 * [pindiy.com](https://www.pindiy.com/) - Sewing patterns
 
 * [eeff.net](http://www.eeff.net/forum.php?gid=298) - Sewing patterns
@@ -300,21 +300,16 @@ See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wik
 
 ## ► French Content Sites
 
-* [emulebdz.p1g1.org](http://emulebdz.p1g1.org/index.php?) - French comics. eD2k network
 
 * [bdmagexhumator.blogspot.com](https://bdmagexhumator.blogspot.com/) - DDL French comics
 
 * [lpebk.com](http://www.lpebk.com/) - French board. DDL comics
 
-* [japscan.co](https://www.japscan.co/) - French manga
-
 * [scantrad.net](https://scantrad.net/) - French manga
 
-* [yggtorrent.li](https://yggtorrent.li/) - French general content semi-private torrent tracker
+* [yggtorrent.lol](https://www6.yggtorrent.lol/) - French general content semi-private torrent tracker
 
 * [sharewood.tv](https://www.sharewood.tv/) - French general content semi-private torrent tracker
-
-* [torrent9.so/torrents/ebook](https://www.torrent9.so/torrents/ebook) - Torrent French ebooks, newspapers, magazines
 
 * [omgtorrent.cz](https://www.omgtorrent.cz/) - Torrent French ebooks
 

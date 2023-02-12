@@ -16,8 +16,6 @@ These subreddits are centered around the topic of piracy. Though they may discus
 
 * /r/CrackSupport -  For those who have already downloaded their desired (pirated) game, but require technical assistance with it.
 
-* [/s/sjain_guides](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides) - Cracked software guides and discussion
-
 * /r/FREEMEDIAHECKYEAH - Vast Piracy and Free Media resources
 
 * /r/ApksApps - Pirate-oriented android apps
@@ -251,11 +249,7 @@ The following subreddits are centered around altering/hacking the respective con
 
 * /r/Roms - Their [wiki](https://old.reddit.com/r/Roms/wiki/index)
 
-* /r/Romstorage - Parent site is [romstorage.com](https://www.romstorage.com/)
-
 * /r/SwitchPirates 
-
-* ~~r/SwitchNSPs - Switch NSPs~~ Banned for sharing pirated material
 
 * /r/3DSpiracy - Their [FAQ](https://old.reddit.com/r/3dspiracy/wiki/faq)
 
@@ -265,7 +259,6 @@ The following subreddits are centered around altering/hacking the respective con
 
 * /r/CemuPiracy - Cemu is a WiiU emulator for the PC. This sub is for discussion on WiiU piracy with a focus on emulation. Their [wiki](https://old.reddit.com/r/CemuPiracy/wiki/index)
 
-* r/PkgLinks - PS4 PKGs
 
 
 &nbsp;

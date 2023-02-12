@@ -1,74 +1,23 @@
----
----
-[**◄◄ Back to Wiki Index**](https://www.reddit.com/r/Piracy/wiki/index)
-
----
----
-
-
-# MEGATHREAD
-~~EDIT (09/06/2022): This Megathread is no longer maintained. Use at your own caution and refer to the threads below for alternatives.~~
-
-## EDIT (30/12/2022): This Megathread is no longer regularly updated with new links or periodically reviewed. We will make necessary changes as we become aware of the need to do so ourselves, or from reports.
-## We encourage the community to inform the mod team of out of date resources, or of concerns regarding any current links (e.g. a domain move, site having been taken down, or containing malware). Use at your own caution and refer to the threads below for alternatives.
-
 &nbsp;
 
-Alternative megathread at **[/r/FREEMEDIAHECKYEAH](https://reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** (more than just piracy).
+![](%%megathread%%)
 
-If you have any critique or suggestions you would like to see added to the Megathread, or would like to be granted contribution privileges, send us a mod mail [here](https://www.reddit.com/message/compose?to=%2Fr%2FPiracy&subject=Megathread%20suggestion) (If link doesn't work, then just send a private message with /r/Piracy as the recipient).
+# 📜 ➜ Welcome to the **Megathread**
+The ultimate map for tracking down the highest grade loot. Because buying treasure is just not exciting enough to qualify as an expedition for a seasoned sailor.
 
+### ✏️ ➜ Ongoing community project
+- As part of the overall collective effort, please [report any dead links](https://www.reddit.com/message/compose?to=%2Fr%2FPiracy&subject=Megathread+Update) to the moderators, or leave a comment about it in the Weekly Discussions pinned at the top of the subreddit. 
+- You can also read the [Megathread Clarification] (https://www.reddit.com/r/Piracy/comments/zz6z77/megathread_clarification/) for an update on the situation.
 
----
-&nbsp;
+### ⛵ ➜ Important gear for your journey
+- Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized settings](https://i.postimg.cc/6QjMwNYG/u-Block-Origin-optimized-settings.png) (*Blocks advertisements & malware*).
+- Change your [DNS](https://www.privacyguides.org/advanced/dns-overview/) settings to one of these great [choices](https://www.privacyguides.org/dns/) (*Bypasses website access limitations*).
+- Use a reputable torrent client with a kill switch, such as [qBittorrent](https://www.qbittorrent.org/) (*Allows torrenting*).
+- Set up a VPN such as [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/) (*Changes IP address to hide identity*).
+- Bind your torrent client to the VPN (*Only allows torrenting when VPN is active*).
 
-
-
-
-*Make sure your adblocker is on before visiting any of the linked websites*. uBlock Origin is recommended (See the `Tools` page below).
-
-
-## [► Related / Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits)
- > List of related and alternative subreddits, either centered around piracy or around technologies that tie in with piracy
-
-## [► Tools / Useful Apps & Extensions / Web Services](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
- > Activation tools, useful applications, userscripts, download managers and helpers/tools and other miscellaneous
-
-## [► Mobile Apps & Cracked App Markets/Repos](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos)
- > Apps and resources for Android and iOS
-
-## [► Games](https://reddit.com/r/Piracy/wiki/megathread/games)
- > Sites for downloading games and ROMs
-
-## [► Movies & TV / Sports](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
- > Sites for streaming and downloading/torrenting Movies & TV and Sports
-
-## [► Software Downloads](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads)
- > Sites for obtaining popular cracked software
-
-## [► Books / Comics / e-learning / Other Reading Material](https://reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning)
- > Books, comics, manga, magazines, courses & tutorials
-
-## [► Music](https://reddit.com/r/Piracy/wiki/megathread/music)
- > Sites & apps for downloading music, video game soundtracks/scores
-
-## [► Porn](https://reddit.com/r/Piracy/wiki/megathread/porn)
- > Pirate porn sites
-
-## [► Private Trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
-
-## [► Miscellaneous](https://www.reddit.com/r/Piracy/wiki/megathread/miscellaneous)
-
-## [► General-Purpose Sites / Search Engines](https://reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines)
- > General-purpose torrent sites. Torrent search engines/aggregators/DHT crawlers are listed to search within as many publicly listed torrents as possible to find rare content that cannot be found in any of the trackers listed in the above categories.
- >
- > When using torrent search engines/DHT crawlers, they will list as many publicly available torrents as possible, unfiltered and unfettered in regards to viruses. Never use thse to search for software, but when searching for other media types, take some [**preliminary measures**](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to avoid running malware.
-
-## ► **Alternative piracy resources compilations**
-
-+ [Ripped guide](https://ripped.guide/)
-
-+ [Awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
+### ⚠️ ➜ Warning sailor!
+- Any links that are **not included in the entire Megathread** have either not been approved by the moderators or the community, or have been deleted at some point. In other words, use caution anytime you sail in uncharted waters.
 
 &nbsp;
 
@@ -76,33 +25,75 @@ If you have any critique or suggestions you would like to see added to the Megat
 
 &nbsp;
 
+# 📑 1 ➜ Entertainment
 
+### ⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/) (*Launching soon*)
+- Anime is often used to describe a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
 
+### 🎦 [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
+- Movies & TV are works of visual art that employ moving pictures to imitate experiences and express ideas, tales, perceptions, feelings, beauty, or ambience.
 
-**Notes on software and sites to avoid:**
+### 🎹 [Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
+- Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
 
-* Try to avoid the pirate bay if you can (for software/games), it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
-
-  * You can still use The Pirate Bay safely when searching for other media types (video, audio, etc.) [if you follow some basic steps.](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)
-
-* uTorrent [bundled an optional, non-malicious bitcoin miner into the software in 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880). The UI includes ads, however these [can be disabled](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comment-496240). The company developing this software is seen by many as untrustworthy. BitTorrent (the torrent client) is owned by the same company.
-
-* [Bitlord \(torrent client\) is malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
-
-* [Soda Stream is malware.](https://www.reddit.com/r/Piracy/comments/8q2pg3/anyone_who_can_explain_why_soda_player_is/)
-
-* [Sidify/Allavsoft are scams - They are not able to download from Spotify in any way, and instead record the streams or download from alternative platforms, like YouTube.](https://www.reddit.com/r/Piracy/comments/6l2lwh/any_experience_with_sidify/)
-
-* Peerblock is garbage and placebo software. Peerblock's blocklists are not accurate in any way and is not able to discern between the IP of a normal user and that of a copyright troll.
-
+### 🎮 [Games](https://www.reddit.com/r/Piracy/wiki/megathread/games/)
+- Video Games, usually referred to as computer games, require interaction with a user interface or input device, such as a controller or keyboard, to produce audiovisual feedback. (THIS DESCRIPTION NEEDS UPDATING)
 
 &nbsp;
 
-&nbsp;
-
-
-
-
-Credits to /u/Klappa4Me for doing a lot of the heavy lifting.
+---
 
 &nbsp;
+
+# 📑 2 ➜ Applications & Learning
+
+### 📚 [Books, Comics and E-Learning](https://www.reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning/)
+- Books are a recording medium for information that often has several pages and is made up of words, images, or both. An ebook is a digital version.
+
+### ⚙️ [Software](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads/)
+- Software is a collection of computer programmes along with supporting files and information. On the other side, the system is comprised of hardware.
+
+### 🧰 [Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools/)
+- Tools for activation, userscripts, download managers, assistants, extensions and a plethroa of other supplemental software.
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 3 ➜ Sundries
+
+### ⭐ [General Sites](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines/)
+- General Sites for torrent search engines, aggregators & DHT crawlers in order to find as many rare content as possible which has been made public.
+
+### 📱 [Mobile](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos/)
+- Mobile, often known as smartphones, are portable computers that integrate computing and mobile telephone functionality into a single device.
+
+### 💗 [Porn](https://www.reddit.com/r/Piracy/wiki/megathread/porn/)
+- Porn is defined as sexual topic material created and distributed with the permission of all parties involved, with the primary goal of eliciting sexual excitement in the consumer.
+
+### 🪧 [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits/)
+- Related Subreddits, either concentrated on piracy or on technology related to piracy.
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 4 ➜ Other Compilations
+
+### 📁 [Ripped](https://ripped.guide/)
+- This is a collection of sites and tools that are trusted by the community.
+
+&nbsp;
+
+---
+
+&nbsp;
+
+⚓ ❮ Return to **r/Piracy**
+---
+💀 ❮ Return to [**Wiki**](https://www.reddit.com/r/Piracy/wiki/index/)
+---

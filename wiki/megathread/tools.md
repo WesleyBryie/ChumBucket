@@ -40,7 +40,6 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 * [Windows ISOs at nmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular Russian forum and torrent tracker. Torrents for LTSC and consumer edition Windows 10 ISOs
 * [abbodi1406's pastebin for Office 2019 / Office 365 C2R ISO images](https://pastebin.com/raw/PLhB7UnK) - Original [post at MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
 * [abbodi1406's pastebin for Office 2016 C2R Images ](https://pastebin.com/raw/e8JiAw6E) - Original [post at MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
-* [Massgravel's Pastebin](https://pastebin.com/raw/jduBSazJ) - Various sources for obtaining Genuine Installation Media. Available at the [MAS repository](https://github.com/massgravel/Microsoft-Activation-Scripts/)
 * [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to download Windows 10 and create USB installation media.
 * [Office images for Mac](https://macadmins.software/) - Neatly organized page for MSFT-provided downloads of Mac Office images.
 
@@ -55,8 +54,8 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 
 * [uBlock origin](https://github.com/gorhill/uBlock#installation) - for blocking most ads and pop-ups.
 * [AdNauseam](https://adnauseam.io/) - Based on uBlock Origin. Designed to obfuscate browsing data and protect users from tracking by advertising networks
-* [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
-* [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)  - Block ads and enables song skipping on the Windows Spotify desktop app.
+* [FastForward](https://github.com/FastForwardTeam/FastForward) - Open-source browser extension to "circumvent sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)"
+* [SpotX - formerly BlockTheSpot](https://github.com/spotx-cli) - Block ads and enables song skipping on the Windows Spotify desktop app.
 * [EZBlocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/) - lightweight executable that blocks and mutes Spotify ads on Windows.
 * [Spotify-Site-Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) - Block ads on the Spotify website  
 * [Bypass-Paywalls-Firefox-Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) - Firefox extension to block paywalls. Supported sites are listed in the repo page.
@@ -106,9 +105,12 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 
 ## ► Pirate Site Proxies / Unblockers
 
-* [knaben.info](https://knaben.info/) - List of known proxies offered by several popular pirate sites
-* [root.yt](https://root.yt/)
-* [unblocked-pw.github.io](https://unblocked-pw.github.io/)
+* [Knaben](https://knaben.info/) - List of known proxies offered by several popular pirate sites
+* [Torrent Mirror](https://www.torrentmirror.net/)
+* [Unblockit](https://unblock_it.gitlab.io/site/)
+* [UnblockSource](https://unblocksource.nl/)
+* [Unblock Ninja!](https://unblockninja.com/)
+* [TorrentBay](https://torrentbay.to/)
 
 &nbsp;
 
@@ -127,7 +129,7 @@ HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?ti
 
 ## ► Torrent Clients
 
-Notes: Bittorrent Inc. has bundled malware (a bitcoin miner) into [uTorrent in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825) - it is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
+Notes: uTorrent [bundled an optional, non-malicious bitcoin miner into the software in 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880). The UI includes ads, however these [can be disabled](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comment-496240). The company developing this software is seen by many as untrustworthy. BitTorrent (the torrent client) is owned by the same company.
 
 Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
 
@@ -143,7 +145,7 @@ Bitlord torrent client [is malware.](https://www.reddit.com/r/torrents/comments/
 * [rTorrent](https://github.com/rakshasa/rtorrent) - Terminal-based torrent client for linux
 * [ruTorrent for rTorrent](https://github.com/Novik/ruTorrent) - Web management UI for rtorrent
 * [Flood for rTorrent](https://github.com/Flood-UI/flood) - Sleek web management UI for rtorrent
-* **[Windows]** [uTorrent 2.2.1 Build 25302](http://web.archive.org/web/2011*/http://download.utorrent.com/2.2.1/utorrent.exe) - If you're still set on using uTorrent, this is a stable old build of uTorrent, before it turned to crap and had malware added. It was released on May 18, 2011. Set `net.discoverable` to False in settings and disable the Web GUI to mitigate security vulnerabilities that were later discovered. You can grab the installer from the wayback machine, as it has it cached. Just navigate to a close date past the release date noted earlier. You can check which version you have downloaded by checking the file's properties, in the details tab.
+* **[Windows]** [uTorrent 2.2.1 Build 25302](http://web.archive.org/web/2011*/http://download.utorrent.com/2.2.1/utorrent.exe) - This is a stable old build of uTorrent, preferred by some. It was released on May 18, 2011. Set `net.discoverable` to False in settings and disable the Web GUI to mitigate security vulnerabilities that were later discovered.
 
 For Android torrent clients, see: [Mobile Apps & Cracked App Markets](https://reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos)
 

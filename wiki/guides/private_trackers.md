@@ -16,7 +16,7 @@ For more in-depth discussion of private trackers: /r/trackers
 
 ---
 
-#### ► **Trackers overview**
+### ► **Trackers overview**
 
 * PU = Power User. The first rank when you level up. You need to be this rank before you can access a tracker's invite forum
 
@@ -25,12 +25,24 @@ Tracker's name | Abbreviation | How to join
 MyAnonaMouse (myanonamouse.net) | MAM | https://www.myanonamouse.net/inviteapp.php  
 Orpheus (orpheus.network) | OPS | https://interview.orpheus.network/ [[OR]] In case you don't want to do the interview, due to long wait times or any other reason, OPS can also be joined through MAM, as the latter has a much faster and easier process. Only requirement is to be PU  
 Redacted | RED | https://interviewfor.red/en/index.html  
-Nebulance | NBL | Can be joined through MAM. Only requirement is to be PU  
+Nebulance | NBL | Can be joined through MAM. Only requirement is to be PU   
+Secret Cinema | SC | Can be joined through MAM. VIP + 50GB upload + 6 months old account  
 GazelleGames | GGn | Can be joined through OPS or RED. Both require PU and 3 months old account  
 PassThePopcorn | PTP | No recruitment currently   
 BroadcastTheNet | BTN | No recruitment currently
 Cinematik | TIK | No recruitment currently  
 HDBits | HDB | No recruitment currently  
+
+
+#### ► **Pay to join trackers**
+
+
+Tracker's name | Abbreviation | How to join | Cost 
+:--: | :--: | :--: | :--:
+IPTorrents | IPT | https://iptorrents.com/signup.php | $20
+HD-Torrents | HDT | https://hd-torrents.org/unregistred.php | €40
+
+
 
 ---
 
@@ -114,7 +126,7 @@ There are some drawbacks. Here is a list -
 
 # Overview of tracker categories
 
-#### ► **Elite/High Tier Trackers**:
+## ► **Elite/High Tier Trackers**:
 
 HDBits, PTP, and BTN are the end-game trackers most people strive for in regards to Movies and TV, as their selection of content and quality is unmatched by any other private tracker; the requirements to join these trackers are very high and take a long time to achieve. HDBits is the source of a lot of the content that ends up being uploaded to PTP and BTN, so even members of BTN and PTP find it exceedingly difficult (even impossible) to join HDBits. Since the content uploaded to HDBits end up being uploaded to PTP and BTN anyway, many choose to stay and enjoy the vast content available in the latter 2 trackers. HDBits does also specialize in a few other categories that PTP and BTN do not offer a category for, namely x265 1080p encodes by HDBits' extremely talented group of encoders (No, Tigole isn't up to par) and a selection of audio tracks that are offered as separate downloads from the movie, offered as "alternative language" audio tracks. These categories are considered niche though, so the attention given to these is not as extensive as that what is given to x264 encodes. This is to be expected, as x265 is still an incomplete encoder compared to x264.
 
@@ -124,7 +136,7 @@ For Music, RED is the best music tracker and considered to be an elite-tier trac
 
 &nbsp;
 
-#### ► **Tracker categories**:
+## ► **Tracker categories**:
 
 General trackers are considered jacks of all trades, and while they are a good way to get most type of content, they will not excel in any specific category. Specialized trackers with a specific focus will naturally have the best type of content for that category.
 
@@ -175,6 +187,14 @@ The following is a list of different categories, followed by trackers (in descen
 &nbsp;
 
 
-#### ► **Exclusive content**:
+# **Frequently Asked Questions**
 
-Only a couple of private trackers like TIK and HDB condone making torrents exclusive, and would enforce the breaking of that rule. Rest of the trackers do not accept this behaviour and you're free upload that content anywhere you like
+## What about exclusive content?
+
+Only a couple of private trackers like TIK and HDB condone making torrents exclusive, and would enforce the breaking of that rule. Rest of the trackers do not accept this behaviour and you're free upload that content anywhere you like
+
+## How much do I need to seed and upload?
+
+It varies wildly from tracker to tracker. Usually you have to seed for 2 to 7 days. This seeding requirement can be met either in an indefinite amount of time or in a given amount which is usually a fortnight or a month. Then on one extreme you have ratiofree trackers without any seeding requirements (SC), and on other where you have to seed for 2 weeks (IPT)
+
+Upload and ratio requirements vary in a similar way. Ratio requirement can be 0.65-1.05.
