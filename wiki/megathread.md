@@ -6,8 +6,7 @@
 The ultimate map for tracking down the highest grade loot. Because buying treasure is just not exciting enough to qualify as an expedition for a seasoned sailor.
 
 ### ✏️ ➜ Ongoing community project
-- As part of the overall collective effort, please [report any dead links](https://www.reddit.com/message/compose?to=%2Fr%2FPiracy&subject=Megathread+Update) to the moderators, or leave a comment about it in the Weekly Discussions pinned at the top of the subreddit. 
-- You can also read the [Megathread Clarification] (https://www.reddit.com/r/Piracy/comments/zz6z77/megathread_clarification/) for an update on the situation.
+- As part of the overall collective effort, please report any dead links in the [2023 Megathread Remake!](https://www.reddit.com/r/Piracy/comments/111pm05/2023_megathread_remake/) thread pinned at the top of the subreddit.
 
 ### ⛵ ➜ Important gear for your journey
 - Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized settings](https://i.postimg.cc/6QjMwNYG/u-Block-Origin-optimized-settings.png) (*Blocks advertisements & malware*).

@@ -11,7 +11,8 @@ This is where you may start looking for useful information on your endeavours to
 
 &nbsp;
 
-# 📜 ➜ [**Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread/) (*2023 Complete overhaul underway*)
+# 📜 ➜ [**Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread/)
+- Please read the [2023 Megathread Remake!] (https://www.reddit.com/r/Piracy/comments/111pm05/2023_megathread_remake/) for an update on the situation.
 - On your quest, you will come across sites, apps, tools and a variety of other excellent resources to become the most dreadful, most magnificent pirate of the sea. Now pick your destination!
 
 &nbsp;
