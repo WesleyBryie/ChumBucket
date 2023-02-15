@@ -1,5 +1,3 @@
-&nbsp;
-
 ![](%%subfaq%%)
 
 # 🪶 ➜ Welcome to the **SubFAQ**

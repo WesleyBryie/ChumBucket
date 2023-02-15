@@ -1,5 +1,3 @@
-&nbsp;
-
 ![](%%wiki%%)
 
 # 💀 ➜ Welcome to the **Wiki**

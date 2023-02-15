@@ -1,5 +1,3 @@
-&nbsp;
-
 ![](%%guides%%)
 
 # 🪶 ➜ Welcome to the **Guides**

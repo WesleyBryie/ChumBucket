@@ -1,5 +1,3 @@
-&nbsp;
-
 ![](%%rules%%)
 
 # 🪶 ➜ Welcome to the **Rules**

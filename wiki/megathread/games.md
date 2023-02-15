@@ -296,15 +296,6 @@ Jump to [Related & Alternative Subreddits](https://www.reddit.com/r/Piracy/wiki/
 
 
 
-
-
-## ► Tabletop RPGs / TTRPG / RPG rulebooks
-
-* /r/thetrove - Read the sticky there
-
-
-
-
 ## ► Virtual Reality (VR) games
 
 [cs.rin.ru](https://cs.rin.ru/forum/) - The best source for VR games. You can make requests for any title that's missing

@@ -1,5 +1,3 @@
-&nbsp;
-
 ![](%%isp-complaints%%)
 
 # 🪶 ➜ Welcome to the **ISP Complaints**

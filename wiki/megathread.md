@@ -1,12 +1,7 @@
-&nbsp;
-
 ![](%%megathread%%)
 
 # 📜 ➜ Welcome to the **Megathread**
-The ultimate map for tracking down the highest grade loot. Because buying treasure is just not exciting enough to qualify as an expedition for a seasoned sailor.
-
-### ✏️ ➜ Ongoing community project
-- As part of the overall collective effort, please report any dead links in the [2023 Megathread Remake!](https://www.reddit.com/r/Piracy/comments/111pm05/2023_megathread_remake/) thread pinned at the top of the subreddit.
+The ultimate map for tracking down the highest grade loot. Because buying treasure is just not exciting enough to qualify as an expedition for a seasoned sailor. Our Megathread was designed to be simple to use and comprehend, and it can accommodate any level of pirate, from novice to experienced.
 
 ### ⛵ ➜ Important gear for your journey
 - Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized settings](https://i.postimg.cc/6QjMwNYG/u-Block-Origin-optimized-settings.png) (*Blocks advertisements & malware*).
@@ -26,17 +21,17 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 
 # 📑 1 ➜ Entertainment
 
-### ⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/) (*Launching soon*)
+### ⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/)
 - Anime is often used to describe a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
 
-### 🎦 [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
+### 🎦 [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv) (*Work in progress*)
 - Movies & TV are works of visual art that employ moving pictures to imitate experiences and express ideas, tales, perceptions, feelings, beauty, or ambience.
 
 ### 🎹 [Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
 - Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
 
-### 🎮 [Games](https://www.reddit.com/r/Piracy/wiki/megathread/games/)
-- Video Games, usually referred to as computer games, require interaction with a user interface or input device, such as a controller or keyboard, to produce audiovisual feedback. (THIS DESCRIPTION NEEDS UPDATING)
+### 🎮 [Video Games](https://www.reddit.com/r/Piracy/wiki/megathread/games/)
+- Video Games, usually referred to as computer games, require interaction with a user interface or input device, such as a controller or keyboard, to produce audiovisual feedback.
 
 &nbsp;
 

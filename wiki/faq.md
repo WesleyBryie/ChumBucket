@@ -1,5 +1,3 @@
-&nbsp;
-
 ![](%%faq%%)
 
 # 🪶 ➜ Welcome to the **FAQ** (*Frequently Asked Questions*)
