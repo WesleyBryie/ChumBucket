@@ -336,6 +336,39 @@ These are sites that track Scene releases. They serve strictly as notice boards 
 &nbsp;
 
 
+## ► Relevant Software/Tools
+
+**Download Managers**
+
+> These are useful for DDL sites. Download managers such as these are meant to help to speed up downloads, typically by increasing the number of connections to the server or attempting to split the download into chunks. They are also especially handy when grabbing multiple links at once, which is typical with DDL sites, where they'll split up large downloads into multiple small `.rar` parts, as well as bypassing captchas and eliminating the risks of clicking on the wrong download button on various file hosts. They also help with resuming paused or timed out downloads which your browser may not be able to do in some cases.
+
+* [JDownloader2](http://jdownloader.org/jdownloader2) - Download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites.
+* [Internet Download Manager \(IDM\)](https://www.internetdownloadmanager.com/download.html) - Paid download manager that supports downloading from a variety of file-hosts. Supports downloading video from many websites. Use the free trial, then when the trial is nearing its end, simply reset the trial [with this](https://github.com/J2TEAM/idm-trial-reset). Alternative [method here](https://www.reddit.com/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/).
+* [XTREME download manager](https://subhra74.github.io/xdm/) - Another very nice download manager
+* [pyLoad](https://pyload.net/) - Lightweight download manager written in python. Managed through a WEB UI.
+* [aria2](https://aria2.github.io/) - Commandline-based download utility.
+
+**Steam Tools**
+
+* [**Steam Content Packager**](https://cs.rin.ru/forum/viewtopic.php?f=29&t=77526) - Tool for cleaning steam files. Packages your Steam game files whilst removing identifying information for the purpose of sharing them to cs.rin.ru's [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) subforum
+* [**Goldberg Emulator**](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - Steam Emulator. Crack your own Steam game or the clean Steam files shared on cs.rin.ru's [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) subforum
+* [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Steam Emulator. Crack your own Steam games or the clean Steam files shared on cs.rin.ru's [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) subforum
+* [GreenLuma 2020](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Emulator
+* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Unlock all DLCs on legit Steam games
+* [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Automatically install and set up CreamAPI for Steam games
+* [Steamless](https://github.com/atom0s/Steamless) - Removes SteamStub DRM from Steam game executables if they contain it. To be used in conjunction with a Steam emulator if the emulator alone is not enough to crack the game
+
+**EPIC Tools**
+
+* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Legit DLC Unlocker for Epic Online Services. Works only for games you own. Features like multiplayer, achievements, etc. remain fully functional.
+
+More tools at cs.rin.ru's [Releases subforum](https://cs.rin.ru/forum/viewforum.php?f=29)
+
+**Game Launchers**
+
+* [Playnite](https://playnite.link/) - Universal game launcher for Windows
+* [GOG Galaxy](https://www.gog.com/galaxy) - Universal game launcher for Windows/MacOS
+* [Lutris](https://lutris.net/) - Universal game launcher for linux
 
 
 
