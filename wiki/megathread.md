@@ -67,9 +67,6 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 ### 📱 [Mobile](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos/)
 - Mobile, often known as smartphones, are portable computers that integrate computing and mobile telephone functionality into a single device.
 
-### 💗 [Porn](https://www.reddit.com/r/Piracy/wiki/megathread/porn/)
-- Porn is defined as sexual topic material created and distributed with the permission of all parties involved, with the primary goal of eliciting sexual excitement in the consumer.
-
 ### 🪧 [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits/)
 - Related Subreddits, either concentrated on piracy or on technology related to piracy.
 
@@ -79,10 +76,13 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 
 &nbsp;
 
-# 📑 4 ➜ Other Compilations
+# 📑 4 ➜ External Compilations
 
 ### 📁 [Ripped](https://ripped.guide/)
 - This is a collection of sites and tools that are trusted by the community.
+
+### 📁 [Shakil-Shahadat's Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)
+- This list is based on Igglybuff's excellent work, however that repository contains many outdated links, thus it has been forked to keep it up to date.
 
 &nbsp;
 
