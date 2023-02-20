@@ -25,7 +25,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 1 ➜ Direct Downloads
 
-### 🔗 [CS.RIN.RU, Steam Underground](https://cs.rin.ru/forum/) (ꜱɪɢɴ ᴜᴘ + ʀᴜꜱꜱɪᴀɴ)
+### 🔗 [CS.RIN.RU, Steam Underground](https://cs.rin.ru/forum/) (ꜱɪɢɴ ᴜᴘ)
 - The biggest forum in the world devoted to video game piracy, it is a valuable source of games with some of the most knowledgeable game pirates around.
 - 🐐 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗗: [𝗚𝗢𝗔𝗧 𝗦𝗧𝗔𝗧𝗨𝗦](https://www.urbandictionary.com/define.php?term=goat)
 - 🇷🇴 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʀᴏᴍᴀɴɪᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fcs.rin.ru%2Fforum%2F&csrf_token=80329e0db73259cd429f139a331bc866e8562bd0), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/9bcece5c7ce65e847f97316c5788032180b278c7ff2e14cc58de1fa7af77d29c)

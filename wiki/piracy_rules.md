@@ -24,8 +24,9 @@ We adhere to specific standards and uphold certain regulations, much like any ot
 
 
 # 📑 2 ➜ Don't request invites, trade, sell, or self-promote
-- No pleading for scene site invite requests, content downloads, activation keys etc.
-- No trading or selling monetary services.
+- No pleading for invites to scene sites, private torrent trackers, DDL forums or other sites with closed registrations.
+- No asking for content downloads, activation keys etc.
+- No trading or selling content, especially not for monetary services.
 - No self-promotion of your own work is allowed unless you expressly receive [permission from the moderators](https://www.reddit.com/message/compose?to=%2Fr%2FPiracy&subject=Self+Promotion+Post).
 
 

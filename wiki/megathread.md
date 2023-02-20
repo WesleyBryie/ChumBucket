@@ -24,7 +24,7 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 ### ⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/)
 - Anime is often used to describe a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
 
-### 🕹️ [Emulators & ROMs](https://www.reddit.com/r/Piracy/wiki/megathread/emulators_and_roms/) (*Launching soon*)
+### 🕹️ [Emulators & ROMs](https://www.reddit.com/r/Piracy/wiki/megathread/emulators_and_roms/) (*Update in progress*)
 - Emulators are small programmes that simulate the actions of certain gaming consoles, whereas ROMs are digital copies of video games extracted from a cartridge or disc.
 
 ### 🎮 [Games](https://www.reddit.com/r/Piracy/wiki/megathread/games/)
