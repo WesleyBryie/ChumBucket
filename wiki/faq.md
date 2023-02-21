@@ -23,7 +23,7 @@ Read through the material supplied here for bite-sized information that is easy 
 
 ### ❔ How can I tell if what I download is safe?
 - For files under 650MB, you can upload these to be scanned on [VirusTotal](https://www.virustotal.com/) and then use [this guide](https://www.reddit.com/r/Piracy/comments/n62da6/how_do_you_guys_know_if_a_virus_warning_is_a/gx4whhz/) to determine if any detections are most likely real or false positives.
-- Another good malware analysis site is [Intezer Analyze](https://analyze.intezer.com/).
+- Other good malware analysis sites are [Intezer Analyze](https://analyze.intezer.com/) and [Hybrid Analysis](https://hybrid-analysis.com/).
 - You can also use online sandboxes such as [Any.Run](https://app.any.run/) and [Triage](https://tria.ge/).
 - For files over 650MB, or if you have too many files to scan, you can use free, [on demand scanners](https://www.reddit.com/r/antivirus/comments/jh3s0g/virus_deleted_or_not/g9v2n1k/) alongside your real-time antivirus.
 
