@@ -3,6 +3,8 @@
 # 📜 ➜ Welcome to the **Megathread**
 The ultimate map for tracking down the highest grade loot. Because buying treasure is just not exciting enough to qualify as an expedition for a seasoned sailor. Every level of pirate, from rookie to expert, may utilise our Megathread, which is made to be easy to use and is presented beautifully.
 
+>**Our Megathread gives only the best choices rather than a huge selection**.
+
 ### ⛵ ➜ Important gear for your journey
 - Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized settings](https://i.postimg.cc/6QjMwNYG/u-Block-Origin-optimized-settings.png) (*Blocks advertisements & malware*).
 - Change your [DNS](https://www.privacyguides.org/advanced/dns-overview/) settings to one of these great [choices](https://www.privacyguides.org/dns/) (*Bypasses website access limitations*).
