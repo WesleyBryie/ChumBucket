@@ -18,7 +18,7 @@
 
 * [RARBG.to](https://rarbg.to/) - One of the most organized public trackers, gets new content very quickly. Can search by IMDB tags (eg. `tt0258038`, appearing in IDMB URLs)
 * [rutracker.org](https://rutracker.org/) [.org, .net, .nl] - The best general tracker from Russia and arguably the best one overall. It's great for niche movies, especially from Russia and other east European countries.
-* [TorrentGalaxy.to](https://torrentgalaxy.to/) - Another highly recommended site for movies & TV. [Proxy list.](https://proxygalaxy.pw/)
+* [TorrentGalaxy.to](https://torrentgalaxy.to/) - Another highly recommended site for movies & TV.
 * [1337x.to](https://1337x.to/) - Many public p2p releases/encodes are released here, including Tigole/UTR/YIFY. Cams are typically uploaded here as well.
 * [psa.pm](https://psa.pm/) - Small-sized x265 (re-)encodes
 * **[Documentaries]** [forums.mvgroup.org](https://forums.mvgroup.org/index.php) - Very good documentaries tracker. Registration required.
@@ -40,8 +40,6 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 * [rlsbb.ru](http://rlsbb.ru) - Scene releases
 * [ddlvalley.me](https://www.ddlvalley.me/)
 * [movieparadise.org](https://movieparadise.org/)
-* [adit-hd.com](http://adit-hd.com/)
-* [megaddl.co](https://megaddl.co/movies)
 * [rmz.cr](http://rmz.cr/)
 * [2ddl.ms](https://2ddl.ms/)
 * [rarefilmm.com](https://rarefilmm.com/) - Rare movies
@@ -65,8 +63,6 @@ NBL can be joined through MAM. You are eligible the moment you become PU, which 
 
 * [Filelist](https://filelist.io/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian). The tracker might be smaller compared to IPT but the quality control is better, especially for movies and TV shows. You will be able to find high quality encodes from PTP and BTN which you might not find on IPT. Can be joined through MAM with a 5 months old account
 
-* [IPTorrents](http://iptorrents.com/) - The largest general private tracker, period. Definitely worth to have as a back up. Invites are easy to come by if you make acquaintances otherwise you can join it through EMP (unofficial invites; need access to invite forum so you have to be Good Perv user class which requires 8 weeks on the tracker). Also, don't forget to log in every 3 months or you lose your account (called Inactivity rule)
-
 * [Secret Cinema](https://secret-cinema.pw/) - If any of the following keywords interest you then this is the tracker for you - old (as early as the 1st movie ever), non-mainstream, non-English, arthouse, experimental, rare - movies and Tv shows. This tracker can be joined through MAM (6 months old account required) and RED.
 
 * [PassThePopcorn (PTP)](https://passthepopcorn.me/) - Movies tracker. Best source for movies, period. Couple of unique features - 
@@ -85,8 +81,6 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * [TV Chaos UK](https://tvchaosuk.com) - TV tracker. Great site for UK TV content. Best joined through requesting on /r/invites (proof of ratio from other sites required). Quality lacks a bit so use it with a TV tracker like BTN to get the most of UK content
 
 * [Broadcast the Net (BTN)](http://broadcasthe.net/) - TV tracker. Best source for TV related content, period. Currently this tracker is not recruiting anywhere but it is recommended to join PTP where BTN will recruit again in the future
-
-* [TV Vault (TVV)](https://tv-vault.me/) - TV tracker. Best private tracker for old TV shows. Best way to join it is through MAM.  
 
 * [More Than TV (MTV)](https://morethan.tv/) - Movies/TV tracker. 2nd best private tracker for TV after BTN. Retention is not good but with a strong request section, this is not an issue. Can be joined through RED
 
@@ -126,8 +120,6 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * [himovies.to](https://www.himovies.to/)
 * [yesmovies.ag](https://yesmovies.ag/)
 * [teatv.xyz](https://teatv.xyz/)
-* [gomovies-online](https://gomovies-online.com/)
-* [movie-web](https://movie.squeezebox.dev/)
 
 &nbsp;
 
@@ -144,11 +136,9 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 * [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
 * [Nova TV](https://novatv.app/) - Movies/TV streaming
 * [Viva TV](https://vivatv.io/) - Movies/TV streaming
-* [CyberflixTV](https://cybermedia.cloud/) - Movies/TV streaming
 * [TyphoonTV](https://www.typhoontv.me/) - Movies/TV streaming
 * [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming
 * [BeeTV](https://beetvapk.net/) - Movies/TV streaming
-* [[POSSIBLE MALWARE](https://www.reddit.com/r/Piracy/comments/rqqw5d/piracy_wiki_megathread_of_pirate_sites_apps_tools/i7ssqsl/)] [AOSTV](https://aostv.app/) - live streams aggregator (Sports, TV, etc...) 
 
 &nbsp;
 
@@ -160,7 +150,6 @@ Currently it is not possible to join PTP unless you know someone who has an acco
 ### ► iOS Streaming Apps
 * [MediaboxHD](https://mediaboxhd.net/) - Movies & TV streaming app
 * [Wako TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Pair together with /r/Addons4Wako 
-* [Zinitevi](https://zinitevi.github.io/movieapps/) - Movies & TV streaming app
 
 &nbsp;
 
@@ -233,9 +222,7 @@ FIFA World Cup 2022
 
 * [rutracker.org > Sports](https://rutracker.org/forum/index.php?c=28) - Torrents. Sports subforum at rutracker
 * [sport-video.org.ua](https://www.sport-video.org.ua/) - Torrent soccer, motorsports, baseball, basketball, football, hockey, rugby, other
-* [footybite.com](http://footybite.com/) - Highlights and live streams. Soccer
 * [nbafullhd.com](https://www.nbafullhd.com/) - Replays. Basketball, football, F1
-* [liveonscore.tv](http://liveonscore.tv/) - Live streams. Soccer, MMA, motorsports, baseball, basketball, football, hockey
 * [sportsurge.net](https://sportsurge.net/) - Live streams. MMA, boxing, motorsports, basketball, football, hockey
 * [sporthd.live](https://sporthd.live/) - Live streams. Soccer, MMA, handball, basketball, rugby, football, tennis and others
 * [sportsbay.sx](https://sportsbay.sx/) - Live streams. Football, soccer, basketball, hockey, baseball, NCAA, tennis, cricket, motorsports
@@ -294,7 +281,6 @@ FIFA World Cup 2022
 * [torrent9.si](https://www.torrent9.si/) - Public torrent tracker
 * [cpasbien.ac](https://cpasbien.ac/) - Public torrent tracker
 * [extreme-down.video](https://www.extreme-down.video/) - DDL Movies & TV
-* [tirexo.pro](https://www.tirexo.pro/) - DDL Movies & TV
 * [wawacity.red](https://www.wawacity.vip/) - Streaming
 * [mavanimes.co](http://www.mavanimes.co/) - Stream anime
 * [vostfree.com](https://vostfree.com/) - Stream anime
@@ -309,8 +295,6 @@ FIFA World Cup 2022
 ### ► French Private Torrent Trackers
 
 * [hdf.world](https://hdf.world/)
-* [abnormal.ws](https://abnormal.ws/)
-* [ethor.net](https://ethor.net/)
 * [xthor.tk](https://xthor.tk/)
 
 &nbsp;
@@ -328,7 +312,6 @@ FIFA World Cup 2022
 * [zonatorrent.tv](https://zonatorrent.tv/) - Torrent Movies & TV
 * [moviesdvdr.co](https://www.moviesdvdr.co/) - Torrent Movies
 * [cuevana2.io](https://cuevana2.io/) - Stream Movies & TV. English audio with Spanish subtitles
-* [cinecalidad.lol](https://www.cinecalidad.lol/) - Stream and DDL Movies & TV
 * [peliculas-hd.net](https://www.peliculas-hd.net/) - Stream and DDL Movies & TV
 * [movidy.tv](https://movidy.tv/) - Stream Movies & TV
 * [hdfull.lv](https://hdfull.lv/) - Stream Movies & TV (Login needed)
@@ -346,7 +329,6 @@ FIFA World Cup 2022
 
 ### ► Spanish Private Torrent Trackers
 
-* [hdcity.li](https://hdcity.li/) - Castellano Esp
 * [hd-spain.com](https://www.hd-spain.com/) - Castellano Esp
 * [xbt.puntotorrent.com](https://xbt.puntotorrent.com/)
 * [hd-olimpo.club](https://hd-olimpo.club/)
@@ -382,7 +364,6 @@ FIFA World Cup 2022
 
 * [boerse.im](https://boerse.im/) - German board. Various types types of content
 * [board.darklight.to](https://board.darklight.to/) - German board. Various types of content
-* [sharehitz.net](https://sharehitz.net/) - German board. Various types of content
 
 &nbsp;
 
@@ -401,12 +382,10 @@ FIFA World Cup 2022
 
 ### ► German Private Torrent Trackers
 
-* [bit-titan.net](https://bit-titan.net/) - General tracker
 * [sor-next.tk](http://sor-next.tk/) - General tracker
 * [tsctracker.net](http://tsctracker.net/) - General tracker
 * [theshinning.me](https://theshinning.me/) - General tracker
 * [immortuos.life](https://immortuos.life/) - General tracker
-* [animeworld.cx](https://animeworld.cx/) - Anime tracker
 
 &nbsp;
 

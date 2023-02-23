@@ -67,7 +67,7 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 - General Sites for torrent search engines, aggregators & DHT crawlers in order to find as many rare content as possible which has been made public.
 
 ### 📱 [Mobile](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos/)
-- Mobile, often known as smartphones, are portable computers that integrate computing and mobile telephone functionality into a single device.
+- Mobile, often known as smartphones, are portable computers that integrate computing and telephone functionality into a single device such as Android and iOS.
 
 ### 🪧 [Related Subreddits](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits/)
 - Related Subreddits, either concentrated on piracy or on technology related to piracy.
