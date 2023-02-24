@@ -1,6 +1,6 @@
 ![](%%games%%)
 
-# ⭐ ➜ Welcome to the Megathread's **Games**
+# 🎮 ➜ Welcome to the Megathread's **Games**
 This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/), which has a complete list of all categories you can visit.
  
 >**Our Megathread gives only the best choices rather than a huge selection**.
@@ -94,10 +94,6 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 ### 🧲 [KaOsKrew](https://kaoskrew.org/)
 - Oldschool rippers who, for at least the past two decades, have been producing rips and repacks at their own speed.
 - 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fkaoskrew.org%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/a1fcd33d1d6b9cafa2455a6e46265c9979d30b93a4183aad1de00722ddcf82f4)
-
-### 🧲 [RARBG](https://rarbg.to/torrents.php)
-- From its inception in 2008 and still going strong, the project has served a worldwide audience with a wide range of media material.
-- 🇧🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʙᴏꜱɴɪᴀ & ʜᴇʀᴢᴇɢᴏᴠɪɴᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Frarbg.to%2Ftorrents.php&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/9b0eaa3050b87f18cf4d138b7e7b98eab07aff40db8bdc7534b654f465a40248)
 
 ### 🧲 [Seven-Gamers](https://www.seven-gamers.com/)
 - A torrent site that offers some of the newest games, however access to other Google Drive URLs requires joining their Telegram group.
