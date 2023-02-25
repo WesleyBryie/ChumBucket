@@ -164,3 +164,29 @@ For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.r
 * [cydiageek.yourepo.com](https://cydiageek.yourepo.com/)
 
 &nbsp;
+
+### ► **Android Streaming Apps**
+
+* **[Anime]** [AnimeXStream](https://github.com/mukul500/AnimeXStream/) - Anime streaming app by /u/mukulbanga. Original announcement [here](https://www.reddit.com/r/Piracy/comments/fsfmec/anime_streaming_app_zero_ads/).
+* **[Anime]** [Animeglare](https://animeglare.xyz/) - Anime streaming app
+* **[Anime]** [aniyomi](https://github.com/jmir1/aniyomi) - (their own description) *Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above.*
+* [Cloudstream](https://cloudstream-cf.ipns.4everland.io/) - Movies, TV and Anime
+* [Morpheus TV](https://www.morpheustvhd.com/) - Movies/TV streaming
+* [Nova TV](https://novatv.app/) - Movies/TV streaming
+* [Viva TV](https://vivatv.io/) - Movies/TV streaming
+* [TyphoonTV](https://www.typhoontv.me/) - Movies/TV streaming
+* [MediaboxHD](https://mediaboxhd.net/) - Movies/TV streaming
+* [BeeTV](https://beetvapk.net/) - Movies/TV streaming
+
+&nbsp;
+
+
+
+
+
+
+### ► iOS Streaming Apps
+* [MediaboxHD](https://mediaboxhd.net/) - Movies & TV streaming app
+* [Wako TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Pair together with /r/Addons4Wako 
+
+&nbsp;

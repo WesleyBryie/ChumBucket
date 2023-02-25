@@ -78,10 +78,6 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 2 ➜ Torrents
 
-### 🧲 [1337x](https://1337x.to/)
-- Huge catalogue of torrent files for nearly every sort of entertainment media, and home to some of the most well-known repackers uploader, and crackers.
-- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2F1337x.to%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/3c011965990d2467a38d2a24cb955ec56d83b6d8eb295df23d80a68eadb3886c)
-
 ### 🧲 [DODI Repacks](https://dodi-repacks.site/)
 - DODI is a well-known trademark in the field. This repacker is considered to be one of the finest in the pirated video game sector. Many people looking for free games trust this individual.
 - 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fdodi-repacks.site%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/0ef731a789f4f376ebc03332b21baff62337c80e1b26b4134e539afbfb3cb0c1)

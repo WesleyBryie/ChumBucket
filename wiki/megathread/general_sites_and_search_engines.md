@@ -16,13 +16,17 @@
 
 * [rutracker.org](https://rutracker.org/forum/index.php) [.org, .net, .nl] - Russian tracker. Has an immense catalogue for many different categories. Considered to be the most complete public tracker and is well-seeded.
 
-* [1337x.to](https://1337x.to/) - General purpose indexer. [Alternate domains.](https://i.imgur.com/oCC9Y2H.jpg)
+### 🧲 [1337x](https://1337x.to/)
+- Huge catalogue of torrent files for nearly every sort of entertainment media, and home to some of the most well-known repackers uploader, and crackers.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2F1337x.to%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/3c011965990d2467a38d2a24cb955ec56d83b6d8eb295df23d80a68eadb3886c)
 
 * [torrentgalaxy.to](https://torrentgalaxy.to/)
 
 * [nnmclub.to](http://nnmclub.to/) - Russian tracker and forum.
 
-* [RARBG.to](https://rarbg.to/torrents.php) - Popular torrent tracker. General content Scene releases and p2p releases
+### 🧲 [RARBG](https://rarbg.to/torrents.php)
+- From its inception in 2008 and still going strong, the project has served a worldwide audience with a wide range of media material.
+- 🇧🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʙᴏꜱɴɪᴀ & ʜᴇʀᴢᴇɢᴏᴠɪɴᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Frarbg.to%2Ftorrents.php&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/9b0eaa3050b87f18cf4d138b7e7b98eab07aff40db8bdc7534b654f465a40248)
 
 * [scnlog.me](https://scnlog.me/) - General content. DDL Scene releases
 
