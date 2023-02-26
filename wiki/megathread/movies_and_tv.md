@@ -1,190 +1,126 @@
+![](%%movies-and-tv%%)
+
+# 🎦 ➜ Welcome to the Megathread's **Movies & TV**
+This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/), which has a complete list of all categories you can visit.
+ 
+>**Our Megathread gives only the best choices rather than a huge selection**.
+
+### ✔️ ➜ All links have passed the following quality control checks
+- No content gatekeeping or messages stating that users must disable their adblock in order to proceed in any manner, including sign ups (*majority of links have already failed at this point*).
+- No aggressive redirect experience (*including URL shorteners*) where visitors must clear many hurdles before finally accessing a download, stream, or worse, reach a dead end.
+- Achieves an overwhelmingly clean result with [VirusTotal](https://www.virustotal.com/gui/home/url), either with zero or a maximum of only two security vendor flags.
+- User interface is straightforward, clear, and simple to use.
+- HTTPS encryption must be used and URLs must load fairly quickly.
+- Private Trackers must enable open sign ups and not be limited to closed invites.
+
+### 🐐 ➜ Links that achieved the [GOAT](https://www.urbandictionary.com/define.php?term=goat) status
+- **Highly regarded by the pirate community**.
+- Not located in a nation that belongs to the [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes).
+
+&nbsp;
+
 ---
+
+&nbsp;
+
+# 📑 1 ➜ Direct Downloads
+
+### 🔗 [rarefilmm](https://rarefilmm.com/)
+- Collection of vintage and rare films that has been put together over many years by the website's operator and the community.
+- 🇷🇺 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʀᴜꜱꜱɪᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Frarefilmm.com%2F&csrf_token=2b3d2bc40495b038e40c042b88129285891eaa0e), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/311de2433dadb0b2343cf46e3c6f645b01e593a155987ccb4ab30c303b23fb88)
+
+### 🔗 [rinzry](https://rinzry.stream/)
+- Large index utilising Google Drive with plenty of movies and TV shows. If you'd like, streaming is also an option; it's a great one-stop shop.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Frinzry.stream%2F&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/2533d07ae5d2ac7b801201e74c93455a7e63912daeecc831d48401098077e043)
+
+&nbsp;
+
 ---
-[◄◄ **Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
+
+&nbsp;
+
+# 📑 2 ➜ Streaming
+
+### ▶️ [HiMovies](https://www5.himovies.to/)
+- Users may find a large range of new films and web series on the website, most of them are in high definition quality.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fwww5.himovies.to%2F&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/63a7e46d05690797d971285ce047dcc4b4a09acd4f46e4c1cedb7160bfe3740a)
+
+### ▶️ [KimCartoon](https://kimcartoon.li/)
+- This service, which streams both classic and contemporary cartoons, is a real treat for everyone who enjoys cartoons, especially die-hard fans.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fkimcartoon.li%2F&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/4399b22ff4c28ddbcc9cdd3cbe8f25d794e3d803005ea8c836b548951d2d3aa0)
+
+### ▶️ [KissAsian](https://kissasian.li/)
+- Discover well-known dramas and films from Asia, including those from China, Taiwan, South Korea, and Japan.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fkissasian.sh&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/ebb72e4ddc596ed1525ef484e62cf989e9a3678ec8398450e450555ef4c4fbd5)
+
+### ▶️ [LookMovie](https://lookmovie2.to/)
+- The oldest and most dependable streaming service still in operation today allowing filtering, search, and a sensible design.
+- 🇩🇪 🇳🇴 ʜᴏꜱᴛᴇᴅ ɪɴ: [ɢᴇʀᴍᴀɴʏ & ɴᴏʀᴡᴀʏ](https://check-host.net/ip-info?host=https%3A%2F%2Flookmovie2.to%2F&csrf_token=2b3d2bc40495b038e40c042b88129285891eaa0e), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/67e73206bdb8f216e25dc0117fd6a1ab2ec0b778cbe39ca9e8e0f6e2f4e4c5b3)
+
+### ▶️ [MyFlixer](https://myflixer.pw/)
+- A fantastic selection of free high-definition movies and series. New content and episodes are uploaded on an hourly basis.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fmyflixer.pw%2F&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/3433145738035a63c5331bc6a62844794e37c3d023359b8110249e7eaeaef8f5)
+
+### ▶️ [Soap2day](https://soapgate.cc/)
+- One of the finest streaming sites ever discovered by users, this remarkable service offers a tonne of free movies.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fsoapgate.cc%2F&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/b72db28d62a6144576f8c70a0ec0d17cfb52f3921cbef609b85267eddf972cc4)
+
+### ▶️ [uFlix](https://uflix.cc/)
+- The best free movie streaming website. With the help of quick streaming servers and multilingual subtitle support, the material is updated every day.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fuflix.cc%2F&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/7f99073d1cc0fca31b6e6afeb1502b775d2bcd086f805b3d4e4c7c91d771459e)
+
+### ▶️ [YesMovies](https://yesmovies.ag/)
+- You may easily search for and discover your favorite movies and TV series while finding all the details including the IMDB rating, and a synopsis.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fyesmovies.ag%2F&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/12c29b1a046f9db77565930927ca3ad26236c5fd8e6909133938823f79f4366c)
+
+&nbsp;
 
 ---
+
+&nbsp;
+
+# 📑 3 ➜ Torrents
+
+### 🧲 [GaoQing](https://gaoqing.fm/) (ᴄʜɪɴᴇꜱᴇ)
+- Daily trailers and high-quality movie information as well as a utopia for high definition movies all served via magnet links.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fgaoqing.fm%2F&csrf_token=ac4c2348d71fab60b50eb5fa8e018e45eaab1130), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/f65138a949bca8ea2934bf216d66c01091eaedcbb17cfb43b39782a4a38bdbec)
+
+### 🧲 [WatchSoMuch](https://watchsomuch.to/)
+- A fantastic website dedicated to torrenting movies and TV shows. Simple to use and comprehend, with constant updates to their catalogue.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fwatchsomuch.to%2F&csrf_token=ac4c2348d71fab60b50eb5fa8e018e45eaab1130), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/39e91e18d1f219f2ff6ec383fbc8fe214614ddfc0f4cf07566215b97e5af02e0)
+
+&nbsp;
+
 ---
 
-# MOVIES & TV
-
-⚠️ **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
-
-
 &nbsp;
 
 
+# 📑 4 ➜ Subtitles
 
-### ► **Torrents**
+### 🖊️ [Podnapisi](https://www.podnapisi.net/)
+- A fantastic subtitle resource with a large community of dedicated contributors.
+- 🇸🇮 ʜᴏꜱᴛᴇᴅ ɪɴ: [ꜱʟᴏᴠᴇɴɪᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.podnapisi.net%2F&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/22f4e50cd0963bc339bc07dce8acf96f429ffdb78583fe4a61045a718f019b9d)
 
-* [RARBG.to](https://rarbg.to/) - One of the most organized public trackers, gets new content very quickly. Can search by IMDB tags (eg. `tt0258038`, appearing in IDMB URLs)
-* [rutracker.org](https://rutracker.org/) [.org, .net, .nl] - The best general tracker from Russia and arguably the best one overall. It's great for niche movies, especially from Russia and other east European countries.
-* [TorrentGalaxy.to](https://torrentgalaxy.to/) - Another highly recommended site for movies & TV.
-* [1337x.to](https://1337x.to/) - Many public p2p releases/encodes are released here, including Tigole/UTR/YIFY. Cams are typically uploaded here as well.
-* [psa.pm](https://psa.pm/) - Small-sized x265 (re-)encodes
-* **[Documentaries]** [forums.mvgroup.org](https://forums.mvgroup.org/index.php) - Very good documentaries tracker. Registration required.
-* **[Anime]** [Nyaa.si](https://nyaa.si/)
-* **[Anime]** [hi10anime.com](https://hi10anime.com/)
-* **[Anime]** [shanaproject.com](https://www.shanaproject.com/)
+### 🖊️ [OpenSubtitles](https://www.opensubtitles.com)
+- A massive library covering 2.6 billion phrases in 60 languages. It's also a newer version of their older site [OpenSubtitles.org](https://www.opensubtitles.org).
+- 🇺🇸 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴜɴɪᴛᴇᴅ ꜱᴛᴀᴛᴇꜱ](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.opensubtitles.com&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/0a690adc5128b2b5d1c56a31caab949f24b47b3855447e2dad3647759b885b05)
 
-&nbsp;
+### 🖊️ [SubHD](https://subhd.tv/) (ᴄʜɪɴᴇꜱᴇ)
+- The greatest collection focusing on Chinese subtitles, and sometimes includes the choice for a dual combination with English.
+- 🇺🇸 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴜɴɪᴛᴇᴅ ꜱᴛᴀᴛᴇꜱ](https://check-host.net/ip-info?host=https%3A%2F%2Fsubhd.tv%2F&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/1727e2437359381b878e43ca4ce014eea8d0262b952397ccae59950587b933ba)
 
-
-
-
-### ► DDL (Direct Download)
-
-Some DDL sites will use premium-only hosts to distribute content. To get around them, jump to [Download Services in the Tools section of the megathread.](https://old.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_download_services)
-
-* [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Popular DDL forum. Has a request section.
-* [scnlog.me](https://scnlog.me/) - Scene releases
-* [rlsbb.ru](http://rlsbb.ru) - Scene releases
-* [ddlvalley.me](https://www.ddlvalley.me/)
-* [movieparadise.org](https://movieparadise.org/)
-* [rmz.cr](http://rmz.cr/)
-* [2ddl.ms](https://2ddl.ms/)
-* [rarefilmm.com](https://rarefilmm.com/) - Rare movies
-* [psarips.com](https://psarips.com/) - Small-sized x265 (re-)encodes
-* [**Premium hosts**] [hdencode.com](https://hdencode.com/) - Content downloadable only through premium links/hosts.
-* [**Premium hosts**] [scene-rls.net](http://scene-rls.net/)
+### 🖊️ [Subscene](https://subscene.com/)
+- Users meticulously edited and curated subtitles in multiple languages. Anyone may post and share their own subtitles with others. 
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fsubscene.com%2F&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/50640cbd9d13c2873af72c12b42a2351e480545c735b420d842355840445bc3d)
 
 &nbsp;
 
-
-
-### ► **Streaming**
-
-*For streaming with Kodi, visit r/Addons4Kodi*
-
-* [lookmovie2.to](https://lookmovie2.to/) - [Mirrors](https://proxymirrorlookmovie.github.io/)
-* [fmovies.to](https://fmovies.to/) - [Mirrors](https://fmovies.name/)
-* [DailyFlix](https://main.dailyflix.stream/) - [Mirror](https://main.dailyflix.one/)
-* [sockshare.ac](http://sockshare.ac/)
-* [soap2day.com](https://www.soap2day.com/)
-* [5movies.buzz](https://5movies.buzz/)
-* [batflixmovies.club](https://www.batflixmovies.club/)
-* [kimcartoon.to](https://kimcartoon.to/) - Cartoons
-* [wcostream.com](https://www.wcostream.com/) - Cartoons
-* [openloadmov.com](https://openloadmov.com/)
-* [streamlord.com](http://www.streamlord.com/)
-* [himovies.to](https://www.himovies.to/)
-* [yesmovies.ag](https://yesmovies.ag/)
-* [teatv.xyz](https://teatv.xyz/)
+---
 
 &nbsp;
 
-
-### ► French Sites
-
-* [yggtorrent.li](https://yggtorrent.li/) - Semi-private torrent tracker
-* [sharewood.tv](https://www.sharewood.tv/) - Semi-private torrent tracker
-* [oxtorrent.cc](https://www.oxtorrent.cc/) - Public torrent tracker
-* [torrent9.si](https://www.torrent9.si/) - Public torrent tracker
-* [cpasbien.ac](https://cpasbien.ac/) - Public torrent tracker
-* [extreme-down.video](https://www.extreme-down.video/) - DDL Movies & TV
-* [wawacity.red](https://www.wawacity.vip/) - Streaming
-* [mavanimes.co](http://www.mavanimes.co/) - Stream anime
-* [vostfree.com](https://vostfree.com/) - Stream anime
-
-&nbsp;
-
-
-
-
-
-
-### ► French Private Torrent Trackers
-
-* [hdf.world](https://hdf.world/)
-* [xthor.tk](https://xthor.tk/)
-
-&nbsp;
-
-
-
-
-
-
-### ► Spanish Sites
-
-* [alt-torrent.com](https://www.alt-torrent.com/) - Torrent Movies & TV
-* [elitetorrent.nz](https://www.elitetorrent.nz/) - Torrent Movies & TV. Castellano & Latino Esp
-* [dontorrent.org](https://dontorrent.org/) - Torrent Movies & TV
-* [zonatorrent.tv](https://zonatorrent.tv/) - Torrent Movies & TV
-* [moviesdvdr.co](https://www.moviesdvdr.co/) - Torrent Movies
-* [cuevana2.io](https://cuevana2.io/) - Stream Movies & TV. English audio with Spanish subtitles
-* [peliculas-hd.net](https://www.peliculas-hd.net/) - Stream and DDL Movies & TV
-* [movidy.tv](https://movidy.tv/) - Stream Movies & TV
-* [hdfull.lv](https://hdfull.lv/) - Stream Movies & TV (Login needed)
-* [serieslan.com](https://serieslan.com/) - Stream cartoons
-* [animeflv.net](https://www.animeflv.net/) - Stream anime
-* [jkanime.net](https://jkanime.net/) - Stream Anime
-* [tioanime.com](https://tioanime.com/) - Stream anime
-
-&nbsp;
-
-
-
-
-
-
-### ► Spanish Private Torrent Trackers
-
-* [hd-spain.com](https://www.hd-spain.com/) - Castellano Esp
-* [xbt.puntotorrent.com](https://xbt.puntotorrent.com/)
-* [hd-olimpo.club](https://hd-olimpo.club/)
-* [divteam.com](https://divteam.com/)
-* [torrentland.li](https://torrentland.li/)
-* [xbytesv2.li](http://xbytesv2.li/)
-* [qqqueros.com](http://qqqueros.com/)
-
-&nbsp;
-
-
-
-
-
-
-### ► German Sites
-
-
-* [nima4k.org](https://nima4k.org/) - DDL Movies & TV, documentaries, sports
-* [kinox.to](https://kinox.to/) - DDL Movies & TV, documentaries
-* [funxd.site](https://funxd.site/) - DDL Movies & TV. Click the Release link and type the release name into the filecrypt search
-* [movieking.cc](https://movieking.cc/) - Stream Movies
-* [s.to](https://s.to/) - Stream TV Shows. Alternative domain: [serienstream.sx](https://serienstream.sx/)
-* [serienjunkies.org](https://serienjunkies.org/) - Stream TV Shows
-* [bs.to](https://bs.to/) - Stream TV Shows
-* [aniflix.tv](https://aniflix.tv/) - Stream anime
-* [animestream.in](https://animestream.in/) - Stream anime
-* [hd-source.to](https://hd-source.to/)
-* [serienfans.org](https://serienfans.org/)
-* [Moviehunterz.cc](https://moviehunterz.cc/)
-
-&nbsp;
-
-* [boerse.im](https://boerse.im/) - German board. Various types types of content
-* [board.darklight.to](https://board.darklight.to/) - German board. Various types of content
-
-&nbsp;
-
-* [ard.de](http://www.ard.de/) - Free German broadcasting
-* [zdf.de](http://zdf.de/) - Free German broadcasting
-* [mdr.de](http://mdr.de/) - Free German broadcasting
-
-
-&nbsp;
-
-
-
-
-
-
-
-### ► German Private Torrent Trackers
-
-* [sor-next.tk](http://sor-next.tk/) - General tracker
-* [tsctracker.net](http://tsctracker.net/) - General tracker
-* [theshinning.me](https://theshinning.me/) - General tracker
-* [immortuos.life](https://immortuos.life/) - General tracker
-
-&nbsp;
+⚓ ❮ Return to **r/Piracy**
+---
+💀 ❮ Return to [**Wiki**](https://www.reddit.com/r/Piracy/wiki/index/)
+---

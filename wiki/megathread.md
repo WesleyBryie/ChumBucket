@@ -26,16 +26,16 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 ### ⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/)
 - Anime is often used to describe a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
 
-### 🕹️ [Emulators & ROMs](https://www.reddit.com/r/Piracy/wiki/megathread/emulators_and_roms/) (*Update in progress*)
+### 🕹️ [Emulators & ROMs](https://www.reddit.com/r/Piracy/wiki/megathread/emulators_and_roms/) (*Update in progress...*)
 - Emulators are small programmes that simulate the actions of certain gaming consoles, whereas ROMs are digital copies of video games extracted from a cartridge or disc.
 
 ### 🎮 [Games](https://www.reddit.com/r/Piracy/wiki/megathread/games/)
 - Games, usually referred to as video games, require interaction with a user interface or input device, such as a controller or keyboard, to produce audiovisual feedback.
 
-### 🎦 [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv) (*Update in progress*)
+### 🎦 [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
 - Movies & TV are works of visual art that employ moving pictures to imitate experiences and express ideas, tales, perceptions, feelings, beauty, or ambience.
 
-### 🎹 [Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
+### 🎹 [Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/) (*Update in progress...*)
 - Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
 
 &nbsp;
@@ -75,7 +75,10 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 
 &nbsp;
 
-# 📑 4 ➜ External Compilations
+# 📑 4 ➜ Other Compilations
+
+### 📁 [FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
+- This subreddit gathered a huge range of links to free digital items if you're looking for an overwhelming quantity of options.
 
 ### 📁 [Ripped](https://ripped.guide/)
 - This is a collection of sites and tools that are trusted by the community.
