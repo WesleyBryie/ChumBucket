@@ -25,13 +25,25 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 1 ➜ Direct Downloads
 
+### 🔗 [DDLbase](https://ddlbase.net/)
+- A fantastic forum resource with movie links in BDRip, Web-DL, and Webrip quality. A simple UI that doesn't require registration for users.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fddlbase.net%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/fe594b73c7e0655fd3bb823fd92917861b293bc34fe2e9d5cbecb6270d70e84b)
+
+### 🔗 [Medeberiya](https://medeberiyaa.com/)
+- An entertainment website that provides the most recent direct download links to your favorite TV series, movies, and some other types of content.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fmedeberiyaa.com%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/59dd483767b0f6f1fde8c623e8f5ad17d802fd6b87cf15d4ba9952e21e66c5b5)
+
 ### 🔗 [rarefilmm](https://rarefilmm.com/)
 - Collection of vintage and rare films that has been put together over many years by the website's operator and the community.
 - 🇷🇺 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʀᴜꜱꜱɪᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Frarefilmm.com%2F&csrf_token=2b3d2bc40495b038e40c042b88129285891eaa0e), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/311de2433dadb0b2343cf46e3c6f645b01e593a155987ccb4ab30c303b23fb88)
 
-### 🔗 [rinzry](https://rinzry.stream/)
-- Large index utilising Google Drive with plenty of movies and TV shows. If you'd like, streaming is also an option; it's a great one-stop shop.
-- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Frinzry.stream%2F&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/2533d07ae5d2ac7b801201e74c93455a7e63912daeecc831d48401098077e043)
+### 🔗 [Reqzone](https://reqzone.com/)
+- In an effort to provide movies and TV shows for people who cannot afford membership fees to numerous services like Netflix, or Hulu, the initiative was started back in 2017.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Freqzone.com%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/470328e15765394f44408e76af5799bbd2f57ef3b918ed545e72b9dbd798586a)
+
+### 🔗 [YourSerie](https://www.yourserie.com/)
+- Excellent resource in an effort to give movies and TV shows, particularly in regions where access to streaming services do not exist or do not operate.
+- 🇧🇬 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʙᴜʟɢᴀʀɪᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.yourserie.com%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/20320a7d8235e0943ecad360add413f748b96a99091aaa19b415dbdfa0a2097c)
 
 &nbsp;
 
@@ -85,9 +97,25 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - Daily trailers and high-quality movie information as well as a utopia for high definition movies all served via magnet links.
 - 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fgaoqing.fm%2F&csrf_token=ac4c2348d71fab60b50eb5fa8e018e45eaab1130), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/f65138a949bca8ea2934bf216d66c01091eaedcbb17cfb43b39782a4a38bdbec)
 
+### 🧲 [MSearch](https://msearch.vercel.app/)
+- Non-profit internet indexing service that aggregates and scrapes all data without the need for human participation.
+- 🇺🇸 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴜɴɪᴛᴇᴅ ꜱᴛᴀᴛᴇꜱ](https://check-host.net/ip-info?host=https%3A%2F%2Fmsearch.vercel.app%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/cfec20b1713716abd7c66bd3aa64aaf45ff90f4c4490eebaede16087a5bcbe50)
+
+### 🧲 [TorrentCue](https://torrent-cue.co/)
+- The most recent Hollywood and Bollywood films are also available in other languages, including Tamil, Telugu, Punjabi, and Pakistani.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Ftorrent-cue.co%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/a234c2a2be9ba503829515ab80db403ddc104669c2f44ea6e73852231e373288)
+
+### 🧲 [Torrentking](https://torrentkingnow.co/)
+- Download movie torrents with a good selection ranging from English to Hindi. With a focus on Hollywood and Bollywood.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Ftorrentkingnow.co%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/5e7b631e35905ff22ebb087bee47b329ff8cd22a5c1d84a1045be5bfeb7c94fa)
+
 ### 🧲 [WatchSoMuch](https://watchsomuch.to/)
 - A fantastic website dedicated to torrenting movies and TV shows. Simple to use and comprehend, with constant updates to their catalogue.
 - 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fwatchsomuch.to%2F&csrf_token=ac4c2348d71fab60b50eb5fa8e018e45eaab1130), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/39e91e18d1f219f2ff6ec383fbc8fe214614ddfc0f4cf07566215b97e5af02e0)
+
+### 🧲 [YTS](https://yts.mx/)
+- Browse and download movies in superb 720p, 1080p, 2160p 4K, and 3D quality, all with the smallest file size possible.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fyts.mx%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/6492091fac619b6305248c038d1379cc6f124e57f3ff5fd870816765ae90d984)
 
 &nbsp;
 

@@ -38,6 +38,9 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 ### 🎹 [Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/) (*Update in progress...*)
 - Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
 
+### 👟 [Sports](https://www.reddit.com/r/Piracy/wiki/megathread/sports/) (*Update in progress...*)
+- Sports refers to any type of physical activity or game, generally competitive, that utilises physical ability and skills while entertaining players and spectators.
+
 &nbsp;
 
 ---
