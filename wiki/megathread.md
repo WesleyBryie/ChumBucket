@@ -52,6 +52,12 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 ### 📚 [Books, Comics and E-Learning](https://www.reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning/)
 - Books are a recording medium for information that often has several pages and is made up of words, images, or both. An ebook is a digital version.
 
+### 🪧 [General Sites](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines/) (Update in progress...)
+- General Sites for torrent search engines, aggregators & DHT crawlers in order to find as many rare content as possible which has been made public.
+
+### 📱 [Mobile](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos/)
+- Mobile, often known as smartphones, are portable computers that integrate computing and telephone functionality into a single device such as Android and iOS.
+
 ### ⚙️ [Software](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads/)
 - Software is a collection of computer programmes along with supporting files and information. On the other side, the system is comprised of hardware.
 
@@ -64,24 +70,10 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 
 &nbsp;
 
-# 📑 3 ➜ Sundries
-
-### 🪧 [General Sites](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines/)
-- General Sites for torrent search engines, aggregators & DHT crawlers in order to find as many rare content as possible which has been made public.
-
-### 📱 [Mobile](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos/)
-- Mobile, often known as smartphones, are portable computers that integrate computing and telephone functionality into a single device such as Android and iOS.
-
-&nbsp;
-
----
-
-&nbsp;
-
-# 📑 4 ➜ Other Compilations
+# 📑 3 ➜ Other Compilations
 
 ### 📁 [FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
-- This subreddit gathered a huge range of links to free digital items if you're looking for an overwhelming quantity of options.
+- This subreddit gathered a colossal range of links to free digital items if you're looking for an overwhelming quantity of options.
 
 ### 📁 [Ripped](https://ripped.guide/)
 - This is a collection of sites and tools that are trusted by the community.

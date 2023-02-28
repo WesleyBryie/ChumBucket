@@ -33,6 +33,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - An entertainment website that provides the most recent direct download links to your favorite TV series, movies, and some other types of content.
 - 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fmedeberiyaa.com%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/59dd483767b0f6f1fde8c623e8f5ad17d802fd6b87cf15d4ba9952e21e66c5b5)
 
+### 🔗 [PSArips](https://psa.pm/)
+- A convenient location to find small-file movies, TV series, and some anime. Torrenting is another option offered.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fpsa.pm%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/8d547b011ee5502570c987f4d5f78f0008fb2e742539abb34cd60cb8dc5d5635)
+
 ### 🔗 [rarefilmm](https://rarefilmm.com/)
 - Collection of vintage and rare films that has been put together over many years by the website's operator and the community.
 - 🇷🇺 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʀᴜꜱꜱɪᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Frarefilmm.com%2F&csrf_token=2b3d2bc40495b038e40c042b88129285891eaa0e), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/311de2433dadb0b2343cf46e3c6f645b01e593a155987ccb4ab30c303b23fb88)
@@ -53,6 +57,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 2 ➜ Streaming
 
+### ▶️ [HDMovieBox](https://hdmoviebox.net/)
+- Time has changed dramatically, and we now live in an era where we may watch movies online in full HD quality at any time and from any location.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fhdmoviebox.net%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/ba3040760e4e83b348c24d6538f3b81ed261ed652e1b5839e734d60da90c6192)
+
 ### ▶️ [HiMovies](https://www5.himovies.to/)
 - Users may find a large range of new films and web series on the website, most of them are in high definition quality.
 - 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fwww5.himovies.to%2F&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/63a7e46d05690797d971285ce047dcc4b4a09acd4f46e4c1cedb7160bfe3740a)
@@ -69,9 +77,17 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - The oldest and most dependable streaming service still in operation today allowing filtering, search, and a sensible design.
 - 🇩🇪 🇳🇴 ʜᴏꜱᴛᴇᴅ ɪɴ: [ɢᴇʀᴍᴀɴʏ & ɴᴏʀᴡᴀʏ](https://check-host.net/ip-info?host=https%3A%2F%2Flookmovie2.to%2F&csrf_token=2b3d2bc40495b038e40c042b88129285891eaa0e), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/67e73206bdb8f216e25dc0117fd6a1ab2ec0b778cbe39ca9e8e0f6e2f4e4c5b3)
 
+### ▶️ [movie-web](https://movie-web.app/search/movie)
+- The ideal destination for your favorite movies and TV series. The algorithm intelligently picks the finest stream throughout the web, providing you with a smooth experience.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fmovie-web.app%2Fsearch%2Fmovie&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/8617a3b5261d4c23d6e80013ab54a786e9ad474cadd5278e5540e0a2c0b86599)
+
 ### ▶️ [MyFlixer](https://myflixer.pw/)
 - A fantastic selection of free high-definition movies and series. New content and episodes are uploaded on an hourly basis.
 - 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fmyflixer.pw%2F&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/3433145738035a63c5331bc6a62844794e37c3d023359b8110249e7eaeaef8f5)
+
+### ▶️ [PressPlay](https://www.pressplay.top/)
+- Greatest free movie streaming service, with a large selection of movies and episodes available in high-quality streaming.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.pressplay.top%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/87bec059876e6a1fb9259da09fc5ecbe8f1a0421f69c15abe5eacf6835c1a7c2)
 
 ### ▶️ [Soap2day](https://soapgate.cc/)
 - One of the finest streaming sites ever discovered by users, this remarkable service offers a tonne of free movies.
@@ -80,6 +96,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 ### ▶️ [uFlix](https://uflix.cc/)
 - The best free movie streaming website. With the help of quick streaming servers and multilingual subtitle support, the material is updated every day.
 - 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fuflix.cc%2F&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/7f99073d1cc0fca31b6e6afeb1502b775d2bcd086f805b3d4e4c7c91d771459e)
+
+### ▶️ [UniqueStream](https://uniquestream.net/)
+- Superb aggregator re-using freely available content from the internet, delivering movies, TV shows, animation, and asian dramas.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Funiquestream.net%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/3092abcbd79c92538db25b1fd3fabe4ca7d4ffaae0bcc97fcbedfce9afb9742d)
 
 ### ▶️ [YesMovies](https://yesmovies.ag/)
 - You may easily search for and discover your favorite movies and TV series while finding all the details including the IMDB rating, and a synopsis.
@@ -93,10 +113,6 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 3 ➜ Torrents
 
-### 🧲 [GaoQing](https://gaoqing.fm/) (ᴄʜɪɴᴇꜱᴇ)
-- Daily trailers and high-quality movie information as well as a utopia for high definition movies all served via magnet links.
-- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fgaoqing.fm%2F&csrf_token=ac4c2348d71fab60b50eb5fa8e018e45eaab1130), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/f65138a949bca8ea2934bf216d66c01091eaedcbb17cfb43b39782a4a38bdbec)
-
 ### 🧲 [MSearch](https://msearch.vercel.app/)
 - Non-profit internet indexing service that aggregates and scrapes all data without the need for human participation.
 - 🇺🇸 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴜɴɪᴛᴇᴅ ꜱᴛᴀᴛᴇꜱ](https://check-host.net/ip-info?host=https%3A%2F%2Fmsearch.vercel.app%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/cfec20b1713716abd7c66bd3aa64aaf45ff90f4c4490eebaede16087a5bcbe50)
@@ -106,12 +122,16 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Ftorrent-cue.co%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/a234c2a2be9ba503829515ab80db403ddc104669c2f44ea6e73852231e373288)
 
 ### 🧲 [Torrentking](https://torrentkingnow.co/)
-- Download movie torrents with a good selection ranging from English to Hindi. With a focus on Hollywood and Bollywood.
+- Download movie torrents with a good selection ranging from English to Hindi. Latest catalogue available and updated frequently.
 - 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Ftorrentkingnow.co%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/5e7b631e35905ff22ebb087bee47b329ff8cd22a5c1d84a1045be5bfeb7c94fa)
 
 ### 🧲 [WatchSoMuch](https://watchsomuch.to/)
 - A fantastic website dedicated to torrenting movies and TV shows. Simple to use and comprehend, with constant updates to their catalogue.
 - 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fwatchsomuch.to%2F&csrf_token=ac4c2348d71fab60b50eb5fa8e018e45eaab1130), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/39e91e18d1f219f2ff6ec383fbc8fe214614ddfc0f4cf07566215b97e5af02e0)
+
+### 🧲 [YIFY Movies](https://yifymovies.xyz/)
+- Exclusive focus is on offering HD movies in the highest quality and in the lowest possible sizes. With YifyMovies, enjoy viewing your favourite movies. YTS Torrents for movies.
+- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fyifymovies.xyz%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/9beaf649b111be35e2ff369f74636e7d6b61ffbb47efed007cbdfb00f7f84d26)
 
 ### 🧲 [YTS](https://yts.mx/)
 - Browse and download movies in superb 720p, 1080p, 2160p 4K, and 3D quality, all with the smallest file size possible.
