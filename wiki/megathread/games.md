@@ -25,50 +25,49 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 1 ➜ Direct Downloads
 
-### 🔗 [CS.RIN.RU, Steam Underground](https://cs.rin.ru/forum/) (ꜱɪɢɴ ᴜᴘ)
+### 🐐 [CS.RIN.RU, Steam Underground](https://cs.rin.ru/forum/) (ꜱɪɢɴ ᴜᴘ)
 - The biggest forum in the world devoted to video game piracy, it is a valuable source of games with some of the most knowledgeable game pirates around.
-- 🐐 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗗: [𝗚𝗢𝗔𝗧 𝗦𝗧𝗔𝗧𝗨𝗦](https://www.urbandictionary.com/define.php?term=goat)
-- 🇷🇴 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʀᴏᴍᴀɴɪᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fcs.rin.ru%2Fforum%2F&csrf_token=80329e0db73259cd429f139a331bc866e8562bd0), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/9bcece5c7ce65e847f97316c5788032180b278c7ff2e14cc58de1fa7af77d29c)
+- 🇷🇴 Hosted in: [Romania](https://check-host.net/ip-info?host=https%3A%2F%2Fcs.rin.ru%2Fforum%2F&csrf_token=80329e0db73259cd429f139a331bc866e8562bd0)
 
 ### 🔗 [ElAmigos](https://elamigos.site/)
 - Every release is lossless, with no reencoding of the audio, video, or textures. A well-liked option for getting new PC games.
-- 🇷🇺 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʀᴜꜱꜱɪᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Felamigos.site%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/8ef286d2c7916f1abedcf2b4c9a88012541129d727b8a74834fc163e0f01b4d3)
+- 🇷🇺 Hosted in: [Russia](https://check-host.net/ip-info?host=https%3A%2F%2Felamigos.site%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b)
 
 ### 🔗 [GameDrive](https://gamedrive.org/)
 - Pre-installs, CODEX, P2P Repacks, FitGirl Repacks, and direct links for game downloads are available for free over a high speed connection.
-- 🇺🇸 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴜɴɪᴛᴇᴅ ꜱᴛᴀᴛᴇꜱ](https://check-host.net/ip-info?host=https%3A%2F%2Fgamedrive.org%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/9980038fa70f8a067f4ca5df6899940568061485a508659d0b9e25f417e8960a)
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fgamedrive.org%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
 ### 🔗 [GamesDrive](https://gamesdrive.net/)
 - Specialising in providing repacks from emerging repackers like DODI, FitGirl, and others. (*Not to be confused with [GameDrive](https://gamedrive.org/)*).
-- 🇳🇱 ʜᴏꜱᴛᴇᴅ ɪɴ: [ɴᴇᴛʜᴇʀʟᴀɴᴅꜱ](https://check-host.net/ip-info?host=https%3A%2F%2Fgamesdrive.net%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/cae053db37af33a70a703cd0e4e23915ff1661166fed22767a9ba6d87db68dee)
+- 🇳🇱 Hosted in: [Netherlands](https://check-host.net/ip-info?host=https%3A%2F%2Fgamesdrive.net%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
 ### 🔗 [GLOAD](https://gload.to/) (ɢᴇʀᴍᴀɴ)
 - Scene release site provides a plethora of free user-friendly hosters that are easily accessible. Eat, sleep, game, and repeat.
-- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fgload.to%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/f662f28805be160b811b8cc6ac4e8ddd790631f1a077931fe97d62d51b3de228)
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fgload.to%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
 ### 🔗 [GOG Games](https://gog-games.com/)
 - Every game from the GOG.com collection is available for free download via a massive compendium of GOG releases that is updated daily.
-- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fgog-games.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/85833b0223c21640ea6153615a709a4ce0caa8062c175fe7c5b97675cfc1f901)
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fgog-games.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
 ### 🔗 [MagiPack Games](https://www.magipack.games/)
 - Retro, old-school, and vintage game repacks that are compatible with current Windows builds, keeping memories of what is now difficult to obtain.
-- 🇩🇪 ʜᴏꜱᴛᴇᴅ ɪɴ: [ɢᴇʀᴍᴀɴʏ](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.magipack.games%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/7f2daff7c2b22e64d04b04fdc2c5b8574c3035501884c13149b750503ac44f67)
+- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.magipack.games%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
 ### 🔗 [My Abandonware](https://www.myabandonware.com/)
 - In February 2009, it was founded. Thousands of games have been uploaded to the site throughout the years. By far the finest retro video game database on the internet.
-- 🇫🇷 ʜᴏꜱᴛᴇᴅ ɪɴ: [ꜰʀᴀɴᴄᴇ](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.myabandonware.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/4ea59a9021a28396793e03c186748f426b289378173df8d216bf8f9cd6b85882)
+- 🇫🇷 Hosted in: [France](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.myabandonware.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
 ### 🔗 [Old Games Download](https://oldgamesdownload.com/)
 - This project was founded in 2017 to preserve video games that are no longer for sale or download and have nostalgic significance for millions of people across the world.
-- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Foldgamesdownload.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/103a3760b1019e40482e34d240ac0379c525ddbc05630129495cdf46ecb3ea74)
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Foldgamesdownload.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
 ### 🔗 [Old-Games.RU](https://www.old-games.ru/) (ʀᴜꜱꜱɪᴀɴ)
 - This project is about vintage computer games. Attempting to evoke memories of a period when the sun shone brighter and the grass was greener.
-- 🇷🇺 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʀᴜꜱꜱɪᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.old-games.ru%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/950454a9f618569a9438e6507d1fcad68a80c14a6bafe72ab2bae913ef39c5fb)
+- 🇷🇺 Hosted in: [Russia](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.old-games.ru%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
 ### 🔗 [The Collection Chamber](https://collectionchamber.blogspot.com/)
 - A significant selection of classic games that have been optimised for modern Windows. It is now time for them to be released.
-- 🇺🇸 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴜɴɪᴛᴇᴅ ꜱᴛᴀᴛᴇꜱ](https://check-host.net/ip-info?host=https%3A%2F%2Fcollectionchamber.blogspot.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/764447d3c357e15e18dc9d05d829d101ed15b058c8055e679794ee70efeec099)
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fcollectionchamber.blogspot.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
 &nbsp;
 
@@ -80,20 +79,19 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 ### 🧲 [DODI Repacks](https://dodi-repacks.site/)
 - DODI is a well-known trademark in the field. This repacker is considered to be one of the finest in the pirated video game sector. Many people looking for free games trust this individual.
-- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fdodi-repacks.site%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/0ef731a789f4f376ebc03332b21baff62337c80e1b26b4134e539afbfb3cb0c1)
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fdodi-repacks.site%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b)
 
-### 🧲 [FitGirl Repacks](https://fitgirl-repacks.site/)
+### 🐐 [FitGirl Repacks](https://fitgirl-repacks.site/)
 - One of the leading names in this niche is FitGirl. The Russian-born releaser has evolved in recent years from a home archivist to the most well-known repacker on the web.
-- 🐐 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗗: [𝗚𝗢𝗔𝗧 𝗦𝗧𝗔𝗧𝗨𝗦](https://www.urbandictionary.com/define.php?term=goat)
-- 🇧🇿 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʙᴇʟɪᴢᴇ](https://check-host.net/ip-info?host=https%3A%2F%2Ffitgirl-repacks.site%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/ec7471a96cad5b00693731d66a42355d8f52c466ef466b2df87541d88a0f08c9)
+- 🇧🇿 Hosted in: [Belize](https://check-host.net/ip-info?host=https%3A%2F%2Ffitgirl-repacks.site%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b)
 
 ### 🧲 [KaOsKrew](https://kaoskrew.org/)
 - Oldschool rippers who, for at least the past two decades, have been producing rips and repacks at their own speed.
-- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fkaoskrew.org%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/a1fcd33d1d6b9cafa2455a6e46265c9979d30b93a4183aad1de00722ddcf82f4)
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fkaoskrew.org%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b)
 
 ### 🧲 [Seven-Gamers](https://www.seven-gamers.com/)
 - A torrent site that offers some of the newest games, however access to other Google Drive URLs requires joining their Telegram group.
-- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.seven-gamers.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/0e7fb0a888f2a68f73eac7457d310637cbebb5f5922e9ada9decf88fd3cdf18f)
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.seven-gamers.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
 &nbsp;
 
