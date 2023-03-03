@@ -34,6 +34,7 @@ This is a child page from the main [FAQ](https://www.reddit.com/r/piracy/wiki/fa
 
 ### ❔ Is it a good idea to create a backup subreddit on Reddit?
 - That is a logical concern. But that also implies that Reddit will continue to have some level of influence over us. But if another is made, this page will be updated.
+- A [Backup Wiki](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) is available.
 
 &nbsp;
 

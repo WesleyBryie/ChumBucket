@@ -13,9 +13,8 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - HTTPS encryption must be used and URLs must load fairly quickly.
 - Private Trackers must enable open sign ups and not be limited to closed invites.
 
-### 🐐 ➜ Links that achieved the [GOAT](https://www.urbandictionary.com/define.php?term=goat) status
-- **Highly regarded by the pirate community**.
-- Not located in a nation that belongs to the [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes).
+
+### 🐐 ➜ [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Highly regarded by the pirate community
 
 &nbsp;
 
@@ -25,7 +24,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 1 ➜ Direct Downloads
 
-### 🐐 [CS.RIN.RU, Steam Underground](https://cs.rin.ru/forum/) (ꜱɪɢɴ ᴜᴘ)
+### 🐐 [CS.RIN.RU, Steam Underground](https://cs.rin.ru/forum/) • Sign Up
 - The biggest forum in the world devoted to video game piracy, it is a valuable source of games with some of the most knowledgeable game pirates around.
 - 🇷🇴 Hosted in: [Romania](https://check-host.net/ip-info?host=https%3A%2F%2Fcs.rin.ru%2Fforum%2F&csrf_token=80329e0db73259cd429f139a331bc866e8562bd0)
 
@@ -41,7 +40,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - Specialising in providing repacks from emerging repackers like DODI, FitGirl, and others. (*Not to be confused with [GameDrive](https://gamedrive.org/)*).
 - 🇳🇱 Hosted in: [Netherlands](https://check-host.net/ip-info?host=https%3A%2F%2Fgamesdrive.net%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
-### 🔗 [GLOAD](https://gload.to/) (ɢᴇʀᴍᴀɴ)
+### 🔗 [GLOAD](https://gload.to/) • German
 - Scene release site provides a plethora of free user-friendly hosters that are easily accessible. Eat, sleep, game, and repeat.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fgload.to%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
@@ -61,7 +60,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - This project was founded in 2017 to preserve video games that are no longer for sale or download and have nostalgic significance for millions of people across the world.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Foldgamesdownload.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
-### 🔗 [Old-Games.RU](https://www.old-games.ru/) (ʀᴜꜱꜱɪᴀɴ)
+### 🔗 [Old-Games.RU](https://www.old-games.ru/) • Russian
 - This project is about vintage computer games. Attempting to evoke memories of a period when the sun shone brighter and the grass was greener.
 - 🇷🇺 Hosted in: [Russia](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.old-games.ru%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
@@ -77,7 +76,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 2 ➜ Torrents
 
-### 🧲 [DODI Repacks](https://dodi-repacks.site/)
+### 🐐 [DODI Repacks](https://dodi-repacks.site/)
 - DODI is a well-known trademark in the field. This repacker is considered to be one of the finest in the pirated video game sector. Many people looking for free games trust this individual.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fdodi-repacks.site%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b)
 

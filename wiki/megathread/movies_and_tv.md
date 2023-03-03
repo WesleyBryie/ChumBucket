@@ -13,9 +13,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - HTTPS encryption must be used and URLs must load fairly quickly.
 - Private Trackers must enable open sign ups and not be limited to closed invites.
 
-### 🐐 ➜ Links that achieved the [GOAT](https://www.urbandictionary.com/define.php?term=goat) status
-- **Highly regarded by the pirate community**.
-- Not located in a nation that belongs to the [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes).
+### 🐐 ➜ [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Highly regarded by the pirate community
 
 &nbsp;
 
@@ -85,7 +83,11 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - Greatest free movie streaming service, with a large selection of movies and episodes available in high-quality streaming.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.pressplay.top%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5)
 
-### ▶️ [Soap2day](https://soapgate.cc/)
+### ▶️ [SFlix](https://sflix.to/)
+- One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fsflix.to%2F&csrf_token=77e653d3e07e90c852c3210c586daa8fa476068c)
+
+### 🐐 [Soap2day](https://soapgate.cc/)
 - One of the finest streaming sites ever discovered by users, this remarkable service offers a tonne of free movies.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fsoapgate.cc%2F&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271)
 
@@ -108,10 +110,6 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 &nbsp;
 
 # 📑 3 ➜ Torrents
-
-### 🧲 [MSearch](https://msearch.vercel.app/)
-- Non-profit internet indexing service that aggregates and scrapes all data without the need for human participation.
-- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fmsearch.vercel.app%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a)
 
 ### 🧲 [TorrentCue](https://torrent-cue.co/)
 - The most recent Hollywood and Bollywood films are also available in other languages, including Tamil, Telugu, Punjabi, and Pakistani.
