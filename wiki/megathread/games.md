@@ -77,11 +77,11 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 # 📑 2 ➜ Torrents
 
 ### 🐐 [DODI Repacks](https://dodi-repacks.site/)
-- DODI is a well-known trademark in the field. This repacker is considered to be one of the finest in the pirated video game sector. Many people looking for free games trust this individual.
+- Very well-known name in the field. This repacker is considered to be one of the finest in the pirated video game sector. Many people looking for free games trust this individual.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fdodi-repacks.site%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b)
 
 ### 🐐 [FitGirl Repacks](https://fitgirl-repacks.site/)
-- One of the leading names in this niche is FitGirl. The Russian-born releaser has evolved in recent years from a home archivist to the most well-known repacker on the web.
+- One of the leading names in this niche. The Russian-born releaser has evolved in recent years from a home archivist to the most well-known repacker on the web.
 - 🇧🇿 Hosted in: [Belize](https://check-host.net/ip-info?host=https%3A%2F%2Ffitgirl-repacks.site%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b)
 
 ### 🧲 [KaOsKrew](https://kaoskrew.org/)
@@ -91,6 +91,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 ### 🧲 [Seven-Gamers](https://www.seven-gamers.com/)
 - A torrent site that offers some of the newest games, however access to other Google Drive URLs requires joining their Telegram group.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.seven-gamers.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
+
+### 🧲 [Xatab](https://byxatab.com/) • Russian
+- This repacker is widely regarded as one of the best in the pirated video game industry and several people hunting for free games have faith in this guy.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fbyxatab.com%2F&csrf_token=b762d5eeada699745d9a1e4f7137859cf49a86dd)
 
 &nbsp;
 

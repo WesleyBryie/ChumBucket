@@ -1,110 +1,123 @@
+![](%%music%%)
+
+# 🎹 ➜ Welcome to the Megathread's **Music**
+This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/), which has a complete list of all categories you can visit.
+ 
+>**Our Megathread gives only the best choices rather than a huge selection**.
+
+### ✔️ ➜ All links have passed the following quality control checks
+- No content gatekeeping or messages stating that users must disable their adblock in order to proceed in any manner, including sign ups (*majority of links have already failed at this point*).
+- No aggressive redirect experience (*including URL shorteners*) where visitors must clear many hurdles before finally accessing a download, stream, or worse, reach a dead end.
+- Achieves an overwhelmingly clean result with [VirusTotal](https://www.virustotal.com/gui/home/url), either with zero or a maximum of only two security vendor flags.
+- User interface is straightforward, clear, and simple to use.
+- HTTPS encryption must be used and URLs must load fairly quickly.
+- Private Trackers must enable open sign ups and not be limited to closed invites.
+
+### 🐐 ➜ [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Highly regarded by the pirate community
+
+&nbsp;
+
 ---
+
+&nbsp;
+
+# 📑 1 ➜ Direct Downloads
+
+### 🔗 [AnimeThemes](https://animethemes.moe/)
+- An impressive and reliable collection of anime opening and closing themes. We offer direct links to high quality WebMs of your favorite OPs and EDs. Right click to download content.
+- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fanimethemes.moe%2F&csrf_token=a6322c133040d4ef9e726a27d44bc95feb3fe9ee)
+
+### 🔗 [DoubleDouble](https://doubledouble.top/)
+- Free music downloads from Spotify, Soundcloud, Qobuz, Deezer, Tidal, and YouTube Music.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fdoubledouble.top%2F&csrf_token=a6322c133040d4ef9e726a27d44bc95feb3fe9ee)
+
+### 🔗 [Folksoundomy: Game Soundtracks](https://archive.org/details/folksoundomy_gamesoundtracks)
+- A selection of video game music and some anime soundtracks that was created by volunteers to be as widely accessible as possible.
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Farchive.org%2Fdetails%2Ffolksoundomy_gamesoundtracks&csrf_token=ac4c2348d71fab60b50eb5fa8e018e45eaab1130)
+
+### 🐐 [Free MP3 Download](https://free-mp3-download.net/)
+- Obtains music from Deezer so you may download it in the best possible quality such as FLAC and genuine 320kbps without a membership.
+- 🇫🇷 Hosted in: [France](https://check-host.net/ip-info?host=https%3A%2F%2Ffree-mp3-download.net%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5)
+
+### 🔗 [Hikari no Akari](https://hikarinoakari.com/)
+- Fantastic place to download Japanese music in both lossy and lossless quality, including vocaloids, pop, anime, and gaming.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fhikarinoakari.com%2F&csrf_token=ac4c2348d71fab60b50eb5fa8e018e45eaab1130)
+
+### 🔗 [KHInsider: Video Game Music](https://downloads.khinsider.com/)
+- Definitely an excellent site for MP3 and lossless downloads of console and PC game soundtracks that are otherwise quite difficult to find.
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fdownloads.khinsider.com%2F&csrf_token=ac4c2348d71fab60b50eb5fa8e018e45eaab1130)
+
+### 🔗 [Slav Art](https://slavart.gamesdrive.net/)
+- Download bot for Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL, and SoundCloud in FLAC format. May need to wait a while before a download begins.
+- 🇫🇷 Hosted in: [France](https://check-host.net/ip-info?host=https%3A%2F%2Fslavart.gamesdrive.net%2F&csrf_token=b762d5eeada699745d9a1e4f7137859cf49a86dd)
+
+### 🔗 [Sukidesuost](https://sukidesuost.info/)
+- Wonderful and trustworthy site to acquire Asian music, mostly utilizing the Mega file host.
+- 🇳🇱 Hosted in: [Netherlands](https://check-host.net/ip-info?host=https%3A%2F%2Fsukidesuost.info%2F&csrf_token=a6322c133040d4ef9e726a27d44bc95feb3fe9ee)
+
+&nbsp;
+
 ---
-[**◄◄ Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
+
+&nbsp;
+
+# 📑 2 ➜ Specialized Apps
+
+### 🔗 [deemix](https://deemix.app/)
+- deemix is a basic Deezer downloader library that allows you to download Spotify playlists as Deezer playlists.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fdeemix.app%2F&csrf_token=a6322c133040d4ef9e726a27d44bc95feb3fe9ee)
+
+### 🔗 [downloadsound.cloud](https://downloadsound.cloud/)
+- This web app project was built to present solutions for downloading SoundCloud tracks and playlists. Paste your link and enjoy your music!
+- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fdownloadsound.cloud%2F&csrf_token=77e653d3e07e90c852c3210c586daa8fa476068ce)
+
+### 🔗 [Nicotine+](https://nicotine-plus.org/)
+- A graphical client for Soulseek that is often updated with additional functionality but still adhering to the Soulseek protocol.
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fnicotine-plus.org%2F&csrf_token=a6322c133040d4ef9e726a27d44bc95feb3fe9ee)
+
+### 🔗 [OrpheusDL](https://github.com/yarrm80s/orpheusdl)
+- Python-based modular music archive solution that supports archiving from numerous providers, such as Deezer, Qobuz, and Tidal etc.
+- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2Fyarrm80s%2Forpheusdl&csrf_token=b762d5eeada699745d9a1e4f7137859cf49a86dd)
+
+### 🔗 [Qobuz-DL](https://downloadsound.cloud/)
+- Find, listen to, and download Lossless music from Qobuz. Also supports downloads of Last.fm, Spotify and Apple Music.
+- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2Fvitiko98%2Fqobuz-dl&csrf_token=77e653d3e07e90c852c3210c586daa8fa476068c)
+
+### 🔗 [SCDL](https://github.com/flyingrub/scdl)
+- A great script, which works with Windows, OS X, and Linux, can download music from SoundCloud and add an id3tag to the song.
+- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2Fflyingrub%2Fscdl&csrf_token=77e653d3e07e90c852c3210c586daa8fa476068c)
+
+### 🐐 [Soulseek](https://www.slsknet.org/news/)
+- Music Sharing Client, which links you to a P2P network used for downloading music, may offer certain specialised and difficult-to-find songs.
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.slsknet.org%2Fnews%2F&csrf_token=a6322c133040d4ef9e726a27d44bc95feb3fe9ee)
+
+### 🔗 [spotDL](https://github.com/spotDL/spotify-downloader)
+- Identifies songs from Spotify playlists on YouTube, downloads them, and adds album cover, lyrics, and metadata.
+- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2FspotDL%2Fspotify-downloader&csrf_token=b762d5eeada699745d9a1e4f7137859cf49a86dd)
+
+### 🔗 [steamrip](https://github.com/nathom/streamrip)
+- A music downloader that can be scripted that supports Qobuz, Tidal, SoundCloud, and Deezer as well as Spotify and Apple Music playlist downloads via Last.fm.
+- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2Fnathom%2Fstreamrip&csrf_token=77e653d3e07e90c852c3210c586daa8fa476068c)
+
+### 🔗 [Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+- With this tool, you may download music and movies from Tidal with metadata and choose the video resolution and audio quality.
+- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2Fyaronzz%2FTidal-Media-Downloader&csrf_token=77e653d3e07e90c852c3210c586daa8fa476068c)
+
+### 🔗 [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- May download music and videos from more than 1500 websites, such as Crunchyroll, Funimation, SoundCloud, Bandcamp, and many others.
+- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2Fyt-dlp%2Fyt-dlp&csrf_token=b762d5eeada699745d9a1e4f7137859cf49a86dd)
+
+### 🔗 [Zotify](https://gitlab.com/team-zotify/zotify)
+- A very customised Spotify music and podcast downloader. It is advised that you utilise Zotify using a burner account.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fgitlab.com%2Fteam-zotify%2Fzotify&csrf_token=b762d5eeada699745d9a1e4f7137859cf49a86dd)
+
+&nbsp;
 
 ---
+
+&nbsp;
+
+⚓ ❮ Return to **r/Piracy**
 ---
-
-# MUSIC
-
-**Use an adblocker like uBlock Origin before visiting any of the linked sites.**
-
-&nbsp;
-
-
-## ► Torrents / P2P Sites
-
-
-* [rutracker.org](http://rutracker.org/forum/index.php) [.org, .net, .nl] - General Russian public tracker with an extensive music catalog (any format). Currently the best public source of music
-
-* [nyaa.si](https://nyaa.si/) - Anime OSTs
-
-&nbsp;
-
-
-
-
-## ► Private Torrent Trackers
-
-[Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
-
-* **[Semi-Private]** [en.metal-tracker.com](https://en.metal-tracker.com/) - A very nice tracker for metal music.
-
-* [jpopsuki.eu](https://jpopsuki.eu/) - Aka JPS. Music tracker for various types of music such as Japenese, Korean, Chinese, Thai, etc
-
-* [animebytes.tv](https://animebytes.tv/) - Aka AB. Anime OSTs
-
-* [Redacted.ch](https://redacted.ch/) - Aka RED. FLAC, mp3, m4a. Best music private tracker. One of the harder trackers to maintain ratio on. 
-
-* [Orpheus.network](https://orpheus.network/) -  Aka OPS. FLAC, mp3, m4a. Second best music private tracker, after RED. Much easier ratio economy compared to RED. In addition, there is a thread where you can request any torrent available on RED, without putting a request. This provides full access to RED without the hard economy. It is highly beneficial to have accounts on both trackers.
-
-&nbsp;
-
-
-
-## ► Desktop Apps
-
-* [Soulseek](http://www.slsknet.org/news/node/1) - Desktop app that connects you to a P2P network used for downloading music (any format). Unlike bittorrent, the protocol used here is direct P2P i.e. downloading and uploading is not done with multiple users simultaneously but with a single user (like downloading a file from a website). This provides more security than public trackers as there is no swarm for copyright trolls to stay in and monitor. Though there is no quality control here, the chances of encountering low quality files is still quite low. For people wanting to share their libraries, soulseek is the easiest and fastest way.
-
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - (their own description) *yt-dlp is a youtube-dl fork based on the now inactive youtube-dlc. The main focus of this project is adding new features and patches while also keeping up to date with the original project*  
-It's advisable to use this as a last resort. The quality from youtube is bad and there is no metadata.
-
-&nbsp;
-
-
-
-
-
-
-## ► Android Apps
-
-* [Spotify and Deezer modded apps to allow full ad-less streaming available at Mobilism.](https://forum.mobilism.org/viewforum.php?f=399)
-
-* [Fildo](https://fildo.net/android/en/) - Android app for downloading and streaming music.
-
-* [Newpipe](https://newpipe.schabi.org/) - Watch and download youtube videos. Also offers ability to download from soundcloud.
-
-* [Youtube Vanced](https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - Ad-free youtube, supports background play. Modded version of the official youtube app.
-
-* [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - Youtube Music player and downloader
-
-&nbsp;
-
-
-
-
-
-
-## ► DDL Sites (Direct Downloads)
-
-* [Slavart \(on divolt\)](https://divolt.xyz/invite/TStW7rFg) -  Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL & SoundCloud Download Bot. The link takes you straight to divolt invite. There you can get direct download link by pasting the url for the supported streaming sites in the appropriate channel. Bot responds fast and download is fast [Site](https://slavart.gamesdrive.net/)
-
-* /r/MusicalBootlegs - Broadway bootlegs
-
-* [Jimmyr mp3 search](http://www.jimmyr.com/mp3_search.php) - Custom search and downloader to find mp3 files on google.
-
-* [free-mp3-download.net](https://free-mp3-download.net/) - High quality music downloads (mp3/FLAC). Uses only unintrusive banner ads.
-
-* [mp3juices.cc](https://www.mp3juices.cc/) - Searches for audio on several sources, such as YouTube and soundcloud. Allows downloading in mp3 and streaming.
-
-* [khinsider.com](https://downloads.khinsider.com/) - Mp3 streams & downloads. Video game scores/soundtracks.
-
-* [squid-board.ru](https://www.squid-board.ru/) - Video game, anime, and TV & Cinema scores/soundtracks.
-
-&nbsp;
-
-
-
-
-
-
-
-
-## ► Sheet music
-
-* [dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music from MuseScore for free.
-
-* [IMSLP - Petrucci Music Library](https://imslp.org/) - Sharing the world’s
-public domain music.
-
-&nbsp;
+💀 ❮ Return to [**Wiki**](https://www.reddit.com/r/Piracy/wiki/index/)
+---
