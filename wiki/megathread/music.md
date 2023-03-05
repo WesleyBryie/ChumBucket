@@ -61,7 +61,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 &nbsp;
 
-# 📑 2 ➜ Specialized Apps
+# 📑 2 ➜ Direct Downloads • Specialized Apps
 
 ### 🔗 [deemix](https://deemix.app/)
 - deemix is a basic Deezer downloader library that allows you to download Spotify playlists as Deezer playlists.

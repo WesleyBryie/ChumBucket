@@ -55,8 +55,8 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 
 # 📑 2 ➜ Applications & Knowledge
 
-### 📚 [Books, Comics and E-Learning](https://www.reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning/)
-- Books are a recording medium for information that often has several pages and is made up of words, images, or both. An ebook is a digital version.
+### 📚 [Books](https://www.reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning/)
+- Books, like manga, comics, and novels, are a recording medium for information that frequently includes several pages and is composed of text, images, or both.
 - [Old version backup](https://rentry.org/5g76z).
 
 ### 🪧 [General Sites](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines/) (Update in progress...)
