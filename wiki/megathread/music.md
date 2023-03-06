@@ -27,10 +27,6 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - An impressive and reliable collection of anime opening and closing themes. We offer direct links to high quality WebMs of your favorite OPs and EDs. Right click to download content.
 - 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fanimethemes.moe%2F&csrf_token=a6322c133040d4ef9e726a27d44bc95feb3fe9ee)
 
-### 🔗 [DoubleDouble](https://doubledouble.top/)
-- Free music downloads from Spotify, Soundcloud, Qobuz, Deezer, Tidal, and YouTube Music.
-- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fdoubledouble.top%2F&csrf_token=a6322c133040d4ef9e726a27d44bc95feb3fe9ee)
-
 ### 🔗 [Folksoundomy: Game Soundtracks](https://archive.org/details/folksoundomy_gamesoundtracks)
 - A selection of video game music and some anime soundtracks that was created by volunteers to be as widely accessible as possible.
 - 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Farchive.org%2Fdetails%2Ffolksoundomy_gamesoundtracks&csrf_token=ac4c2348d71fab60b50eb5fa8e018e45eaab1130)
@@ -91,17 +87,17 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - Music Sharing Client, which links you to a P2P network used for downloading music, may offer certain specialised and difficult-to-find songs.
 - 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.slsknet.org%2Fnews%2F&csrf_token=a6322c133040d4ef9e726a27d44bc95feb3fe9ee)
 
-### 🔗 [spotDL](https://github.com/spotDL/spotify-downloader)
+### 🔗 [spotDL](https://spotdl.readthedocs.io/en/latest/)
 - Identifies songs from Spotify playlists on YouTube, downloads them, and adds album cover, lyrics, and metadata.
-- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2FspotDL%2Fspotify-downloader&csrf_token=b762d5eeada699745d9a1e4f7137859cf49a86dd)
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fspotdl.readthedocs.io%2Fen%2Flatest%2F&csrf_token=b2337a9bcf8711c105fed4007809904f55a5ab99)
 
 ### 🔗 [steamrip](https://github.com/nathom/streamrip)
 - A music downloader that can be scripted that supports Qobuz, Tidal, SoundCloud, and Deezer as well as Spotify and Apple Music playlist downloads via Last.fm.
 - 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2Fnathom%2Fstreamrip&csrf_token=77e653d3e07e90c852c3210c586daa8fa476068c)
 
-### 🔗 [Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader)
+### 🔗 [Tidal-Media-Downloader](https://doc.yaronzz.com/post/tidal_dl_installation/)
 - With this tool, you may download music and movies from Tidal with metadata and choose the video resolution and audio quality.
-- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2Fyaronzz%2FTidal-Media-Downloader&csrf_token=77e653d3e07e90c852c3210c586daa8fa476068c)
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fdoc.yaronzz.com%2Fpost%2Ftidal_dl_installation%2F&csrf_token=b2337a9bcf8711c105fed4007809904f55a5ab99)
 
 ### 🔗 [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - May download music and videos from more than 1500 websites, such as Crunchyroll, Funimation, SoundCloud, Bandcamp, and many others.

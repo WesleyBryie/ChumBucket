@@ -6,12 +6,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 >**Our Megathread gives only the best choices rather than a huge selection**.
 
 ### ✔️ ➜ All links have passed the following quality control checks
-- No content gatekeeping or messages stating that users must disable their adblock in order to proceed in any manner, including sign ups (*majority of links have already failed at this point*).
-- No aggressive redirect experience (*including URL shorteners*) where visitors must clear many hurdles before finally accessing a download, stream, or worse, reach a dead end.
+- No aggressive redirect experience (*URL shorteners*) where visitors must clear many hurdles before finally accessing a download, stream, or worse, reach a dead end.
+- No content gatekeeping or messages stating that users must disable their adblock in order to proceed in any manner, including sign ups.
 - Achieves an overwhelmingly clean result with [VirusTotal](https://www.virustotal.com/gui/home/url), either with zero or a maximum of only two security vendor flags.
-- User interface is straightforward, clear, and simple to use.
 - HTTPS encryption must be used and URLs must load fairly quickly.
-- Private Trackers must enable open sign ups and not be limited to closed invites.
 
 ### 🐐 ➜ [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Highly regarded by the pirate community
 
@@ -148,7 +146,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - A massive library covering 2.6 billion phrases in 60 languages. It's also a newer version of their older site [OpenSubtitles.org](https://www.opensubtitles.org).
 - 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.opensubtitles.com&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4)
 
-### 🖊️ [SubHD](https://subhd.tv/) (ᴄʜɪɴᴇꜱᴇ)
+### 🖊️ [SubHD](https://subhd.tv/) • Chinese
 - The greatest collection focusing on Chinese subtitles, and sometimes includes the choice for a dual combination with English.
 - 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fsubhd.tv%2F&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4)
 
