@@ -21,7 +21,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 1 ➜ Direct Downloads
 
-### 🐐 [CS.RIN.RU, Steam Underground](https://cs.rin.ru/forum/) • Sign Up
+### 🐐 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Sign Up
 - The biggest forum in the world devoted to video game piracy, it is a valuable source of games with some of the most knowledgeable game pirates around.
 - 🇷🇴 Hosted in: [Romania](https://check-host.net/ip-info?host=https%3A%2F%2Fcs.rin.ru%2Fforum%2F&csrf_token=80329e0db73259cd429f139a331bc866e8562bd0)
 

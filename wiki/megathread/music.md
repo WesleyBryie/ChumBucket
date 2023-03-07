@@ -6,12 +6,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 >**Our Megathread gives only the best choices rather than a huge selection**.
 
 ### ✔️ ➜ All links have passed the following quality control checks
-- No content gatekeeping or messages stating that users must disable their adblock in order to proceed in any manner, including sign ups (*majority of links have already failed at this point*).
-- No aggressive redirect experience (*including URL shorteners*) where visitors must clear many hurdles before finally accessing a download, stream, or worse, reach a dead end.
+- No aggressive redirect experience (*URL shorteners*) where visitors must clear many hurdles before finally accessing a download, stream, or worse, reach a dead end.
+- No content gatekeeping or messages stating that users must disable their adblock in order to proceed in any manner, including sign ups.
 - Achieves an overwhelmingly clean result with [VirusTotal](https://www.virustotal.com/gui/home/url), either with zero or a maximum of only two security vendor flags.
-- User interface is straightforward, clear, and simple to use.
 - HTTPS encryption must be used and URLs must load fairly quickly.
-- Private Trackers must enable open sign ups and not be limited to closed invites.
 
 ### 🐐 ➜ [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Highly regarded by the pirate community
 
@@ -26,6 +24,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 ### 🔗 [AnimeThemes](https://animethemes.moe/)
 - An impressive and reliable collection of anime opening and closing themes. We offer direct links to high quality WebMs of your favorite OPs and EDs. Right click to download content.
 - 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fanimethemes.moe%2F&csrf_token=a6322c133040d4ef9e726a27d44bc95feb3fe9ee)
+
+### 🔗 [DoubleDouble](https://doubledouble.top/)
+- Free music downloads are available through YouTube Music, Soundcloud, Qobuz, Spotify, Deezer, and other services. This website acts as a container for the apps.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fdoubledouble.top%2F&csrf_token=b2337a9bcf8711c105fed4007809904f55a5ab99)
 
 ### 🔗 [Folksoundomy: Game Soundtracks](https://archive.org/details/folksoundomy_gamesoundtracks)
 - A selection of video game music and some anime soundtracks that was created by volunteers to be as widely accessible as possible.
