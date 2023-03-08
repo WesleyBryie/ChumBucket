@@ -49,6 +49,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 2 ➜ Streaming
 
+### ▶️ [123Movies](https://123chill.to/)
+- The best place to watch a superb assortment of movies and television shows with the most recent material and episodes continuously updated.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2F123chill.to%2F&csrf_token=dc604a062e680d6e421785c46ffae318a86adee0)
+
 ### ▶️ [HDMovieBox](https://hdmoviebox.net/)
 - Time has changed dramatically, and we now live in an era where we may watch movies online in full HD quality at any time and from any location.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fhdmoviebox.net%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5)

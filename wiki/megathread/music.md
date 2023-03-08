@@ -77,7 +77,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - Python-based modular music archive solution that supports archiving from numerous providers, such as Deezer, Qobuz, and Tidal etc.
 - 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2Fyarrm80s%2Forpheusdl&csrf_token=b762d5eeada699745d9a1e4f7137859cf49a86dd)
 
-### 🔗 [Qobuz-DL](https://downloadsound.cloud/)
+### 🔗 [Qobuz-DL](https://github.com/vitiko98/qobuz-dl)
 - Find, listen to, and download Lossless music from Qobuz. Also supports downloads of Last.fm, Spotify and Apple Music.
 - 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fgithub.com%2Fvitiko98%2Fqobuz-dl&csrf_token=77e653d3e07e90c852c3210c586daa8fa476068c)
 
