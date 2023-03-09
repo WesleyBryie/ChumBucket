@@ -59,7 +59,7 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 - Books, like manga, comics, and novels, are a recording medium for information that frequently includes several pages and is composed of text, images, or both.
 - [Old version backup](https://rentry.org/5g76z).
 
-### 🪧 [General Sites](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines/) (Update in progress...)
+### 🪧 [General Sites](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines/)
 - General Sites for torrent search engines, aggregators & DHT crawlers in order to find as many rare content as possible which has been made public.
 - [Old version backup](https://rentry.org/5vpw7).
 
@@ -67,7 +67,7 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 - Mobile, often known as smartphones, are portable computers that integrate computing and telephone functionality into a single device such as Android and iOS.
 - [Old version backup](https://rentry.org/tcntf).
 
-### ⚙️ [Software](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads/)
+### ⚙️ [Software](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads/) (Update in progress...)
 - Software is a collection of computer programmes along with supporting files and information. On the other side, the system is comprised of hardware.
 - [Old version backup](https://rentry.org/pzfwe).
 

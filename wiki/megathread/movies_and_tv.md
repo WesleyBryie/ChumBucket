@@ -53,6 +53,14 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - The best place to watch a superb assortment of movies and television shows with the most recent material and episodes continuously updated.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2F123chill.to%2F&csrf_token=dc604a062e680d6e421785c46ffae318a86adee0)
 
+### ▶️ [F2Movies](https://www6.f2movies.to/)
+- The place where the phrase "Happiness costs nothing" is true. Massive content catalogue is available to view in HD resolution with numerous subtitles for free, with no subscription.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww6.f2movies.to%2F&csrf_token=013e861c3060c8cdc261b77b45b9dd78c1e6a99d)
+
+### ▶️ [GoMovies](https://gomovies.sx/)
+- Famous movie website that allows free users to view movies and TV series in HD quality with no advertisements.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fgomovies.sx%2F&csrf_token=013e861c3060c8cdc261b77b45b9dd78c1e6a99d)
+
 ### ▶️ [HDMovieBox](https://hdmoviebox.net/)
 - Time has changed dramatically, and we now live in an era where we may watch movies online in full HD quality at any time and from any location.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fhdmoviebox.net%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5)
@@ -72,6 +80,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 ### ▶️ [LookMovie](https://lookmovie2.to/)
 - The oldest and most dependable streaming service still in operation today allowing filtering, search, and a sensible design.
 - 🇩🇪 🇳🇴 Hosted in: [Germany & Norway](https://check-host.net/ip-info?host=https%3A%2F%2Flookmovie2.to%2F&csrf_token=2b3d2bc40495b038e40c042b88129285891eaa0e)
+
+### ▶️ [MovieUniverse](https://movieuniverse.se/)
+- Free internet access to movies and television shows with a seamless experience, the system offers the best stream available throughout the web. 
+- 🇷🇴 Hosted in: [Romania](https://check-host.net/ip-info?host=https%3A%2F%2Fmovieuniverse.se%2F&csrf_token=013e861c3060c8cdc261b77b45b9dd78c1e6a99d)
 
 ### ▶️ [movie-web](https://movie-web.app/search/movie)
 - The ideal destination for your favorite movies and TV series. The algorithm intelligently picks the finest stream throughout the web, providing you with a smooth experience.

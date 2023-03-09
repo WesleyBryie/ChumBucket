@@ -1,168 +1,121 @@
----
----
-[**◄◄ Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
+![](%%general-sites%%)
+
+# 🪧 ➜ Welcome to the Megathread's **General Sites**
+This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/), which has a complete list of all categories you can visit.
+ 
+>**Our Megathread gives only the best choices rather than a huge selection**.
+
+### ✔️ ➜ All links have passed the following quality control checks
+- No aggressive redirect experience (*URL shorteners*) where visitors must clear many hurdles before finally accessing a download, stream, or worse, reach a dead end.
+- No content gatekeeping or messages stating that users must disable their adblock in order to proceed in any manner, including sign ups.
+- Achieves an overwhelmingly clean result with [VirusTotal](https://www.virustotal.com/gui/home/url), either with zero or a maximum of only two security vendor flags.
+- HTTPS encryption must be used and URLs must load fairly quickly.
+
+### 🐐 ➜ [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Highly regarded by the pirate community
+
+&nbsp;
 
 ---
+
+&nbsp;
+
+# 📑 1 ➜ Direct Downloads
+
+### 🔗 [File Pursuit](https://filepursuit.com/)
+- It is possible to search through millions of files on web servers using this incredibly sophisticated file search engine.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Ffilepursuit.com%2F&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
+
+### 🐐 [Internet Archive](https://archive.org/)
+- Millions of free books, films, programmes, songs, websites, and more are available at this nonprofit library. Furthermore runs the Wayback Machine.
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Farchive.org&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
+
+### 🔗 [Scnlog](https://scnlog.me/)
+- Generic database from The Scene including various types of media content, although with a little bit more emphasis on music.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fscnlog.me%2F&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
+
+### 🔗 [WarezBook](https://www.warezbook.org/) • Sign Up
+- Cleanly designed forum with an online source of high-quality movies, software, games, music, and funstuff, as well as a helpdesk.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.warezbook.org%2F&csrf_token=dc604a062e680d6e421785c46ffae318a86adee0)
+
+&nbsp;
+
 ---
 
+&nbsp;
 
-# GENERAL PURPOSE SITES AND SEARCH ENGINES
+# 📑 2 ➜ Torrents
 
-**Use an adblocker like uBlock Origin before visiting any of the linked sites.**
-
-⚠️ General-purpose indexers to search for any type of content. If you're looking for software, it's recommended to use the [**Software Downloads**](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads) section of the wiki instead. In regards to non-software, sites like thepiratebay/limetorrents can also have fake torrents - follow these [**preliminary measures**](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to avoid accidentally running malware.
-
-## ► **General Indexers**
-
-* [rutracker.org](https://rutracker.org/forum/index.php) [.org, .net, .nl] - Russian tracker. Has an immense catalogue for many different categories. Considered to be the most complete public tracker and is well-seeded.
-
-### 🧲 [1337x](https://1337x.to/)
+### 🐐 [1337x](https://1337x.to/)
 - Huge catalogue of torrent files for nearly every sort of entertainment media, and home to some of the most well-known repackers uploader, and crackers.
-- 🇨🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ᴄᴀɴᴀᴅᴀ](https://check-host.net/ip-info?host=https%3A%2F%2F1337x.to%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/3c011965990d2467a38d2a24cb955ec56d83b6d8eb295df23d80a68eadb3886c)
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2F1337x.to%2F&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
 
-* [torrentgalaxy.to](https://torrentgalaxy.to/)
+### 🧲 [Bitsearch](https://bitsearch.to/)
+- Advanced search engine that simply gathers torrent metadata such as file titles, file sizes, and a magnet link to provide the visitor.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fbitsearch.to%2F&csrf_token=b2337a9bcf8711c105fed4007809904f55a5ab99)
 
-* [nnmclub.to](http://nnmclub.to/) - Russian tracker and forum.
+### 🧲 [BT4G](https://bt4g.org/)
+- A torrent search engine that uses DHT and the goal is to make torrent finding and downloading easy for everyone.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fbitsearch.to%2F&csrf_token=b2337a9bcf8711c105fed4007809904f55a5ab99)
 
-### 🧲 [RARBG](https://rarbg.to/torrents.php)
+### 🧲 [BTMET](https://btmet.com/)
+- A previewable magnet search engine that enables quick starts to downloads in almost every genre of media for free use.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fbtmet.com%2F&csrf_token=b2337a9bcf8711c105fed4007809904f55a5ab99)
+
+### 🧲 [FileListing](https://filelisting.com/)
+- Powerful search engine with bots that constantly scan, index, and categorise all types of files from the whole web.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Ffilelisting.com%2F&csrf_token=b2337a9bcf8711c105fed4007809904f55a5ab99)
+
+### 🧲 [iDope](https://idope.se/)
+- An even larger collection of torrents may be searched anonymously on a website developed in honor of K.A.T. Users aren't tracked by and the IP addresses of the visitors will be removed.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fidope.se%2F&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
+
+### 🧲 [LimeTorrents](https://www.limetorrents.lol/)
+- A peer-to-peer file-sharing service that offers users a variety of content such as music files, video files, and software files.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.limetorrents.lol%2F&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
+
+### 🧲 [MagnetDL](https://www.magnetdl.com/)
+- Software, movies, games, ebooks, TV shows, and music are all distributed through magnet links by this torrent aggregator.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.magnetdl.com%2F&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
+
+### 🐐 [RARBG](https://rarbg.to/torrents.php)
 - From its inception in 2008 and still going strong, the project has served a worldwide audience with a wide range of media material.
-- 🇧🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʙᴏꜱɴɪᴀ & ʜᴇʀᴢᴇɢᴏᴠɪɴᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Frarbg.to%2Ftorrents.php&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2), 🩻 ᴠɪʀᴜꜱᴛᴏᴛᴀʟ: [ʀᴇꜱᴜʟᴛꜱ](https://www.virustotal.com/gui/url/9b0eaa3050b87f18cf4d138b7e7b98eab07aff40db8bdc7534b654f465a40248)
+- 🇧🇦 ʜᴏꜱᴛᴇᴅ ɪɴ: [ʙᴏꜱɴɪᴀ & ʜᴇʀᴢᴇɢᴏᴠɪɴᴀ](https://check-host.net/ip-info?host=https%3A%2F%2Frarbg.to%2Ftorrents.php&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
 
-* [scnlog.me](https://scnlog.me/) - General content. DDL Scene releases
+### 🧲 [Rustorka](https://rustorka.com/forum/index.php) • Russian
+- Prominent warez forum with news, discussions about many media genres, torrents, and magnet links is also available for downloading.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Frustorka.com%2Fforum%2Findex.php&csrf_token=dc604a062e680d6e421785c46ffae318a86adee0)
 
-* [rlsbb.ru](http://rlsbb.ru/) - General content. DDL Scene releases
+### 🐐 [RuTracker](https://rutracker.org/forum/index.php) • Russian
+- Has a vast library with many different genres. Is well-seeded and regarded as the most comprehensive public tracker. Sign up to use the search function.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Frutracker.org%2Fforum%2Findex.php&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
 
-* [ddlvalley.me](https://www.ddlvalley.me/) - General content. DDL P2P releases
+### 🧲 [snowfl](https://snowfl.com/)
+- This torrent aggregator distributes software, movies, games, ebooks, TV programmes, and music via other torrent search engines.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fsnowfl.com%2F&csrf_token=b2337a9bcf8711c105fed4007809904f55a5ab99)
 
-* **[DDL]** /r/opendirectories - Subreddit for sharing open directories
+### 🧲 [Torlock](https://www.torlock.com/)
+- The No Fakes Torrent Site describes itself as a quick BitTorrent search engine that displays only verified torrents. Download all media right now.
+- 🇸🇪 Hosted in: [Sweden](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.torlock.com%2F&csrf_token=b2337a9bcf8711c105fed4007809904f55a5ab99)
 
-* ⭐ [Guide on searching for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - Guide that can be very useful in finding rare content
+### 🧲 [TorrentFunk](https://www.torrentfunk.com/)
+- Is said to be a quick BitTorrent search engine. With this website, you may find any torrent for a movie, TV show, song, game, or piece of software.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.torrentfunk.com%2F&csrf_token=b2337a9bcf8711c105fed4007809904f55a5ab99)
 
-&nbsp;
+### 🧲 [TorrentGalaxy](https://torrentgalaxy.to/)
+- The emerging star of the p2p world, with a youthful, fresh, and open community where you can discover anything from movies, music, tv series, software, and games.
+- 🇷🇴 Hosted in: [Romania](https://check-host.net/ip-info?host=https%3A%2F%2Ftorrentgalaxy.to%2F&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
 
-
-
-
-
-
-## ► **Warez Boards**
-
-Discussion and release boards for multiple types of content
-
-* [ru-board.com](http://forum.ru-board.com/) - Popular Russian board
-
-* [cs.rin.ru](https://cs.rin.ru/forum/) - Popular board for sourcing PC games. Active community of developers and uploaders
-
-* [rustorka.com](http://rustorka.com/forum/index.php) - Popular Russian Warez board
-
-* [forum.snahp.it](https://forum.snahp.it/) - Private forums
-
-* [forum.dirtywarez.com](https://forum.dirtywarez.com/)
-
-* [forum.sbenny.com](https://forum.sbenny.com/)
-
-* [novanon.net](https://novanon.net/)
-
-* [adit-hd.com](https://www.adit-hd.com/)
-
-* [rapidheaven.com](https://rapidheaven.com/)
-
-* [warezheaven.com](https://www.warezheaven.com/)
-
-* [nnmclub.to](http://nnmclub.to/) - Russian warez board and torrent tracker
-
+### 🧲 [YourBittorrent](https://yourbittorrent.com/)
+- An automated website that searches Google for torrent links on the internet. The information on their files is then neatly documented and organised.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fyourbittorrent.com%2F&csrf_token=b2337a9bcf8711c105fed4007809904f55a5ab99)
 
 &nbsp;
 
-&nbsp;
-
-
-
-
-
-
-⚠️ **[Warning]** The below search engines / torrent aggregators will list as many publicly available torrents as possible, unfiltered and unfettered. This means that torrents that download malware are likely to appear in the search results. Never use these to search for software/games, but when searching for other media types, such as videos, take some [**preliminary measures**](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide) to avoid running malware.
-
-## ► DDL Search Engines
-
+---
 
 &nbsp;
 
-* [filepursuit.com](https://filepursuit.com/) - DDL search engine. In regards to video, you can paste their download URL into your video player to stream it. Search the web for files, videos, audio, eBooks & more.
-
-* [filechef.com](https://www.filechef.com/) - File search engine
-
-&nbsp;
-
-
-
-
-
-
-
-## ► Torrent Aggregators
-
-These are sites that index torrents from a predefined list of torrent sites
-
-* [torlock.com](https://www.torlock.com/) - Aggregates torrents from various popular sites and lists them into categories
-
-* [idope.se](https://idope.se/) - Torrent aggregator with file category filters
-
-* [magnetdl.com](https://www.magnetdl.com/) - Torrent aggregator
-
-* [filelisting.com](https://filelisting.com/) - Torrent aggregator
-
-* [torrentfunk.com](https://www.torrentfunk.com/)
-
-* [snowfl.com](https://snowfl.com/) - Torrent aggregator
-
-* [torrentus.to](https://torrentus.to/) - Torrent aggregator
-
-* [limetorrents.cc](https://www.limetorrents.cc/)
-
-* [veoble.com](http://veoble.com/torrent/) - Displays search results from several torrent sites
-
-&nbsp;
-
-
-
-
-
-
-## ► **DHT Crawlers**
-
-These torrent search engines/DHT crawlers are the most powerful torrent search tools that can be used to search within as many publicly listed torrents as possible to find rare content that may not be available in the above trackers/indexers.
-
-* [bitsearch.to](https://bitsearch.to/) - DHT torrent search engine with file category filters. Successor to Solid Torrents. [Original Thread.
-](https://www.reddit.com/r/Piracy/comments/ovwrwg/new_torrent_search_engine_in_town_bitsearchto/)
-
-* [btdig.com](https://btdig.com/) - DHT torrent search engine
-
-* [bt4g.org](https://bt4g.org/) - DHT torrent search engine with file category filters
-
-* [btdb.eu](https://btdb.eu/) - DHT torrent search engine. [Original Thread.](https://www.reddit.com/r/trackers/comments/eaqnr5/btdb_bittorrent_database_looking_for_feedback/)
-
-* [btmet.com](https://btmet.com/) - DHT torrent search engine
-
-* [Magnetico](https://github.com/boramalper/magnetico) - Self-hosted DHT search engine
-
-&nbsp;
-
-
-
-
-
-
-### ► **General Private Trackers**
-
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
-
-* [TorrentLeech](https://www.torrentleech.org/) - One of the largest general private trackers
-
-* [alpharatio.cc](https://alpharatio.cc/) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
-
-* [Filelist](https://filelist.io/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
-
-* [IPTorrents](http://iptorrents.com/) - The largest general private tracker
-
-&nbsp;
+⚓ ❮ Return to **r/Piracy**
+---
+💀 ❮ Return to [**Wiki**](https://www.reddit.com/r/Piracy/wiki/index/)
+---
