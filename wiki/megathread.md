@@ -24,10 +24,14 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 
 &nbsp;
 
-# 📑 1 ➜ Entertainment
+# 📑 1 ➜ Greatest Treasures
 
 ### ⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/)
 - Anime is often used to describe a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
+
+### 📚 [Books](https://www.reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning/)
+- Books, like manga, comics, and novels, are a recording medium for information that frequently includes several pages and is composed of text, images, or both.
+- [Old version backup](https://rentry.org/5g76z).
 
 ### 🕹️ [Emulators & ROMs](https://www.reddit.com/r/Piracy/wiki/megathread/emulators_and_roms/)
 - Emulators are small programmes that simulate the actions of certain gaming consoles, whereas ROMs are digital copies of video games extracted from a cartridge or disc.
@@ -35,29 +39,6 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 ### 🎮 [Games](https://www.reddit.com/r/Piracy/wiki/megathread/games/)
 - Games, usually referred to as video games, require interaction with a user interface or input device, such as a controller or keyboard, to produce audiovisual feedback.
 - [Old version backup](https://rentry.org/7cznn).
-
-### 🎦 [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
-- Movies & TV are works of visual art that employ moving pictures to imitate experiences and express ideas, tales, perceptions, feelings, beauty, or ambience.
-- [Old version backup](https://rentry.org/wkirm).
-
-### 🎹 [Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
-- Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
-- [Old version backup](https://rentry.org/ko7zq).
-
-### 👟 [Sports](https://www.reddit.com/r/Piracy/wiki/megathread/sports/)
-- Sports refers to any type of physical activity or game, generally competitive, that utilises physical ability and skills while entertaining players and spectators.
-
-&nbsp;
-
----
-
-&nbsp;
-
-# 📑 2 ➜ Applications & Knowledge
-
-### 📚 [Books](https://www.reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning/)
-- Books, like manga, comics, and novels, are a recording medium for information that frequently includes several pages and is composed of text, images, or both.
-- [Old version backup](https://rentry.org/5g76z).
 
 ### 🪧 [General Sites](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines/)
 - General Sites for torrent search engines, aggregators & DHT crawlers in order to find as many rare content as possible which has been made public.
@@ -67,9 +48,20 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 - Mobile, often known as smartphones, are portable computers that integrate computing and telephone functionality into a single device such as Android and iOS.
 - [Old version backup](https://rentry.org/tcntf).
 
+### 🎦 [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
+- Movies & TV are works of visual art that employ moving pictures to imitate experiences and express ideas, tales, perceptions, feelings, beauty, or ambience.
+- [Old version backup](https://rentry.org/wkirm).
+
+### 🎹 [Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
+- Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
+- [Old version backup](https://rentry.org/ko7zq).
+
 ### ⚙️ [Software](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads/) (Update in progress...)
 - Software is a collection of computer programmes along with supporting files and information. On the other side, the system is comprised of hardware.
 - [Old version backup](https://rentry.org/pzfwe).
+
+### 👟 [Sports](https://www.reddit.com/r/Piracy/wiki/megathread/sports/)
+- Sports refers to any type of physical activity or game, generally competitive, that utilises physical ability and skills while entertaining players and spectators.
 
 ### 🧰 [Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools/)
 - Tools for activation, userscripts, download managers, assistants, extensions and a plethroa of other supplemental software.
@@ -81,7 +73,7 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 
 &nbsp;
 
-# 📑 3 ➜ Other Compilations
+# 📑 2 ➜ Other Treasures
 
 ### 📁 [FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
 - This subreddit gathered a colossal range of links to free digital items if you're looking for an overwhelming quantity of options.

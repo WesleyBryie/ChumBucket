@@ -72,8 +72,6 @@ Try to avoid the pirate bay for software, it is filled to the brim with malware 
 
 * [torrents/private] [audionews.org](https://audionews.org/) - Audio software and plugins, as well as tutorials. ***Registration opens on the 2nd of every month (Midnight / Moscow time).***
 
-* [torrents/private] [theaudioscene.net](https://theaudioscene.net/) - Audio software and plugins. Registration is available in exchange for a small donation.
-
 * [DDL] [flsaudio.com](https://flsaudio.com) - Audio software and plugins. ***Needs a paid account for [xenupload.com](https://xenupload.com)***
 
 * [DDL] [audioz.download](https://audioz.download/) - Audio software and plugins.

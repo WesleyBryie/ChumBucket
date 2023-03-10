@@ -53,6 +53,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - The best place to watch a superb assortment of movies and television shows with the most recent material and episodes continuously updated.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2F123chill.to%2F&csrf_token=dc604a062e680d6e421785c46ffae318a86adee0)
 
+### ▶️ [BingeWatch](https://bingewatch.to/)
+- Your one stop destination. Here, you can search for and watch movies with a single click , no need to register, log in, or pay anything.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fbingewatch.to%2F&csrf_token=cd8e16b48d84c66a9556e5e0fc81a55723f5b337)
+
 ### ▶️ [F2Movies](https://www6.f2movies.to/)
 - The place where the phrase "Happiness costs nothing" is true. Massive content catalogue is available to view in HD resolution with numerous subtitles for free, with no subscription.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww6.f2movies.to%2F&csrf_token=013e861c3060c8cdc261b77b45b9dd78c1e6a99d)
@@ -64,6 +68,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 ### ▶️ [HDMovieBox](https://hdmoviebox.net/)
 - Time has changed dramatically, and we now live in an era where we may watch movies online in full HD quality at any time and from any location.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fhdmoviebox.net%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5)
+
+### ▶️ [HDToday](https://hdtoday.ru/)
+- There are hundreds of movies and tv shows accessible with multiple subtitles . All of them are available for free viewing without registration or bandwidth limitations.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fhdtoday.ru%2F&csrf_token=cd8e16b48d84c66a9556e5e0fc81a55723f5b337)
 
 ### ▶️ [HiMovies](https://www5.himovies.to/)
 - Users may find a large range of new films and web series on the website, most of them are in high definition quality.
@@ -89,9 +97,9 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - The ideal destination for your favorite movies and TV series. The algorithm intelligently picks the finest stream throughout the web, providing you with a smooth experience.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fmovie-web.app%2Fsearch%2Fmovie&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5)
 
-### ▶️ [MyFlixer](https://myflixer.pw/)
+### ▶️ [MyFlixer](https://myflixertv.to/)
 - A fantastic selection of free high-definition movies and series. New content and episodes are uploaded on an hourly basis.
-- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fmyflixer.pw%2F&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271)
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fmyflixertv.to%2F&csrf_token=cd8e16b48d84c66a9556e5e0fc81a55723f5b337)
 
 ### ▶️ [PressPlay](https://www.pressplay.top/)
 - Greatest free movie streaming service, with a large selection of movies and episodes available in high-quality streaming.
