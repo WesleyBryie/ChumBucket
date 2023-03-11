@@ -1,6 +1,6 @@
 ![](%%music%%)
 
-# 🎹 ➜ Welcome to the Megathread's **Music**
+# 🎹 ➜ Megathread's **Music**
 This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/), which has a complete list of all categories you can visit.
  
 >**Our Megathread gives only the best choices rather than a huge selection**.

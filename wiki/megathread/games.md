@@ -1,6 +1,6 @@
 ![](%%games%%)
 
-# 🎮 ➜ Welcome to the Megathread's **Games**
+# 🎮 ➜ Megathread's **Games**
 This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/), which has a complete list of all categories you can visit.
  
 >**Our Megathread gives only the best choices rather than a huge selection**.
@@ -28,6 +28,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 ### 🔗 [ElAmigos](https://elamigos.site/)
 - Every release is lossless, with no reencoding of the audio, video, or textures. A well-liked option for getting new PC games.
 - 🇷🇺 Hosted in: [Russia](https://check-host.net/ip-info?host=https%3A%2F%2Felamigos.site%2F&csrf_token=3bfab04c5dfd98f4c0de1c0fd4dee7014acaa05b)
+
+### 🔗 [Gamedie](https://gamdie.com/)
+- Great source for the newest selection of free pre-installed independent games. The terms "game" and "indie" are combined to create the name.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fgamdie.com%2F&csrf_token=cd8e16b48d84c66a9556e5e0fc81a55723f5b337)
 
 ### 🔗 [GameDrive](https://gamedrive.org/)
 - Pre-installs, CODEX, P2P Repacks, FitGirl Repacks, and direct links for game downloads are available for free over a high speed connection.
@@ -71,7 +75,19 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 &nbsp;
 
-# 📑 2 ➜ Torrents
+# 📑 2 ➜ Specialized Search Engines
+
+### 🔍 [Rezi](https://rezi.one/)
+- The quickest and largest game search engine, with a database that is updated every 24 hours, includes practically every game imaginable and will always be ad-free.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Frezi.one%2F&csrf_token=83934759463bf6f01e048eb6ee27e5fbc3bff90d)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 3 ➜ Torrents
 
 ### 🐐 [DODI Repacks](https://dodi-repacks.site/)
 - Very well-known name in the field. This repacker is considered to be one of the finest in the pirated video game sector. Many people looking for free games trust this individual.

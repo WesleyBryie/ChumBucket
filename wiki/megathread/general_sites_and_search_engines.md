@@ -1,6 +1,6 @@
 ![](%%general-sites%%)
 
-# 🪧 ➜ Welcome to the Megathread's **General Sites**
+# 🪧 ➜ Megathread's **General Sites**
 This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/), which has a complete list of all categories you can visit.
  
 >**Our Megathread gives only the best choices rather than a huge selection**.

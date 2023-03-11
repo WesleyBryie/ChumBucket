@@ -1,6 +1,6 @@
 ![](%%movies-and-tv%%)
 
-# 🎦 ➜ Welcome to the Megathread's **Movies & TV**
+# 🎦 ➜ Megathread's **Movies & TV**
 This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/), which has a complete list of all categories you can visit.
  
 >**Our Megathread gives only the best choices rather than a huge selection**.

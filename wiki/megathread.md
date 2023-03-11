@@ -1,6 +1,6 @@
 ![](%%megathread%%)
 
-# 📜 ➜ Welcome to the **Megathread**
+# 📜 ➜ **Megathread**
 The ultimate map for tracking down the highest grade loot. Because buying treasure is just not exciting enough to qualify as an expedition for a seasoned sailor. Every level of pirate, from rookie to expert, may utilise our Megathread, which is made to be easy to use and is presented beautifully.
 
 >**Our Megathread gives only the best choices rather than a huge selection**.
@@ -15,8 +15,8 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 ### ⚠️ ➜ Warning sailor!
 - Any links that are **not included in the entire Megathread** have either not been approved by the moderators or the community, or have been deleted at some point. In other words, use caution anytime you sail in uncharted waters.
 
-### 🗺️ ➜ Full backup
-- If you want to [save our Megathread for future reference](https://rentry.org/megathread) without relying on Reddit, an external backup is also accessible. Updated every few days.
+### 🗺️ ➜ **Bookmark** this full backup
+- If you want to [save our Megathread for future reference](https://rentry.org/megathread) without relying on Reddit, a complete copy is also accessible. Updated in real time alongside this version.
 
 &nbsp;
 
