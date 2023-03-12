@@ -30,8 +30,12 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Farchive.org&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
 
 ### 🔗 [Scnlog](https://scnlog.me/)
-- Generic database from The Scene including various types of media content, although with a little bit more emphasis on music.
+- Generic database including various types of media content, although with a little bit more emphasis on music.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fscnlog.me%2F&csrf_token=4de052ba6d4fac88dc1436e5d4c8b9e5ab0c2e2b)
+
+### 🔗 [SoftArchive](https://softarchive.is/)
+- A scene website recognised for new releases of software, games, music, movies, and eBooks. It was was founded in 2004 and is now administered by a global staff.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fsoftarchive.is%2F&csrf_token=c1b4162f9505e99000ed160ae0383d6d9068d2b1)
 
 ### 🔗 [WarezBook](https://www.warezbook.org/) • Sign Up
 - Cleanly designed forum with an online source of high-quality movies, software, games, music, and funstuff, as well as a helpdesk.

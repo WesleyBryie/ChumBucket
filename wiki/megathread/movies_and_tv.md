@@ -57,6 +57,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - Your one stop destination. Here, you can search for and watch movies with a single click , no need to register, log in, or pay anything.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fbingewatch.to%2F&csrf_token=cd8e16b48d84c66a9556e5e0fc81a55723f5b337)
 
+### ▶️ [Cataz](https://cataz.net/)
+- One of the greatest websites for watching your favorite movies and TV shows providing a world-class series viewing experience like no other. Start streaming now!
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fcataz.net%2F&csrf_token=c1b4162f9505e99000ed160ae0383d6d9068d2b1)
+
 ### ▶️ [F2Movies](https://www6.f2movies.to/)
 - The place where the phrase "Happiness costs nothing" is true. Massive content catalogue is available to view in HD resolution with numerous subtitles for free, with no subscription.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww6.f2movies.to%2F&csrf_token=013e861c3060c8cdc261b77b45b9dd78c1e6a99d)
@@ -84,6 +88,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 ### ▶️ [KissAsian](https://kissasian.li/)
 - Discover well-known dramas and films from Asia, including those from China, Taiwan, South Korea, and Japan.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fkissasian.sh&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271)
+
+### ▶️ [Lekulu](https://lekuluent.com/)
+- Fantastic site for watching free movies online without having to register or pay, lots of choices to select from, and you can also download them.
+- 🇬🇧 Hosted in: [United Kingdom](https://check-host.net/ip-info?host=https%3A%2F%2Fmovieuniverse.se%2F&csrf_token=013e861c3060c8cdc261b77b45b9dd78c1e6a99d)
 
 ### ▶️ [LookMovie](https://lookmovie2.to/)
 - The oldest and most dependable streaming service still in operation today allowing filtering, search, and a sensible design.

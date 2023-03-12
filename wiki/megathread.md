@@ -29,11 +29,11 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 ### ⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/)
 - Anime is often used to describe a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
 
-### 📚 [Books](https://www.reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning/)
+### 📚 [Books](https://www.reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning/) (Update in progress...)
 - Books, like manga, comics, and novels, are a recording medium for information that frequently includes several pages and is composed of text, images, or both.
 - [Old version backup](https://rentry.org/5g76z).
 
-### 🕹️ [Emulators & ROMs](https://www.reddit.com/r/Piracy/wiki/megathread/emulators_and_roms/)
+### 🕹️ [Emulators & ROMs](https://www.reddit.com/r/Piracy/wiki/megathread/emulators_and_roms/) (Update in progress...)
 - Emulators are small programmes that simulate the actions of certain gaming consoles, whereas ROMs are digital copies of video games extracted from a cartridge or disc.
 
 ### 🎮 [Games](https://www.reddit.com/r/Piracy/wiki/megathread/games/)
@@ -44,7 +44,7 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 - General Sites for torrent search engines, aggregators & DHT crawlers in order to find as many rare content as possible which has been made public.
 - [Old version backup](https://rentry.org/5vpw7).
 
-### 📱 [Mobile](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos/)
+### 📱 [Mobile](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos/) (Update in progress...)
 - Mobile, often known as smartphones, are portable computers that integrate computing and telephone functionality into a single device such as Android and iOS.
 - [Old version backup](https://rentry.org/tcntf).
 
@@ -60,10 +60,10 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 - Software is a collection of computer programmes along with supporting files and information. On the other side, the system is comprised of hardware.
 - [Old version backup](https://rentry.org/pzfwe).
 
-### 👟 [Sports](https://www.reddit.com/r/Piracy/wiki/megathread/sports/)
+### 👟 [Sports](https://www.reddit.com/r/Piracy/wiki/megathread/sports/) (Update in progress...)
 - Sports refers to any type of physical activity or game, generally competitive, that utilises physical ability and skills while entertaining players and spectators.
 
-### 🧰 [Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools/)
+### 🧰 [Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools/) (Update in progress...)
 - Tools for activation, userscripts, download managers, assistants, extensions and a plethroa of other supplemental software.
 - [Old version backup](https://rentry.org/6fyps).
 
