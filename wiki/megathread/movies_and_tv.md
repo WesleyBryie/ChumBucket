@@ -33,9 +33,17 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - A convenient location to find small-file movies, TV series, and some anime. Torrenting is another option offered.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fpsa.pm%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5)
 
+### 🔗 [RapidMoviez](https://rmz.cr/)
+- The most recent films and television shows from a variety of premium hosts, but occasionally utilise ClicknUpload for its simple method to obtain the material.
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Frmz.cr%2F&csrf_token=9dff6f7c8b805e1e8413f24f8b28ca466eaa0d9b)
+
 ### 🔗 [rarefilmm](https://rarefilmm.com/)
 - Collection of vintage and rare films that has been put together over many years by the website's operator and the community.
 - 🇷🇺 Hosted in: [Russia](https://check-host.net/ip-info?host=https%3A%2F%2Frarefilmm.com%2F&csrf_token=2b3d2bc40495b038e40c042b88129285891eaa0e)
+
+### 🔗 [rinzry](https://rinzry.stream/)
+- Great option for streaming and downloading high-quality movies and television shows. But has a Google API limit on quotas for each IP address every 24 hours.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Frinzry.stream%2F&csrf_token=9dff6f7c8b805e1e8413f24f8b28ca466eaa0d9b)
 
 ### 🔗 [YourSerie](https://www.yourserie.com/)
 - Excellent resource in an effort to give movies and TV shows, particularly in regions where access to streaming services do not exist or do not operate.
@@ -49,9 +57,13 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 2 ➜ Streaming
 
-### ▶️ [123Movies](https://123chill.to/)
+### 🐐 [123Movies](https://123chill.to/)
 - The best place to watch a superb assortment of movies and television shows with the most recent material and episodes continuously updated.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2F123chill.to%2F&csrf_token=dc604a062e680d6e421785c46ffae318a86adee0)
+
+### ▶️ [BFlix](https://bflix.gg/)
+- Online movie streaming service and economical method to watch your favorite films and TV episodes. A truly secure website that is free of adverts, pop-ups, and commercials.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fbingewatch.to%2F&csrf_token=cd8e16b48d84c66a9556e5e0fc81a55723f5b337)
 
 ### ▶️ [BingeWatch](https://bingewatch.to/)
 - Your one stop destination. Here, you can search for and watch movies with a single click , no need to register, log in, or pay anything.

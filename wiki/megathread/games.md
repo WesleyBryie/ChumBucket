@@ -65,6 +65,14 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - This project is about vintage computer games. Attempting to evoke memories of a period when the sun shone brighter and the grass was greener.
 - 🇷🇺 Hosted in: [Russia](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.old-games.ru%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
+### 🔗 [Ova Games](https://www.ovagames.com/)
+- Download free PC games from a variety of sources, including Codex, GOG, and ElAmigos. With excellent file hosts, it is really simple to acquire the most recent games.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.ovagames.com%2F&csrf_token=9dff6f7c8b805e1e8413f24f8b28ca466eaa0d9b)
+
+### 🔗 [STEAMRIP](https://steamrip.com/)
+- Pre-installed games that are completely free! No content has been removed or compressed, the download method is really simple, and the source is reliable.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fsteamrip.com%2F&csrf_token=9dff6f7c8b805e1e8413f24f8b28ca466eaa0d9b)
+
 ### 🔗 [The Collection Chamber](https://collectionchamber.blogspot.com/)
 - A significant selection of classic games that have been optimised for modern Windows. It is now time for them to be released.
 - 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fcollectionchamber.blogspot.com%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)

@@ -26,6 +26,9 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 
 # 📑 1 ➜ Greatest Treasures
 
+### 🧭 [All Purpose](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)
+- All Purpose sites for torrent search engines, aggregators & DHT crawlers in order to find as many rare content as possible which has been made public.
+
 ### ⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/)
 - Anime is often used to describe a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
 
@@ -39,10 +42,6 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 ### 🎮 [Games](https://www.reddit.com/r/Piracy/wiki/megathread/games/)
 - Games, usually referred to as video games, require interaction with a user interface or input device, such as a controller or keyboard, to produce audiovisual feedback.
 - [Old version backup](https://rentry.org/7cznn).
-
-### 🪧 [General Sites](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines/)
-- General Sites for torrent search engines, aggregators & DHT crawlers in order to find as many rare content as possible which has been made public.
-- [Old version backup](https://rentry.org/5vpw7).
 
 ### 📱 [Mobile](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos/) (Update in progress...)
 - Mobile, often known as smartphones, are portable computers that integrate computing and telephone functionality into a single device such as Android and iOS.
