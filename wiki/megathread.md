@@ -1,7 +1,7 @@
 ![](%%megathread%%)
 
 # 📜 ➜ **Megathread**
-The ultimate map for tracking down the highest grade loot. Because buying treasure is just not exciting enough to qualify as an expedition for a seasoned sailor. Every level of pirate, from rookie to expert, may utilise our Megathread, which is made to be easy to use and is presented beautifully.
+The ultimate map for tracking down the highest grade loot. Because buying treasure is just not exciting enough to qualify as an expedition for a seasoned sailor. Every level of pirate, from rookie to expert, may utilise our Megathread, which is easy to use and presented beautifully.
 
 >**Our Megathread gives only the best choices rather than a huge selection**.
 
