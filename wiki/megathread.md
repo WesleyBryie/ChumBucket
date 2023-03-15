@@ -15,8 +15,9 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 ### ⚠️ ➜ Warning sailor!
 - Any links that are **not included in the entire Megathread** have either not been approved by the moderators or the community, or have been deleted at some point. In other words, use caution anytime you sail in uncharted waters.
 
-### 🗺️ ➜ **Bookmark** this full backup
+### 🗺️ ➜ **Bookmark** these full backups
 - If you want to [save our Megathread for future reference](https://rentry.org/megathread) without relying on Reddit, a complete copy is also accessible. Updated in real time alongside this version.
+- A history of the whole wiki (FAQ, Guides, and Megathread) is available on [NotABug](https://notabug.org/TheChumBucket/PiracySubreddit/).
 
 &nbsp;
 
