@@ -6,7 +6,7 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 >**Our Megathread gives only the best choices rather than a huge selection**.
 
 ### ⛵ ➜ Important gear for your journey
-- Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized settings](https://i.postimg.cc/6QjMwNYG/u-Block-Origin-optimized-settings.png) (*Blocks advertisements & malware*).
+- Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized settings](https://pic8.co/sh/ZHRIZw.png) (*Blocks advertisements & malware*).
 - Change your [DNS](https://www.privacyguides.org/advanced/dns-overview/) settings to one of these great [choices](https://www.privacyguides.org/dns/) (*Bypasses website access limitations*).
 - Use a reputable torrent client with a kill switch, such as [qBittorrent](https://www.qbittorrent.org/) (*Allows torrenting*).
 - Set up a VPN such as [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/) (*Changes IP address to hide identity*).
@@ -56,7 +56,7 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 - Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
 - [Old version backup](https://rentry.org/ko7zq).
 
-### ⚙️ [Software](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads/) (Update in progress...)
+### ⚙️ [Software](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads/)
 - Software is a collection of computer programmes along with supporting files and information. On the other side, the system is comprised of hardware.
 - [Old version backup](https://rentry.org/pzfwe).
 

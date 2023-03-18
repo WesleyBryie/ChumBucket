@@ -1,143 +1,97 @@
+![](%%software%%)
+
+# ⚙️ ➜ Megathread's **Software**
+This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/), which has a complete list of all categories you can visit.
+ 
+>**Our Megathread gives only the best choices rather than a huge selection**.
+
+### ✔️ ➜ All links have passed the following quality control checks
+- No aggressive redirect experience (*URL shorteners*) where visitors must clear many hurdles before finally accessing a download, stream, or worse, reach a dead end.
+- No content gatekeeping or messages stating that users must disable their adblock in order to proceed in any manner, including sign ups.
+- Achieves an overwhelmingly clean result with [VirusTotal](https://www.virustotal.com/gui/home/url), either with zero or a maximum of only two security vendor flags.
+- HTTPS encryption must be used and URLs must load fairly quickly.
+
+### 🐐 ➜ [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Highly regarded by the pirate community
+
+&nbsp;
+
 ---
+
+&nbsp;
+
+# 📑 1 ➜ Direct Downloads
+
+### 🔗 [Aedownload](https://aedownload.com/)
+- Hundreds of brand-new, free After Effects and Premiere Pro templates, including sound effects are available. Every item is immediately downloadable.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Faedownload.com%2F&csrf_token=ea3c3184e743e86ef87efdbe1ad0f197889054b1)
+
+### 🔗 [AudioZ](https://audioz.download/)
+- Hyper focused on music producing software such DAWs, updates of sample libraries, VST plugins, multitracks, and much more.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Faudioz.download%2F&csrf_token=9dff6f7c8b805e1e8413f24f8b28ca466eaa0d9b)
+
+### 🔗 [Cmacked](https://cmacked.com/) • MacOS
+- The greatest and most popular MacOS apps, including games, are available for free download. Updated daily, and extracted from the Mac App Store.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fcmacked.com%2F&csrf_token=e7c225d9be69d86c8f9a0a50aaa775dc73c4acc4)
+
+### 🔗 [DIAKOV](https://diakov.net/)
+- Vast selection of software. Updates every day; always the most recent version. There are several options for visitors with simple file hosts to download from.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fdiakov.net%2F&csrf_token=8a08b5faf1067e447d06faded389cee086dba7d5)
+
+### 🔗 [FileCR](https://filecr.com/)
+- Simplifying access to files for the most recent releases and by continually improving and offering a user-friendly, well-organized interface.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Ffilecr.com%2F&csrf_token=9dff6f7c8b805e1e8413f24f8b28ca466eaa0d9b)
+
+### 🔗 [Freepreset](https://freepreset.net/)
+- Website dedicated to assisting you in obtaining premium lightroom presets, luts, photoshop actions and a plethora of other design materials.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Ffilecr.com%2F&csrf_token=9dff6f7c8b805e1e8413f24f8b28ca466eaa0d9b)
+
+### 🔗 [LRepacks](https://lrepacks.net/) • Russian
+- This repacker have been creating numerous portable applications and utilities that are well-liked by users for more than ten years.
+- 🇱🇻 Hosted in: [Latvia](https://check-host.net/ip-info?host=https%3A%2F%2Flrepacks.net%2F&csrf_token=c1b4162f9505e99000ed160ae0383d6d9068d2b1)
+
+### 🔗 [Mobilism](https://forum.mobilism.org/index.php)
+- Your go-to resource for applications and books. Many people trust it and it provides access to the most recent versions of files for phones and Windows.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fforum.mobilism.org%2Findex.php&csrf_token=8a08b5faf1067e447d06faded389cee086dba7d5)
+
+### 🔗 [NMac](https://nmac.to/hub/) • MacOS
+- Lots of free apps available for MacOS without limits, or gimmicks. Simply click ahead to get your download started, very easy.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fnmac.to%2Fhub%2F&csrf_token=e7c225d9be69d86c8f9a0a50aaa775dc73c4acc4)
+
+### 🔗 [RSLOAD](https://rsload.net/) • Russian
+- From the beginning, it offers access to files for the most recent app releases and always changing and improving to keep up with the times.
+- 🇷🇺 Hosted in: [Russia](https://check-host.net/ip-info?host=https%3A%2F%2Frsload.net%2F&csrf_token=c1b4162f9505e99000ed160ae0383d6d9068d2b1)
+
+### 🔗 [Textfonts](https://textfonts.net/)
+- You may download several stunning and well-known fonts for free for design needs from including lovely scripts, expert sans serifs, and more.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fnmac.to%2Fhub%2F&csrf_token=e7c225d9be69d86c8f9a0a50aaa775dc73c4acc4)
+
+&nbsp;
+
 ---
-[**◄◄ Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
+
+&nbsp;
+
+# 📑 2 ➜ Torrents
+
+### 🧲 [FTUApps](https://ftuapps.dev/)
+- Computer maintenance software, graphic and video editing, music production, programming, and many more wonderful tools.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fftuapps.dev%2F&csrf_token=83934759463bf6f01e048eb6ee27e5fbc3bff90d)
+
+### 🐐 [m0nkrus](https://w14.monkrus.ws/) • Russian
+- Repacker for different applications that comes highly rated, reliable, and is most known for its Adobe-related goods.
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fw14.monkrus.ws%2F&csrf_token=83934759463bf6f01e048eb6ee27e5fbc3bff90d)
+
+### 🧲 [Team OS](https://www.teamos.xyz) • Sign Up
+- Internal private tracker for several release groups. This awesome site offers both torrent and direct downloads for almost every piece of software imaginable.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.teamos.xyz&csrf_token=9dff6f7c8b805e1e8413f24f8b28ca466eaa0d9b)
+
+&nbsp;
 
 ---
+
+&nbsp;
+
+⚓ ❮ Return to **r/Piracy**
 ---
-
-# SOFTWARE
-
-⚠️ **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
-
-&nbsp;
-
-
-
-
-
-## ► Software Sites
-
-Try to avoid the pirate bay for software, it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
-
-
-* [torrents] [rutracker.org](http://rutracker.org/) [.org, .net, .nl] - The best place for softwares (of all kinds). Need an account to search; signup is free
-
-* [torrents] [1337x.to](https://1337x.to/) - Well-moderated torrent site. 
-
-* [torrents] [FTUApps](https://ftuapps.dev/) - Part of the FTU network. Can get variety of softwares here
-
-* [torrents] [monkrus.ws](http://monkrus.ws/) - Highly recommended and trusted repacker for various popular software. Selection is lacking compared to other sources though
-
-* [torrents] [rarbg.to](https://rarbg.to/) - Mostly Scene releases. In regards to software, it's mostly small-time applications.
-
-* [DDL] [sanet.st](https://sanet.st) - Cracked Windows software. Don't use the usenet button, it's just an ad
-
-* [DDL] [Mobilism > Windows Warez](https://forum.mobilism.org/viewforum.php?f=1073) - Warez board
-
-* [DDL] [lrepacks.ru](https://lrepacks.ru/) - Software repacks
-
-* [DDL] [repack.me](https://repack.me/) - Software repacks
-
-* [DDL] [diakov.net](https://diakov.net/) - Repacks/Pre-cracked software downloads. Hosted on premium hosts
-
-* [DDL] [forum.ru-board.com > Warez](http://forum.ru-board.com/forum.cgi?forum=35) - Warez subforum at ru-board
-
-* [DDL] [forum.dirtywarez.com](https://forum.dirtywarez.com/) - Popular Warez forum with request subsections.
-
-* [Mac] [MacBB.org](https://macbb.org/) - Mac apps bulletin board
-
-* [Mac] [macserialjunkie.com/forum](https://www.macserialjunkie.com/forum/) (aka MSJ) - Mac apps bulletin board
-
-* [Mac] [macappdownload.com](https://www.macappdownload.com/) - aka Macbed/Appked
-
-* [Mac] [nxmac.com](https://nxmac.com/) - Popular DDL site for mac apps and games
-
-* [Mac] [Macdrop.net/CMacked](https://cmacked.com/) - Mac apps and games
-
-* [DDL] [forums.mydigitallife.net](https://forums.mydigitallife.net/) - Software release board
-
-* [DDL] [aiowares.com](https://www.aiowares.com/) - Software release board
-
-* [DDL] [nsaneforums.com](https://www.nsaneforums.com/) - Software release board
-
-
-&nbsp;
-
-
-## ► Sites focused on graphics / audio / video software
-
-* [torrents/private] [cgpeers.com](https://www.cgpeers.com) - Best place for graphics softwares and plugins (Key words - 3D/Visual Effects/Computer Graphics/Design/Computer Assisted Art). Easiest way to join is through MAM. Requires 6 months old account and 1TB upload. [Private trackers guide](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
-
-* [torrents] [vstorrent.org](https://vstorrent.org/) - Audio software and plugins.
-
-* [torrents/private] [audionews.org](https://audionews.org/) - Audio software and plugins, as well as tutorials. ***Registration opens on the 2nd of every month (Midnight / Moscow time).***
-
-* [DDL] [flsaudio.com](https://flsaudio.com) - Audio software and plugins. ***Needs a paid account for [xenupload.com](https://xenupload.com)***
-
-* [DDL] [audioz.download](https://audioz.download/) - Audio software and plugins.
-
-* [DDL/private] [cgpersia.com](https://forum.cgpersia.com/) - Graphics software and plugins. Registration is currently closed.
-
-* [DDL/private] [forum.gfxdomain.net](https://forum.gfxdomain.net/) - Graphics software and plugins, as well as tutorials.
-
-
-&nbsp;
-
-
-
-
-
-## ► Miscellaneous
-
-* [How to get fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/)
-
-* [aedownload.com](https://aedownload.com/) - graphics, video plugins, sound effects. [Full list.](https://i.imgur.com/kliyxvH.jpeg)
-
-&nbsp;
-
-
-
-
-
-
-## ► Windows & Office Genuine/Untouched Downloads
-
-Jump to the [Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools) of the megathread for Office & Windows activation tools.
-
-* [files.rg-adguard.net](https://files.rg-adguard.net/) - Web interface for Microsoft's techbench site. Windows 8.1+ / Office 2013+
-* [tb.rg-adguard.net/products.html](https://tb.rg-adguard.net/products.html) - Latest Microsoft Products Dump
-* [corenoc.de archive](https://web.archive.org/web/20180711192755/http://mirror.corenoc.de/digitalrivercontent.net/) - Torrent mirrors of Windows 7 that were available at Microsoft's DigitalRiverContent CDN
-* [Windows ISOs Pastebin](https://pastebin.com/ELUQdsvx) - Mirrors for LTSB, LTSC, and consumer edition Windows 10 ISOs. [Original post](https://forums.mydigitallife.net/threads/baidu-windows-10-all-languages-education-n-enterprise-n-pro-n-sl.64267/#post-1128431) at MyDigitalLife forums
-* [Windows ISOs at nmclub](http://nnmclub.to/forum/viewforum.php?f=504) - Popular Russian forum and torrent tracker. Torrents for LTSC and consumer edition Windows 10 ISOs
-* [abbodi1406's pastebin for Office 2019 / Office 365 C2R ISO images](https://pastebin.com/raw/PLhB7UnK) - Original [post at MyDigitalLife.](https://forums.mydigitallife.net/threads/discussion-microsoft-office-2019.75232/page-9#post-1464024)
-* [abbodi1406's pastebin for Office 2016 C2R Images ](https://pastebin.com/raw/e8JiAw6E) - Original [post at MyDigitalLife.](https://forums.mydigitallife.net/threads/retail-microsoft-office-professional-plus-2016-msdn.65408/page-26#post-1165512)
-* [Microsoft Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's tool to download Windows 10 and create USB installation media.
-* [Office images for Mac](https://macadmins.software/) - Neatly organized page for MSFT-provided downloads of Mac Office images.
-
-
-&nbsp;
-
-### 🔗 [Get Into PC](https://getintopc.com/)
-- A tonne of software to have at no cost, without waiting periods, surveys, or unpleasant surprises. Your file will be downloaded with only one click.
-- 🇺🇦 Hosted in: [Ukraine](https://check-host.net/ip-info?host=https%3A%2F%2Fgetintopc.com%2F&csrf_token=dc604a062e680d6e421785c46ffae318a86adee0)
-
-
-
-
-## ► Private Trackers
-
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
-
-* [Mac] [BrokenStones](https://brokenstones.club) - Considered to be the best private tracker for Mac apps
-
-* [Mac] [InMac](https://inmac.org/login/) - A very good Mac app tracker
-
-* [TorrentLeech](https://www.torrentleech.org/) - One of the largest general private trackers
-
-* [alpharatio.cc](https://alpharatio.cc/) - A general private tracker focused on scene releases. Inferior in content compared to other general trackers like IPT, TL, FL etc but has a very strong request section. Great for requests for which personalised trackers don't exist or aren't good enough. Can be joined through MAM and RED during AR's global invites period, keep an eye out
-
-* [Filelist](https://filelist.io/) - One of the largest general private trackers. Romanian tracker, but media content will typically include dual language audio (English and Romanian).
-
-* [IPTorrents](http://iptorrents.com/) - The largest general private tracker
-
-&nbsp;
+💀 ❮ Return to [**Wiki**](https://www.reddit.com/r/Piracy/wiki/index/)
+---
