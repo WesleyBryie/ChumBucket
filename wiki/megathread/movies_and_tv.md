@@ -134,7 +134,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fsflix.to%2F&csrf_token=77e653d3e07e90c852c3210c586daa8fa476068c)
 
 ### 🐐 [Soap2day](https://soapgate.cc/)
-- One of the finest streaming sites ever discovered by users, this remarkable service offers a tonne of free movies.
+- One of the finest streaming sites ever discovered by users, this remarkable service offers a tonne of free movies. [Here's an alternative](https://soap2dayhd.com/) that isn't associated with the official brand.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fsoapgate.cc%2F&csrf_token=cf4ffa591d962960384b04792ed795a5d223c271)
 
 ### ▶️ [uFlix](https://uflix.cc/)
