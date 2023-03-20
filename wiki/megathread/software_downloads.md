@@ -37,7 +37,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - Vast selection of software. Updates every day; always the most recent version. There are several options for visitors with simple file hosts to download from.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fdiakov.net%2F&csrf_token=8a08b5faf1067e447d06faded389cee086dba7d5)
 
-### 🔗 [FileCR](https://filecr.com/)
+### 🐐 [FileCR](https://filecr.com/)
 - Simplifying access to files for the most recent releases and by continually improving and offering a user-friendly, well-organized interface.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Ffilecr.com%2F&csrf_token=9dff6f7c8b805e1e8413f24f8b28ca466eaa0d9b)
 
@@ -76,6 +76,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 ### 🧲 [FTUApps](https://ftuapps.dev/)
 - Computer maintenance software, graphic and video editing, music production, programming, and many more wonderful tools.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fftuapps.dev%2F&csrf_token=83934759463bf6f01e048eb6ee27e5fbc3bff90d)
+
+### 🧲 [Mac Torrents](https://www.torrentmac.net/) • MacOS
+- Torrents for a variety of useful utilities, applications, games, and plugins for graphic design, video editing, and motion graphics.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.torrentmac.net%2F&csrf_token=36283e583a60763cc973c528641327d26f49b700)
 
 ### 🐐 [m0nkrus](https://w14.monkrus.ws/) • Russian
 - Repacker for different applications that comes highly rated, reliable, and is most known for its Adobe-related goods.

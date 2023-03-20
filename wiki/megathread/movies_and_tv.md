@@ -177,6 +177,8 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - Browse and download movies in superb 720p, 1080p, 2160p 4K, and 3D quality, all with the smallest file size possible.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fyts.mx%2F&csrf_token=66d460620f867a6ac4b81bccdcee5745c89f4a5a)
 
+You may also be interested in our [All Purpose](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/#wiki_.1F4D1_2_.279C_torrents) torrent site selection. These sites also offer a vast selection of Movies & TV shows among other kind of media.
+
 &nbsp;
 
 ---
@@ -186,13 +188,17 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 4 ➜ Subtitles
 
-### 🖊️ [Podnapisi](https://www.podnapisi.net/)
-- A fantastic subtitle resource with a large community of dedicated contributors.
-- 🇸🇮 Hosted in: [Slovenia](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.podnapisi.net%2F&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4)
+### 🖊️ [Addic7ed](https://www.addic7ed.com/)
+- A subtitle database for movies and TV shows with collaborative online translations by the user base into 18 different languages.
+- 🇫🇷 Hosted in: [France](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.addic7ed.com%2F&csrf_token=2065baf0a0db8ca24ee8b5cfeb1a9f0b14e46bdf)
 
 ### 🖊️ [OpenSubtitles](https://www.opensubtitles.com)
 - A massive library covering 2.6 billion phrases in 60 languages. It's also a newer version of their older site [OpenSubtitles.org](https://www.opensubtitles.org).
 - 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.opensubtitles.com&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4)
+
+### 🖊️ [Podnapisi](https://www.podnapisi.net/)
+- A fantastic subtitle resource with a large community of dedicated contributors.
+- 🇸🇮 Hosted in: [Slovenia](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.podnapisi.net%2F&csrf_token=68aaf7553eaf4200b44ebf914667c017a8365ec4)
 
 ### 🖊️ [SubHD](https://subhd.tv/) • Chinese
 - The greatest collection focusing on Chinese subtitles, and sometimes includes the choice for a dual combination with English.
