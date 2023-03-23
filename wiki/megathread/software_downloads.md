@@ -33,12 +33,12 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - The greatest and most popular MacOS apps, including games, are available for free download. Updated daily, and extracted from the Mac App Store.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fcmacked.com%2F&csrf_token=e7c225d9be69d86c8f9a0a50aaa775dc73c4acc4)
 
-### 🔗 [DIAKOV](https://diakov.net/)
+### 🔗 [DIAKOV](https://diakov.net/) • Russian
 - Vast selection of software. Updates every day; always the most recent version. There are several options for visitors with simple file hosts to download from.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fdiakov.net%2F&csrf_token=8a08b5faf1067e447d06faded389cee086dba7d5)
 
 ### 🐐 [FileCR](https://filecr.com/)
-- Simplifying access to files for the most recent releases and by continually improving and offering a user-friendly, well-organized interface.
+- Simplifying access to files for Windows, MacOS, and Android by continually improving and offering a user-friendly, well-organized interface.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Ffilecr.com%2F&csrf_token=9dff6f7c8b805e1e8413f24f8b28ca466eaa0d9b)
 
 ### 🔗 [Freepreset](https://freepreset.net/)
@@ -49,8 +49,16 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - This repacker have been creating numerous portable applications and utilities that are well-liked by users for more than ten years.
 - 🇱🇻 Hosted in: [Latvia](https://check-host.net/ip-info?host=https%3A%2F%2Flrepacks.net%2F&csrf_token=c1b4162f9505e99000ed160ae0383d6d9068d2b1)
 
+### 🔗 [MAD](https://www.macappdownload.com/) • MacOS
+- There are several MacOS apps available covering a wide variety. However, the site uses premium file hosts, which is not friendly for free users.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.macappdownload.com%2F&csrf_token=f47f6631bcedaaa5fdaaa5549f50a26af6b9fbe9)
+
 ### 🔗 [Mobilism](https://forum.mobilism.org/index.php)
 - Your go-to resource for applications and books. Many people trust it and it provides access to the most recent versions of files for phones and Windows.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fforum.mobilism.org%2Findex.php&csrf_token=8a08b5faf1067e447d06faded389cee086dba7d5)
+
+### 🔗 [M S J](https://www.macserialjunkie.com/forum/) • Sign Up • MacOS
+- Really good discussion board where members of the community discusses everything MacOS and exchange cracked software and games.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fforum.mobilism.org%2Findex.php&csrf_token=8a08b5faf1067e447d06faded389cee086dba7d5)
 
 ### 🔗 [NMac](https://nmac.to/hub/) • MacOS
