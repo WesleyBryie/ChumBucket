@@ -7,7 +7,7 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 
 ### ⛵ ➜ Important gear for your journey
 - Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized settings](https://pic8.co/sh/ZHRIZw.png) (*Blocks advertisements & malware*).
-- Change your [DNS](https://www.privacyguides.org/advanced/dns-overview/) settings to one of these great [choices](https://www.privacyguides.org/dns/) (*Bypasses website access limitations*).
+- Change your DNS settings to one of these great [choices](https://www.privacyguides.org/en/dns/) (*Bypasses website access limitations*).
 - Use a reputable torrent client with a kill switch, such as [qBittorrent](https://www.qbittorrent.org/) (*Allows torrenting*).
 - Set up a VPN such as [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/) (*Changes IP address to hide identity*).
 - Bind your torrent client to the VPN (*Only allows torrenting when VPN is active*).

@@ -21,6 +21,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 1 ➜ Direct Downloads
 
+### 🔗 [3ost](https://3ost.ru/) • Sign Up • Russian
+- Excellent lossless and lossy (*FLAC and MP3 320kbps*) soundtracks from games, movies, and cartoons are included in this often updated collection.
+- 🇷🇺 Hosted in: [Russia](https://check-host.net/ip-info?host=https%3A%2F%2F3ost.ru%2F&csrf_token=9d573622224e8f9932fe6039412b17fca0e8b818)
+
 ### 🔗 [AnimeThemes](https://animethemes.moe/)
 - An impressive and reliable collection of anime opening and closing themes. We offer direct links to high quality WebMs of your favorite OPs and EDs. Right click to download content.
 - 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Fanimethemes.moe%2F&csrf_token=a6322c133040d4ef9e726a27d44bc95feb3fe9ee)
@@ -44,6 +48,10 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 ### 🔗 [KHInsider: Video Game Music](https://downloads.khinsider.com/)
 - Definitely an excellent site for MP3 and lossless downloads of console and PC game soundtracks that are otherwise quite difficult to find.
 - 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fdownloads.khinsider.com%2F&csrf_token=ac4c2348d71fab60b50eb5fa8e018e45eaab1130)
+
+### 🔗 [Sitting on Clouds](https://www.sittingonclouds.net/)
+- A superb soundtrack collection with a heavy emphasis on video games and Japanese anime is available for download on leading file hosts in high quality MP3 and FLAC.
+- 🇳🇱 Hosted in: [Netherlands](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.sittingonclouds.net%2F&csrf_token=f47f6631bcedaaa5fdaaa5549f50a26af6b9fbe9)
 
 ### 🔗 [Slav Art](https://slavart.gamesdrive.net/)
 - Download bot for Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL, and SoundCloud in FLAC format. May need to wait a while before a download begins.
