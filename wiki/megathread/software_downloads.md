@@ -81,10 +81,6 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 # 📑 2 ➜ Torrents
 
-### 🧲 [FTUApps](https://ftuapps.dev/)
-- Computer maintenance software, graphic and video editing, music production, programming, and many more wonderful tools.
-- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fftuapps.dev%2F&csrf_token=83934759463bf6f01e048eb6ee27e5fbc3bff90d)
-
 ### 🧲 [Mac Torrents](https://www.torrentmac.net/) • MacOS
 - Torrents for a variety of useful utilities, applications, games, and plugins for graphic design, video editing, and motion graphics.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.torrentmac.net%2F&csrf_token=36283e583a60763cc973c528641327d26f49b700)

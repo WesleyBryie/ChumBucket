@@ -37,10 +37,6 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - A convenient location to find small-file movies, TV series, and some anime. Torrenting is another option offered.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fpsa.pm%2F&csrf_token=d49c96c16fc3b4bdbd33e9fc35cb301e984d24f5)
 
-### 🔗 [RapidMoviez](https://rmz.cr/)
-- The most recent films and television shows from a variety of premium hosts, but occasionally utilise ClicknUpload for its simple method to obtain the material.
-- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Frmz.cr%2F&csrf_token=9dff6f7c8b805e1e8413f24f8b28ca466eaa0d9b)
-
 ### 🔗 [rarefilmm](https://rarefilmm.com/)
 - Collection of vintage and rare films that has been put together over many years by the website's operator and the community.
 - 🇷🇺 Hosted in: [Russia](https://check-host.net/ip-info?host=https%3A%2F%2Frarefilmm.com%2F&csrf_token=2b3d2bc40495b038e40c042b88129285891eaa0e)
