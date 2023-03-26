@@ -33,12 +33,8 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - Great source for the newest selection of free pre-installed independent games. The terms "game" and "indie" are combined to create the name.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fgamdie.com%2F&csrf_token=cd8e16b48d84c66a9556e5e0fc81a55723f5b337)
 
-### 🔗 [GameDrive](https://gamedrive.org/)
-- Pre-installs, CODEX, P2P Repacks, FitGirl Repacks, and direct links for game downloads are available for free over a high speed connection.
-- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fgamedrive.org%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
-
 ### 🔗 [GamesDrive](https://gamesdrive.net/)
-- Specialising in providing repacks from emerging repackers like DODI, FitGirl, and others. (*Not to be confused with [GameDrive](https://gamedrive.org/)*).
+- Friendly forum board, specialising in providing repacks from awesome repackers like DODI, FitGirl, and others. Enjoy the games!
 - 🇳🇱 Hosted in: [Netherlands](https://check-host.net/ip-info?host=https%3A%2F%2Fgamesdrive.net%2F&csrf_token=93ade2f48968d23eece450780c4342327bfdb3c2)
 
 ### 🔗 [GLOAD](https://gload.to/) • German

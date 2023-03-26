@@ -69,6 +69,54 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 - From the beginning, it offers access to files for the most recent app releases and always changing and improving to keep up with the times.
 - 🇷🇺 Hosted in: [Russia](https://check-host.net/ip-info?host=https%3A%2F%2Frsload.net%2F&csrf_token=c1b4162f9505e99000ed160ae0383d6d9068d2b1)
 
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 2 ➜ Fonts
+
+### 🔗 [CreativeFabrica](https://www.creativefabrica.com/freebies/free-fonts/) • Sign Up
+- This selection of free fonts for commercial use will help you choose the ideal type for your upcoming project and will make designing and producing easier and more enjoyable.
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.creativefabrica.com%2Ffreebies%2Ffree-fonts%2F&csrf_token=63abcbce4221736dc0f880be30a469030706f8aa)
+
+### 🔗 [Dafont Free](https://www.dafontfree.io/)
+- Get 12,000+ of the greatest free fonts in high-quality categories including sans serif, serif, script, calligraphy, display, and more. For personal & commercial use!
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.dafontfree.io%2F&csrf_token=63abcbce4221736dc0f880be30a469030706f8aa)
+
+### 🔗 [Dfonts](https://www.dfonts.org/)
+- Awesome free font styles are available for download from a variety of sources, including Instagram, Adobe, Google, and many more.
+- 🇸🇬 Hosted in: [Singapore](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.dfonts.org%2F&csrf_token=63abcbce4221736dc0f880be30a469030706f8aa)
+
+### 🔗 [Font Squirrel](https://www.fontsquirrel.com/)
+- It is hard to find high-quality typefaces that is also licenced for commercial use, but here they've been hand-picking and presented in an easy-to-use manner.
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.fontsquirrel.com%2F&csrf_token=63abcbce4221736dc0f880be30a469030706f8aa)
+
+### 🔗 [FontBolt](https://www.fontbolt.com/)
+- Welcome to the place where you can find famous pop culture fonts. Explore the massive and continually increasing library to find the ideal one for your task.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.fontbolt.com%2F&csrf_token=63abcbce4221736dc0f880be30a469030706f8aa)
+
+### 🔗 [FontGet](https://www.fontget.com/)
+- Beautiful collection of free fonts to download for your website and projects that operate on all operating systems.
+- 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.fontget.com%2F&csrf_token=63abcbce4221736dc0f880be30a469030706f8aa)
+
+### 🔗 [FontsHub](https://fontshub.pro/)
+- Obtain fonts to create headlines, quotations, paragraphs, lists, and other text components for your website and any other design projects for Affinity, Photoshop, Figma, Sketch etc.
+- 🇳🇱 Hosted in: [Netherlands](https://check-host.net/ip-info?host=https%3A%2F%2Ffontshub.pro%2F&csrf_token=63abcbce4221736dc0f880be30a469030706f8aa)
+
+### 🔗 [Free Japanese Font](https://www.freejapanesefont.com/)
+- Here you can discover free Japanese & English combination fonts that you may download with hiragana, katakana, romaji, and kanji glyphs already included.
+- 🇲🇾 Hosted in: [Malaysia](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.freejapanesefont.com%2F&csrf_token=63abcbce4221736dc0f880be30a469030706f8aa)
+
+### 🔗 [FreeFonts1](https://www.freefonts1.com/)
+- Do you enjoy typefaces, particularly brush and calligraphy fonts, because they offer you a sense of fulfillment? Utilize them and spread the joy in your next design.
+- 🇺🇸 Hosted in: [United States](https://check-host.net/ip-info?host=https%3A%2F%2Fwww.freefonts1.com%2F&csrf_token=63abcbce4221736dc0f880be30a469030706f8aa)
+
+### 🔗 [Google Fonts](https://fonts.google.com/)
+- With great typography making the web more beautiful. It offers font families that are free and open source, as well as an interactive web directory for browsing the library.
+- 🇩🇪 Hosted in: [Germany](https://check-host.net/ip-info?host=https%3A%2F%2Ffonts.google.com%2F&csrf_token=63abcbce4221736dc0f880be30a469030706f8aa)
+
 ### 🔗 [Textfonts](https://textfonts.net/)
 - You may download several stunning and well-known fonts for free for design needs from including lovely scripts, expert sans serifs, and more.
 - 🇨🇦 Hosted in: [Canada](https://check-host.net/ip-info?host=https%3A%2F%2Fnmac.to%2Fhub%2F&csrf_token=e7c225d9be69d86c8f9a0a50aaa775dc73c4acc4)
@@ -79,7 +127,7 @@ This is a child page of the main [Megathread](https://www.reddit.com/r/Piracy/wi
 
 &nbsp;
 
-# 📑 2 ➜ Torrents
+# 📑 3 ➜ Torrents
 
 ### 🧲 [Mac Torrents](https://www.torrentmac.net/) • MacOS
 - Torrents for a variety of useful utilities, applications, games, and plugins for graphic design, video editing, and motion graphics.
