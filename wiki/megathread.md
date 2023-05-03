@@ -1,23 +1,20 @@
 ![](%%megathread%%)
 
 # 📜 ➜ **Megathread**
-The ultimate map for tracking down the highest grade loot. Because buying treasure is just not exciting enough to qualify as an expedition for a seasoned sailor. Every level of pirate, from rookie to expert, may utilise our Megathread, which is easy to use and presented beautifully.
 
->**Our Megathread gives only the best choices rather than a huge selection**.
-
-### ⛵ ➜ Important gear for your journey
+### ⛵ ➜ Not so fast sailor! Do this first
 - Use [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) with these [optimized settings](https://pic8.co/sh/ZHRIZw.png) (*Blocks advertisements & malware*).
-- Change your DNS settings to one of these great [choices](https://www.privacyguides.org/en/dns/) (*Bypasses website access limitations*).
+- Change your DNS settings to one of [these great choices](https://www.privacyguides.org/en/dns/) (*Bypasses website access limitations*).
 - Use a reputable torrent client with a kill switch, such as [qBittorrent](https://www.qbittorrent.org/) (*Allows torrenting*).
 - Set up a VPN such as [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/) (*Changes IP address to hide identity*).
 - Bind your torrent client to the VPN (*Only allows torrenting when VPN is active*).
 
-### ⚠️ ➜ Warning sailor!
-- Any links that are **not included in the entire Megathread** have either not been approved by the moderators or the community, or have been deleted at some point. In other words, use caution anytime you sail in uncharted waters.
+### 🗺️ ➜ Bookmark these full backups
+- Be sure to [save our Megathread for future reference](https://rentry.co/megathread) without relying on Reddit.
+- A history of the whole wiki (*Megathread, FAQ, Guides, and Rules*) is available on [NotABug](https://notabug.org/TheChumBucket/PiracySubreddit/).
 
-### 🗺️ ➜ **Bookmark** these full backups
-- If you want to [save our Megathread for future reference](https://rentry.org/megathread) without relying on Reddit, a complete copy is also accessible. Updated in real time alongside this version.
-- A history of the whole wiki (FAQ, Guides, and Megathread) is available on [NotABug](https://notabug.org/TheChumBucket/PiracySubreddit/).
+### ⚠️ ➜ Uncertainty
+- Any links that are **not included in the entire Megathread** have either not been approved by the moderators or the community, or have been deleted at some point. In other words, use caution anytime you sail in uncharted waters.
 
 &nbsp;
 
@@ -25,47 +22,47 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 
 &nbsp;
 
-# 📑 1 ➜ Greatest Treasures
+# 🏆 1 ➜ Greatest Treasures
 
 ### 🧭 [All Purpose](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)
-- All Purpose sites for torrent search engines, aggregators & DHT crawlers in order to find as many rare content as possible which has been made public.
+- All Purpose sites for torrent search engines, aggregators & DHT crawlers in order to find as much public content as possible.
 
 ### ⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/)
-- Anime is often used to describe a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
+- Anime is a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
 
 ### 📚 [Books](https://www.reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning/) (Update in progress...)
-- Books, like manga, comics, and novels, are a recording medium for information that frequently includes several pages and is composed of text, images, or both.
-- [Old version backup](https://rentry.org/5g76z).
+- Books, like manga, comics, and novels, are a recording medium for information that includes pages composed of text, images, or both.
+- [Old version backup](https://rentry.co/5g76z).
 
 ### 🕹️ [Emulators & ROMs](https://www.reddit.com/r/Piracy/wiki/megathread/emulators_and_roms/) (Update in progress...)
-- Emulators are small programmes that simulate the actions of certain gaming consoles, whereas ROMs are digital copies of video games extracted from a cartridge or disc.
+- Emulators simulate the actions of gaming consoles, whereas ROMs are digital copies of video games extracted from a cartridge or disc.
 
 ### 🎮 [Games](https://www.reddit.com/r/Piracy/wiki/megathread/games/)
-- Games, usually referred to as video games, require interaction with a user interface or input device, such as a controller or keyboard, to produce audiovisual feedback.
-- [Old version backup](https://rentry.org/7cznn).
+- Games require interaction with a user interface or input device, such as a controller or keyboard, to produce fun audiovisual feedback.
+- [Old version backup](https://rentry.co/7cznn).
 
 ### 📱 [Mobile](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos/) (Update in progress...)
-- Mobile, often known as smartphones, are portable computers that integrate computing and telephone functionality into a single device such as Android and iOS.
-- [Old version backup](https://rentry.org/tcntf).
+- Mobile, or smartphones, are portable devices that integrate computing and telephone functionality into a single OS such as Android or iOS.
+- [Old version backup](https://rentry.co/tcntf).
 
 ### 🎦 [Movies & TV](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv)
-- Movies & TV are works of visual art that employ moving pictures to imitate experiences and express ideas, tales, perceptions, feelings, beauty, or ambience.
-- [Old version backup](https://rentry.org/wkirm).
+- Movies & TV are works of visual art that employ moving pictures to imitate experiences, perceptions, feelings, and beauty.
+- [Old version backup](https://rentry.co/wkirm).
 
 ### 🎹 [Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
 - Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
-- [Old version backup](https://rentry.org/ko7zq).
+- [Old version backup](https://rentry.co/ko7zq).
 
 ### ⚙️ [Software](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads/)
-- Software is a collection of computer programmes along with supporting files and information. On the other side, the system is comprised of hardware.
-- [Old version backup](https://rentry.org/pzfwe).
+- Software is a collection of computer programmes along with supporting files and information geared more towards desktop computers.
+- [Old version backup](https://rentry.co/pzfwe).
 
 ### 👟 [Sports](https://www.reddit.com/r/Piracy/wiki/megathread/sports/) (Update in progress...)
-- Sports refers to any type of physical activity or game, generally competitive, that utilises physical ability and skills while entertaining players and spectators.
+- Sports refers to physical activity or game, generally competitive, that utilises one's ability and skills while entertaining spectators.
 
 ### 🧰 [Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools/) (Update in progress...)
-- Tools for activation, userscripts, download managers, assistants, extensions and a plethroa of other supplemental software.
-- [Old version backup](https://rentry.org/6fyps).
+- Tools for activation, userscripts, download managers, assistants, extensions and a plethora of other supplemental software.
+- [Old version backup](https://rentry.co/6fyps).
 
 &nbsp;
 
@@ -75,14 +72,12 @@ The ultimate map for tracking down the highest grade loot. Because buying treasu
 
 # 📑 2 ➜ Other Treasures
 
-### 📁 [FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
-- This subreddit gathered a colossal range of links to free digital items if you're looking for an overwhelming quantity of options.
-
+### 📁 [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
+### 📁 [Champagne Piracy Wiki](https://champagne.surge.sh/)
+### 📁 [Ducklink](https://ducklink.pages.dev/)
+### 📁 [FMHY](https://fmhy.pages.dev/)
+### 📁 [Piratezparty](https://github.com/SpamVerse/Piratezparty)
 ### 📁 [Ripped](https://ripped.guide/)
-- This is a collection of sites and tools that are trusted by the community.
-
-### 📁 [Shakil-Shahadat's Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)
-- This list is based on Igglybuff's excellent work, however that repository contains many outdated links, thus it has been forked to keep it up to date.
 
 &nbsp;
 

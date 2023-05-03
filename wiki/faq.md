@@ -45,8 +45,9 @@ Read through the material supplied here for bite-sized information that is easy 
 # 📑 2 ➜ Downloads, Torrents, & VPNs
 
 ### ❔ What is the difference between Direct Downloads & Torrents?
-- Direct downloads are kept on the server from which you are retrieving the material. A secure browser like [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) is all you need.
+- Direct downloads are kept on the server from which you are retrieving the material. A secure browser like [Firefox](https://mozilla.org/firefox/new/) + [uBlock Origin](https://ublockorigin.com/) is all you need.
 - Torrents are peer-to-peer file sharing systems that need seeders (*users who have previously downloaded the file*). To begin torrenting files, a separate application is required.
+- Torrenting without proper protection may get you in trouble because your IP address is visible due to the nature of the protocol. Direct downloads generally don't require additional protection.
 
 ### ❔ What exactly is a VPN and what does it do?
 - VPN is an abbreviation for **virtual private network**, which is a service that secures your internet connection and online privacy. It encrypts your data by concealing your IP address, allowing you to circumvent worldwide limitations on website access while still safeguarding your true identity.
