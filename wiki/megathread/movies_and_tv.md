@@ -19,6 +19,10 @@
 - Amazing assortment of outstanding quality movies that are offered for super quick direct download through the Mega file service.
 - [URL Safety Results](https://www.urlvoid.com/scan/mega.nz/)
 
+### 🔗 [BollyMaza](https://ww1.bollymaza.click/)
+- Download full movies in high-bitrate, high-resolution formats without having to register for free in both English and Hindi dub.
+- [URL Safety Results](https://www.urlvoid.com/scan/bollymaza.click/)
+
 ### 🔗 [butchixanh](https://butchixanh.com/)
 - Take advantage of the most recent news and downloads (*including torrents*) about Korean movies and TV series from 1990 to the present.
 - [URL Safety Results](https://www.urlvoid.com/scan/butchixanh.com)
@@ -38,10 +42,6 @@
 ### 🔗 [MkvDrama](https://mkvdrama.org/)
 - Totally enjoy a wonderful assortment of full-HD copies of Asian dramas, with English subtitles from Korea, China, Japan, and Thailand.
 - [URL Safety Results](https://www.urlvoid.com/scan/mkvdrama.org/)
-
-### 🔗 [MoviezAddiction](https://m.bloginguru.info/)
-- Download full movies in high-bitrate, high-resolution formats without having to register for free in both English and Hindi dub.
-- [URL Safety Results](https://www.urlvoid.com/scan/m.bloginguru.info/)
 
 ### 🔗 [NollyVerse](https://www.nollyverse.com/)
 - Intended to cover every movie genre, from Hollywood to Bollywood, Chinese, and Korean films, as well other kind of dramas
@@ -187,6 +187,10 @@
 - With even more wonderful features, you can watch a big variety of full HD movies and TV shows online for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/putlocker.pe/)
 
+### ▶️ [SeriesOnline](https://seriesonline.gg/)
+- Users may watch movies and TV episodes in great quality on this ad-free platform and is even superior to paid websites.
+- [URL Safety Results](https://www.urlvoid.com/scan/seriesonline.gg/)
+
 ### ▶️ [SFlix](https://sflix.to/)
 - One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.
 - [URL Safety Results](https://www.urlvoid.com/scan/sflix.to/)
@@ -211,9 +215,9 @@
 - Superb aggregator re-using freely available content from the internet, delivering movies, TV shows, animation, and asian dramas.
 - [URL Safety Results](https://www.urlvoid.com/scan/uniquestream.net/)
 
-### ▶️ [WatchSeriesHD](https://watchserieshd.live/)
+### ▶️ [WatchSeries](https://watchseries.im/) / [2](https://watchserieshd.live/)
 - Get free HD streaming of movies and TV shows online. There is no need to register or subscribe. Get rid of your boredom and stress.
-- [URL Safety Results](https://www.urlvoid.com/scan/watchserieshd.live/)
+- [URL Safety Results](https://www.urlvoid.com/scan/watchseries.im/)
 
 ### ▶️ [YesMovies](https://yesmovies.ag/)
 - You may easily search for and discover your favorite movies and TV series while finding all the details including IMDB ratings.

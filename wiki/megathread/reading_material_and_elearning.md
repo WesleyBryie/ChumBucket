@@ -1,342 +1,265 @@
----
----
-[**◄◄ Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
-
----
----
-
-# BOOKS, COMICS and E-LEARNING
-
-⚠️ **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
-
-
-Issues with calibre? Visit their help [forums](https://www.mobileread.com/forums/forumdisplay.php?f=166) or /r/calibre
-
-❗ To upload to libgen, navigate to the `/librarian` page of whatever libgen domain is online, eg. `libgen.rs/librarian`. User: `genesis` passwd: `upload`
-
-&nbsp;
-
-
-
-
-
-## ► **Textbooks / Academic books**
-
-* [libgen.rs (mirrors - .is/.st)](https://libgen.rs/) - Best site for textbooks. Provides several download options like DDL and torrent. Textbook focused. If you have any textbook or any other educational book to share, this is the place. For any book not available, make a request [here](https://forum.mhut.org/viewtopic.php?f=17&t=6399)
-
-* [libgen.fun](http://libgen.fun/) - An offshoot of the primary libgen created by the founder, bookwarrior ([Complete story](https://www.reddit.com/r/libgen/comments/lelp7y/reviving_the_libgen_community/)). Catalogue not as good as libgen.rs but it's close. Also search for books and make requests here. 
-
-* [[Private tracker](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)] [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - As good as libgen to get your requests filled. 
-
-* [sci-hub.se](https://sci-hub.se/) - Largest collection of research papers
-
-* [academictorrents.com](https://academictorrents.com/) - "Making over 65TB of research data available! We've designed a distributed system for sharing enormous datasets - for researchers, by researchers."
-
-* [zlib.freedit.eu](https://zlib.freedit.eu/) - z-lib library. Books were originally sourced from libgen and other sources
-
-* [archive.org/details/texts](https://archive.org/details/texts) - The Internet Archive's immense archive of ebooks.
-
-* [forcoder.su](https://forcoder.su/) - Focuses on programming textbooks
-
-* [mobilism.org](https://forum.mobilism.org/viewforum.php?f=106) - Large warez board that contains a request subforum
-
-&nbsp;
-
-
-
-
-
-
-
-## ► Guides and Custom Search Engines (CSEs)
-
-Guides and Search Engines dedicated to help you increase your reach in finding content
-
-* [u/NotoriousYEG's Ultimate eBook Search Engine](https://cse.google.com/cse?cx=c46414ccb6a943e39) - Scours the web for ebooks. [Original thread.](https://old.reddit.com/r/EBook_Resources/comments/k15b3z/the_ultimate_ebook_search_engine/)
-
-* [**u/Amosqu's CSE**](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers) - Scours in many sites listed above. [**Guide**](https://www.reddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) to accompany this CSE
-
-* [**r/Piracy's updated ebooks CSE**](https://cse.google.com/cse?cx=003753031376654422446:szjag5vbefo) - Removed all dead links and added new websites. See [**here**](https://web.archive.org/web/20180501165358/https://pastebin.com/aapQMv7t) for the contents of the sites it scrapes
-
-* [filechef.com](https://www.filechef.com/) - Free File Search Engine
-
-* [oceanofpdf.com](https://oceanofpdf.com/) - Free File Search Engine
-
-* [Rave eBook Search Engine](https://ravebooksearch.com/) - Creator's thread - https://www.reddit.com/r/Piracy/comments/qfj0v7/rave_ebook_search_engine_has_a_new_address/
-
-* **[GUIDE]** [Idiot-proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Guide by u/Servalpur
-
-- **[GUIDE]** [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
-
-* **[GUIDE]** [How to "rent" your textbooks for free from Amazon using DeDRM Tools & Kindle Unpack](https://www.reddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) - Guide by u/Daveid
-
-* **[GUIDE]** [How to search for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - Guide by u/ElectroXexual
-
-* **[GUIDE]** [Finding ebooks and textbooks](https://opentrackers.org/downloading-ebooks-textbooks/)
-
-&nbsp;
-
-
-
-
-
-
-
-## ► Book IRCs
-
-* irc://irc.undernet.org/bookz - Read https://encyclopediadramatica.online/Bookz for an overview on how to download books
-
-* irc://irc.irchighway.net/ebooks
-
-&nbsp;
-
-
-
-
-
-
-
-
-
-
-&nbsp;
-
-
-
-
-
-
-## ► **Audiobooks**
-
-* [audiobookbay.nl](http://audiobookbay.nl/) - #1 public torrent site for audiobooks. Shares a lot of content with MAM. To get the magnet link without creating an account, navigate to the page for a particular audiobook, copy the torrent info hash, which you'll paste into your torrent client using the following format: magnet:?xt=urn:btih:`infohash`. Eg. If the infohash is `abc123`, then the magnet link will need to be pasted into your torrent client as `magnet:?xt=urn:btih:abc123`.
-
-* [mobilism.org](http://mobilism.org/) - Warez board
-
-* [novanon.net](http://novanon.net/) - Warez board
-
-* [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible files to mp3 and other file types
-
-* [tokybook.com](https://tokybook.com/) - Audiobook streaming
-
-* [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - Biggest private tracker for audiobooks. Has a great request section. It's also a great place to contribute your own uploads
-
-&nbsp;
-
-
-
-
-
-
-## ► **Courses/Tutorials**
-
-* [FreeCourseSite \(FCS\)](https://freecoursesite.com/) - Great site for udemy courses. Rivals FTU
-
-* [coursehunter.net](https://coursehunter.net/) - Legal site. Find free tutorials online
-
-* [desirecourse.net](https://desirecourse.net/) - Download and request premium courses
-
-* [gfxdomain.net](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Computer graphics design tutorials/courses via fileshosters (some through torrents).
-
-* [git.ir](https://git.ir/) - Costs many courses/tutorials from udemy, tutsplus, lynda, etc... Available through direct download links.
-
-* [courseclub.me](https://courseclub.me/) - Download premium courses
-
-* [forcoder.su](https://forcoder.su/) - Focuses on programming textbooks
-
-* [Avaxhome](https://avxhm.se/) - E-learning material. Pair together [with this](https://www.reddit.com/r/Piracy/comments/d0rfpe/download_ebooks_on_avaxhome_for_free/) to download.
-
-* [online-courses.club](https://online-courses.club/) - Online courses, including a lot of CGPersia content
-
-See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
-
-&nbsp;
-
-
-
-
-
-
-## ► **Magazines**
-
-* [docdownloader.com](https://docdownloader.com/) - For magazines that might be available on scribd.com
-
-* [Web Archive's Magazine Rack](https://archive.org/details/magazine_rack)
-
-* /r/thetrove - Magazines for TTRPGs. Read the sticky there for more info
-
-* [libgen.fun](http://libgen.fun/)
-
-* [libgen.rs](https://libgen.rs/) - Libgen mirror
-
-* [magazinelib.com](https://magazinelib.com/)
-
-* [pdfmagazines.club](https://pdfmagazines.club/)
-
-* [mobilism.org](http://mobilism.org/)
-
-* [downmagaz.net](https://downmagaz.net/)
-
-* [ebook3000.com](http://ebook3000.com/) - Be sure to use an adblocker
-
-* [magazinesbb.com](https://magazinesbb.com/) ([endorsed here](https://www.reddit.com/r/Piracy/comments/rh5ptp/megathread_update_just_asking/hori7e2/))
-
-&nbsp;
-
-
-
-
-
-
-## ► **Comics**
-
-* [libgen.fun](http://libgen.fun/)
-
-* [libgen.rs](https://libgen.rs/) - Libgen mirror
-
-* [getcomics.info](http://getcomics.info/)
-
-* [Omnibus](https://github.com/fireshaper/Omnibus) - Download from GetComics.info easily
-
-* [readcomiconline.to](https://readcomiconline.to/)
-
-* [comicextra.com](https://www.comicextra.com/)
-
-* [xoxocomics.com](https://xoxocomics.com/)
-
-
-&nbsp;
-
-
-
-
-
-
-
-## ► **Private torrent trackers**
-
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
-
-* [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - One of the 2 biggest private tracker for ebooks/audiobooks. The focus is on the fictional ebooks side unlike libgen though making requests can do the job. Also the best place for audiobooks in numbers though overall quality lacks a little. Similar to libgen, it's also a great place to contribute
-
-* [bitspyder.net](http://bitspyder.net/) - Tracker that focuses on e-learning content.
-
-* [thegeeks.click/](https://thegeeks.click/) - Large tracker that focuses on e-learning content
-
-* [bibliotik](https://bibliotik.me/) - Best private tracker for ebooks. Also has audiobooks though MAM's selection is better. One of the best request section on the internet, so make a request for anything you can't find
-
-
-
-
-
-## ► **Manga**
-
-* **/r/animepiracy's exhaustive [wiki filled with anime streaming, manga, and light novel sites](https://piracy.moe/)**
-
-* [MangaPlus.shueisha.co.jp](https://mangaplus.shueisha.co.jp/) - Official legal site. Provides initial chapters of popular manga titles for free
-
-* [nyaa.si](https://nyaa.si/)
-
-* [MangaDex.org](https://mangadex.org/)
-
-* [mangakakalot.com](https://mangakakalot.com/)
-
-* [manga4life.com](https://manga4life.com/)
-
-* [mangahere.cc](http://www.mangahere.cc/)
-
-* [mangareader.net](https://www.mangareader.net/)
-
-* [mangafreak.net](https://mangafreak.net/)
-
-* [comix-load.in](https://comix-load.in/)
-
-* [mangainn.net](https://mangainn.net/)
-
-* [mangakomi.com](https://mangakomi.com/)
-
-* [cmreader.info](http://www.cmreader.info/)
-
-&nbsp;
-
-
-
-
-
-
-## ► **Light Novels**
-
-* [LNReader](https://github.com/LNReader/lnreader) - LNReader is a Tachiyomi-like, free and open source light novel reader for Android. 
-
-&nbsp;
-
-
-
-
-
-## ► Misc
-
-* [Hampshire College](https://www.hampshire.edu/library/links-to-free-ebook-resources) - Several links to free eBook resources
-
-* [pdfdrive.com](https://www.pdfdrive.com/) - PDF file search engine
-
-* [the-eye.eu/public/Books](https://the-eye.eu/public/Books/) - The Eye's extensive eBooks archive
-
-* [pindiy.com](https://www.pindiy.com/) - Sewing patterns
-
-* [eeff.net](http://www.eeff.net/forum.php?gid=298) - Sewing patterns
-
-&nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
-## ► French Content Sites
-
-
-* [bdmagexhumator.blogspot.com](https://bdmagexhumator.blogspot.com/) - DDL French comics
-
-* [lpebk.com](http://www.lpebk.com/) - French board. DDL comics
-
-* [scantrad.net](https://scantrad.net/) - French manga
-
-* [yggtorrent.lol](https://www6.yggtorrent.lol/) - French general content semi-private torrent tracker
-
-* [sharewood.tv](https://www.sharewood.tv/) - French general content semi-private torrent tracker
-
-* [omgtorrent.cz](https://www.omgtorrent.cz/) - Torrent French ebooks
-
-* [cpasbien.tf/torrent-category/ebook/](https://cpasbien.tf/torrent-category/ebook/) - Torrent French ebooks
-
-&nbsp;
-
-
-
-
-
-
-## ► Spanish Content Sites
-
-* [epublibre.org](https://www.epublibre.org/) - Books
-
-&nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
+![](%%books%%)
+
+# 📚 ➜ [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) / **Books**
+
+### ❕ ➜ Quick reminder
+- ✔️ All links have been reviewed and approved by moderators, but proceed with caution.
+- 👍🏻 Rather having an enormous variety, our [Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/) provides only the finest options.
+- 🐐 [GOAT](https://www.urbandictionary.com/define.php?term=goat) status = Highly regarded by the pirate community.
+
 &nbsp;
+
+---
+
+&nbsp;
+
+# 📑 1 ➜ Direct Downloads
+
+### 🔗 [Course Club](https://courseclub.me/)
+- Free online courses from CBTNuggets, Lynda, Phlearn, and other providers.
+- [URL Safety Results](https://www.urlvoid.com/scan/courseclub.me/)
+
+### 🔗 [DownMagaz](https://downmagaz.net/)
+- Users may get easily pdf magazines in practically every category for free.
+- [URL Safety Results](https://www.urlvoid.com/scan/downmagaz.net/)
+
+### 🔗 [eBooks and Texts](https://archive.org/details/texts)
+- Find almost 20 million freely accessible books and materials, totaling over 10PB!
+- [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)
+
+### 🔗 [eBookShelve](https://ebookshelve.top/)
+- The joy of reading has brought book lovers together, and now anybody can browse and download a wide variety of books in different genres.
+- To download, copy the Base64-encoded hash and decoded it with [this tool](https://www.urlvoid.com/base64-online/).
+- [URL Safety Results](https://www.urlvoid.com/scan/ebookshelve.top)
+
+### 🔗 [ForCoder](https://forcoder.su/) / [2](https://coderprog.com/) / [3](https://scanlibs.com/)
+- It focuses on IT and programming books, which are available for free download.
+- [URL Safety Results](https://www.urlvoid.com/scan/forcoder.su/)
+
+### 🔗 [FreeCourseSite](https://freecoursesite.com/)
+- Free downloads (*including torrents*) of paid courses from Udemy, including programming, marketing, and IT.
+- [URL Safety Results](https://www.urlvoid.com/scan/freecoursesite.com/)
+
+### 🔗 [GetComics](https://getcomics.org/)
+- You can download comics from DC, Marvel, Image, Dark Horse, Dynamite, IDW, Oni, Valiant, and many more publishers.
+- [URL Safety Results](https://www.urlvoid.com/scan/getcomics.org)
+
+### 🔗 [GigaCourse](https://gigacourse.com/)
+- Download Udemy's premium IT, marketing, and programming courses for free along with a torrenting option.
+- [URL Safety Results](https://www.urlvoid.com/scan/gigacourse.com/)
+
+### 🐐 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/)
+- Books on engineering and natural science are being collected by the scientific community.
+- Here is a [fun version of the main Library Genesis](https://libgen.fun/) with an emphasis on comics and manga.
+- [URL Safety Results](https://www.urlvoid.com/scan/libgen.is/)
+
+### 🔗 [Magazinelib](https://magazinelib.com/)
+- Free PDF and interactive e-magazines on a variety of subjects, including travel, cuisine, gardening, and photography.
+- [URL Safety Results](https://www.urlvoid.com/scan/magazinelib.com/)
+
+### 🔗 [OceanofPDF](https://oceanofpdf.com/)
+- Right here, you may get knowledge and information that are freely accessible to everyone.
+- [URL Safety Results](https://www.urlvoid.com/scan/oceanofpdf.com/)
+
+### 🔗 [Online Courses](https://online-courses.club/)
+- Watch videos on 3D modeling and animation, including a lot of CG Persia material.
+- [URL Safety Results](https://www.urlvoid.com/scan/online-courses.club/)
+
+### 🔗 [PDF Stop](https://pdfstop.com/)
+- An ebook store that offers many novels, short tales, and useful academic publications.
+- [URL Safety Results](https://www.urlvoid.com/scan/pdfstop.com/)
+
+### 🐐 [PDFDrive](https://pdfdrive.to/) / [2](https://www.pdfdrive.com/)
+- Almost any PDF book may be downloaded using this online platform, which welcomes both seasoned readers and newbies.
+- [URL Safety Results](https://www.urlvoid.com/scan/pdfdrive.to/)
+
+### 🔗 [PDFMagazines Club](https://pdfmagazines.club/)
+- Over 200k journals are housed in a single collection, some of which include content for adults.
+- [URL Safety Results](https://www.urlvoid.com/scan/pdfmagazines.club/)
+
+### 🔗 [Sci-Hub](https://sci-hub.se/) / [2](https://sci-hub.st/) / [3](https://sci-hub.ru/)
+- Unlimited access to all scientific knowledge by breaking down academic paywalls since 2011.
+- [URL Safety Results](https://www.urlvoid.com/scan/sci-hub.se/)
+
+### 🐐 [Z-Library](https://singlelogin.re/) • Sign Up
+- File-sharing effort for scholarly journal articles, academic texts, and general-interest books.
+- [URL Safety Results](https://www.urlvoid.com/scan/singlelogin.re/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 2 ➜ Browser Reading
+
+### 📒 [Comic Extra](https://comicextra.net/)
+- Large database of Marvel, DC, and Dark Horse comics is available online for free reading.
+- [URL Safety Results](https://www.urlvoid.com/scan/comicextra.net/)
+
+### 📒 [NovelBuddy](https://novelbuddy.com)
+- Read light novels in English that are updated daily in Japan, Korea, and China.
+- [URL Safety Results](https://www.urlvoid.com/scan/novelbuddy.com/)
+
+### 📒 [Project Gutenberg](https://www.gutenberg.org/)
+- Founded in 1971, this source has continued to offer further materials such as Kindle ebooks.
+- [URL Safety Results](https://www.urlvoid.com/scan/gutenberg.org/)
+
+### 📒 [ReadComicOnline](https://readcomiconline.li/)
+- Comic books may be read for free with quick updates every day with different reading styles.
+- [URL Safety Results](https://www.urlvoid.com/scan/readcomiconline.li/)
+
+### 📒 [Xoxocomics](https://xoxocomics.com/)
+- Website for free comic book access, often updated with excellent scans for simple navigation.
+- [URL Safety Results](https://www.urlvoid.com/scan/xoxocomics.com/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 3 ➜ Desktop Apps
+
+### 🔗 [HakuNeko](https://hakuneko.download/)
+- Cross-platform manga and anime downloader allows you to save material for offline usage from a variety of websites.
+- [URL Safety Results](https://www.urlvoid.com/scan/hakuneko.download/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 4 ➜ Manga
+
+### 🌸 [Chibi Manga](https://www.cmreader.info/)
+- Website that is precise about the series it offers and focuses on certain genres, such harem, school life, and one-shots.
+- [URL Safety Results](https://www.urlvoid.com/scan/cmreader.info/)
+
+### 🌸 [ComicK](https://comick.app/)
+- Very quick, free reader with a huge comics database including manga, manhua, and manhwa!
+- [URL Safety Results](https://www.urlvoid.com/scan/comick.app/)
+
+### 🌸 [Manga Here](https://www.mangahere.cc/)
+- Read the manga you love! There are hundreds of excellent series available for you, and the list is updated every day.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangahere.cc/)
+
+### 🌸 [MangaLife](https://manga4life.com/)
+- Huge collection for all genres is available on an ad-free manga website where readers may read thousands of manga.
+- [URL Safety Results](https://www.urlvoid.com/scan/manga4life.com/)
+
+### 🌸 [MangaBuddy](https://mangabuddy.com/)
+- One of the largest databases of manga, encompassing all subgenres and categories with a wide range of themes and topics.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangabuddy.com/)
+
+### 🌸 [MangaDex](https://mangadex.org/)
+- All content is supplied by users, scanlation groups, and publishers, that supports all languages. 
+- [URL Safety Results](https://www.urlvoid.com/scan/mangadex.org/)
+
+### 🐐 [MangaFire](https://mangafire.to/)
+- The portal offers a huge selection of manga comics for all readers and a user-friendly layout that is simple to browse.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangafire.to/)
+
+### 🌸 [MangaFreak](https://w15.mangafreak.net/)
+- Providing a big range of manga conveniently, including the choice for bulk direct downloads.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangafreak.net/)
+
+### 🌸 [MangaHub](https://mangahub.io/)
+- Founded 5 years ago, it has amassed a sizable library of manga, manhwa, and manhua.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangahub.io/)
+
+### 🌸 [MangaInn](https://mangainn.net/)
+- Every day, readers get free access to hundreds of excellent manga, manhwa, and manhua.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangainn.net/)
+
+### 🌸 [MangaKakalot](https://mangakakalot.com/)
+- Large variety of manga series are accessible, with the most recent collection open for viewers.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangakakalot.com/)
+
+### 🌸 [MangaKatana](https://mangakatana.com/)
+- Read manga online for free, updated every hour! You'll always have material.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangakatana.com/)
+
+### 🌸 [MangaKomi](https://mangakomi.io/)
+- Get the most recent updates at this site that was made for an amazing reading experience.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangakomi.io/)
+
+### 🌸 [MangaPill](https://mangapill.com/)
+- Online English manga reading is free and always of the highest quality and freshest releases.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangapill.com/)
+
+### 🌸 [Mangaread](https://www.mangaread.org/)
+- All manga is manually updated every day without relying on any automation.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangaread.org/)
+
+### 🌸 [MangaReader](https://mangareader.to/)
+- Along with a large content collection, this website offers free access to premium features that would otherwise cost money.
+- [URL Safety Results](https://www.urlvoid.com/scan/mangareader.to/)
+
+### 🌸 [Toonily](https://toonily.com/)
+- Free access to your favorite premium English-translated manhwa from top Korean publishers.
+- [URL Safety Results](https://www.urlvoid.com/scan/toonily.com/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 5 ➜ Search Engines
+
+### 🐐 [Anna's Archive](https://annas-archive.org/)
+- Library Genesis, Sci-Hub, and Z-Library are among the sites included in this resilient search engine of shadow libraries.
+- [URL Safety Results](https://www.urlvoid.com/scan/annas-archive.org/)
+
+### 🔍 [Rave Book Search](https://ravebooksearch.com/)
+- Users are helped by the search engine in finding free eBook downloads. It also allows switching to an Audiobook search function.
+- [URL Safety Results](https://www.urlvoid.com/scan/ravebooksearch.com/)
+
+### 🔍 [Recherche Ebook](https://recherche-ebook.fr/) • French UI
+- Identifies sites where you may access free ebooks done by the sophisticated search engine. 
+- [URL Safety Results](https://www.urlvoid.com/scan/recherche-ebook.fr/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 6 ➜ Streaming
+
+### ▶️ [Tokybook](https://tokybook.com/)
+- Providing a large range of audiobooks and podcasts for book lovers worldwide, helping to advance and popularize audiobook culture.
+- [URL Safety Results](https://www.urlvoid.com/scan/tokybook.com/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 7 ➜ Torrents
+
+### 🧲 [Academic Torrents](https://academictorrents.com/)
+- Huge datasets shared via a distributed system, giving researchers access to a scalable, secure, and fault-tolerant data repository.
+- [URL Safety Results](https://www.urlvoid.com/scan/academictorrents.com/)
+
+### 🐐 [AudioBook Bay](https://audiobookbay.li/) / [2](https://audiobookbay.se/) • Sign Up
+- Superb collection for audiobooks and shares a lot of content with MyAnonamouse.
+- To download without an account, copy the info hash and paste it into your torrent client. Example: `magnet:?xt=urn:btih:INFOHASH`
+- [URL Safety Results](https://www.urlvoid.com/scan/audiobookbay.li/)
+
+### 🧲 [MyAnonamouse](https://www.myanonamouse.net/) • Sign Up
+- Great private tracker for ebooks, audiobooks, from the newest blockbuster publications to those elusive gems.
+- To obtain an invite, [look at this page](https://www.myanonamouse.net/inviteapp.php) for more details.
+- [URL Safety Results](https://www.urlvoid.com/scan/myanonamouse.net/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+📜 ❮ Return to [**Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread/)
+---
