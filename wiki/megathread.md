@@ -30,7 +30,7 @@
 ### ⭐ [Anime](https://www.reddit.com/r/Piracy/wiki/megathread/anime/)
 - Anime is a type of hand-drawn, animated work created in Japan, although it can also apply to other animation, such as Donghua.
 
-### 📚 [Books](https://www.reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning/)
+### 📚 [Books](https://www.reddit.com/r/Piracy/wiki/megathread/books/)
 - Books, like manga, comics, and novels, are a recording medium for information that includes pages composed of text, images, or both.
 - [Old version backup](https://rentry.co/5g76z).
 
@@ -53,7 +53,7 @@
 - Music is the skill of organising sound to produce any combination of form, harmony, melody, rhythm, or other expressive content.
 - [Old version backup](https://rentry.co/ko7zq).
 
-### ⚙️ [Software](https://www.reddit.com/r/Piracy/wiki/megathread/software_downloads/)
+### ⚙️ [Software](https://www.reddit.com/r/Piracy/wiki/megathread/software/)
 - Software is a collection of computer programmes along with supporting files and information geared more towards desktop computers.
 - [Old version backup](https://rentry.co/pzfwe).
 
