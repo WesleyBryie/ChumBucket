@@ -99,6 +99,10 @@
 - It offers access to files for the most recent app releases and always changing and improving to keep up with the times.
 - [URL Safety Results](https://www.urlvoid.com/scan/rsload.net/)
 
+### 🐐 [SoftArchive](https://softarchive.is/) / [2](https://sanet.lc/) / [3](https://sanet.st/) / [4](https://sanet.ws/)
+- A scene website founded in 2004, recognised for new releases of software, games, music, movies, and eBooks.
+- [URL Safety Results](https://www.urlvoid.com/scan/softarchive.is/)
+
 ### 🔗 [Soft Gozar](https://www.softgozar.com/) • Persian UI
 - Updated often, with complete, unrestricted versions of just the best applications available.
 - [URL Safety Results](https://www.urlvoid.com/scan/softgozar.com/)
@@ -106,6 +110,8 @@
 ### 🔗 [YasDL](https://www.yasdl.com/) • Persian UI
 - Nice catalogue of free applications, games, software for Android, animation, utilities, and much more.
 - [URL Safety Results](https://www.urlvoid.com/scan/yasdl.com/)
+
+###
 
 &nbsp;
 
@@ -200,7 +206,7 @@
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentmac.net/)
 
 ### 🐐 [m0nkrus](https://w14.monkrus.ws/) • Russian UI
-- Repacker for different applications that comes highly rated, reliable, and is most known for its Adobe-related goods.
+- Repacker for different applications that comes highly rated, reliable, and is most known for their Adobe-related goods.
 - [URL Safety Results](https://www.urlvoid.com/scan/w14.monkrus.ws/)
 
 ### 🧲 [Team OS](https://www.teamos.xyz) • Sign Up
@@ -212,6 +218,8 @@
 ---
 
 &nbsp;
+
+- Still can't find what you're looking for? Try some of the sites from the [All Purpose section](https://www.reddit.com/r/Piracy/wiki/megathread/all_purpose/)!
 
 📜 ❮ Return to [**Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread/)
 ---
