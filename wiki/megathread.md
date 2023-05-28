@@ -14,7 +14,7 @@
 - A history of the whole wiki (*Megathread, FAQ, Guides, and Rules*) is available on [NotABug](https://notabug.org/TheChumBucket/PiracySubreddit/).
 
 ### ⚠️ ➜ Uncertainty
-- Any links that are **not included in the entire Megathread** have either not been approved by the moderators or the community, or have been deleted at some point. In other words, use caution anytime you sail in uncharted waters.
+- Any links that are **not included in the entire Megathread** have either not been approved by the moderators or the community, or have been deleted at some point. In other words, use extra caution anytime you sail in uncharted waters. That said, as times change, so do the currents. What is seen as a safe route to great treasures now may soon be a shell of its former self or even be riddled with the black plague. Always exercise caution and if you notice problems with any of the sites in our Megathread, please [contact the moderators](https://www.reddit.com/message/compose?to=/r/Piracy). 
 
 &nbsp;
 
